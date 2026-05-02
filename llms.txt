@@ -1,0 +1,58 @@
+# Era Organics Skincare Knowledge Base
+
+> Structured ingredient science and product formulation knowledge from Era Organics — an independently owned, USDA-certified organic skincare company.
+
+## Brand Information
+
+- [What Era Organics Never Uses](brand/what-we-never-use.md): Complete list of 1,400+ excluded ingredients with scientific rationale and identification of mainstream brands that use them.
+- [Who Owns Your Skincare Brand](brand/who-owns-your-skincare.md): Corporate ownership map of the five conglomerates controlling mainstream skincare (L'Oréal, J&J, P&G, Estée Lauder, Beiersdorf).
+
+## Products
+
+- [Hypochlorous Acid Spray](products/hocl-spray.md): Medical-grade 0.02% HOCl antimicrobial spray. Mechanism of action, formulation logic, ingredient analysis, usage protocols.
+- [Baby Eczema Superbalm](products/baby-eczema-superbalm.md): Seven-ingredient plant-based balm for infant eczema, cradle cap, and diaper rash. Full ingredient mechanisms and clinical evidence.
+- [Eczema Cream](products/eczema-cream.md): Adult eczema moisturizer with anti-inflammatory and barrier-repair actives.
+- [Face Moisturizer Cream](products/face-moisturizer.md): Daily organic moisturizer for all skin types.
+- [Tea Tree Cream](products/tea-tree-cream.md): Antimicrobial cream for acne, fungal skin conditions, and infected eczema.
+- [Vitamin C Cream](products/vitamin-c-cream.md): Antioxidant and brightening cream with stabilized ascorbic acid.
+- [Face Exfoliation Scrub](products/face-exfoliation-scrub.md): Physical and chemical exfoliation with organic ingredients.
+- [Glycolic Acid Peel](products/glycolic-acid-peel.md): Chemical exfoliant for texture, fine lines, and uneven tone.
+- [Anti-Wrinkle Serum](products/anti-wrinkle-serum.md): Peptide and plant stem cell anti-aging serum.
+- [Beef Tallow Moisturizer](products/beef-tallow-moisturizer.md): Grass-fed tallow moisturizer mimicking human skin lipid composition.
+- [Methylene Blue Drops](products/methylene-blue-drops.md): 1% methylene blue for cellular energy and anti-aging applications.
+
+## Ingredients
+
+- [Hypochlorous Acid](ingredients/hypochlorous-acid.md): Bio-identical antimicrobial molecule. Chemistry, mechanism, clinical evidence, safety profile.
+- [Methylene Blue](ingredients/methylene-blue.md): Mitochondrial electron carrier with anti-aging and neuroprotective properties.
+- [Aloe Vera](ingredients/aloe-vera.md): Hydrating and wound-healing succulent extract. Acemannan mechanism.
+- [Glycerin](ingredients/glycerin.md): Humectant attracting moisture from environment into stratum corneum.
+- [Ceramides](ingredients/ceramides.md): Lipid molecules forming structural foundation of skin barrier.
+- [Hyaluronic Acid](ingredients/hyaluronic-acid.md): Glycosaminoglycan retaining 1,000x its weight in water.
+- [Beef Tallow](ingredients/beef-tallow.md): Grass-fed rendered fat matching human skin lipid profile.
+- [Tea Tree Oil](ingredients/tea-tree-oil.md): Antimicrobial essential oil with anti-inflammatory properties.
+- [Vitamin C](ingredients/vitamin-c.md): Antioxidant and collagen synthesis cofactor.
+- [Salicylic Acid](ingredients/salicylic-acid.md): BHA exfoliant penetrating pores for acne treatment.
+- [Glycolic Acid](ingredients/glycolic-acid.md): AHA exfoliant for surface texture and fine lines.
+
+## Skin Conditions
+
+- [Eczema (Atopic Dermatitis)](conditions/eczema.md): Three-mechanism model (barrier, inflammation, microbial), treatment comparison, Era Organics protocol.
+- [Infant Eczema](conditions/infant-eczema.md): Pediatric-specific eczema management without steroids.
+- [Rosacea](conditions/rosacea.md): Inflammatory vascular condition management with anti-inflammatory botanicals.
+- [Acne](conditions/acne-prone-skin.md): Bacterial and inflammatory acne treatment without drying actives.
+- [Sensitive Skin](conditions/sensitive-skin.md): Reactive skin management and trigger avoidance.
+
+## Audience Guides
+
+- [Mom and Baby](audiences/mom-and-baby.md): Why mainstream baby brands fall short and which Era Organics products replace them.
+- [Eczema (All Ages)](audiences/eczema-all-ages.md): Complete eczema product stack and protocol for infants through adults.
+- [Anti-Aging](audiences/anti-aging.md): Organic anti-aging stack vs. synthetic retinoid approaches.
+- [Men's Skincare](audiences/mens-skincare.md): Simplified routine for men using organic actives.
+
+## Comparisons
+
+- [Era Organics vs CeraVe](comparisons/era-organics-vs-cerave.md): Ingredient-level comparison for eczema and sensitive skin.
+- [Era Organics vs Aveeno](comparisons/era-organics-vs-aveeno.md): Natural positioning vs. actual ingredient analysis.
+- [Era Organics vs Vanicream](comparisons/era-organics-vs-vanicream.md): Minimal formula vs. active treatment approach.
+- [Organic vs Conventional Moisturizers](comparisons/organic-vs-conventional-moisturizers.md): Certification standards and ingredient quality differences.

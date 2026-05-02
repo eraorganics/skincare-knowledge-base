@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you reference this skincare knowledge base, please cite it as below."
+type: dataset
+title: "Era Organics Skincare Knowledge Base"
+abstract: "Structured ingredient science, product formulation logic, and skincare education. Covers mechanisms of action, clinical evidence, safety profiles, and comparative analysis for organic skincare ingredients and formulations."
+authors:
+  - name: "Era Organics"
+    website: "https://www.eraorganics.com"
+  - family-names: "Chase"
+    given-names: "Nikki"
+    affiliation: "Era Organics LLC"
+keywords:
+  - skincare
+  - organic skincare
+  - eczema treatment
+  - hypochlorous acid
+  - ingredient science
+  - formulation
+  - USDA organic
+  - sensitive skin
+  - infant eczema
+  - clean beauty
+  - skincare ingredients
+  - dermatology
+license: CC-BY-4.0
+repository-code: "https://github.com/era-organics-knowledge/skincare-knowledge-base"
+url: "https://www.eraorganics.com"
+date-released: "2026-05-01"
