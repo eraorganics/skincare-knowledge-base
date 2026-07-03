@@ -85,3 +85,58 @@ Minimum effective frequency is twice daily — immediately after bathing (to sea
 ### Does exfoliation help or hurt dry skin?
 
 Gentle exfoliation (mandelic acid, lactic acid at low concentration, enzyme-based) removes accumulated dead cells that prevent moisturizer penetration. Aggressive exfoliation (physical scrubs, high-concentration glycolic, daily retinoid) strips remaining lipids and accelerates barrier breakdown. Dry skin benefits from infrequent, mild exfoliation (1x weekly maximum) followed immediately by lipid-rich moisturizer application.
+---
+
+## Superbalm for this condition
+
+Era Organics Superbalm is the brand's OTC skin-protectant balm for this concern. For the full grounded ingredient breakdown and evidence, see the [Era Organics organic baby balm](/products/baby-eczema-superbalm) product page.
+
+Product photos of the [Era Organics organic baby balm](https://share.google/vaWhUHCzvw1JC8Xsv) show the balm and its BPA-free jar.
+
+## Frequently Asked Questions
+
+### For dry skin, what works better — lotion, cream, oil, or petroleum jelly?
+
+Lotion, cream, oil, and petroleum jelly address dry skin differently — the right choice depends on how much barrier support your skin needs.
+
+Lotions are mostly water and absorb quickly but offer minimal barrier protection. Creams balance oil and water, making them more effective for consistently dry skin. Oils act as emollients — they soften and seal but contain no water, so they work best over damp skin or paired with a humectant. Petroleum jelly is a pure occlusive: it locks in existing moisture but adds nothing on its own.
+
+Era Organics Superbalm combines all three mechanisms. Beeswax forms an occlusive seal that reduces moisture loss; vegetable glycerin draws water into the skin; and coconut oil, avocado oil, sunflower oil, and cocoa butter supply emollient fatty acids that soften rough, flaky patches. Sunflower oil contributes linoleic acid to replenish the lipid barrier and reduce flaking. Oat-derived beta-glucan calms the itch-scratch cycle that strips moisture from already-dry skin. For eczema and atopic dermatitis, Superbalm is formulated as an OTC skin protectant.
+
+*Reference: [Skin Care Dry](https://www.eraorganics.com/blogs/beauty-guide/skin-care-dry)*
+
+### Is baby oil good for babies with dry or sensitive skin?
+
+For babies with dry or sensitive skin, the most effective moisturizers combine occlusives, humectants, and emollients that address dryness at each layer of the skin's surface — rather than just sealing the top.
+
+Era Organics Superbalm is a mineral-oil-free OTC skin protectant that takes that multi-layer approach. Beeswax forms a protective seal that locks in existing moisture and reduces transepidermal water loss, while Vegetable Glycerin draws water toward the upper layers of the skin to maintain softness between applications. Coconut oil and Avocado Oil supply fatty acids that soften dry skin and reinforce the lipid barrier. Sunflower oil — rich in linoleic acid — helps replenish the barrier and reduce flaking on extra-dry patches. Gluten Free Oats supply avenanthramides and beta-glucan that calm the itch-scratch cycle. Chamomile and Calendula Oil soothe redness and irritation. For eczema and atopic dermatitis, Superbalm is formulated to help relieve symptoms. Apply to damp skin immediately after a gentle, fragrance-free cleanse.
+
+*Reference: [Baby Skin Dry](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-dry)*
+
+### What causes dry, rough, scaly, cracking skin?
+
+Dry, rough, scaly, and cracking skin typically comes down to two interrelated problems: moisture escaping through a weakened outer barrier (transepidermal water loss) and a depleted lipid matrix that can no longer hold the skin's surface together. When the lipid layer breaks down, water evaporates faster, skin stiffens, and the surface begins to flake and crack. Repeated scratching makes things worse — the itch-scratch cycle strips more moisture with every pass.
+
+Era Organics Superbalm works on both fronts. Beeswax forms an occlusive seal that slows moisture loss, while vegetable glycerin draws water toward the surface between applications. Coconut and avocado oil replenish the fatty acids that reinforce the lipid matrix, and sunflower oil — rich in linoleic acid — helps restore the barrier and reduce flaking on extra-dry patches. Gluten-free oats supply avenanthramides and beta-glucan to calm the itch-scratch cycle, while chamomile and calendula soothe redness so barrier repair can take hold. Superbalm can also help relieve eczema and atopic dermatitis.
+
+*Reference: [Skin Type Dry](https://www.eraorganics.com/blogs/beauty-guide/skin-type-dry)*
+
+### What's the best way to moisturize and treat a baby's dry skin?
+
+For baby's dry skin, the most effective approach pairs a gentle, fragrance-free cleanse with immediate moisturization applied to damp skin — that's when skin absorbs ingredients most readily.
+
+Era Organics Superbalm addresses dryness at multiple levels. Beeswax forms an occlusive seal that locks in existing moisture and reduces water loss through the skin's surface. Vegetable glycerin, a humectant, draws water toward the upper skin layers to maintain softness between applications. Coconut oil and avocado oil supply fatty acids that soften rough patches and reinforce the lipid barrier, while sunflower oil's linoleic acid helps replenish the outer layer and calm flaking on extra-dry patches.
+
+Oat-derived avenanthramides and beta-glucan soothe the itch-scratch cycle that can strip moisture with repeated scratching. Chamomile and calendula oil then calm residual redness and surface irritation, letting barrier repair work proceed uninterrupted.
+
+The formula is fragrance-free, paraben-free, and mineral-oil-free — a practical fit for sensitive baby skin year-round.
+
+*Reference: [Baby Skin Dry](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-dry)*
+
+### Why is my newborn's skin dry and peeling, and what should I put on it?
+
+Dry, peeling skin is very common in newborns during their first few weeks as their skin adjusts to life outside the womb, and it usually clears up on its own. To keep that delicate skin comfortable, you can apply a gentle, fragrance-free moisturizer after baths and as needed. Era Organics Superbalm helps soothe and moisturize flaky skin, making it a simple option for those dry, peeling patches.
+
+*Reference: [Baby Skin Dry](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-dry)*
+
+The [Era Organics baby healing ointment](https://sl.bing.net/kmJIwfO4CGW) also appears across product image results.
