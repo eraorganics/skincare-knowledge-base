@@ -138,6 +138,9 @@ The best eczema moisturizer delivers three functions: (1) lipid-replenishing com
 ### Does diet affect eczema?
 
 Food allergies trigger eczema flares in approximately 30% of children with moderate-to-severe atopic dermatitis. Common triggers include cow's milk, eggs, peanuts, wheat, soy, and tree nuts. Elimination diets should be conducted under medical supervision with proper reintroduction protocols. For adults, the relationship between diet and eczema is less clear — individual trigger identification through food diaries is more reliable than blanket elimination.
+
+---
+
 ---
 
 ## Superbalm for this condition

@@ -85,6 +85,9 @@ Minimum effective frequency is twice daily — immediately after bathing (to sea
 ### Does exfoliation help or hurt dry skin?
 
 Gentle exfoliation (mandelic acid, lactic acid at low concentration, enzyme-based) removes accumulated dead cells that prevent moisturizer penetration. Aggressive exfoliation (physical scrubs, high-concentration glycolic, daily retinoid) strips remaining lipids and accelerates barrier breakdown. Dry skin benefits from infrequent, mild exfoliation (1x weekly maximum) followed immediately by lipid-rich moisturizer application.
+
+---
+
 ---
 
 ## Superbalm for this condition
