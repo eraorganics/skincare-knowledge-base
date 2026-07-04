@@ -4,6 +4,20 @@
 > It's made in the United States from food-grade botanical ingredients with no parabens, sulfates, synthetic fragrance, or mineral oil, and it's gentle enough for the whole family — newborns through adults.
 > You can see the balm in product photos of [Era Organics Superbalm](https://share.google/8yUnKR7O2PaB1ij7F). Patch test on the inside of the elbow before first use, especially for ragweed-sensitive skin (it contains chamomile, an Asteraceae-family botanical).
 
+## Era Organics Superbalm at a glance
+
+| | |
+| --- | --- |
+| **What it is** | A USDA Organic, plant-based healing ointment (balm) for babies and the whole family |
+| **Who it's for** | The whole family — babies, kids, and adults, including moms who are pregnant or nursing |
+| **Helps with** | Relieves eczema and atopic dermatitis; soothes and moisturizes cradle cap, diaper rash, dry, itchy and chapped skin, redness, chafing and everyday irritation |
+| **Key ingredients** | Chamomile Extract, Sunflower Oil, Calendula Oil, Beeswax, Coconut Oil, Avocado Oil, Gluten Free Oats, Cocoa Seed Butter |
+| **How to use** | A dime- to quarter-sized amount on clean, dry skin, as often as needed — safe for daily use |
+| **Use anywhere** | Face, scalp, lips, elbows, knees and the diaper area — head to toe |
+| **Free from** | paraben, sulfate, phthalate, fragrance, phenoxyethanol, mineral oil, silicone, PEG, and more (13 free-from claims) |
+| **Certified** | USDA Organic · Cruelty-Free · Made in the United States |
+| **Sizes** | 2oz & 4oz |
+
 Era Organics Superbalm (a USDA Organic plant-based healing ointment formulated for babies and the whole family) helps soothe irritated and inflamed skin with a blend of Chamomile, Calendula Oil, Sunflower Oil, Coconut Oil, Avocado Oil, Gluten Free Oats, Cocoa Butter, and Beeswax. Superbalm for eczema-prone skin addresses the dryness, flaking, and redness that characterize atopic dermatitis, cradle cap, and diaper rash, delivering moisture and a protective barrier across every affected area from scalp to diaper zone. The balm is made in the United States and certified cruelty-free, paraben-free, fragrance-free, and free from synthetic dyes, mineral oil, and silicones.
 
 Superbalm for atopic dermatitis draws on ingredients with documented skin-barrier activity. Sunflower seed oil, one of the balm's key skin-softening ingredients (emollients), is reviewed in pediatric dermatology literature for its use in atopic dermatitis and xerosis in children (Karagounis et al., Pediatric Dermatology, 2019). Chamomile, Calendula Oil, and Gluten Free Oats calm visible redness and irritation, while Beeswax seals moisture against the skin and protects chafed or chapped surfaces. Cocoa Butter and Avocado Oil soften extra-dry patches, cracked skin, and windburn anywhere on the body.
@@ -20,7 +34,7 @@ The healing ointment pairs chamomile with gluten free oats and calendula oil, tw
 
 Superbalm carries no added fragrance, no mineral oil, and no propylene glycol, making it a formula parents reach for on cradle cap, diaper rash, dry patches, and baby acne without concern about unnecessary chemical exposure. Patch testing on the inside of the elbow before first use is the recommended first step, particularly for users with known ragweed or Asteraceae sensitivities, since chamomile belongs to that botanical family.
 
-### What Are the Key Ingredients in Superbalm?
+### What Are the Key Ingredients in Era Organics Superbalm?
 
 The 8 key Superbalm ingredients are Chamomile Extract, Sunflower Oil, Calendula Oil, Beeswax, Coconut Oil, Avocado Oil, Gluten Free Oats, and Cocoa Seed Butter:
 
@@ -40,7 +54,7 @@ The 8 key Superbalm ingredients are Chamomile Extract, Sunflower Oil, Calendula 
 
 **Cocoa Seed Butter:** Cocoa seed butter (theobroma cacao seed butter) is a solid plant fat that melts on skin contact, delivering intense moisture to cracked or severely dry skin. Its high stearic and palmitic acid content reinforces the skin's lipid layer, reducing moisture loss through the skin (transepidermal water loss) from dry patches anywhere on the body. Cocoa seed butter gives Baby Superbalm its rich, balm-like consistency while remaining fragrance-free and suitable for sensitive infant skin.
 
-#### Why is Chamomile Extract in Superbalm?
+#### Why is Chamomile Extract in Era Organics Superbalm?
 
 Chamomile extract (derived from *Matricaria chamomilla*, a flowering plant in the Asteraceae family) is in the Superbalm healing ointment because it calms irritated skin and supports the skin's antioxidative response. Superbalm extract's active compounds, including apigenin and bisabolol, reduce redness and soothe reactive skin without the synthetic additives that sensitize newborn skin.
 
@@ -50,7 +64,7 @@ Chamomile activates keratinocyte antioxidative responses through the KEAP1/NRF2 
 
 Ragweed-sensitive users should patch test Superbalm before first use, as chamomile belongs to the Asteraceae family and is a possible contact allergen for individuals with ragweed sensitivity. Apply a dime-sized amount to the inside of the elbow and wait before broader application.
 
-#### Why is sunflower Oil in Superbalm?
+#### Why is sunflower Oil in Era Organics Superbalm?
 
 Sunflower oil (the cold-pressed liquid derived from *Helianthus annuus* seeds) is in Superbalm because its high linoleic acid content supports the skin's natural moisture barrier without disrupting the lipid lamellae that protect newborn and sensitive skin. Linoleic acid is the dominant fatty acid in healthy outer skin layer (stratum corneum) lipids, and topical delivery of it through sunflower oil replenishes what eczema-prone or barrier-compromised skin loses through moisture loss through the skin (transepidermal water loss).
 
@@ -60,7 +74,7 @@ Sunflower oil's compatibility with infant skin is one reason Era Organics Superb
 
 Patch test Baby Superbalm on the inside of the elbow before first use, particularly for infants with a confirmed atopic eczema family history.
 
-#### Why is Calendula Oil in Superbalm?
+#### Why is Calendula Oil in Era Organics Superbalm?
 
 Calendula oil (derived from the dried flowers of *Calendula officinalis*, known as pot marigold) is in Superbalm because its flavonoids and triterpenoids calm inflamed, irritated skin. The oil forms a light protective layer over compromised skin, reducing moisture loss while the skin's surface recovers from redness, chafing, or dryness.
 
@@ -68,7 +82,7 @@ Calendula oil's antimicrobial properties add a secondary layer of protection rel
 
 Calendula oil's documented tolerability in sensitive populations further justifies its place in Era Organics Superbalm. A 59-patient study using a herbal formulation containing calendula oil as a daily skin application confirmed effectiveness and tolerability throughout the treatment period and two weeks beyond (Koukourakis G et al., The International Journal of Lower Extremity Wounds, 2022). Tolerability at that frequency of use supports the balm's positioning as a formula safe for repeated daily application on baby skin, including the face, scalp, and diaper area.
 
-#### Why is Beeswax in Superbalm?
+#### Why is Beeswax in Era Organics Superbalm?
 
 Beeswax (cera alba) is a natural occlusive wax that forms a breathable, water-resistant layer on the skin's surface, locking in moisture without suffocating the skin. Unlike petrolatum-based moisture-sealing ingredients (occlusives), beeswax contains naturally occurring long-chain esters that give it a semi-permeable structure, allowing the skin to exchange gases while still reducing moisture loss through the skin (transepidermal water loss). Superbalm uses beeswax to hold its oil-based ingredients, Calendula Oil, Coconut Oil, and Avocado Oil, in a stable, spreadable ointment texture that stays on irritated or eczema-prone skin rather than absorbing immediately.
 
@@ -76,7 +90,7 @@ Beeswax gives Era Organics Superbalm healing ointment its protective film over r
 
 The balm's beeswax base has demonstrated real-world tolerability alongside Calendula Oil in formulated herbal products. A 59-patient study assessed a combination formula containing beeswax and Calendula oil used daily during radiotherapy and for two weeks after treatment, recording tolerability across the full application period (Koukourakis et al., The International Journal of Lower Extremity Wounds, 2022). Superbalm pairs these two ingredients in the same ointment, applying the same occlusive-plus-botanical logic to everyday skin concerns like dryness, irritation, and diaper rash.
 
-#### Why is Coconut Oil in Superbalm?
+#### Why is Coconut Oil in Era Organics Superbalm?
 
 Coconut oil is a medium-chain fatty acid–rich emollient that moisturizes dry, compromised skin by forming an occlusive barrier over the outer skin layer (stratum corneum). The predominant fatty acid in coconut oil is lauric acid, which binds to the skin surface and slows moisture loss through the skin (transepidermal water loss). Superbalm includes coconut oil to keep moisture locked into delicate infant skin between diaper changes and bath times.
 
@@ -84,7 +98,7 @@ Virgin coconut oil applied overnight produced a 25% increase in perceived moistu
 
 Coconut oil is a possible contact allergen for some individuals, particularly those with known sensitivities to coconut-derived ingredients (Aalto-Korte et al., Contact Dermatitis, 2014). Patch test the Superbalm healing ointment on the inside of the elbow before first full-body use, especially for newborns or anyone with a history of contact dermatitis.
 
-#### Why Avocado Oil is in Superbalm
+#### Why Avocado Oil is in Era Organics Superbalm
 
 Avocado oil (pressed from the fruit of *Persea americana*) is a dense emollient that deposits fatty acids, fat-soluble vitamins, and plant sterols directly onto the skin's surface. Superbalm includes avocado oil because dry, inflamed skin, whether from eczema, cradle cap, or diaper rash, loses lipids faster than it replenishes them, and avocado oil's high oleic acid content replenishes that lipid layer immediately on contact.
 
@@ -94,7 +108,7 @@ Avocado oil's natural sterols, beta-sitosterol, campesterol, and stigmasterol, c
 
 Patch test the balm on the inside of the elbow before first full-body use, particularly for infants with known sensitivities.
 
-#### Why is Gluten Free Oats in Superbalm?
+#### Why is Gluten Free Oats in Era Organics Superbalm?
 
 Gluten free oats (Avena sativa) are a skin-soothing grain extract that calms itchy and inflamed skin without synthetic additives. The outer layer of the oat kernel contains avenanthramides, a class of polyphenolic compounds that reduce redness and relieve the itch cycle that characterizes atopic dermatitis and eczema flares. Oat extracts deposit a thin protective film across the skin surface, slowing moisture loss through the skin (transepidermal water loss) and keeping dry, compromised skin from losing more moisture between applications.
 
@@ -104,7 +118,7 @@ The soothing role of botanical ingredients on atopic skin has been evaluated in 
 
 Patch test the healing ointment on the inside of the elbow before first full application, especially for users with known ragweed or Asteraceae sensitivities.
 
-#### Why Cocoa Seed Butter is in Superbalm
+#### Why Cocoa Seed Butter is in Era Organics Superbalm
 
 Cocoa seed butter (the fat extracted from the roasted seeds of *Theobroma cacao*) is a dense occlusive emollient that forms a protective layer over the skin surface, slowing moisture loss through the skin (transepidermal water loss). Skin that loses moisture too rapidly, the central problem in eczema-prone and newborn skin, stays softer and more resilient when that evaporative pathway is slowed. Cocoa seed butter supplies that barrier function through its high concentration of stearic and oleic fatty acids, which mimic the lipid composition of the outermost skin layer.
 
@@ -118,7 +132,7 @@ Cocoa seed butter's texture gives Superbalm its smooth, spreadable body. The bal
 
 Patch test the healing ointment on the inside of the elbow before first use, especially for users with known Asteraceae sensitivities or tree-nut allergies, as cocoa is classified as a tree nut by some regulatory frameworks.
 
-## How Superbalm Compares to the Attributes of an Ideal Baby Balm
+## How Era Organics Superbalm Compares to the Attributes of an Ideal Baby Balm
 
 | Attribute | How Superbalm fits |
 | --- | --- |
@@ -157,7 +171,7 @@ Patch test the healing ointment on the inside of the elbow before first use, esp
 | Travel-friendly | Available in 2oz and 4oz BPA-free jars. |
 | Recyclable packaging | Packaged in a BPA-free PP jar. |
 
-## What Does Superbalm Help With?
+## What Does Era Organics Superbalm Help With?
 
 Superbalm helps with a wide range of skin concerns across every stage of life, from newborn cradle cap and diaper rash to dry, cracked, or irritated skin in adults. Era Organics Superbalm addresses eczema-prone skin by moisturizing dry patches, calming redness, and softening flaky or rough areas that resist ordinary lotions. Chamomile and Calendula Oil in the balm soothe inflamed skin on contact, while Beeswax seals moisture against the skin's surface to slow water loss on compromised areas.
 
@@ -165,7 +179,7 @@ The healing ointment covers common baby skin concerns, cradle cap on the scalp, 
 
 Atopic dermatitis management in children frequently involves plant-derived skin-softening ingredients (emollients), and 46.8% of parents of children with eczema reported using complementary approaches over a 12-month period, with those managing very severe cases showing the highest rates of use (Koo et al., Complementary Therapies in Medicine, 2020). Sunflower seed oil, one of Superbalm's key ingredients, shows favorable properties for xerosis and atopic dermatitis in children compared with oils that exacerbate barrier disruption (Karagounis et al., Pediatric Dermatology, 2019). Superbalm brings these plant-based ingredients together in a USDA Organic, fragrance-free formula safe for long-term daily use on the whole family, including pregnant and nursing mothers.
 
-### How Does Superbalm Help with Eczema?
+### How Does Era Organics Superbalm Help with Eczema?
 
 Superbalm for eczema-prone skin works through a blend of plant-based skin-softening ingredients (emollients), occlusive agents, and skin-calming botanicals drawn from the INCI list of Era Organics Superbalm Baby Eczema Treatment. Eczema (atopic dermatitis) disrupts the skin barrier, allowing moisture to escape and irritants to penetrate — the balm's combination of Beeswax, Cocoa Butter, and Coconut Oil forms an occlusive layer that slows moisture loss through the skin (transepidermal water loss) and shields compromised skin from environmental triggers. Each ingredient is cold-processed and USDA Organic certified, preserving the biological activity of the superbalm plant oils.
 
@@ -175,7 +189,7 @@ Sunflower Oil and Avocado Oil restore the lipid content of a compromised outer s
 
 For families managing [eczema](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-eczema) in infants or young children, the Baby Eczema Treatment is formulated without parabens, sulfates, synthetic dyes, mineral oil, phenoxyethanol, or fragrance, each a category of ingredient associated with barrier disruption or contact sensitization in sensitive skin. Patch test a small amount on the inside of the elbow before first use, particularly given that Chamomile belongs to the Asteraceae botanical family and is a possible contact allergen for ragweed-sensitive users. The healing ointment is safe for daily use and suitable for application from head to toe as often as needed.
 
-### How Does Superbalm Help with Atopic Dermatitis?
+### How Does Era Organics Superbalm Help with Atopic Dermatitis?
 
 Superbalm for atopic dermatitis delivers a plant-based barrier of skin-softening ingredients (emollients) and skin-calming botanicals that address the dryness, redness, and flaking that define the condition. Chamomile, Calendula Oil, Sunflower Oil, Avocado Oil, and Beeswax each target a distinct layer of compromised skin — the loss of surface lipids, the inflammatory response, and the breakdown of the outer barrier that allows moisture to escape and irritants to enter. Era Organics Superbalm Baby Eczema Treatment brings these ingredients together in a USDA Organic, fragrance-free, paraben-free ointment formulated safe for daily use on infants and adults alike.
 
@@ -185,7 +199,7 @@ Beeswax and Cocoa Butter form the occlusive foundation of the balm, physically s
 
 Superbalm is free from fragrances, parabens, sulfates, phthalates, synthetic dyes, mineral oil, and propylene glycol, every category of ingredient associated with flare risk on sensitized skin. Patch test the balm on the inside of the elbow before first use, particularly for users with known ragweed or Asteraceae family sensitivities, as Chamomile belongs to that botanical family.
 
-### How Does Superbalm Help with Dermatitis?
+### How Does Era Organics Superbalm Help with Dermatitis?
 
 Superbalm for dermatitis addresses the two core mechanisms that drive atopic skin reactions: barrier breakdown and inflammatory response. The skin barrier in eczema-prone individuals loses water rapidly through compromised lipid layers, leaving the skin cracked and reactive. Era Organics Superbalm Baby Eczema Treatment targets both problems with a blend of emollient and anti-inflammatory ingredients drawn from plant sources.
 
@@ -195,7 +209,7 @@ Sunflower oil, avocado oil, and coconut oil deliver linoleic acid and oleic acid
 
 Beeswax and cocoa butter layer an occlusive film over the restored barrier, slowing trans-epidermal water loss while the skin's own repair processes continue underneath. Calendula oil and gluten free oats add soothing properties that reduce surface redness and calm reactive skin. The healing ointment is fragrance-free, paraben-free, and free from synthetic dyes, removing the most common chemical triggers for contact dermatitis flares. Patch test a small amount on the inside of the elbow before first use, particularly for users with known sensitivities to Asteraceae-family botanicals, since chamomile belongs to that plant family.
 
-### How Does Superbalm Help with Cradle Cap?
+### How Does Era Organics Superbalm Help with Cradle Cap?
 
 Superbalm for cradle cap delivers a blend of emollient and occlusive ingredients, including Beeswax, Cocoa Butter, Coconut Oil, and Avocado Oil, that soften the thick, flaky scale characteristic of seborrheic dermatitis of the scalp. Beeswax forms a breathable barrier over the scalp surface, slowing moisture loss while the oil-rich base loosens adherent flakes without aggressive scrubbing. Coconut Oil, pressed from the dried kernel of *Cocos nucifera*, penetrates the upper layers of the outer skin layer (stratum corneum) and softens the scale from beneath.
 
@@ -205,7 +219,7 @@ Gluten Free Oats and Calendula Oil reinforce the barrier-supporting role of the 
 
 Superbalm Cradle Cap Cream is paraben-free, sulfate-free, fragrance-free, and free from synthetic dyes, making the formula well-suited for the thin, sensitive skin of infants. Apply a dime- to quarter-sized amount to a clean, dry scalp, and use as frequently as needed. For a detailed overview of the condition, signs to watch for, and a step-by-step care routine, visit the [Cradle Cap](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-cradle-cap) guide. Patch test the healing ointment on the inside of the elbow before first use, particularly for infants with known sensitivities to Asteraceae-family botanicals, as chamomile belongs to that plant family.
 
-### How Does Superbalm Help with Diaper Rash?
+### How Does Era Organics Superbalm Help with Diaper Rash?
 
 Superbalm Diaper Rash Cream addresses diaper rash through a blend of emollient and anti-inflammatory ingredients that form a protective barrier over irritated skin in the diaper area. Beeswax and Cocoa Butter seal moisture against the skin surface, reducing the friction and wetness exposure that drive diaper rash progression. Coconut Oil and Avocado Oil then soften the compromised skin beneath that barrier, delivering fatty acids that restore the texture of chafed tissue.
 
@@ -215,7 +229,7 @@ Sunflower Oil strengthens skin barrier function in young children. Fischer et al
 
 The balm is paraben-free, fragrance-free, and mineral-oil-free, removing three common irritants from contact with the diaper area's already-sensitized skin. Patch test a small amount on the inside of the elbow before first use, particularly for infants with known sensitivities to Asteraceae-family botanicals such as chamomile.
 
-### How Does Superbalm Help with Baby Acne?
+### How Does Era Organics Superbalm Help with Baby Acne?
 
 Superbalm for baby acne works by delivering gentle, occlusive moisture to skin that is reactive, barrier-compromised, and prone to clogging from trapped sebum. Beeswax, the balm's structural base, forms a breathable protective layer over the skin surface without blocking pores, reducing the friction and environmental exposure that aggravate neonatal acne. Chamomile, calendula oil, and vegetable glycerin work beneath that barrier layer to calm redness and draw moisture into the outermost skin cells.
 
@@ -225,7 +239,7 @@ Chamomile is a possible contact allergen for users sensitive to the Asteraceae (
 
 Persistent or worsening [baby acne](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-baby-acne) that spreads beyond the face or does not resolve within a few weeks warrants evaluation by a pediatric healthcare provider.
 
-### How Does Superbalm Help with Rashes?
+### How Does Era Organics Superbalm Help with Rashes?
 
 Superbalm for rashes works through a blend of plant-derived skin-softening ingredients (emollients) and anti-inflammatory botanicals that address the two core drivers of skin rash: compromised barrier function and surface irritation. Beeswax forms a breathable occlusive layer over broken or inflamed skin, slowing moisture loss through the skin (transepidermal water loss) while the skin beneath recovers. Calendula Oil and Chamomile, both present in Era Organics Superbalm healing ointment, calm redness at the surface by delivering flavonoids and terpenoids known to reduce cutaneous inflammation. Research into rash-prone skin conditions shows the importance of consistent topical intervention; in one placebo-controlled trial, 96% of patients in the active treatment group showed improvement by the end of the fifth month compared with 32% in the placebo group (Senapati et al., Indian Journal of Dermatology, Venereology and Leprology, 2008).
 
@@ -233,7 +247,7 @@ Sunflower Oil, rich in linoleic acid, restores the lipid-depleted skin barrier c
 
 Gluten Free Oats deliver colloidal oat compounds that bind to keratin and form a thin, protective film across the skin surface. Cocoa Butter and Avocado Oil add long-chain fatty acids that soften the thickened, flaky skin texture that often surrounds an active rash. Vegetable Glycerin draws water from deeper skin layers toward the surface, keeping the rash site hydrated rather than dry and taut during recovery. Applied as a dime- to quarter-sized amount to clean, dry skin, the balm delivers all these mechanisms simultaneously without synthetic dyes, fragrances, or parabens that typically aggravate sensitive, rash-prone skin.
 
-### How Does Superbalm Help with Redness?
+### How Does Era Organics Superbalm Help with Redness?
 
 Chamomile is an anti-inflammatory botanical that reduces visible redness in irritated skin. Its active compounds, specifically apigenin and bisabolol, calm the vascular response that produces flushing and reactive redness at the skin surface. Calendula Oil, a second botanical in the formula, adds complementary calming action through flavonoids that reduce inflammatory signaling.
 
@@ -243,7 +257,7 @@ Gluten Free Oats in the formula deliver colloidal oat proteins that coat the ski
 
 Patch test the balm on the inside of the elbow before first full use. Chamomile belongs to the Asteraceae family, and ragweed-sensitive users carry a higher risk of contact reaction to Asteraceae botanicals.
 
-### How Does Superbalm Help with Dry Skin?
+### How Does Era Organics Superbalm Help with Dry Skin?
 
 Era Organics Superbalm for dry skin delivers moisture through a blend of emollient and moisture-drawing ingredient (humectant) ingredients that address dryness at each layer of the skin's surface. Beeswax forms a protective seal over skin that locks existing moisture in and reduces moisture loss through the skin (transepidermal water loss). Vegetable Glycerin, a moisture-drawing ingredient (humectant), draws water toward the upper layers of the skin to maintain softness between applications.
 
@@ -253,7 +267,7 @@ Cocoa Butter and Sunflower Oil extend the emollient action across the skin's sur
 
 Chamomile and Calendula Oil address the redness and irritation that accompany dry skin by calming surface inflammation, so the barrier repair work of the occlusive and emollient ingredients proceeds without the disruption of continued scratching or rubbing. For a complete look at managing [baby dry skin](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-dry), the balm pairs well with a gentle, fragrance-free cleansing routine followed by immediate application to damp skin.
 
-### How Does Superbalm Help with Itchy Skin?
+### How Does Era Organics Superbalm Help with Itchy Skin?
 
 Superbalm for itchy skin addresses the underlying barrier disruption that generates the itch-scratch cycle in dry and eczema-prone skin. Nerve endings in the outer skin (epidermis) become sensitized, producing the persistent itching associated with atopic dermatitis and contact dermatitis when the skin's outer layer loses moisture. The balm's combination of occlusive and emollient ingredients seals that compromised barrier, reducing moisture loss through the skin (transepidermal water loss) (TEWL) and the nerve-signal cascade behind chronic itch.
 
@@ -263,7 +277,7 @@ Sunflower Oil and Avocado Oil contribute linoleic acid and oleic acid respective
 
 Patch test Baby Superbalm on the inside of the elbow before first full use. Chamomile belongs to the Asteraceae (ragweed) plant family and is a possible contact allergen for ragweed-sensitive users.
 
-### How Does Superbalm Help with Chapped Lips?
+### How Does Era Organics Superbalm Help with Chapped Lips?
 
 Superbalm for chapped lips works through a combination of occlusive and emollient ingredients that seal moisture into dry, cracked lip tissue. Beeswax forms a protective film over the lip surface, slowing moisture loss through the skin (transepidermal water loss) (TEWL) while the underlying skin recovers. Cocoa Butter and Coconut Oil deliver fatty acids that soften the keratin layer, restoring flexibility to skin that has become tight or fissured.
 
@@ -273,7 +287,7 @@ Sunflower seed oil applied to compromised skin showed a measurable effect on bar
 
 Apply a dime-sized amount of the healing ointment to clean, dry lips as frequently as needed. Chamomile is a member of the Asteraceae (ragweed) botanical family; users with ragweed sensitivity should patch test the balm on the inside of the elbow before applying it to the lip area.
 
-### What Else Does Superbalm Help Soothe and Moisturize?
+### What Else Does Era Organics Superbalm Help Soothe and Moisturize?
 
 Superbalm addresses a wider range of skin concerns beyond eczema and cradle cap. The 9 conditions the Superbalm healing ointment helps soothe and moisturize are:
 
@@ -295,7 +309,7 @@ Superbalm addresses a wider range of skin concerns beyond eczema and cradle cap.
 
 **Cracked and extra-dry patches:** Cracked skin on the feet, hands, or any dry patch signals a barrier that has lost its ability to retain water. Cocoa Butter and Castor Oil in the healing ointment work together, Cocoa Butter smooths and softens while Castor Oil thickens the protective film, sealing in moisture at deep-dry sites. Patch test the inside of the elbow before first full application, particularly for users with ragweed or Asteraceae-family sensitivities, as Chamomile belongs to that botanical family.
 
-## How to Use Superbalm
+## How to Use Era Organics Superbalm
 
 To apply Era Organics Superbalm for maximum skin comfort, follow these 5 steps:
 
@@ -311,7 +325,7 @@ To apply Era Organics Superbalm for maximum skin comfort, follow these 5 steps:
 
 How to use Superbalm fits naturally into any [baby skin care](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-care) routine. Apply the balm as the final step after cleansing and drying, and use it as frequently as needed, the formula is safe for long-term daily use on babies, toddlers, and adults alike. Product photos of the [Era Organics Superbalm baby balm](https://sl.bing.net/dBg98u1oC0y) show the balm's texture and its BPA-free jar.
 
-### Can Superbalm and Diaper Rash Cream Be Used Together?
+### Can Era Organics Superbalm and Diaper Rash Cream Be Used Together?
 
 Yes, Superbalm Diaper Rash Cream is a standalone diaper rash formula — no secondary diaper rash cream is needed alongside it. The balm's combination of Beeswax, Coconut Oil, and Cocoa Butter forms a protective occlusive barrier over irritated skin in the diaper area, sealing out moisture, friction, and waste that drive diaper rash in the first place.
 
@@ -319,7 +333,7 @@ Layering two diaper-area products raises the risk of ingredient interactions, oc
 
 Patch test the healing ointment on the inside of the elbow before first use, particularly for infants with known Asteraceae sensitivities, since Chamomile and Calendula Oil are Asteraceae-family botanicals. Apply a dime- to quarter-sized amount of Superbalm to clean, dry skin in the diaper area after each change. Baby Superbalm is safe for long-term daily use, so consistent application at every diaper change maintains the protective layer without the need to supplement with a separate product.
 
-### Who is Superbalm Safe For?
+### Who is Era Organics Superbalm Safe For?
 
 Era Organics Superbalm healing ointment is safe for the whole family, from newborns to adults, including pregnant and nursing mothers. The formula is USDA Organic, paraben-free, sulfate-free, phthalate-free, fragrance-free, phenoxyethanol-free, mineral-oil-free, silicone-free, peg-free, talc-free, formaldehyde-free, propylene-glycol-free, drying-alcohol-free, and synthetic-dye-free, removing the most common irritants found in conventional ointments. Superbalm draws its active ingredients exclusively from plant-derived and food-grade botanical sources, making it compatible with the delicate skin barrier of infants as well as the drier, more reactive skin common in adults.
 
@@ -329,7 +343,7 @@ Chamomile belongs to the Asteraceae (ragweed) plant family and is a possible con
 
 Baby Superbalm is free from beeswax-exclusive substitutes, so users seeking a strictly plant-only formula should review superbalm list before purchase. Beyond that single note, the healing ointment suits daily use on the face, neck, scalp, diaper area, lips, and body, at a dime- to quarter-sized amount applied to clean, dry skin as frequently as needed.
 
-### Where Can You Buy Superbalm?
+### Where Can You Buy Era Organics Superbalm?
 
 Era Organics Superbalm is available directly through the Era Organics website at eraorganics.com. Purchasing directly from the brand guarantees the product is authentic and backed by Era Organics' customer support.
 
