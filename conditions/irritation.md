@@ -33,3 +33,11 @@ Superbalm is fragrance-free and free from parabens, sulfates, and synthetic dyes
 
 ## Evidence
 - [Effect of topically applied lipids on surfactant-irritated skin.](https://pubmed.ncbi.nlm.nih.gov/8746332/) — Lodén M et al., The British journal of dermatology 1996 (PMID: 8746332)
+
+---
+
+---
+
+## Vaginal Moisturizer for this concern
+
+Era Organics Vaginal Moisturizer is the brand's USDA Organic vulva balm for this concern on external intimate skin. For the full grounded ingredient breakdown and evidence, see the [Era Organics Vaginal Moisturizer for irritated intimate skin](/products/vaginal-moisturizer) product page.

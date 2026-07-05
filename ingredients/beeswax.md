@@ -49,3 +49,11 @@ Era Organics Superbalm uses beeswax as its base to hold Calendula Oil, Coconut O
 ## Evidence
 - [Effectiveness and Tolerability of Natural Herbal Formulations in the Prevention of Radiation-Induced Skin Toxicity in Patients Undergoing Radiotherapy.](https://pubmed.ncbi.nlm.nih.gov/32525718/) — Koukourakis G et al., The international journal of lower extremity wounds 2022 (PMID: 32525718)
 - [The importance of propolis in patch testing--a multicentre survey.](https://pubmed.ncbi.nlm.nih.gov/19878244/) — Rajpara S et al., Contact dermatitis 2009 (PMID: 19878244)
+
+---
+
+---
+
+## Also used in Vaginal Moisturizer
+
+This ingredient is also a key active in Era Organics Vaginal Moisturizer, the brand's USDA Organic vulva balm for external intimate skin. For the grounded ingredient breakdown and evidence, see the [Era Organics Vaginal Moisturizer with beeswax](/products/vaginal-moisturizer) product page.

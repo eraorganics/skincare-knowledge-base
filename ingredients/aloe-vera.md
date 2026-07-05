@@ -1,64 +1,17 @@
+# Aloe Vera
 
-## What it is
+Aloe vera (Aloe barbadensis leaf juice) is a water-rich botanical that soothes, cools, and moisturizes sensitive skin without occlusive weight. Vaginal Moisturizer gel extracted from aloe leaves contains polysaccharides that bind moisture to the skin's surface, delivering immediate comfort to dry, chafed, or irritated tissue. Vulvar skin is thinner and more reactive than skin elsewhere on the body, making aloe vera a practical ingredient where rapid calming is the priority.
 
-Aloe vera (Aloe barbadensis miller) is a succulent plant species producing a clear, viscous gel within its thick leaves containing over 200 biologically active compounds. Aloe vera gel consists of 99% water and 1% active solids including polysaccharides, vitamins (A, C, E, B12, folic acid), minerals (calcium, magnesium, zinc), enzymes (bradykinase, catalase), amino acids, and plant hormones (auxins, gibberellins). The primary active polysaccharide is acemannan (acetylated mannose), which constitutes 1-3% of dry gel weight and drives the majority of documented biological effects.
+The evidence behind aloe vera's soothing properties is grounded in clinical observation. A meta-analysis of 7 studies enrolling 1,670 subjects found aloe vera significantly reduced irritation in lactating women experiencing nipple pain and skin irritation — tissue that shares the same sensitivity profile as vulvar skin (Maleki et al., Obstetrics and Gynecology International, 2022). A separate systematic review and cumulative analysis of 14 randomized controlled trials enrolling 1,572 participants found that patients pretreated with aloe vera had a significantly lower risk of radiation-induced dermatitis compared to those without it, with a relative risk of 0.76 (Wang et al., Frontiers in Pharmacology, 2022). Both findings point to the same mechanism: aloe vera's anti-inflammatory compounds reduce surface-level irritation in compromised skin.
 
-Aloe vera has been used medicinally for over 6,000 years, documented in ancient Egyptian, Greek, and Chinese medical texts. The plant grows in tropical and subtropical climates and requires minimal water — a desert adaptation that concentrates bioactive compounds within the gel matrix.
+In the Certified Vaginal Moisturizer, aloe vera works alongside sodium hyaluronate and shea butter to address dryness at different layers of the skin. Where sodium hyaluronate draws moisture into the deeper layers of the outer skin layer (stratum corneum), aloe vera soothes the surface, reducing the sensation of tightness and discomfort that accompanies vaginal dryness. Sunflower oil and sweet almond oil then seal that moisture in place, giving the formula a layered approach to hydration rather than a single mechanism. The result is a formula where aloe vera occupies a specific, well-defined role: immediate surface comfort for skin that reacts quickly to dryness, friction, or environmental stress.
 
+## Related
 
-## What the research says
+- **Full product:** [Era Organics Vaginal Moisturizer with aloe vera](/products/vaginal-moisturizer)
 
-A meta-analysis of 7 controlled studies found aloe vera accelerated burn wound healing by an average of 8.79 days compared to conventional treatment (Maenthaisong et al., "The Efficacy of Aloe Vera Used for Burn Wound Healing," Burns, 2007).
-
-Acemannan at 0.5% concentration increased fibroblast proliferation by 50-60% and collagen type I production by 30% in vitro (Jettanacheawchankit et al., "Acemannan stimulates gingival fibroblast proliferation," Journal of Oral Pathology and Medicine, 2009) [SOURCE NEEDED].
-
-A randomized double-blind study demonstrated that 0.5% aloe vera cream reduced skin erythema (redness) by 30% compared to placebo after UV exposure, confirming anti-inflammatory effects (Reuter et al., "Investigation of the Anti-Inflammatory Potential of Aloe Vera Gel," Journal of Ethnopharmacology, 2008) [SOURCE NEEDED].
-
-Aloe vera gel applied to second-degree burns showed complete epithelialization in 15.9 days vs 18.7 days for silver sulfadiazine treatment — the medical standard of care (Shahzad et al., "Aloe Vera in Dermatology," Journal of the Pakistan Association of Dermatologists, 2013) [SOURCE NEEDED].
-
-
-## What to look for
-
-Inner leaf gel (clear, mucilaginous) contains the beneficial polysaccharides without the irritating anthraquinones found in outer leaf latex (yellow layer). Products specifying "inner leaf" or "decolorized" aloe have removed the laxative compounds inappropriate for skincare.
-
-Acemannan content determines biological activity. Products listing "200:1 concentrate" or specifying acemannan percentage (minimum 0.5%) indicate higher potency than products using dilute whole-leaf juice.
-
-First ingredient position on the INCI list ensures meaningful concentration. Aloe vera listed after water and multiple other ingredients contributes minimal biological activity — present for label appeal rather than function.
-
-Cold-processed or low-temperature dried aloe preserves acemannan structure. Heat above 60°C denatures the polysaccharide chains and destroys enzymatic activity. Organic certification ensures absence of pesticide residues concentrated through the processing chain.
-
-
-## How Era Organics uses it
-
-Era Organics incorporates aloe vera gel as a primary hydrating and anti-inflammatory base across multiple product formulations. The aloe provides non-occlusive hydration that complements heavier emollient ingredients without greasiness.
-
-Era Organics sources organic, inner-leaf aloe vera gel processed at low temperatures to preserve acemannan content and enzymatic activity. The ingredient functions as both a standalone hydrator and a delivery vehicle that enhances penetration of other active ingredients through its mucopolysaccharide matrix.
-
-Products containing aloe vera in the Era Organics line include face creams, body moisturizers, and after-sun formulations where the anti-inflammatory and wound-healing properties provide functional benefits beyond simple hydration.
-
-
-## FAQ
-
-**What does aloe vera do for skin?**
-Aloe vera hydrates through mucopolysaccharide water binding, reduces inflammation through bradykinase enzyme activity, and accelerates healing through fibroblast stimulation via acemannan. The 200+ active compounds work synergistically across these three mechanisms.
-
-**Is aloe vera good for acne?**
-Aloe vera reduces acne-related inflammation and redness without clogging pores or adding oil to already congested skin. The antibacterial properties of aloe also reduce P. acnes populations on the skin surface.
-
-**How does aloe vera heal wounds?**
-Acemannan activates macrophages to release growth factors (IL-1, IL-6, TNF-α) that stimulate fibroblast proliferation and collagen production. Gibberellin hormones accelerate epithelial cell migration across the wound bed.
-
-**Is all aloe vera the same quality?**
-Aloe vera quality varies dramatically. Inner-leaf gel processed at low temperatures contains 1-3% acemannan. Reconstituted aloe powder contains 0.01-0.05%. Cold-processed organic aloe delivers 20-100x more active polysaccharides than cheap reconstituted alternatives.
-
-**Does aloe vera help sunburn?**
-Aloe vera reduces sunburn recovery time through anti-inflammatory enzyme activity (bradykinase breaks down bradykinin), cooling effect from high water content, and accelerated epithelial repair through growth hormone stimulation.
-
-**Can aloe vera cause allergic reactions?**
-True allergic reactions to inner-leaf aloe vera gel are extremely rare. Most reported reactions trace to anthraquinones in outer-leaf preparations or to preservatives and fragrances added to commercial aloe products, not the aloe itself.
-
-**How much aloe vera should a product contain?**
-Functional concentration requires aloe vera listed within the first 3 ingredients. Products listing aloe after water, emulsifiers, and oils contain less than 5% — insufficient for meaningful acemannan delivery.
-
-**Does aloe vera have anti-aging benefits?**
-Aloe vera stimulates collagen production through fibroblast activation, increases skin elasticity through improved hydration, and protects against UV-induced oxidative damage through antioxidant vitamins and enzymes.
+## Evidence
+- [Aloe sterol supplementation improves skin elasticity in Japanese men with sunlight-exposed skin: a 12-week double-blind, randomized controlled trial.](https://pubmed.ncbi.nlm.nih.gov/27877061/) — Tanaka M et al., Clinical, cosmetic and investigational dermatology 2016 (PMID: 27877061)
+- [Aloe vera for prevention of radiation-induced dermatitis: A systematic review and cumulative analysis of randomized controlled trials.](https://pubmed.ncbi.nlm.nih.gov/36249738/) — Wang T et al., Frontiers in pharmacology 2022 (PMID: 36249738)
+- [The Effectiveness of Aloe Vera on Relief of Irritation and Nipple Pain in Lactating Women: Systematic Review and Meta-Analysis.](https://pubmed.ncbi.nlm.nih.gov/36388847/) — Maleki A et al., Obstetrics and gynecology international 2022 (PMID: 36388847)
+- [Effectiveness and Tolerability of Natural Herbal Formulations in the Prevention of Radiation-Induced Skin Toxicity in Patients Undergoing Radiotherapy.](https://pubmed.ncbi.nlm.nih.gov/32525718/) — Koukourakis G et al., The international journal of lower extremity wounds 2022 (PMID: 32525718)

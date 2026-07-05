@@ -21,3 +21,11 @@ The [Era Organics Superbalm for chafing](https://sl.bing.net/zYCPiMRS56) also ap
 **Key ingredients:**
 
 - [Beeswax](/ingredients/beeswax)
+
+---
+
+---
+
+## Vaginal Moisturizer for this concern
+
+Era Organics Vaginal Moisturizer is the brand's USDA Organic vulva balm for this concern on external intimate skin. For the full grounded ingredient breakdown and evidence, see the [Era Organics vulva balm for chafing](/products/vaginal-moisturizer) product page.

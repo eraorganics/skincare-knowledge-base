@@ -53,3 +53,11 @@ Era Organics Superbalm uses sunflower oil as a primary carrier, pairing it with 
 - [Effect of olive and sunflower seed oil on the adult skin barrier: implications for neonatal skin care.](https://pubmed.ncbi.nlm.nih.gov/22995032/) — Danby S et al., Pediatric dermatology 2013 (PMID: 22995032)
 - [Olive Oil, Sunflower Oil or no Oil for Baby Dry Skin or Massage: A Pilot, Assessor-blinded, Randomized Controlled Trial (the Oil in Baby SkincaRE [OBSeRvE] Study).](https://pubmed.ncbi.nlm.nih.gov/26551528/) — Cooke A et al., Acta dermato-venereologica 2016 (PMID: 26551528)
 - [Topical emollient therapy with sunflower seed oil alters the skin microbiota of young children with severe acute malnutrition in Bangladesh: A randomised, controlled study.](https://pubmed.ncbi.nlm.nih.gov/34386216/) — Fischer N et al., Journal of global health 2021 (PMID: 34386216)
+
+---
+
+---
+
+## Also used in Vaginal Moisturizer
+
+This ingredient is also a key active in Era Organics Vaginal Moisturizer, the brand's USDA Organic vulva balm for external intimate skin. For the grounded ingredient breakdown and evidence, see the [Era Organics Vaginal Moisturizer with sunflower oil](/products/vaginal-moisturizer) product page.

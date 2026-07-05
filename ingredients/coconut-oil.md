@@ -58,3 +58,11 @@ One caveat worth noting: coconut oil is a possible contact allergen for people w
 - [Occupational allergic contact dermatitis caused by coconut fatty acids diethanolamide.](https://pubmed.ncbi.nlm.nih.gov/24588369/) — Aalto-Korte K et al., Contact dermatitis 2014 (PMID: 24588369)
 - [Skin-Microbiome Assembly in Preterm Infants during the First Three Weeks of Life and Impact of Topical Coconut Oil Application.](https://pubmed.ncbi.nlm.nih.gov/38068949/) — Ghori N et al., International journal of molecular sciences 2023 (PMID: 38068949)
 - [Virgin coconut oil as prophylactic therapy against alcohol damage on skin in COVID times.](https://pubmed.ncbi.nlm.nih.gov/34121304/) — Saraogi P et al., Journal of cosmetic dermatology 2021 (PMID: 34121304)
+
+---
+
+---
+
+## Also used in Vaginal Moisturizer
+
+This ingredient is also a key active in Era Organics Vaginal Moisturizer, the brand's USDA Organic vulva balm for external intimate skin. For the grounded ingredient breakdown and evidence, see the [Era Organics vulva balm with coconut oil](/products/vaginal-moisturizer) product page.
