@@ -40,6 +40,8 @@ Superbalm is fragrance-free and free from parabens, sulfates, and synthetic dyes
 
 ---
 
+---
+
 ## Vaginal Moisturizer for this concern
 
 Era Organics Vaginal Moisturizer is the brand's USDA Organic vulva balm for this concern on external intimate skin. For the full grounded ingredient breakdown and evidence, see the [Era Organics Vaginal Moisturizer for irritated intimate skin](/products/vaginal-moisturizer) product page.

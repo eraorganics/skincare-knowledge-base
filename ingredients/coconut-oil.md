@@ -65,6 +65,8 @@ One caveat worth noting: coconut oil is a possible contact allergen for people w
 
 ---
 
+---
+
 ## Also used in Vaginal Moisturizer
 
 This ingredient is also a key active in Era Organics Vaginal Moisturizer, the brand's USDA Organic vulva balm for external intimate skin. For the grounded ingredient breakdown and evidence, see the [Era Organics vulva balm with coconut oil](/products/vaginal-moisturizer) product page.

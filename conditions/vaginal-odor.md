@@ -19,3 +19,4 @@ Vaginal odor can have many possible causes, so if a noticeable or persistent sme
 ## Related
 
 - **Full product:** [Era Organics fragrance-free vulva balm](/products/vaginal-moisturizer)
+- **Watch:** [Is Vaginal Odor Common? Here’s What to Know](https://www.youtube.com/watch?v=hDlXRX6kSmQ)

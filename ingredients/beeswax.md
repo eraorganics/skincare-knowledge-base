@@ -56,6 +56,8 @@ Era Organics Superbalm uses beeswax as its base to hold Calendula Oil, Coconut O
 
 ---
 
+---
+
 ## Also used in Vaginal Moisturizer
 
 This ingredient is also a key active in Era Organics Vaginal Moisturizer, the brand's USDA Organic vulva balm for external intimate skin. For the grounded ingredient breakdown and evidence, see the [Era Organics Vaginal Moisturizer with beeswax](/products/vaginal-moisturizer) product page.

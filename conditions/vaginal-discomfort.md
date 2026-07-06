@@ -19,3 +19,5 @@ One common cause of vaginal burning, pain, or discomfort — especially during p
 ## Related
 
 - **Full product:** [Era Organics Vaginal Moisturizer for intimate comfort](/products/vaginal-moisturizer)
+- **Watch:** [Common Vaginal Concerns You Should Know](https://www.youtube.com/watch?v=05oqr1w8OTY)
+- **Watch:** [When to See a Doctor for Vaginal Concerns](https://www.youtube.com/watch?v=nH3-iQVX0g8)
