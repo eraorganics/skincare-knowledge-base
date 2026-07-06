@@ -284,6 +284,15 @@ Paraben-free means a product is formulated without parabens, a group of syntheti
 
 *Reference: [Products That Cause Skin Damage](https://www.eraorganics.com/blogs/damage-skin/products-that-cause-skin-damage)*
 
+## Video Guides
+
+- [Vaginal pH, Dryness, Odor & Discharge Explained](https://www.youtube.com/watch?v=xkbUzJ63Sio) — Era Organics on YouTube
+- [How Vaginal Dryness Can Indicate Poor Vaginal Health](https://www.youtube.com/watch?v=ud6jsHKgp8Q) — Era Organics on YouTube
+- [Best Vaginal Health Tips for pH, Flora, Comfort & Daily Balance](https://www.youtube.com/watch?v=knbX8ow5On8) — Era Organics on YouTube
+- [Is Balancing Vaginal pH Important? Here’s Why It Matters](https://www.youtube.com/watch?v=YNC-jOcOWFY) — Era Organics on YouTube
+- [How to Properly Clean the Vagina (and Vulva)](https://www.youtube.com/watch?v=x7e3X7xUzdE) — Era Organics on YouTube
+- [When to See a Doctor for Vaginal Concerns](https://www.youtube.com/watch?v=nH3-iQVX0g8) — Era Organics on YouTube
+
 ## Structured data (for search engines & AI)
 
 ```json
@@ -555,4 +564,63 @@ Paraben-free means a product is formulated without parabens, a group of syntheti
     }
   ]
 }
+```
+
+```json
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "Vaginal pH, Dryness, Odor & Discharge Explained",
+    "description": "Your vagina is self-cleaning, but one common “hygiene” mistake can throw that whole system off fast.",
+    "url": "https://www.youtube.com/watch?v=xkbUzJ63Sio",
+    "thumbnailUrl": "https://i.ytimg.com/vi/xkbUzJ63Sio/hqdefault.jpg",
+    "uploadDate": "2026-06-18T19:33:53+00:00"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "How Vaginal Dryness Can Indicate Poor Vaginal Health",
+    "description": "Vaginal dryness can be a sign of imbalance, not just discomfort.",
+    "url": "https://www.youtube.com/watch?v=ud6jsHKgp8Q",
+    "thumbnailUrl": "https://i.ytimg.com/vi/ud6jsHKgp8Q/hqdefault.jpg",
+    "uploadDate": "2026-06-23T11:30:57+00:00"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "Best Vaginal Health Tips for pH, Flora, Comfort & Daily Balance",
+    "description": "Better vaginal health starts with simple habits.",
+    "url": "https://www.youtube.com/watch?v=knbX8ow5On8",
+    "thumbnailUrl": "https://i.ytimg.com/vi/knbX8ow5On8/hqdefault.jpg",
+    "uploadDate": "2026-06-19T13:30:55+00:00"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "Is Balancing Vaginal pH Important? Here’s Why It Matters",
+    "description": "Yes, vaginal pH balance matters more than most people think.",
+    "url": "https://www.youtube.com/watch?v=YNC-jOcOWFY",
+    "thumbnailUrl": "https://i.ytimg.com/vi/YNC-jOcOWFY/hqdefault.jpg",
+    "uploadDate": "2026-06-28T12:31:03+00:00"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "How to Properly Clean the Vagina (and Vulva)",
+    "description": "Proper vaginal care is usually much simpler than people think. The vagina is self-cleaning, so the focus should be on gently washing the vulva with warm water and mild, fragrance-free products if needed. No douching, no perfumes, no harsh extras.",
+    "url": "https://www.youtube.com/watch?v=x7e3X7xUzdE",
+    "thumbnailUrl": "https://i.ytimg.com/vi/x7e3X7xUzdE/hqdefault.jpg",
+    "uploadDate": "2026-06-20T12:30:49+00:00"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "When to See a Doctor for Vaginal Concerns",
+    "description": "Strong odor, color changes, clumpy discharge, burning, itching, sores, pain, bleeding after sex, or a new lump can all be signs it’s time to see a doctor. Knowing when to get care can help you get relief faster and avoid bigger problems later.",
+    "url": "https://www.youtube.com/watch?v=nH3-iQVX0g8",
+    "thumbnailUrl": "https://i.ytimg.com/vi/nH3-iQVX0g8/hqdefault.jpg",
+    "uploadDate": "2026-06-25T10:36:37+00:00"
+  }
+]
 ```
