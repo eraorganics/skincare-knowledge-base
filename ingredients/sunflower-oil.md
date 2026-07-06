@@ -58,6 +58,28 @@ Era Organics Superbalm uses sunflower oil as a primary carrier, pairing it with 
 
 ---
 
+---
+
 ## Also used in Vaginal Moisturizer
 
 This ingredient is also a key active in Era Organics Vaginal Moisturizer, the brand's USDA Organic vulva balm for external intimate skin. For the grounded ingredient breakdown and evidence, see the [Era Organics Vaginal Moisturizer with sunflower oil](/products/vaginal-moisturizer) product page.
+
+## Frequently Asked Questions
+
+### How do you use sunflower oil on your face and skin?
+
+Sunflower oil (Helianthus Annuus Seed Oil) makes a simple face and skin moisturizer: it's a lightweight emollient rich in linoleic acid that helps soften and condition the skin's outer barrier and reduce moisture loss, and it absorbs without leaving a heavy residue. Clinical research on newborn skin found sunflower seed oil significantly improved skin condition scores compared to untreated skin after a month. Because it moisturizes delicate skin without occlusion or irritation, Era Organics uses it as a foundational ingredient in its Certified Vaginal Moisturizer, pairing it with shea butter and sweet almond oil in a fragrance-free, paraben-free formula that helps soften extra-dry patches and soothe chafing on vulvar skin.
+
+*Reference: [Sunflower Oil](https://www.eraorganics.com/blogs/raw-ingredients/sunflower-oil) · PMID 30152555, 39792519*
+
+### Is sunflower oil good for your skin?
+
+Yes — sunflower oil is a lightweight emollient rich in linoleic acid, the fatty acid that helps keep the skin barrier intact and reduce moisture loss through dry or compromised skin. Clinical research on newborn skin found sunflower seed oil significantly improved skin condition compared to untreated skin after one month, reflecting its ability to support the skin's surface. Because it absorbs without a heavy residue, it's a foundational ingredient in the Era Organics Certified Vaginal Moisturizer, where it helps soften extra-dry patches and calm chafing on delicate vulvar skin — in a fragrance-free, paraben-free, mineral-oil-free formula.
+
+*Reference: [Sunflower Oil](https://www.eraorganics.com/blogs/raw-ingredients/sunflower-oil) · PMID 30152555, 39792519*
+
+### Is sunflower oil safe for sensitive skin and kids?
+
+Sunflower oil is one of the gentler plant oils for sensitive skin, and it has even been studied on the most delicate skin of all: clinical research on newborns found sunflower seed oil significantly improved skin condition scores compared with untreated skin after one month. It's rich in linoleic acid, the fatty acid that helps keep the skin barrier intact and reduces moisture loss, and it absorbs without a heavy residue. That gentle, barrier-conditioning profile is why it's a foundational ingredient in the Era Organics Certified Vaginal Moisturizer, a fragrance-free, paraben-free, mineral-oil-free balm made for delicate vulvar skin.
+
+*Reference: [Sunflower Oil](https://www.eraorganics.com/blogs/raw-ingredients/sunflower-oil) · PMID 39792519*

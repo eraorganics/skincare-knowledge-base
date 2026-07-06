@@ -8,6 +8,16 @@ Sweet almond oil spreads easily across skin at low friction, making it particula
 
 The vaginal cream is fragrance-free, making sweet almond oil's sensory neutrality a deliberate formulation choice. Many botanical oils carry a pronounced scent that disrupts the vulvar microenvironment or triggers contact sensitivity; sweet almond oil's mild profile avoids both concerns. Patch testing on the inner arm before first use remains the correct step for anyone with known nut sensitivities, given the oil's tree-nut origin.
 
+## Frequently Asked Questions
+
+### Is organic sweet almond oil good for your skin?
+
+Yes — sweet almond oil (Prunus Amygdalus Dulcis Oil) is a lightweight emollient rich in oleic and linoleic fatty acids, which sink into the upper layers of skin and help replenish the lipids that keep the skin barrier intact. It spreads easily with low friction and has a mild, neutral scent, which is why Era Organics uses it in its fragrance-free Certified Vaginal Moisturizer to help soften and smooth delicate vulvar skin without clogging pores or leaving a heavy residue. Because it comes from a tree nut, patch test a small amount on your inner arm before first use if you have known nut sensitivities.
+
+### What does sweet almond oil do for skin, and is it safe to use?
+
+Sweet almond oil (Prunus Amygdalus Dulcis Oil) is a lightweight emollient rich in oleic and linoleic fatty acids that helps soften and smooth skin and replenish the lipids that keep the skin barrier intact — which is why Era Organics includes it in its fragrance-free Vaginal Moisturizer to help moisturize delicate vulvar skin without clogging pores or leaving a heavy residue. It spreads easily at low friction, making it well suited to sensitive tissue where rough application can cause irritation. It is generally gentle, but because it comes from a tree nut, anyone with known nut sensitivities should patch test on the inner arm before first use.
+
 ## Related
 
 - **Full product:** [Era Organics vulva balm with sweet almond oil](/products/vaginal-moisturizer)

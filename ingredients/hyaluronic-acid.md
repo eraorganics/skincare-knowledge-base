@@ -8,6 +8,26 @@ The safety record for hyaluronic acid on sensitive tissue is well-established. C
 
 The vaginal balm pairs sodium hyaluronate with sunflower oil, coconut oil, sweet almond oil, and beeswax to create a layered moisture strategy: the hyaluronic acid draws water in, and the lipid-rich oils and wax seal it against the skin surface. Patch test before first use by applying a small amount to the inner arm to confirm tolerance before applying to vaginal tissue.
 
+## Frequently Asked Questions
+
+### How do you use hyaluronic acid with a moisturizer — before or after?
+
+Apply hyaluronic acid first, then seal it in with your moisturizer — hyaluronic acid is a humectant that draws water into the outer skin layer, and the richer oils and butters on top keep that moisture from evaporating away. Some products handle both steps in one formula: the Era Organics Certified Vaginal Moisturizer pairs sodium hyaluronate with organic sunflower oil, coconut oil, sweet almond oil, shea butter, and beeswax, so the water-drawing effect is locked in rather than lost. Before first use on delicate areas, patch test a small amount on your inner arm to confirm tolerance.
+
+*Reference: [Hydrating Ingredient Hyaluronic Acid](https://www.eraorganics.com/blogs/beauty-guide/hydrating-ingredient-hyaluronic-acid)*
+
+### Is hyaluronic acid good for dry or irritated skin?
+
+Yes — hyaluronic acid (sodium hyaluronate) is a water-binding humectant that draws moisture into the outer skin layer (stratum corneum), exactly where dryness starts, making it a helpful ingredient for dry or easily irritated skin. Its safety record on sensitive tissue is well established, with more than 15 years of clinical and biocompatibility data supporting a favorable safety profile (De Boulle et al., Dermatologic Surgery, 2013). That's why the Era Organics Certified Vaginal Moisturizer pairs sodium hyaluronate with shea butter, sunflower, coconut, and sweet almond oils plus beeswax — the hyaluronic acid pulls water in while the oils and wax seal it against the skin instead of letting it evaporate. As with any product for sensitive areas, patch test on your inner arm before first use.
+
+*Reference: [Hydrating Ingredient Hyaluronic Acid](https://www.eraorganics.com/blogs/beauty-guide/hydrating-ingredient-hyaluronic-acid) · PMID 23941624*
+
+### Is hyaluronic acid safe to use on skin, including sensitive and young skin?
+
+Yes — hyaluronic acid has a well-established safety record on skin, including sensitive tissue. More than 15 years of clinical and biocompatibility data support its favorable safety profile, with researchers concluding that "physicians should be confident in offering these products" (De Boulle et al., Dermatologic Surgery, 2013). That track record is why Era Organics uses sodium hyaluronate in its Certified Vaginal Moisturizer, where it draws water into the outer skin layer to help moisturize delicate vulvar skin, while organic plant oils and shea butter help seal that moisture in. As with any new product, patch test a small amount on the inner arm first to confirm tolerance.
+
+*Reference: [Hydrating Ingredient Hyaluronic Acid](https://www.eraorganics.com/blogs/beauty-guide/hydrating-ingredient-hyaluronic-acid) · PMID 23941624*
+
 ## Related
 
 - **Full product:** [Era Organics vulva moisturizer with hyaluronic acid](/products/vaginal-moisturizer)

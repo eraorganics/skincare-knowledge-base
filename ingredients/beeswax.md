@@ -54,6 +54,28 @@ Era Organics Superbalm uses beeswax as its base to hold Calendula Oil, Coconut O
 
 ---
 
+---
+
 ## Also used in Vaginal Moisturizer
 
 This ingredient is also a key active in Era Organics Vaginal Moisturizer, the brand's USDA Organic vulva balm for external intimate skin. For the grounded ingredient breakdown and evidence, see the [Era Organics Vaginal Moisturizer with beeswax](/products/vaginal-moisturizer) product page.
+
+## Frequently Asked Questions
+
+### How do you apply beeswax to your skin?
+
+Beeswax is easiest to apply as part of a balm rather than on its own — in Era Organics Vaginal Moisturizer, it works alongside sunflower oil, shea butter, and coconut oil to create a semi-solid texture that stays in place after application instead of dispersing right away. Smooth a small amount onto clean, external skin; the beeswax forms a breathable, protective layer that helps seal moisture in while the softening and moisture-drawing ingredients absorb. Before first use, patch test the balm on your inner arm — especially if you have a known sensitivity to bee-derived products, though cross-sensitivity to beeswax itself is rare.
+
+*Reference: PMID 19878244*
+
+### Is beeswax good for your skin?
+
+Yes — beeswax (Cera Alba) is a natural occlusive wax with a long safety record in topical products; it forms a breathable, protective layer that seals moisture into the skin without blocking normal airflow. It's also well tolerated: in a 2009 patch-test survey of 2,828 subjects, only 4 of 55 propolis-allergic participants (7.2%) showed a concurrent allergy to beeswax itself. In the Era Organics Vaginal Moisturizer, beeswax works with sunflower oil, shea butter, and coconut oil to give the balm a stay-in-place texture that slows moisture loss, helping moisturize and protect delicate vulvar skin throughout the day. If you have a known sensitivity to bee-derived products, patch test the balm on your inner arm before first use.
+
+*Reference: PMID 19878244*
+
+### Is beeswax safe for babies' skin?
+
+Beeswax (Cera Alba) is a well-tolerated natural wax with a long safety record in topical preparations — it forms a breathable, protective layer that seals moisture into skin without blocking normal airflow. Allergy to it is rare: in a 2009 patch-test survey of 2,828 subjects, only 4 of 55 propolis-allergic participants (7.2%) showed a concurrent allergy to beeswax itself. That gentle, stay-in-place quality is why beeswax works alongside sunflower oil, shea butter, and coconut oil in the Era Organics Vaginal Moisturizer to help slow moisture loss from delicate skin. As with any new topical product, patch test on the inner arm before first use, especially if there's a known sensitivity to bee-derived products.
+
+*Reference: PMID 19878244*

@@ -26,6 +26,18 @@ The [Era Organics Superbalm for chafing](https://sl.bing.net/zYCPiMRS56) also ap
 
 ---
 
+---
+
 ## Vaginal Moisturizer for this concern
 
 Era Organics Vaginal Moisturizer is the brand's USDA Organic vulva balm for this concern on external intimate skin. For the full grounded ingredient breakdown and evidence, see the [Era Organics vulva balm for chafing](/products/vaginal-moisturizer) product page.
+
+## Frequently Asked Questions
+
+### How do I treat and get relief from chafing?
+
+Chafing relief starts with cutting down the skin-on-skin friction that causes it. A balm that forms a protective film over the surface — like Era Organics' USDA Organic vaginal moisturizer, which uses beeswax — helps reduce the friction that leads to chafing along the inner thighs and vulvar folds. Its sunflower oil (Helianthus Annuus Seed Oil) also supplies linoleic-acid-rich lipids that support the skin barrier between applications, helping keep the area moisturized and protected.
+
+### What causes chafing (thighs, groin, between the legs)?
+
+Chafing along the inner thighs, groin, and vulvar folds comes down to friction — skin repeatedly rubbing against skin (or clothing) in those areas. Reducing that friction is the key to comfort, which is where a barrier-style balm can help: the beeswax in Era Organics' Vaginal Moisturizer forms a protective film over the skin surface that cuts down on the rubbing that causes chafing. Its sunflower oil also supplies linoleic-acid-rich lipids that help support your skin barrier between applications.

@@ -63,6 +63,28 @@ One caveat worth noting: coconut oil is a possible contact allergen for people w
 
 ---
 
+---
+
 ## Also used in Vaginal Moisturizer
 
 This ingredient is also a key active in Era Organics Vaginal Moisturizer, the brand's USDA Organic vulva balm for external intimate skin. For the grounded ingredient breakdown and evidence, see the [Era Organics vulva balm with coconut oil](/products/vaginal-moisturizer) product page.
+
+## Frequently Asked Questions
+
+### Can you use coconut oil on your vulva or labia?
+
+Yes — coconut oil is a rich emollient that helps soften and protect delicate vulvar skin by depositing fatty acids (mainly lauric acid) onto the skin's surface, which helps reduce moisture loss from friction, hormonal changes, or environmental exposure. In one study, virgin coconut oil applied overnight produced a 25% increase in perceived moisture content among users (Saraogi et al., Journal of Cosmetic Dermatology, 2021). That's why Era Organics' Vaginal Moisturizer pairs coconut oil with sodium hyaluronate and aloe in a fragrance-free, paraben-free, sulfate-free balm that's appropriate for daily use on the vulva, including for menopausal and perimenopausal skin. Patch test a dime-sized amount on your inner arm before first use, especially if you have a known ragweed (Asteraceae) sensitivity, since the formula also contains sunflower oil.
+
+*Reference: PMID 34121304, 30152555*
+
+### Is coconut oil good and safe for your skin?
+
+Yes — coconut oil is a rich emollient that softens and protects skin by depositing fatty acids (mainly lauric acid) onto the surface, which reduces moisture loss from tissue that dries quickly due to hormonal changes, friction, or environmental exposure. In one study, virgin coconut oil applied overnight produced a 25% increase in perceived moisture among users (Saraogi et al., Journal of Cosmetic Dermatology, 2021). It's gentle enough for daily use on delicate skin, which is why Era Organics' Vaginal Moisturizer pairs it with sodium hyaluronate and aloe in a fragrance-free, paraben-free, sulfate-free formula that helps moisturize vulvar skin — including for menopausal and perimenopausal women. Do a quick patch test on your inner arm before first use, especially if you have a ragweed or Asteraceae sensitivity, since the formula also contains sunflower oil.
+
+*Reference: PMID 34121304*
+
+### Which type of coconut oil is best for skin — virgin, refined, or organic?
+
+Virgin coconut oil has the clearest evidence behind it: applied overnight, it produced a 25% increase in perceived skin moisture in a 2021 Journal of Cosmetic Dermatology study (Saraogi et al.). Whatever the form, coconut oil works as a rich emollient — its medium-chain fatty acids, mainly lauric acid, bind to the outer layers of skin and help reduce moisture loss. That's why Era Organics' fragrance-free, paraben-free Vaginal Moisturizer includes coconut oil alongside sodium hyaluronate and aloe, so delicate vulvar skin is moisturized at multiple layers at once. Patch test a dime-sized amount on your inner arm before first use, especially if you have a known ragweed or Asteraceae sensitivity, since the formula also contains sunflower oil.
+
+*Reference: [Skin Type Dry](https://www.eraorganics.com/blogs/beauty-guide/skin-type-dry) · PMID 34121304, 30152555*
