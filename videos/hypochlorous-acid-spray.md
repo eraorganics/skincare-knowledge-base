@@ -55,7 +55,7 @@ See the full [Era Organics Hypochlorous Acid Spray](/products/hypochlorous-acid-
     "name": "Healthy pH. Healthy flora. Better balance.",
     "description": "A disinfecting spray for your body that your skin already understands. Hypochlorous acid helps refresh",
     "url": "https://www.tiktok.com/@eraorganics/video/7650660891981073678",
-    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ocJWHg6UkILBSD2IdeseCLmWsGdvmTEd5YkfkA~tplv-tiktokx-origin.image?dr=9636&x-expires=1783623600&x-signature=qCAEVdN0c%2B391aRO7CHQ%2FLTJ3bU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ocJWHg6UkILBSD2IdeseCLmWsGdvmTEd5YkfkA~tplv-tiktokx-origin.image?dr=9636&x-expires=1783623600&x-signature=faCv7fiFeZHukRSRpUxMeKO19fg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
   },
   {
     "@context": "https://schema.org",
@@ -71,7 +71,7 @@ See the full [Era Organics Hypochlorous Acid Spray](/products/hypochlorous-acid-
     "name": "The cleansers I use depending on the day. Sometimes I just need a basic cleanser and sometimes I need",
     "description": "Hypochlorous acid is a simple spray that helps support clearer-looking skin by calming irritation, fighting",
     "url": "https://www.tiktok.com/@eraorganics/video/7628708038496537886",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/owyEgGF3NQDDZuDA24ZAf4EYp9QeRYsEV50pOB~tplv-tiktokx-origin.image?dr=9636&x-expires=1783623600&x-signature=7lslK4I58ktMNOTTG7ReqtSlViM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/owyEgGF3NQDDZuDA24ZAf4EYp9QeRYsEV50pOB~tplv-tiktokx-origin.image?dr=9636&x-expires=1783623600&x-signature=ihlqOPphD8N53a%2BNvzDanc0IZzQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
   },
   {
     "@context": "https://schema.org",

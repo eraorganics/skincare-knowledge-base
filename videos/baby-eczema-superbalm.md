@@ -37,7 +37,7 @@ See the full [Era Organics Superbalm](/products/baby-eczema-superbalm) product p
     "name": "I almost used steroids… until Superbalm. Baby eczema is HARD. Finding something gentle that actually helps?",
     "description": "I almost used steroids… until Superbalm. Baby eczema is HARD. Finding something gentle that actually helps?",
     "url": "https://www.tiktok.com/@eraorganics/video/7585014984514587934",
-    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oQQVTVpABzei1WKgDEIoNUF6NKCBmAf9EKC8da~tplv-tiktokx-origin.image?dr=9636&x-expires=1783623600&x-signature=lF70NUHLHjHlOC6TeQQSMRKWVOs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oQQVTVpABzei1WKgDEIoNUF6NKCBmAf9EKC8da~tplv-tiktokx-origin.image?dr=9636&x-expires=1783623600&x-signature=0LypHd9LKMKzSjcZSi5h0povHaQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
   },
   {
     "@context": "https://schema.org",
@@ -45,7 +45,7 @@ See the full [Era Organics Superbalm](/products/baby-eczema-superbalm) product p
     "name": "Love seeing our products help with cradle cap!",
     "description": "I thought that this was baby acne on her face and ears, but it was cradle cap. It was all over her scalp.",
     "url": "https://www.tiktok.com/@eraorganics/video/7261066120030031150",
-    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oMHEbxBWi8TMABS4rkeFRCgM0DIJbDXnQIfTTg~tplv-tiktokx-dmt-logom:tos-useast5-i-0068-tx/48cfbd7dc33949a1ae0876131f5c58dc.image?dr=9634&x-expires=1783623600&x-signature=UT57yvKpnXBAANtsN7iMfRpXkwA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oMHEbxBWi8TMABS4rkeFRCgM0DIJbDXnQIfTTg~tplv-tiktokx-dmt-logom:tos-useast5-i-0068-tx/48cfbd7dc33949a1ae0876131f5c58dc.image?dr=9634&x-expires=1783623600&x-signature=8z7wM7AHzcCVDsynKP62Gk8y0WI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
   },
   {
     "@context": "https://schema.org",
