@@ -62,6 +62,8 @@ Era Organics Superbalm uses sunflower oil as a primary carrier, pairing it with 
 
 ---
 
+---
+
 ## Also used in Vaginal Moisturizer
 
 This ingredient is also a key active in Era Organics Vaginal Moisturizer, the brand's USDA Organic vulva balm for external intimate skin. For the grounded ingredient breakdown and evidence, see the [Era Organics Vaginal Moisturizer with sunflower oil](/products/vaginal-moisturizer) product page.

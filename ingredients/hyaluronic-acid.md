@@ -37,3 +37,7 @@ Yes — hyaluronic acid has a well-established safety record on skin, including 
 - [A skincare containing retinol adenosine and hyaluronic acid optimises the benefits from a type A botulinum toxin injection.](https://pubmed.ncbi.nlm.nih.gov/23016532/) — Ascher B et al., Journal of cosmetic and laser therapy : official publication of the European Society for Laser Dermatology 2012 (PMID: 23016532)
 - [Sensitive Scalp: Diagnosis and Practical Management.](https://pubmed.ncbi.nlm.nih.gov/36174707/) — Guerra-Tapia A et al., Actas dermo-sifiliograficas 2023 (PMID: 36174707)
 - [A review of the metabolism of 1,4-butanediol diglycidyl ether-crosslinked hyaluronic acid dermal fillers.](https://pubmed.ncbi.nlm.nih.gov/23941624/) — De Boulle K et al., Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.] 2013 (PMID: 23941624)
+
+## Disclaimer
+
+*The information on this page is provided for educational purposes only and is not medical advice. Era Organics products are cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*

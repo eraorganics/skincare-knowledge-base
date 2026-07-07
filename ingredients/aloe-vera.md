@@ -35,3 +35,7 @@ Yes — aloe vera is a water-rich botanical whose polysaccharides bind moisture 
 - [Aloe vera for prevention of radiation-induced dermatitis: A systematic review and cumulative analysis of randomized controlled trials.](https://pubmed.ncbi.nlm.nih.gov/36249738/) — Wang T et al., Frontiers in pharmacology 2022 (PMID: 36249738)
 - [The Effectiveness of Aloe Vera on Relief of Irritation and Nipple Pain in Lactating Women: Systematic Review and Meta-Analysis.](https://pubmed.ncbi.nlm.nih.gov/36388847/) — Maleki A et al., Obstetrics and gynecology international 2022 (PMID: 36388847)
 - [Effectiveness and Tolerability of Natural Herbal Formulations in the Prevention of Radiation-Induced Skin Toxicity in Patients Undergoing Radiotherapy.](https://pubmed.ncbi.nlm.nih.gov/32525718/) — Koukourakis G et al., The international journal of lower extremity wounds 2022 (PMID: 32525718)
+
+## Disclaimer
+
+*The information on this page is provided for educational purposes only and is not medical advice. Era Organics products are cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*

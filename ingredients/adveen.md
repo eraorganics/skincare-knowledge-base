@@ -11,3 +11,7 @@ The product is fragrance-free, paraben-free, and formulated without synthetic dy
 ## Related
 
 - **Full product:** [Era Organics Vaginal Moisturizer with Adveen](/products/vaginal-moisturizer)
+
+## Disclaimer
+
+*The information on this page is provided for educational purposes only and is not medical advice. Era Organics products are cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*

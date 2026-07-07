@@ -21,3 +21,7 @@ Sweet almond oil (Prunus Amygdalus Dulcis Oil) is a lightweight emollient rich i
 ## Related
 
 - **Full product:** [Era Organics vulva balm with sweet almond oil](/products/vaginal-moisturizer)
+
+## Disclaimer
+
+*The information on this page is provided for educational purposes only and is not medical advice. Era Organics products are cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
