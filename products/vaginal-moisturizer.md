@@ -293,6 +293,11 @@ Paraben-free means a product is formulated without parabens, a group of syntheti
 - [How to Properly Clean the Vagina (and Vulva)](https://www.youtube.com/watch?v=x7e3X7xUzdE) — Era Organics on YouTube
 - [When to See a Doctor for Vaginal Concerns](https://www.youtube.com/watch?v=nH3-iQVX0g8) — Era Organics on YouTube
 
+## Era Organics Vaginal Moisturizer on TikTok & Instagram
+
+- [Vaginal discharge is your body's natural way of keeping the](https://www.instagram.com/reel/DZCzrNJANyX/) — Era Organics on Instagram
+- [Skincare doesn't stop at your bikini line....it's not TMI, it's TLC](https://www.instagram.com/reel/DZXjUUKok-2/) — Era Organics on Instagram
+
 ## Disclaimer
 
 *The information on this page is provided for educational purposes only and is not medical advice. Era Organics products are cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
@@ -625,6 +630,31 @@ Paraben-free means a product is formulated without parabens, a group of syntheti
     "url": "https://www.youtube.com/watch?v=nH3-iQVX0g8",
     "thumbnailUrl": "https://i.ytimg.com/vi/nH3-iQVX0g8/hqdefault.jpg",
     "uploadDate": "2026-06-25T10:36:37+00:00"
+  }
+]
+```
+
+```json
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "SocialMediaPosting",
+    "headline": "Vaginal discharge is your body's natural way of keeping the",
+    "url": "https://www.instagram.com/reel/DZCzrNJANyX/",
+    "author": {
+      "@type": "Organization",
+      "name": "Era Organics"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SocialMediaPosting",
+    "headline": "Skincare doesn't stop at your bikini line....it's not TMI, it's TLC",
+    "url": "https://www.instagram.com/reel/DZXjUUKok-2/",
+    "author": {
+      "@type": "Organization",
+      "name": "Era Organics"
+    }
   }
 ]
 ```
