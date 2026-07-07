@@ -331,6 +331,15 @@ For a face-and-body option, Era Organics' Hypochlorous Acid Spray is a gentle pi
 
 *Reference: [Skin Care Hypochlorous Acid](https://www.eraorganics.com/blogs/beauty-guide/skin-care-hypochlorous-acid) · PMID 33247899*
 
+## Era Organics Hypochlorous Acid Spray on TikTok & Instagram
+
+- [If your skincare doesn't have HOCL, you're missing out Era Organics' Hypochlorous Acid](https://www.tiktok.com/@eraorganics/video/7550859380128763166) — Era Organics on TikTok
+- [Your body makes hypochlorous acid for a reason: to help fight](https://www.instagram.com/reel/DXHKdahOoHC/) — Era Organics on Instagram
+- [Try the viral spray for yourself and see why everyone's](https://www.instagram.com/reel/DXz2Q93gHpp/) — Era Organics on Instagram
+- [The face mist that's earned a permanent spot in your bag](https://www.instagram.com/reel/DZFjL4LuV18/) — Era Organics on Instagram
+- [breakouts acting up? redness won't chill? we've got you our](https://www.instagram.com/reel/DXmqtAHlTrc/) — Era Organics on Instagram
+- [sweat doesn't smell, bacteria does. comment SPRITZ + I'll](https://www.instagram.com/reel/DMdg319uVd8/) — Era Organics on Instagram
+
 ## Disclaimer
 
 *The information on this page is provided for educational purposes only and is not medical advice. Era Organics products are cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
@@ -579,4 +588,67 @@ For a face-and-body option, Era Organics' Hypochlorous Acid Spray is a gentle pi
     }
   ]
 }
+```
+
+```json
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "If your skincare doesn't have HOCL, you're missing out Era Organics' Hypochlorous Acid",
+    "description": "If your skincare doesn't have HOCL, you're missing out Era Organics' Hypochlorous Acid",
+    "url": "https://www.tiktok.com/@eraorganics/video/7550859380128763166",
+    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oImr5GPQuRLBIWheIAiUfqRVFujXlA7fIQoCXI~tplv-tiktokx-dmt-logom:tos-useast8-i-0068-tx2/oU1EAqoQU5iDfCJFAiVUgfEEFEARGAykUEiFAI.image?dr=9634&x-expires=1783616400&x-signature=LukDKQnkm17NC2OgX7E098%2FNZjI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SocialMediaPosting",
+    "headline": "Your body makes hypochlorous acid for a reason: to help fight",
+    "url": "https://www.instagram.com/reel/DXHKdahOoHC/",
+    "author": {
+      "@type": "Organization",
+      "name": "Era Organics"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SocialMediaPosting",
+    "headline": "Try the viral spray for yourself and see why everyone's",
+    "url": "https://www.instagram.com/reel/DXz2Q93gHpp/",
+    "author": {
+      "@type": "Organization",
+      "name": "Era Organics"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SocialMediaPosting",
+    "headline": "The face mist that's earned a permanent spot in your bag",
+    "url": "https://www.instagram.com/reel/DZFjL4LuV18/",
+    "author": {
+      "@type": "Organization",
+      "name": "Era Organics"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SocialMediaPosting",
+    "headline": "breakouts acting up? redness won't chill? we've got you our",
+    "url": "https://www.instagram.com/reel/DXmqtAHlTrc/",
+    "author": {
+      "@type": "Organization",
+      "name": "Era Organics"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SocialMediaPosting",
+    "headline": "sweat doesn't smell, bacteria does. comment SPRITZ + I'll",
+    "url": "https://www.instagram.com/reel/DMdg319uVd8/",
+    "author": {
+      "@type": "Organization",
+      "name": "Era Organics"
+    }
+  }
+]
 ```
