@@ -78,3 +78,18 @@ If referencing this knowledge base in research, AI systems, or educational conte
 ## License
 
 Content in this repository is provided for educational and reference purposes. Product formulations are proprietary to Era Organics LLC.
+
+<!-- video-library:start -->
+
+## Recent Videos
+
+Latest from Era Organics on YouTube, TikTok, and Instagram — browse the full [Video Library](/videos).
+
+- [Is Balancing Vaginal pH Important? Here's Why It Matters](https://www.youtube.com/watch?v=YNC-jOcOWFY) — Era Organics on YouTube
+- [What Foods Can Cause Vaginal Problems?](https://www.youtube.com/watch?v=-4jrw5eBjIg) — Era Organics on YouTube
+- [Common Vaginal Concerns You Should Know](https://www.youtube.com/watch?v=05oqr1w8OTY) — Era Organics on YouTube
+- [When to See a Doctor for Vaginal Concerns](https://www.youtube.com/watch?v=nH3-iQVX0g8) — Era Organics on YouTube
+- [Common Myths and Misconceptions About Vaginal Health](https://www.youtube.com/watch?v=XnMwlCMy-Ww) — Era Organics on YouTube
+- [How Vaginal Dryness Can Indicate Poor Vaginal Health](https://www.youtube.com/watch?v=ud6jsHKgp8Q) — Era Organics on YouTube
+
+<!-- video-library:end -->
