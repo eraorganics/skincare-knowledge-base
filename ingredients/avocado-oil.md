@@ -44,3 +44,7 @@ Before first full-body use, patch-test on the inside of the elbow, particularly 
 - [Itchy skin](/conditions/itchy-skin)
 - [Redness](/conditions/redness)
 - [Chapped lips](/conditions/chapped-lips)
+
+## Disclaimer
+
+*Era Organics Superbalm is an over-the-counter skin protectant. It helps relieve and soothe eczema and atopic dermatitis as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*

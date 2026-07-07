@@ -55,3 +55,7 @@ The [Era Organics cradle cap treatment](https://sl.bing.net/h7LqrSxILrU) also ap
 - [Avocado oil](/ingredients/avocado-oil)
 - [Gluten free oats](/ingredients/gluten-free-oats)
 - [Cocoa seed butter](/ingredients/cocoa-seed-butter)
+
+## Disclaimer
+
+*Era Organics Superbalm is an over-the-counter skin protectant. It helps relieve and soothe eczema and atopic dermatitis as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*

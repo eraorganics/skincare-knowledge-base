@@ -34,3 +34,7 @@ Era Organics Superbalm uses oats sourced and processed to minimize cross-contami
 - [Dry skin](/conditions/dry-skin)
 - [Itchy skin](/conditions/itchy-skin)
 - [Redness](/conditions/redness)
+
+## Disclaimer
+
+*Era Organics Superbalm is an over-the-counter skin protectant. It helps relieve and soothe eczema and atopic dermatitis as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*

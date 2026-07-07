@@ -52,3 +52,7 @@ One caveat: chamomile belongs to the Asteraceae (ragweed) family and can act as 
 - [[Effect of chamomile on wound healing--a clinical double-blind study].](https://pubmed.ncbi.nlm.nih.gov/3318194/) — Glowania H et al., Zeitschrift fur Hautkrankheiten 1987 (PMID: 3318194)
 - [Honey and Chamomile Activate Keratinocyte Antioxidative Responses via the KEAP1/NRF2 System.](https://pubmed.ncbi.nlm.nih.gov/32982358/) — Ogawa T et al., Clinical, cosmetic and investigational dermatology 2020 (PMID: 32982358)
 - [Comparison of liposomal gel with and without addition of chamomile for prevention of radiation dermatitis in head and neck cancer patients: A randomized controlled trial.](https://pubmed.ncbi.nlm.nih.gov/39032836/) — Menêses A et al., Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology 2024 (PMID: 39032836)
+
+## Disclaimer
+
+*Era Organics Superbalm is an over-the-counter skin protectant. It helps relieve and soothe eczema and atopic dermatitis as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*

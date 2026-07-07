@@ -22,3 +22,7 @@ Superbalm is also an OTC skin protectant that helps relieve and soothe eczema an
 
 - [Beeswax](/ingredients/beeswax)
 - [Coconut oil](/ingredients/coconut-oil)
+
+## Disclaimer
+
+*Era Organics Superbalm is an over-the-counter skin protectant. It helps relieve and soothe eczema and atopic dermatitis as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*

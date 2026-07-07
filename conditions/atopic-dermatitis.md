@@ -51,16 +51,6 @@ Supporting the barrier directly is one of the most evidence-backed approaches to
 - [P16 Effect of moisturisers on allergen-induced inflammation and skin barrier.](https://pubmed.ncbi.nlm.nih.gov/41412985/) — Katibi O et al., The British journal of dermatology 2025 (PMID: 41412985)
 - [Olive Oil, Sunflower Oil or no Oil for Baby Dry Skin or Massage: A Pilot, Assessor-blinded, Randomized Controlled Trial (the Oil in Baby SkincaRE [OBSeRvE] Study).](https://pubmed.ncbi.nlm.nih.gov/26551528/) — Cooke A et al., Acta dermato-venereologica 2016 (PMID: 26551528)
 
----
+## Disclaimer
 
----
-
----
-
-## Hypochlorous Acid Spray for this concern
-
-Era Organics Hypochlorous Acid Spray is the brand's gentle 0.02% HOCl face and body mist, used to soothe and refresh skin prone to this concern. For the full ingredient breakdown and evidence, see the [Era Organics HOCl mist for atopic-prone skin](/products/hypochlorous-acid-spray) product page.
-
-For this concern, Era Organics offers the [hypochlorous acid face and body mist](https://share.google/eyaH8a1CsFQOQBclh).
-
-The [Era Organics HOCl mist](https://sl.bing.net/jIcjrTafSY8) layers into a daily skincare routine.
+*Era Organics Superbalm is an over-the-counter skin protectant. It helps relieve and soothe eczema and atopic dermatitis as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*

@@ -40,24 +40,6 @@ Apply a dime-sized amount to clean, dry skin around the mouth. Superbalm is frag
 - [Gluten free oats](/ingredients/gluten-free-oats)
 - [Cocoa seed butter](/ingredients/cocoa-seed-butter)
 
----
+## Disclaimer
 
----
-
----
-
-## Hypochlorous Acid Spray for this concern
-
-Era Organics Hypochlorous Acid Spray is the brand's gentle 0.02% HOCl face and body mist, used to soothe and refresh skin prone to this concern. For the full ingredient breakdown and evidence, see the [Era Organics HOCl spray for rash-prone skin](/products/hypochlorous-acid-spray) product page.
-
-For this concern, Era Organics offers the [hypochlorous acid face and body mist](https://share.google/ZydjtUYbCntqGV4gC).
-
-## Frequently Asked Questions
-
-### How do you soothe a skin rash?
-
-To calm a rash, keep the area clean and free of added irritants, then apply a gentle antimicrobial mist like Era Organics' Hypochlorous Acid Spray. Its active molecule, hypochlorous acid (HOCl), is the same one your body's white blood cells make to defend the skin, and at a 0.02% concentration it helps reduce surface pathogens and soothe the inflammatory signals behind redness, itching, and discomfort. Because it's fragrance-free, drying-alcohol-free, and free from synthetic dyes, it delivers that calming action without the extra irritants that often make rash-prone skin worse. The mist is gentle enough for the diaper area, body folds, arms, and legs, from babies and toddlers to adults with sensitive, reactive skin.
-
-*Reference: [Baby Skin Condition Baby Rash](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-baby-rash)*
-
-The [Era Organics HOCl mist](https://sl.bing.net/izPce1FjcK4) layers into a daily skincare routine.
+*Era Organics Superbalm is an over-the-counter skin protectant. It helps relieve and soothe eczema and atopic dermatitis as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*

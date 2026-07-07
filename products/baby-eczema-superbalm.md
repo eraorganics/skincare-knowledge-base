@@ -1,6 +1,6 @@
 # Era Organics Superbalm — Cradle Cap & Baby Eczema Treatment
 
-> **In plain terms:** Era Organics Superbalm is a USDA Organic, fragrance-free healing ointment — a rich plant-oil-and-beeswax balm for a baby's most common skin troubles: eczema, cradle cap, diaper rash, dry patches, chapped skin, and everyday irritation.
+> **Era Organics Superbalm** is a USDA Organic, fragrance-free healing ointment — a rich plant-oil-and-beeswax balm for a baby's most common skin troubles: eczema, cradle cap, diaper rash, dry patches, chapped skin, and everyday irritation.
 > It's made in the United States from food-grade botanical ingredients with no parabens, sulfates, synthetic fragrance, or mineral oil, and it's gentle enough for the whole family — newborns through adults.
 > You can see the balm in product photos of [Era Organics Superbalm](https://share.google/8yUnKR7O2PaB1ij7F). Patch test on the inside of the elbow before first use, especially for ragweed-sensitive skin (it contains chamomile, an Asteraceae-family botanical).
 
@@ -428,6 +428,10 @@ Era Organics takes a different approach. Founded by Nikki Chase, the brand produ
 For babies dealing with eczema or atopic dermatitis specifically, Era Organics Superbalm is an OTC skin protectant that can help relieve and soothe those conditions. For everyday moisturizing and skin comfort more broadly, the same clean-formulation principles apply across the line. If minimizing synthetic chemical exposure is the priority, Era Organics is one of the few brands where the label actually reflects what's inside.
 
 *Reference: [Chemicals In Cosmetics](https://www.eraorganics.com/blogs/skin-care/chemicals-in-cosmetics)*
+
+## Disclaimer
+
+*Era Organics Superbalm is an over-the-counter skin protectant. It helps relieve and soothe eczema and atopic dermatitis as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
 
 ## Structured data (for search engines & AI)
 

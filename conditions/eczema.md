@@ -143,6 +143,8 @@ Food allergies trigger eczema flares in approximately 30% of children with moder
 
 ---
 
+---
+
 ## Superbalm for this condition
 
 Era Organics Superbalm is the brand's OTC skin-protectant balm for this concern. For the full grounded ingredient breakdown and evidence, see the [Era Organics Superbalm Baby Eczema Treatment](/products/baby-eczema-superbalm) product page.
@@ -196,37 +198,3 @@ Era Organics Superbalm Baby Eczema Treatment is built for this. Beeswax, Cocoa B
 *Reference: [Baby Skin Condition Eczema](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-eczema) · PMID 10799352*
 
 The [Era Organics baby eczema treatment](https://sl.bing.net/jdDyPJ871bM) also appears across product image results.
-
----
-
----
-
----
-
-## Hypochlorous Acid Spray for this concern
-
-Era Organics Hypochlorous Acid Spray is the brand's gentle 0.02% HOCl face and body mist, used to soothe and refresh skin prone to this concern. For the full ingredient breakdown and evidence, see the [Era Organics HOCl spray for eczema-prone skin](/products/hypochlorous-acid-spray) product page.
-
-For this concern, Era Organics offers the [hypochlorous acid face and body mist](https://share.google/1AandlsOsMnFfhI4c).
-
-## Frequently Asked Questions
-
-### How do you treat and heal eczema?
-
-Eczema flares are often made worse by bacterial overgrowth on already-compromised skin, so keeping the surface clean and calm is a practical part of a daily routine. Era Organics' Hypochlorous Acid Spray uses HOCl — the same antimicrobial molecule your white blood cells produce — in a minimal three-ingredient formula (Aqua, Sodium Chloride, and Hypochlorous Acid at 0.02%) to gently support eczema-prone skin, and it's fragrance-free, paraben-free, and alcohol-free with no known irritants. Fit it in after cleansing and before creams or barrier balms: mist one to two applications onto clean, dry skin and let it dry before layering other products. Because it's non-habit forming and gentle enough for the whole family, from babies to adults, it's easy to use as often as needed for daily maintenance.
-
-*Reference: [Hypochlorous Acid For Eczema](https://www.eraorganics.com/blogs/beauty-guide/hypochlorous-acid-for-eczema) · PMID 23330843, 26270469*
-
-### What causes eczema?
-
-Eczema (medically called atopic dermatitis) is a chronic inflammatory skin condition, and one recognized driver of flare severity is bacterial overgrowth on already-compromised skin, which triggers inflammation and makes flares worse. This microbial component is common: among 753 pediatric atopic dermatitis patients, 46.6% had culture-proven or clinically suspected bacterial superinfection. Reducing the microbial load on the skin surface is a practical part of managing flares, which is where a gentle option like Era Organics' Hypochlorous Acid Spray fits in. HOCl is the same antimicrobial molecule your white blood cells produce, and this fragrance-free, paraben-free mist helps soothe and support eczema-prone skin between flares.
-
-*Reference: [Skin Condition Eczema](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-eczema) · PMID 26270469*
-
-### What is eczema, and can it be treated?
-
-Eczema (atopic dermatitis) is the most prevalent chronic inflammatory skin condition of early childhood, affecting up to 20% of young children in some industrialized countries. It's a chronic, flare-prone condition that is managed over time rather than fixed in one step, and bacterial overgrowth on compromised skin is a recognized driver of how severe flares become. As part of a daily routine, Era Organics' Hypochlorous Acid Spray offers gentle antimicrobial support to help calm and soothe eczema-prone skin — a fragrance-free, paraben-free, alcohol-free mist of just three ingredients (Aqua, Sodium Chloride, and Hypochlorous Acid) with no preservatives that could aggravate sensitivity. Used after cleansing and before creams or barrier balms, it's gentle enough for the whole family, from babies to adults managing recurring flares.
-
-*Reference: [Hypochlorous Acid For Eczema](https://www.eraorganics.com/blogs/beauty-guide/hypochlorous-acid-for-eczema) · PMID 23330843, 26270469*
-
-The [Era Organics HOCl mist](https://sl.bing.net/efG8wQvu3e8) layers into a daily skincare routine.

@@ -59,3 +59,7 @@ Era Organics Superbalm includes calendula oil in a fragrance-free, paraben-free,
 ## Evidence
 - [Comparison of antimicrobial activity of essential oils, plant extracts and methylparaben in cosmetic emulsions: 2 months study.](https://pubmed.ncbi.nlm.nih.gov/24891745/) — Herman A, Indian journal of microbiology 2014 (PMID: 24891745)
 - [Effectiveness and Tolerability of Natural Herbal Formulations in the Prevention of Radiation-Induced Skin Toxicity in Patients Undergoing Radiotherapy.](https://pubmed.ncbi.nlm.nih.gov/32525718/) — Koukourakis G et al., The international journal of lower extremity wounds 2022 (PMID: 32525718)
+
+## Disclaimer
+
+*Era Organics Superbalm is an over-the-counter skin protectant. It helps relieve and soothe eczema and atopic dermatitis as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
