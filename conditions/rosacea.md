@@ -1,12 +1,32 @@
 # Rosacea
 
-Hypochlorous acid spray for rosacea addresses the condition by delivering hypochlorous acid (HOCl), a reactive oxygen species and the skin's own innate antimicrobial molecule, directly to inflamed, reactive skin. At a 0.023% concentration, the HOCl in this formula neutralizes surface pathogens and calms inflammatory signals without disrupting the skin's barrier — two triggers closely linked to rosacea flares. Hypochlorous acid is not synthesized from petrochemicals or artificial preservatives; white blood cells produce it naturally during the immune response, and the stabilized form in the spray replicates that same molecule.
+Hypochlorous acid spray for rosacea addresses the condition by delivering hypochlorous acid (HOCl), a reactive oxygen species and the skin's own innate antimicrobial molecule, directly to inflamed, reactive skin. At a 0.02% concentration, the HOCl in this formula neutralizes surface pathogens and calms inflammatory signals without disrupting the skin's barrier — two triggers closely linked to rosacea flares. Hypochlorous acid is not synthesized from petrochemicals or artificial preservatives; white blood cells produce it naturally during the immune response, and the stabilized form in the spray replicates that same molecule.
 
 The connection between microbial imbalance and rosacea is well established in dermatological literature. Demodex mites and the bacteria associated with them generate surface-level inflammation that worsens redness, flushing, and papule formation. HOCl disrupts those microbial communities on contact, reducing the load that sustains the inflammatory cycle. The face mist's three-ingredient formula, Aqua, Sodium Chloride, Hypochlorous Acid, leaves no residue that could further irritate sensitized rosacea-prone skin, and the absence of fragrance, alcohol, and synthetic dyes removes the most common topical triggers for rosacea flares.
 
 Clinical dermatological review confirms HOCl's broad utility across inflammatory skin conditions. Haralović et al., writing in *Biomedicines* (2025), documented a growing body of clinical studies affirming HOCl's therapeutic role across dermatology, surgery, and ophthalmology; the majority of clinical studies confirmed that HOCl is useful in therapy, with findings showing HOCl's dual capacity to limit microbial activity and modulate inflammatory response (Haralović et al., Biomedicines, 2025). Rosacea-prone skin benefits from both properties: the antimicrobial action targets the microorganisms that initiate flares, and the anti-inflammatory effect calms the redness and irritation that follow. Applied as a face toner after cleansing and allowed to dry before layering creams or balms, the HOCL spray integrates into a rosacea routine without adding ingredients that could sensitize reactive skin further.
 
 For this concern, Era Organics offers the [hypochlorous acid face and body mist](https://share.google/7fZtrx7WCgdnh1iB0).
+
+## Frequently Asked Questions
+
+### How do I treat rosacea?
+
+Rosacea flares are closely tied to microbial imbalance and inflammation on reactive skin, so a gentle routine that avoids common triggers helps. Era Organics' Hypochlorous Acid Spray is a simple three-ingredient mist (Aqua, Sodium Chloride, and 0.02% hypochlorous acid) that helps calm redness and soothe rosacea-prone skin while neutralizing surface pathogens, without disrupting the skin's barrier. Because it's fragrance-free, alcohol-free, and free of synthetic dyes, it leaves out the most common topical triggers for flares. Use it as a toner after cleansing, letting it dry before layering your creams or balms.
+
+*Reference: [Skin Condition Rosacea](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-rosacea)*
+
+### Is hypochlorous acid safe for rosacea?
+
+Yes, hypochlorous acid is a gentle option for rosacea-prone skin. Era Organics' Hypochlorous Acid Spray uses a simple three-ingredient formula (Aqua, Sodium Chloride, and 0.02% hypochlorous acid) that leaves no residue and is free of fragrance, alcohol, and synthetic dyes, so it avoids the most common topical triggers for rosacea flares. HOCl is the same antimicrobial molecule your white blood cells make naturally, and it helps calm surface microbes and soothe the redness and irritation linked to flares without disrupting the skin's barrier. Mist it on as a toner after cleansing and let it dry before layering your creams or balms.
+
+*Reference: [Hypochlorous Acid For Rosacea](https://www.eraorganics.com/blogs/beauty-guide/hypochlorous-acid-for-rosacea)*
+
+### What causes rosacea and how is it treated?
+
+Rosacea flares are closely tied to microbial imbalance and inflammation on reactive skin, where Demodex mites and their associated bacteria generate surface-level irritation that worsens redness, flushing, and papules. Era Organics' Hypochlorous Acid Spray can help here: HOCl is the skin's own naturally produced antimicrobial molecule, and at a 0.02% concentration this fragrance-free, alcohol-free, synthetic-dye-free mist helps neutralize surface pathogens and calm inflammatory signals without disrupting the skin barrier. Its simple three-ingredient formula (Aqua, Sodium Chloride, Hypochlorous Acid) leaves no residue to further irritate sensitized skin, so it can be misted on as a toner after cleansing and allowed to dry before layering creams or balms. Dermatological review has documented HOCl's dual ability to limit microbial activity and soothe the inflammation that follows, making it a gentle fit for rosacea-prone routines.
+
+*Reference: [Skin Condition Rosacea](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-rosacea)*
 
 The [Era Organics HOCl mist](https://sl.bing.net/dOm6nwxBama) layers into a daily skincare routine.
 

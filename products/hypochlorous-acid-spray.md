@@ -287,6 +287,50 @@ The HOCL skin spray is family owned and operated in the USA, and buying through 
 
 Shoppers who encounter the hypochlorous acid face spray on third-party marketplaces should verify that the seller is the authorized Era Organics account, since independent resellers are not subject to Era Organics' storage protocols. The fragrance-free, paraben-free, and phenoxyethanol-free formula carries no preservative system beyond the inherent antimicrobial stability of hypochlorous acid itself, so temperature control during shipping and warehousing directly affects product integrity. Ordering from eraorganics.com provides the direct fulfillment chain Era Organics controls from production to delivery.
 
+## Frequently Asked Questions
+
+### What is hypochlorous acid spray?
+
+Hypochlorous acid (HOCl) is the same antimicrobial molecule your white blood cells naturally produce as a first-line immune defense, which is exactly why it's so compatible with living skin. Era Organics' Hypochlorous Acid Spray puts that molecule into a gentle, fragrance-free, drying-alcohol-free face and body mist built on just three ingredients — hypochlorous acid, sodium chloride, and water — so it delivers targeted antimicrobial action without the harsh load of traditional disinfectants. That short, simple formula helps soothe and calm everyday irritation like redness, razor burn, bug bites, and chapping. Patch testing on the inner arm before first use is still standard guidance, especially for ragweed-sensitive users given its broad application range.
+
+*Reference: [Skin Care Hypochlorous Acid](https://www.eraorganics.com/blogs/beauty-guide/skin-care-hypochlorous-acid)*
+
+### When should I apply hypochlorous acid spray in my skincare routine (before or after moisturizer, with other actives)?
+
+Apply Era Organics' Hypochlorous Acid Spray right after cleansing and before your creams and balms. Mist 1–2 sprays onto clean, dry skin, then let it dry before layering additional products—no rinsing needed. Because the formula is just three ingredients (Aqua, Sodium Chloride, and Hypochlorous Acid) and is fragrance-free and drying-alcohol-free, it slots cleanly into any routine to help calm and soothe skin without disrupting the moisturizer or actives that follow.
+
+*Reference: [Skin Care Hypochlorous Acid](https://www.eraorganics.com/blogs/beauty-guide/skin-care-hypochlorous-acid)*
+
+### How does hypochlorous acid compare to alcohol, toner, and hand sanitizer?
+
+Unlike alcohol, alcohol-based toners, and traditional hand sanitizers that rely on a harsh chemical load, hypochlorous acid (HOCl) is the same antimicrobial molecule your own white blood cells produce, so it delivers targeted antimicrobial action while staying compatible with living skin. That means Era Organics' Hypochlorous Acid Spray can help soothe redness and irritation without the drying effect of those alternatives — it's drying-alcohol-free and fragrance-free, with a short three-ingredient formula (hypochlorous acid, sodium chloride, and water). Studies comparing skin antiseptic agents point to HOCl's role as a gentler option, and its antimicrobial usefulness has been noted across dermatology and surgery. As always, patch test on the inner arm before first use.
+
+*Reference: [Hypochlorous Acid Hand Sanitizer](https://www.eraorganics.com/blogs/beauty-guide/hypochlorous-acid-hand-sanitizer) · PMID 33247899, 41462936*
+
+### Is hypochlorous acid safe during pregnancy and breastfeeding?
+
+Because pregnancy and nursing make you extra careful about what goes on your skin, it helps that Hypochlorous Acid Spray keeps the formula about as simple as it gets: hypochlorous acid (HOCl), sodium chloride, and water are the only three ingredients, with no synthetic preservatives, drying alcohols, or added fragrance. HOCl is actually the same oxidant your own white blood cells produce as a first-line defense, which is part of why it's so compatible with living tissue. As with any product used during pregnancy or breastfeeding, patch test on your inner arm before first use and check with your OB or midwife if you have any concerns.
+
+*Reference: [Hypochlorous Acid For Pregnancy](https://www.eraorganics.com/blogs/beauty-guide/hypochlorous-acid-for-pregnancy)*
+
+### What shouldn't you mix with hypochlorous acid?
+
+The simplest rule is not to mix Era Organics' Hypochlorous Acid Spray directly with other products in the same layer. It works through an oxidative action, and its pure, three-ingredient formula (Aqua, Sodium Chloride, and Hypochlorous Acid) means there are no competing agents to interrupt that mechanism, so combining it with other actives at once can blunt what it does. Instead, apply 1-2 sprays to clean, dry skin and let it dry fully before layering creams or balms on top. This fragrance-free, alcohol-free mist is meant to sit between cleansing and your heavier products rather than be blended into them.
+
+*Reference: [Skin Care Hypochlorous Acid](https://www.eraorganics.com/blogs/beauty-guide/skin-care-hypochlorous-acid)*
+
+### Can I use hypochlorous acid spray for wound healing or procedure aftercare (microneedling, tattoos)?
+
+Era Organics Hypochlorous Acid Spray is a gentle, fragrance-free mist that helps soothe and moisturize minor wounds, so it can be a comforting option to keep skin calm and clean after procedures like microneedling or tattoos. It's designed to be gentle enough for a light, no-rinse spritz whenever the area feels irritated. Hypochlorous acid itself has been studied as a gentle skin preparation in aesthetic procedure settings. For anything beyond minor everyday care, follow your provider's aftercare instructions.
+
+*Reference: [Hypochlorous Acid For Wound Care](https://www.eraorganics.com/blogs/beauty-guide/hypochlorous-acid-for-wound-care) · PMID 42009924*
+
+### What's the best hypochlorous acid spray and where do you buy it?
+
+For a face-and-body option, Era Organics' Hypochlorous Acid Spray is a gentle pick: it's a skin-safe antimicrobial mist with just three ingredients (Aqua, Sodium Chloride, and 0.02% hypochlorous acid), the same molecule your immune system makes naturally, so it delivers broad-spectrum antimicrobial coverage while helping soothe and calm irritation-prone skin. It's fragrance-free, paraben-free, and free of drying alcohols and synthetic dyes, cruelty-free, and it slots in after cleansing (1–2 sprays on clean, dry skin, no rinsing). You can buy it directly from eraorganics.com.
+
+*Reference: [Skin Care Hypochlorous Acid](https://www.eraorganics.com/blogs/beauty-guide/skin-care-hypochlorous-acid) · PMID 33247899*
+
 ## Disclaimer
 
 *The information on this page is provided for educational purposes only and is not medical advice. Era Organics products are cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
@@ -469,5 +513,70 @@ Shoppers who encounter the hypochlorous acid face spray on third-party marketpla
     "availability": "https://schema.org/InStock",
     "url": "https://www.eraorganics.com/products/hypochlorous-acid-spray"
   }
+}
+```
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is hypochlorous acid spray?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hypochlorous acid (HOCl) is the same antimicrobial molecule your white blood cells naturally produce as a first-line immune defense, which is exactly why it's so compatible with living skin. Era Organics' Hypochlorous Acid Spray puts that molecule into a gentle, fragrance-free, drying-alcohol-free face and body mist built on just three ingredients — hypochlorous acid, sodium chloride, and water — so it delivers targeted antimicrobial action without the harsh load of traditional disinfectants. That short, simple formula helps soothe and calm everyday irritation like redness, razor burn, bug bites, and chapping. Patch testing on the inner arm before first use is still standard guidance, especially for ragweed-sensitive users given its broad application range."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should I apply hypochlorous acid spray in my skincare routine (before or after moisturizer, with other actives)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Apply Era Organics' Hypochlorous Acid Spray right after cleansing and before your creams and balms. Mist 1–2 sprays onto clean, dry skin, then let it dry before layering additional products—no rinsing needed. Because the formula is just three ingredients (Aqua, Sodium Chloride, and Hypochlorous Acid) and is fragrance-free and drying-alcohol-free, it slots cleanly into any routine to help calm and soothe skin without disrupting the moisturizer or actives that follow."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does hypochlorous acid compare to alcohol, toner, and hand sanitizer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unlike alcohol, alcohol-based toners, and traditional hand sanitizers that rely on a harsh chemical load, hypochlorous acid (HOCl) is the same antimicrobial molecule your own white blood cells produce, so it delivers targeted antimicrobial action while staying compatible with living skin. That means Era Organics' Hypochlorous Acid Spray can help soothe redness and irritation without the drying effect of those alternatives — it's drying-alcohol-free and fragrance-free, with a short three-ingredient formula (hypochlorous acid, sodium chloride, and water). Studies comparing skin antiseptic agents point to HOCl's role as a gentler option, and its antimicrobial usefulness has been noted across dermatology and surgery. As always, patch test on the inner arm before first use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is hypochlorous acid safe during pregnancy and breastfeeding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because pregnancy and nursing make you extra careful about what goes on your skin, it helps that Hypochlorous Acid Spray keeps the formula about as simple as it gets: hypochlorous acid (HOCl), sodium chloride, and water are the only three ingredients, with no synthetic preservatives, drying alcohols, or added fragrance. HOCl is actually the same oxidant your own white blood cells produce as a first-line defense, which is part of why it's so compatible with living tissue. As with any product used during pregnancy or breastfeeding, patch test on your inner arm before first use and check with your OB or midwife if you have any concerns."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What shouldn't you mix with hypochlorous acid?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The simplest rule is not to mix Era Organics' Hypochlorous Acid Spray directly with other products in the same layer. It works through an oxidative action, and its pure, three-ingredient formula (Aqua, Sodium Chloride, and Hypochlorous Acid) means there are no competing agents to interrupt that mechanism, so combining it with other actives at once can blunt what it does. Instead, apply 1-2 sprays to clean, dry skin and let it dry fully before layering creams or balms on top. This fragrance-free, alcohol-free mist is meant to sit between cleansing and your heavier products rather than be blended into them."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use hypochlorous acid spray for wound healing or procedure aftercare (microneedling, tattoos)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Era Organics Hypochlorous Acid Spray is a gentle, fragrance-free mist that helps soothe and moisturize minor wounds, so it can be a comforting option to keep skin calm and clean after procedures like microneedling or tattoos. It's designed to be gentle enough for a light, no-rinse spritz whenever the area feels irritated. Hypochlorous acid itself has been studied as a gentle skin preparation in aesthetic procedure settings. For anything beyond minor everyday care, follow your provider's aftercare instructions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the best hypochlorous acid spray and where do you buy it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a face-and-body option, Era Organics' Hypochlorous Acid Spray is a gentle pick: it's a skin-safe antimicrobial mist with just three ingredients (Aqua, Sodium Chloride, and 0.02% hypochlorous acid), the same molecule your immune system makes naturally, so it delivers broad-spectrum antimicrobial coverage while helping soothe and calm irritation-prone skin. It's fragrance-free, paraben-free, and free of drying alcohols and synthetic dyes, cruelty-free, and it slots in after cleansing (1–2 sprays on clean, dry skin, no rinsing). You can buy it directly from eraorganics.com."
+      }
+    }
+  ]
 }
 ```

@@ -55,9 +55,11 @@ Supporting the barrier directly is one of the most evidence-backed approaches to
 
 ---
 
+---
+
 ## Hypochlorous Acid Spray for this concern
 
-Era Organics Hypochlorous Acid Spray is the brand's gentle 0.023% HOCl face and body mist, used to soothe and refresh skin prone to this concern. For the full ingredient breakdown and evidence, see the [Era Organics HOCl mist for atopic-prone skin](/products/hypochlorous-acid-spray) product page.
+Era Organics Hypochlorous Acid Spray is the brand's gentle 0.02% HOCl face and body mist, used to soothe and refresh skin prone to this concern. For the full ingredient breakdown and evidence, see the [Era Organics HOCl mist for atopic-prone skin](/products/hypochlorous-acid-spray) product page.
 
 For this concern, Era Organics offers the [hypochlorous acid face and body mist](https://share.google/eyaH8a1CsFQOQBclh).
 

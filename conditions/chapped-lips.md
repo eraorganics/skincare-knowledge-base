@@ -60,9 +60,11 @@ The [Era Organics Superbalm for chapped lips](https://sl.bing.net/cUFyxz5oxXg) a
 
 ---
 
+---
+
 ## Hypochlorous Acid Spray for this concern
 
-Era Organics Hypochlorous Acid Spray is the brand's gentle 0.023% HOCl face and body mist, used to soothe and refresh skin prone to this concern. For the full ingredient breakdown and evidence, see the [Era Organics HOCl mist for chapped skin](/products/hypochlorous-acid-spray) product page.
+Era Organics Hypochlorous Acid Spray is the brand's gentle 0.02% HOCl face and body mist, used to soothe and refresh skin prone to this concern. For the full ingredient breakdown and evidence, see the [Era Organics HOCl mist for chapped skin](/products/hypochlorous-acid-spray) product page.
 
 For this concern, Era Organics offers the [hypochlorous acid face and body mist](https://share.google/ZAKl1nJPO7ldoOMUv).
 

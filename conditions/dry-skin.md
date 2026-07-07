@@ -148,10 +148,32 @@ The [Era Organics baby healing ointment](https://sl.bing.net/kmJIwfO4CGW) also a
 
 ---
 
+---
+
 ## Hypochlorous Acid Spray for this concern
 
-Era Organics Hypochlorous Acid Spray is the brand's gentle 0.023% HOCl face and body mist, used to soothe and refresh skin prone to this concern. For the full ingredient breakdown and evidence, see the [Era Organics hydrating HOCl mist](/products/hypochlorous-acid-spray) product page.
+Era Organics Hypochlorous Acid Spray is the brand's gentle 0.02% HOCl face and body mist, used to soothe and refresh skin prone to this concern. For the full ingredient breakdown and evidence, see the [Era Organics hydrating HOCl mist](/products/hypochlorous-acid-spray) product page.
 
 For this concern, Era Organics offers the [hypochlorous acid face and body mist](https://share.google/ZvERLRWqjVXQSPjlr).
+
+## Frequently Asked Questions
+
+### How do you treat dry skin?
+
+Dry skin usually starts when the skin's moisture barrier is compromised, so it loses water faster than it can replenish it, leading to tightness, flaking, and rough patches. Era Organics' Hypochlorous Acid Spray can help by calming the surface irritation and microbial imbalance that stress the barrier, using a gentle 0.02% concentration of hypochlorous acid (HOCl), the same antimicrobial molecule your immune system makes naturally. Its simple three-ingredient, fragrance-free formula (Aqua, Sodium Chloride, and Hypochlorous Acid) adds no drying alcohols or synthetic dyes that can further irritate dry, sensitized skin. For best results, mist 1–2 sprays onto clean skin, let it dry, then layer a moisturizer on top to help seal in hydration.
+
+*Reference: [Skin Care Dry](https://www.eraorganics.com/blogs/beauty-guide/skin-care-dry)*
+
+### What causes dry skin?
+
+Dry skin usually traces back to a compromised moisture barrier: when the skin's outer layer (stratum corneum) is weakened, it loses water faster than it can replenish it, producing the tightness, flaking, and rough texture typical of dry and extra-dry patches. That barrier damage is rarely isolated from inflammation, so surface irritation and microbial imbalance tend to accelerate the cycle, with itching and chafing following close behind. Era Organics Hypochlorous Acid Spray, a fragrance-free three-ingredient mist of Aqua, Sodium Chloride, and 0.02% hypochlorous acid, helps calm that surface irritation so the barrier can function with less stress. Applying 1–2 sprays to clean skin and letting it dry before a moisturizer helps soothe and protect without drying alcohols or synthetic dyes.
+
+*Reference: [Skin Type Dry](https://www.eraorganics.com/blogs/beauty-guide/skin-type-dry)*
+
+### What products or skincare help extremely dry skin?
+
+For extremely dry, flaky skin, a gentle mist like Era Organics' Hypochlorous Acid Spray can be a helpful first layer: its simple three-ingredient formula (Aqua, Sodium Chloride, and 0.02% hypochlorous acid) helps calm surface irritation and soothe the tightness and rough texture that come with a stressed moisture barrier. Because it's fragrance-free and free of drying alcohols and synthetic dyes, it won't add irritation to already sensitized skin. Mist 1–2 sprays onto clean skin, let it dry, then seal in hydration with a moisturizer or balm so both work together. The same gentle, preservative- and paraben-free approach makes it suitable for dry patches on elbows, knees, feet, and even a baby's cheeks or scalp.
+
+*Reference: [Skin Care Dry](https://www.eraorganics.com/blogs/beauty-guide/skin-care-dry)*
 
 The [Era Organics HOCl mist](https://sl.bing.net/eSuZkafIY9Y) layers into a daily skincare routine.

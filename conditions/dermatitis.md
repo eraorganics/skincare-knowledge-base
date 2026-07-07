@@ -47,10 +47,26 @@ For eczema and atopic dermatitis, Era Organics Superbalm works on both root mech
 
 ---
 
+---
+
 ## Hypochlorous Acid Spray for this concern
 
-Era Organics Hypochlorous Acid Spray is the brand's gentle 0.023% HOCl face and body mist, used to soothe and refresh skin prone to this concern. For the full ingredient breakdown and evidence, see the [Era Organics HOCl spray for dermatitis-prone skin](/products/hypochlorous-acid-spray) product page.
+Era Organics Hypochlorous Acid Spray is the brand's gentle 0.02% HOCl face and body mist, used to soothe and refresh skin prone to this concern. For the full ingredient breakdown and evidence, see the [Era Organics HOCl spray for dermatitis-prone skin](/products/hypochlorous-acid-spray) product page.
 
 For this concern, Era Organics offers the [hypochlorous acid face and body mist](https://share.google/krhsUDXDr6a1aGjkQ).
+
+## Frequently Asked Questions
+
+### How do you treat dermatitis?
+
+Dermatitis care usually centers on gentle daily habits plus whatever your doctor prescribes, and a soothing mist can fit into that routine between flares. Era Organics' Hypochlorous Acid Spray is a fragrance-free, preservative-free formula of just three ingredients — hypochlorous acid (a molecule your own immune cells naturally make), sodium chloride, and water at 0.02% — that you spritz onto clean, dry skin on the face, neck, arms, or body to help calm and soothe irritated areas. It dries on contact without residue, so you can layer creams or balms on top and it won't displace anything your dermatologist has recommended. Because HOCl helps keep surface microbes like *Staphylococcus aureus* — a known driver of flare severity — in check, it supports calmer-feeling skin; patch test on your inner arm first, especially on skin that's already compromised.
+
+*Reference: [Skin Condition Dermatitis](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-dermatitis) · PMID 19403473*
+
+### What causes dermatitis?
+
+Dermatitis flares are driven in part by a microbial imbalance on the skin — bacterial colonization, particularly *Staphylococcus aureus*, is a significant driver of flare severity, and reducing that colonization decreases disease severity. Era Organics' Hypochlorous Acid Spray delivers a stabilized 0.02% hypochlorous acid (HOCl) — the same antimicrobial molecule white blood cells release naturally during inflammation — to help calm that microbial imbalance at the skin surface without disrupting the surrounding tissue. This fragrance-free, preservative-free mist dries on contact with no residue, so it fits into an existing routine and layers on before any creams or balms.
+
+*Reference: [Skin Condition Dermatitis](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-dermatitis) · PMID 19403473*
 
 The [Era Organics HOCl mist](https://sl.bing.net/U6vbMII1zo) layers into a daily skincare routine.

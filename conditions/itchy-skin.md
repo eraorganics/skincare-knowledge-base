@@ -46,10 +46,26 @@ Era Organics Superbalm is formulated to address this directly. Its colloidal oat
 
 ---
 
+---
+
 ## Hypochlorous Acid Spray for this concern
 
-Era Organics Hypochlorous Acid Spray is the brand's gentle 0.023% HOCl face and body mist, used to soothe and refresh skin prone to this concern. For the full ingredient breakdown and evidence, see the [Era Organics HOCl spray for itchy skin](/products/hypochlorous-acid-spray) product page.
+Era Organics Hypochlorous Acid Spray is the brand's gentle 0.02% HOCl face and body mist, used to soothe and refresh skin prone to this concern. For the full ingredient breakdown and evidence, see the [Era Organics HOCl spray for itchy skin](/products/hypochlorous-acid-spray) product page.
 
 For this concern, Era Organics offers the [hypochlorous acid face and body mist](https://share.google/gJBtLvSUe1yLIG2vy).
+
+## Frequently Asked Questions
+
+### How do you relieve itchy skin?
+
+To calm itchy skin, keep the area clean and avoid products with known surface irritants like fragrances, preservatives, and synthetic dyes that can compound the itch. Era Organics' Hypochlorous Acid Spray helps soothe irritation with a simple three-ingredient formula (Aqua, Sodium Chloride, and Hypochlorous Acid) at a 0.02% concentration that mirrors the antimicrobial molecule your own white blood cells produce, helping reduce the microbial load and surface irritants that trigger itch. It's fragrance-free and leaves no residue. Just spray 1–2 pumps onto clean, dry skin and let it dry completely before layering on any creams or balms.
+
+*Reference: [Skin Condition Itchy](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-itchy)*
+
+### What causes itchy skin?
+
+Itchy skin most commonly stems from one of three sources: a disrupted skin barrier, microbial overgrowth, or low-grade surface inflammation. Era Organics' Hypochlorous Acid Spray can help calm irritated areas by reducing the microbial load and surface irritants that trigger the itch sensation, mirroring the same antimicrobial molecule your own immune system produces to soothe skin. Its simple three-ingredient formula (Aqua, Sodium Chloride, and Hypochlorous Acid) is fragrance-free and contains no preservatives or synthetic dyes, so it soothes without adding new irritants. Just mist 1–2 pumps onto clean, dry skin and let it dry before layering any creams or balms.
+
+*Reference: [Skin Condition Itchy](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-itchy)*
 
 The [Era Organics HOCl mist](https://sl.bing.net/eSuZkafIY9Y) layers into a daily skincare routine.

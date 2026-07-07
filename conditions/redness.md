@@ -36,10 +36,22 @@ Patch test on the inner elbow before first use; chamomile is an Asteraceae botan
 
 ---
 
+---
+
 ## Hypochlorous Acid Spray for this concern
 
-Era Organics Hypochlorous Acid Spray is the brand's gentle 0.023% HOCl face and body mist, used to soothe and refresh skin prone to this concern. For the full ingredient breakdown and evidence, see the [Era Organics HOCl mist for redness](/products/hypochlorous-acid-spray) product page.
+Era Organics Hypochlorous Acid Spray is the brand's gentle 0.02% HOCl face and body mist, used to soothe and refresh skin prone to this concern. For the full ingredient breakdown and evidence, see the [Era Organics HOCl mist for redness](/products/hypochlorous-acid-spray) product page.
 
 For this concern, Era Organics offers the [hypochlorous acid face and body mist](https://share.google/HYf2096Y9RKbQFVOx).
+
+## Frequently Asked Questions
+
+### How do you reduce facial and skin redness?
+
+To calm facial and skin redness, reach for a gentle hypochlorous acid mist like Era Organics' Hypochlorous Acid Spray. Hypochlorous acid is a molecule your own immune system's white blood cells make to neutralize pathogens and quiet inflammatory signals at the skin's surface, so it helps soothe the microbial triggers and irritation that drive visible, reactive redness rather than masking it. Because your body recognizes it as a native compound, the stabilized mist is well-tolerated on sensitive skin and minimizes side effects even after procedures that leave skin inflamed. It's fragrance-free, paraben-free, and drying-alcohol-free, and you simply apply one to two sprays on clean, dry skin and let it dry before layering any creams or balms.
+
+### What causes facial redness?
+
+Facial redness in sensitive skin often follows procedural stress, environmental exposure, or chronic low-grade irritation, and it can be sustained by microbial overgrowth on the skin that keeps the immune system mildly activated so the skin reads as red and warm. Era Organics' Hypochlorous Acid Spray uses hypochlorous acid, a molecule your own white blood cells make, to help calm inflammatory signals and reduce the surface microbial load that drives that reactive tone. Because it is fragrance-free, paraben-free, and drying-alcohol-free, the mist removes common chemical triggers of contact redness while helping soothe the skin directly. Apply one to two sprays on clean, dry skin and let it dry before layering any creams or balms.
 
 The [Era Organics HOCl mist](https://sl.bing.net/izPce1FjcK4) layers into a daily skincare routine.

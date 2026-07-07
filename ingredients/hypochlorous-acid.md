@@ -1,6 +1,6 @@
 # Hypochlorous Acid
 
-Hypochlorous acid (HOCl) is the active antimicrobial molecule in the spray — the same oxidant white blood cells produce during an immune response to neutralize pathogens on the skin. At a concentration of 0.023%, hypochlorous acid delivers targeted antimicrobial action without the harsh chemical load of traditional disinfectants.
+Hypochlorous acid (HOCl) is the active antimicrobial molecule in the spray — the same oxidant white blood cells produce during an immune response to neutralize pathogens on the skin. At a concentration of 0.02%, hypochlorous acid delivers targeted antimicrobial action without the harsh chemical load of traditional disinfectants.
 
 The body produces HOCl naturally as a first-line defense, which explains hypochlorous acid spray's compatibility with living tissue. Clinical studies across dermatology, surgery, and ophthalmology confirm HOCl's broad utility, with the majority showing it is useful in therapeutic contexts across multiple tissue types (Haralović et al., Biomedicines, 2025). Sodium chloride and water are the only supporting ingredients in the formula, making the three-ingredient list unusually short for a product targeting redness, irritation, and skin imbalance.
 

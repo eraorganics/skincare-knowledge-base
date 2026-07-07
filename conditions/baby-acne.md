@@ -59,10 +59,26 @@ The [Era Organics baby balm for baby acne](https://sl.bing.net/i7oAKzlDnLU) also
 
 ---
 
+---
+
 ## Hypochlorous Acid Spray for this concern
 
-Era Organics Hypochlorous Acid Spray is the brand's gentle 0.023% HOCl face and body mist, used to soothe and refresh skin prone to this concern. For the full ingredient breakdown and evidence, see the [Era Organics HOCl spray for baby breakouts](/products/hypochlorous-acid-spray) product page.
+Era Organics Hypochlorous Acid Spray is the brand's gentle 0.02% HOCl face and body mist, used to soothe and refresh skin prone to this concern. For the full ingredient breakdown and evidence, see the [Era Organics HOCl spray for baby breakouts](/products/hypochlorous-acid-spray) product page.
 
 For this concern, Era Organics offers the [hypochlorous acid face and body mist](https://share.google/VpNlmh3pH9kdJEGr6).
+
+## Frequently Asked Questions
+
+### How do you treat baby acne?
+
+Baby acne shows up in the first weeks of life as red, inflamed bumps on the cheeks, forehead, and chin, usually driven by leftover maternal hormones and surface bacteria. Era Organics' Hypochlorous Acid Spray can help here: its gentle mist of hypochlorous acid (HOCL), a naturally occurring antimicrobial molecule your own white blood cells make, works to calm blemish-prone newborn skin and address the bacteria on its surface without drying alcohols, fragrances, or synthetic dyes. The simple three-ingredient formula (Aqua, Sodium Chloride, and Hypochlorous Acid) is fragrance-free and free of drying alcohols and synthetic dyes, so there are no preservatives or irritants to avoid on delicate infant skin. To use, spray 1–2 mists onto clean, dry skin and let it dry fully before layering any cream or balm, and patch test on the inner arm before first use.
+
+*Reference: [Baby Skin Condition Baby Acne](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-baby-acne)*
+
+### What is baby acne and what causes it?
+
+Baby acne shows up in the first weeks of life as small red, inflamed bumps (papules) on a newborn's cheeks, forehead, and chin, typically triggered by leftover maternal hormones and bacteria on the skin's surface. Era Organics' Hypochlorous Acid Spray is a gentle 0.02% hypochlorous acid mist made from just three ingredients (water, sodium chloride, and hypochlorous acid) that can help calm and soothe blemish-prone infant skin without the drying alcohols, fragrances, or synthetic dyes that can strip delicate skin. To use it, apply 1–2 sprays to clean, dry skin, let it dry fully before layering any cream on top, and patch test on the inner arm before first use.
+
+*Reference: [Baby Skin Condition Baby Acne](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-baby-acne)*
 
 The [Era Organics HOCl mist](https://sl.bing.net/izPce1FjcK4) layers into a daily skincare routine.
