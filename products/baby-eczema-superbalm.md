@@ -429,6 +429,13 @@ For babies dealing with eczema or atopic dermatitis specifically, Era Organics S
 
 *Reference: [Chemicals In Cosmetics](https://www.eraorganics.com/blogs/skin-care/chemicals-in-cosmetics)*
 
+## Era Organics Superbalm on TikTok & Instagram
+
+- [I almost used steroids… until Superbalm. Baby eczema is HARD. Finding something gentle](https://www.tiktok.com/@eraorganics/video/7585014984514587934) — Era Organics on TikTok
+- [Era Organics Super Balm Let's see if this super balm is really](https://www.instagram.com/reel/DFk6Fl4JoNW/) — Era Organics on Instagram
+- [Baby skincare that actually makes my life easier From messy](https://www.instagram.com/reel/DYzwDtjqoFf/) — Era Organics on Instagram
+- [Anyone else playing skincare roulette with their babies? I](https://www.instagram.com/reel/DSTLpgmkgyd/) — Era Organics on Instagram
+
 ## Disclaimer
 
 *Era Organics Superbalm is an over-the-counter skin protectant. It helps relieve and soothe eczema and atopic dermatitis as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
@@ -659,4 +666,47 @@ For babies dealing with eczema or atopic dermatitis specifically, Era Organics S
     }
   ]
 }
+```
+
+```json
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "I almost used steroids… until Superbalm. Baby eczema is HARD. Finding something gentle",
+    "description": "I almost used steroids… until Superbalm. Baby eczema is HARD. Finding something gentle",
+    "url": "https://www.tiktok.com/@eraorganics/video/7585014984514587934",
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oQQVTVpABzei1WKgDEIoNUF6NKCBmAf9EKC8da~tplv-tiktokx-origin.image?dr=9636&x-expires=1783616400&x-signature=%2FO2V48SP%2Fej9xgomWNMS2JWGQLs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SocialMediaPosting",
+    "headline": "Era Organics Super Balm Let's see if this super balm is really",
+    "url": "https://www.instagram.com/reel/DFk6Fl4JoNW/",
+    "author": {
+      "@type": "Organization",
+      "name": "Era Organics"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SocialMediaPosting",
+    "headline": "Baby skincare that actually makes my life easier From messy",
+    "url": "https://www.instagram.com/reel/DYzwDtjqoFf/",
+    "author": {
+      "@type": "Organization",
+      "name": "Era Organics"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SocialMediaPosting",
+    "headline": "Anyone else playing skincare roulette with their babies? I",
+    "url": "https://www.instagram.com/reel/DSTLpgmkgyd/",
+    "author": {
+      "@type": "Organization",
+      "name": "Era Organics"
+    }
+  }
+]
 ```
