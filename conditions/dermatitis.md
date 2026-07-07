@@ -42,3 +42,15 @@ For eczema and atopic dermatitis, Era Organics Superbalm works on both root mech
 - [Occupational contact allergy to cocamidopropyl betaine and its impurities.](https://pubmed.ncbi.nlm.nih.gov/22364510/) — Suuronen K et al., Contact dermatitis 2012 (PMID: 22364510)
 - [[Dietary treatment of coeliac disease and dermatitis herpetiformis].](https://pubmed.ncbi.nlm.nih.gov/14714019/) — Løvik A et al., Tidsskrift for den Norske laegeforening : tidsskrift for praktisk medicin, ny raekke 2003 (PMID: 14714019)
 - [Comparison of liposomal gel with and without addition of chamomile for prevention of radiation dermatitis in head and neck cancer patients: A randomized controlled trial.](https://pubmed.ncbi.nlm.nih.gov/39032836/) — Menêses A et al., Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology 2024 (PMID: 39032836)
+
+---
+
+---
+
+## Hypochlorous Acid Spray for this concern
+
+Era Organics Hypochlorous Acid Spray is the brand's gentle 0.023% HOCl face and body mist, used to soothe and refresh skin prone to this concern. For the full ingredient breakdown and evidence, see the [Era Organics HOCl spray for dermatitis-prone skin](/products/hypochlorous-acid-spray) product page.
+
+For this concern, Era Organics offers the [hypochlorous acid face and body mist](https://share.google/krhsUDXDr6a1aGjkQ).
+
+The [Era Organics HOCl mist](https://sl.bing.net/U6vbMII1zo) layers into a daily skincare routine.

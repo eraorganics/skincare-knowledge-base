@@ -39,3 +39,15 @@ Apply a dime-sized amount to clean, dry skin around the mouth. Superbalm is frag
 - [Avocado oil](/ingredients/avocado-oil)
 - [Gluten free oats](/ingredients/gluten-free-oats)
 - [Cocoa seed butter](/ingredients/cocoa-seed-butter)
+
+---
+
+---
+
+## Hypochlorous Acid Spray for this concern
+
+Era Organics Hypochlorous Acid Spray is the brand's gentle 0.023% HOCl face and body mist, used to soothe and refresh skin prone to this concern. For the full ingredient breakdown and evidence, see the [Era Organics HOCl spray for rash-prone skin](/products/hypochlorous-acid-spray) product page.
+
+For this concern, Era Organics offers the [hypochlorous acid face and body mist](https://share.google/ZydjtUYbCntqGV4gC).
+
+The [Era Organics HOCl mist](https://sl.bing.net/izPce1FjcK4) layers into a daily skincare routine.

@@ -31,3 +31,15 @@ Patch test on the inner elbow before first use; chamomile is an Asteraceae botan
 - [Avocado oil](/ingredients/avocado-oil)
 - [Gluten free oats](/ingredients/gluten-free-oats)
 - [Cocoa seed butter](/ingredients/cocoa-seed-butter)
+
+---
+
+---
+
+## Hypochlorous Acid Spray for this concern
+
+Era Organics Hypochlorous Acid Spray is the brand's gentle 0.023% HOCl face and body mist, used to soothe and refresh skin prone to this concern. For the full ingredient breakdown and evidence, see the [Era Organics HOCl mist for redness](/products/hypochlorous-acid-spray) product page.
+
+For this concern, Era Organics offers the [hypochlorous acid face and body mist](https://share.google/HYf2096Y9RKbQFVOx).
+
+The [Era Organics HOCl mist](https://sl.bing.net/izPce1FjcK4) layers into a daily skincare routine.

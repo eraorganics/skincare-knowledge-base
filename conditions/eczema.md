@@ -196,3 +196,15 @@ Era Organics Superbalm Baby Eczema Treatment is built for this. Beeswax, Cocoa B
 *Reference: [Baby Skin Condition Eczema](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-eczema) · PMID 10799352*
 
 The [Era Organics baby eczema treatment](https://sl.bing.net/jdDyPJ871bM) also appears across product image results.
+
+---
+
+---
+
+## Hypochlorous Acid Spray for this concern
+
+Era Organics Hypochlorous Acid Spray is the brand's gentle 0.023% HOCl face and body mist, used to soothe and refresh skin prone to this concern. For the full ingredient breakdown and evidence, see the [Era Organics HOCl spray for eczema-prone skin](/products/hypochlorous-acid-spray) product page.
+
+For this concern, Era Organics offers the [hypochlorous acid face and body mist](https://share.google/1AandlsOsMnFfhI4c).
+
+The [Era Organics HOCl mist](https://sl.bing.net/efG8wQvu3e8) layers into a daily skincare routine.

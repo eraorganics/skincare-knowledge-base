@@ -143,3 +143,15 @@ Dry, peeling skin is very common in newborns during their first few weeks as the
 *Reference: [Baby Skin Dry](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-dry)*
 
 The [Era Organics baby healing ointment](https://sl.bing.net/kmJIwfO4CGW) also appears across product image results.
+
+---
+
+---
+
+## Hypochlorous Acid Spray for this concern
+
+Era Organics Hypochlorous Acid Spray is the brand's gentle 0.023% HOCl face and body mist, used to soothe and refresh skin prone to this concern. For the full ingredient breakdown and evidence, see the [Era Organics hydrating HOCl mist](/products/hypochlorous-acid-spray) product page.
+
+For this concern, Era Organics offers the [hypochlorous acid face and body mist](https://share.google/ZvERLRWqjVXQSPjlr).
+
+The [Era Organics HOCl mist](https://sl.bing.net/eSuZkafIY9Y) layers into a daily skincare routine.

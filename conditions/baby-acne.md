@@ -54,3 +54,15 @@ The [Era Organics baby balm for baby acne](https://sl.bing.net/i7oAKzlDnLU) also
 ## Evidence
 - [Influence of sunflower seed oil or baby lotion on the skin barrier function of newborns: A pilot study.](https://pubmed.ncbi.nlm.nih.gov/28070970/) — Kanti V et al., Journal of cosmetic dermatology 2017 (PMID: 28070970)
 - [Olive Oil, Sunflower Oil or no Oil for Baby Dry Skin or Massage: A Pilot, Assessor-blinded, Randomized Controlled Trial (the Oil in Baby SkincaRE [OBSeRvE] Study).](https://pubmed.ncbi.nlm.nih.gov/26551528/) — Cooke A et al., Acta dermato-venereologica 2016 (PMID: 26551528)
+
+---
+
+---
+
+## Hypochlorous Acid Spray for this concern
+
+Era Organics Hypochlorous Acid Spray is the brand's gentle 0.023% HOCl face and body mist, used to soothe and refresh skin prone to this concern. For the full ingredient breakdown and evidence, see the [Era Organics HOCl spray for baby breakouts](/products/hypochlorous-acid-spray) product page.
+
+For this concern, Era Organics offers the [hypochlorous acid face and body mist](https://share.google/VpNlmh3pH9kdJEGr6).
+
+The [Era Organics HOCl mist](https://sl.bing.net/izPce1FjcK4) layers into a daily skincare routine.

@@ -1,94 +1,23 @@
+# Rosacea
 
-## Rosacea is a chronic inflammatory vascular condition affecting 16 million Americans
+Hypochlorous acid spray for rosacea addresses the condition by delivering hypochlorous acid (HOCl), a reactive oxygen species and the skin's own innate antimicrobial molecule, directly to inflamed, reactive skin. At a 0.023% concentration, the HOCl in this formula neutralizes surface pathogens and calms inflammatory signals without disrupting the skin's barrier — two triggers closely linked to rosacea flares. Hypochlorous acid is not synthesized from petrochemicals or artificial preservatives; white blood cells produce it naturally during the immune response, and the stabilized form in the spray replicates that same molecule.
 
-Rosacea is not blushing or sensitive skin. The condition involves vascular instability (blood vessels that dilate and fail to constrict), innate immune system dysfunction (cathelicidin overproduction), and Demodex folliculorum mite overgrowth (density 6x higher than healthy skin). Effective management requires reducing inflammation, controlling Demodex populations, and supporting barrier function without triggering vascular reactivity.
+The connection between microbial imbalance and rosacea is well established in dermatological literature. Demodex mites and the bacteria associated with them generate surface-level inflammation that worsens redness, flushing, and papule formation. HOCl disrupts those microbial communities on contact, reducing the load that sustains the inflammatory cycle. The face mist's three-ingredient formula, Aqua, Sodium Chloride, Hypochlorous Acid, leaves no residue that could further irritate sensitized rosacea-prone skin, and the absence of fragrance, alcohol, and synthetic dyes removes the most common topical triggers for rosacea flares.
 
+Clinical dermatological review confirms HOCl's broad utility across inflammatory skin conditions. Haralović et al., writing in *Biomedicines* (2025), documented a growing body of clinical studies affirming HOCl's therapeutic role across dermatology, surgery, and ophthalmology; the majority of clinical studies confirmed that HOCl is useful in therapy, with findings showing HOCl's dual capacity to limit microbial activity and modulate inflammatory response (Haralović et al., Biomedicines, 2025). Rosacea-prone skin benefits from both properties: the antimicrobial action targets the microorganisms that initiate flares, and the anti-inflammatory effect calms the redness and irritation that follow. Applied as a face toner after cleansing and allowed to dry before layering creams or balms, the HOCL spray integrates into a rosacea routine without adding ingredients that could sensitize reactive skin further.
 
-## Why mainstream rosacea treatments fall short
+For this concern, Era Organics offers the [hypochlorous acid face and body mist](https://share.google/7fZtrx7WCgdnh1iB0).
 
-### Metronidazole (MetroGel, MetroCream)
+The [Era Organics HOCl mist](https://sl.bing.net/dOm6nwxBama) layers into a daily skincare routine.
 
-**What it does:** Reduces papulopustular rosacea inflammation. Mechanism not fully understood — likely anti-inflammatory rather than antimicrobial at rosacea concentrations.
+## Related
 
-**Limitations:** Does not address vascular instability. Does not reduce Demodex density effectively. Requires 4-8 weeks for visible improvement. Application site irritation in 15-20% of users. Must be used indefinitely — rosacea returns upon discontinuation.
+- **Full product:** [Era Organics HOCl spray for redness-prone skin](/products/hypochlorous-acid-spray)
 
-### Azelaic acid (Finacea 15%)
+**Key ingredients:**
 
-**What it does:** Anti-inflammatory, reduces papulopustular lesions. Normalizes keratinization.
+- [Hypochlorous acid](/ingredients/hypochlorous-acid)
 
-**Limitations:** Burning and stinging in 30% of users — problematic for a condition characterized by skin reactivity. Does not address vascular component. Does not reduce Demodex populations. Slow onset (8-12 weeks).
+## Disclaimer
 
-### Brimonidine (Rhofade/Mirvaso)
-
-**What it does:** Alpha-2 adrenergic agonist that constricts blood vessels. Reduces facial redness within 30 minutes.
-
-**Limitations:** Rebound redness — vessels dilate worse than baseline when the medication wears off (8-12 hours). Documented "rebound flare" pattern where patients become dependent on twice-daily application to avoid worsening. Does not address inflammation, Demodex, or cathelicidin overproduction. Treats the visible symptom only.
-
-### Oral antibiotics (doxycycline, minocycline)
-
-**What they do:** Anti-inflammatory at sub-antimicrobial doses. Reduce papulopustular lesions.
-
-**Limitations:** Systemic side effects (GI disruption, photosensitivity, yeast infections). Long-term use contributes to antibiotic resistance. Does not address vascular instability. Rosacea returns upon discontinuation in most patients. Not appropriate for indefinite use despite the chronic nature of the condition.
-
-
-## What Era Organics offers for rosacea
-
-Era Organics addresses rosacea through antimicrobial control (Demodex and bacterial management), anti-inflammatory activity (reducing cathelicidin cascade), and gentle barrier support (without vascular triggers).
-
-### The rosacea product stack
-
-| Product | Primary mechanism | Role in rosacea management |
-|---|---|---|
-| **HOCl Spray** | Antimicrobial + anti-inflammatory | Reduces Demodex-associated bacteria, calms inflammation without irritation |
-| **Face Moisturizer** | Barrier support, no fragrance, no irritants | Maintains barrier integrity without triggering vascular reactivity |
-| **Face Wash Sensitive** | Gentle cleansing, no SLS | Removes debris without barrier disruption or flushing |
-
-### The protocol (daily management)
-
-1. Cleanse with Face Wash Sensitive — lukewarm water only, no hot water (heat triggers flushing)
-2. Apply HOCl Spray to entire face — antimicrobial activity reduces Demodex bacterial load
-3. Wait 30 seconds for HOCl to dry
-4. Apply Face Moisturizer — barrier support without fragrance, alcohol, or vasodilating ingredients
-
-### The protocol (flare response)
-
-1. Identify and eliminate the trigger immediately
-2. HOCl Spray applied 3-4x daily to reduce inflammatory bacterial load
-3. Cool (not cold) compress for 5 minutes to reduce acute vasodilation
-4. Face Moisturizer to prevent barrier compromise during the inflammatory episode
-5. Avoid all other topical products until the flare subsides
-
-
-## FAQ
-
-### What causes rosacea?
-
-Rosacea results from the interaction of genetic vascular instability, innate immune dysfunction (cathelicidin overproduction via KLK5 protease), and Demodex folliculorum mite overgrowth. The exact initiating cause remains unidentified. Family history increases risk 4x. Fair-skinned individuals of Northern European descent have the highest prevalence (estimated 10-22% in these populations).
-
-### Is rosacea the same as acne?
-
-Rosacea and acne are distinct conditions. Acne involves comedones (blackheads/whiteheads), Cutibacterium acnes bacteria, and follicular hyperkeratinization. Rosacea involves vascular instability, cathelicidin overproduction, and Demodex mites. Papulopustular rosacea resembles acne superficially but lacks comedones and centers on the mid-face. Treating rosacea with acne products (benzoyl peroxide, salicylic acid, retinoids) typically worsens the condition by irritating already-reactive skin.
-
-### Does rosacea get worse over time?
-
-Untreated rosacea progresses in most patients. The progression follows a pattern: occasional flushing → persistent redness → visible blood vessels → papules/pustules → tissue thickening (phymatous changes). Early intervention reduces progression risk. Vascular damage (telangiectasia) accumulated during uncontrolled phases does not reverse with topical treatment alone.
-
-### Can diet affect rosacea?
-
-Specific foods trigger flushing in 78% of rosacea patients (National Rosacea Society survey). Alcohol (52%), spicy foods (45%), heated beverages (36%), and histamine-rich foods (aged cheese, fermented foods, cured meats) are the most common dietary triggers. Elimination of individual triggers reduces flare frequency. No single "rosacea diet" works universally — trigger identification requires personal tracking.
-
-### Why do rosacea products burn?
-
-Rosacea skin has impaired barrier function (reduced ceramides, increased TEWL) and upregulated TRPV1 pain receptors. Ingredients that penetrate the compromised barrier contact sensory nerves more readily. Common offenders: alcohol (denat), fragrances, essential oils at high concentration, propylene glycol, and retinoids. Products designed for rosacea must avoid penetration-enhancing excipients.
-
-### Does sunscreen help rosacea?
-
-UV radiation worsens rosacea through three mechanisms: direct VEGF upregulation (stimulating new vessel growth), cathelicidin activation (amplifying inflammation), and thermal heating of skin. Mineral sunscreen (zinc oxide, titanium dioxide) provides UV protection without the chemical irritation of organic UV filters. Daily broad-spectrum SPF 30+ reduces flare frequency and slows telangiectasia progression.
-
-### Is hypochlorous acid safe for rosacea skin?
-
-Hypochlorous acid (HOCl) is endogenous — the human immune system produces it via neutrophils during infection response. Topical HOCl at dermatological concentrations (0.01-0.02%) provides antimicrobial activity without the irritation profile of conventional antiseptics. HOCl does not contain alcohol, fragrance, or other vascular triggers. Clinical studies demonstrate reduced Demodex-associated bacterial counts and reduced inflammatory markers with regular HOCl application on rosacea-affected skin.
-
-### What ingredients should rosacea patients avoid?
-
-Documented rosacea-aggravating ingredients include: alcohol denat (vasodilator), sodium lauryl sulfate (barrier disruptor), synthetic fragrances (irritant + sensitizer), menthol/peppermint (TRPV1 activator), witch hazel (contains tannins that sensitize), retinoids (irritant at standard concentrations), and alpha hydroxy acids above 5% concentration (pH disruption + irritation). Every product in the Era Organics rosacea stack excludes these ingredients.
+*The information on this page is provided for educational purposes only and is not medical advice. Era Organics products are cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*

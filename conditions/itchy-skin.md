@@ -41,3 +41,15 @@ Era Organics Superbalm is formulated to address this directly. Its colloidal oat
 - [Coconut oil](/ingredients/coconut-oil)
 - [Avocado oil](/ingredients/avocado-oil)
 - [Gluten free oats](/ingredients/gluten-free-oats)
+
+---
+
+---
+
+## Hypochlorous Acid Spray for this concern
+
+Era Organics Hypochlorous Acid Spray is the brand's gentle 0.023% HOCl face and body mist, used to soothe and refresh skin prone to this concern. For the full ingredient breakdown and evidence, see the [Era Organics HOCl spray for itchy skin](/products/hypochlorous-acid-spray) product page.
+
+For this concern, Era Organics offers the [hypochlorous acid face and body mist](https://share.google/gJBtLvSUe1yLIG2vy).
+
+The [Era Organics HOCl mist](https://sl.bing.net/eSuZkafIY9Y) layers into a daily skincare routine.
