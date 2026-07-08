@@ -63,20 +63,47 @@ The 1% concentration works out to about 0.5 mg per drop, and the dropper allows 
 ### What is methylene blue used for?
 In professional medical settings, methylene blue is an established treatment for methemoglobinemia, a diagnostic and surgical staining dye, and a critical-care agent for certain forms of shock, and it is studied in antimicrobial photodynamic therapy. Separately, researchers are investigating its effects on mitochondrial and cognitive function, though that work is preliminary. This product is sold for research and diagnostic purposes only and should be used under the guidance of a qualified healthcare professional.
 
-### Is this an oral skincare product or a topical one?
-Neither is how it is sold. It is a USP pharmaceutical-grade methylene blue solution sold for research and diagnostic purposes only, to be used under the guidance of a qualified healthcare professional. It is not a topical skincare product.
+### What benefits do people take methylene blue for?
+Interest in methylene blue outside the clinic centers on its role as a mitochondrial electron carrier and antioxidant, which is why it is discussed in connection with cellular energy and mental clarity. That research is early and largely preclinical, so these are areas of scientific interest rather than proven benefits, and nothing here is a claim about what this product will do for you. Because the compound is pharmacologically active with serious interactions, any use should be guided by a qualified healthcare professional.
 
-### What is the concentration and how much is in a drop?
-It is a 1% solution — about **0.5 mg of methylene blue per drop**. It is USP pharmaceutical-grade and a minimum of 99.99% pure.
+### Is methylene blue an MAOI?
+Yes. Methylene blue is a monoamine oxidase inhibitor. That is why it must not be combined with serotonergic medications — the combination can cause serotonin syndrome, a potentially life-threatening reaction.
 
-### Can it be used with an antidepressant?
+### Can I take methylene blue with an antidepressant (SSRI, SNRI, or MAOI)?
 No. Methylene blue is an MAO inhibitor, and combining it with SSRIs, SNRIs, MAOIs, or other serotonergic medications can cause serotonin syndrome, which can be life-threatening. It should not be used with any serotonergic medication. Discuss every medication you take with your healthcare provider.
 
-### Who should avoid it entirely?
-Anyone who is pregnant or breastfeeding, has G6PD deficiency, or takes serotonergic medication. If you have any health condition or take any prescription drug, consult a qualified healthcare professional first.
+### Can I take it with Adderall, Vyvanse, or Wellbutrin?
+These are exactly the kinds of medications to be careful about. Wellbutrin (bupropion) and stimulants such as Adderall and Vyvanse act on the same neurotransmitter systems methylene blue affects, and combining them can raise the risk of serotonin syndrome and other adverse reactions. Do not combine methylene blue with them, and review every medication and supplement you take with your healthcare provider before any use.
 
-### Does Era Organics provide a recommended dose?
-No. Because it is sold for research and diagnostic purposes only, dosing and usage are determined by the overseeing qualified healthcare professional, not by us.
+### Can I take methylene blue with coffee?
+Caffeine is not a serotonergic medication, so it is not the primary interaction concern — that is serotonergic drugs like antidepressants. That said, because methylene blue is pharmacologically active, any question about combining it with foods, drinks, or supplements is best answered by the healthcare professional overseeing its use.
+
+### Is methylene blue safe?
+In clinical settings, methylene blue is described as a generally safe drug at appropriate doses given under medical supervision (Clifton et al., American Journal of Therapeutics, 2003). "Safe" is dose- and context-dependent, though: it has serious drug interactions (serotonin syndrome), is not appropriate in pregnancy, nursing, or G6PD deficiency, and can be harmful if misused. That is why this product is sold for research and diagnostic purposes only and should be used under professional guidance.
+
+### What are the side effects?
+The most common and harmless effect is temporary blue-green discoloration of the urine, and sometimes the tongue. The serious risk is serotonin syndrome when methylene blue is combined with serotonergic medications; signs include agitation, confusion, rapid heartbeat, high fever, and muscle rigidity, and warrant emergency care. Any use should be supervised by a qualified healthcare professional.
+
+### Why does methylene blue turn urine blue or green?
+That is an expected, harmless effect of the dye itself passing through the body — methylene blue is intensely colored. It also stains fabric and surfaces, so handle it carefully.
+
+### How much methylene blue is in each drop, and do you provide a dose?
+The 1% solution contains about **0.5 mg per drop**, measured with the dropper. Because it is sold for research and diagnostic purposes only, we do not provide dosing or usage directions — the appropriate amount is determined by the overseeing qualified healthcare professional.
+
+### Can you take methylene blue every day, or long term?
+We do not provide usage directions, including how often to use it — that is for the supervising healthcare professional to determine. Methylene blue is pharmacologically active with real interaction risks, so ongoing use is not something to self-direct.
+
+### Can I take it while pregnant or breastfeeding?
+No. Methylene blue is not for use during pregnancy or breastfeeding.
+
+### Is it an oral skincare product or a topical one?
+Neither is how it is sold. It is a USP pharmaceutical-grade methylene blue solution sold for research and diagnostic purposes only, to be used under the guidance of a qualified healthcare professional. It is not a topical skincare product.
+
+### Is it pharmaceutical grade, and how pure is it?
+Yes. It is USP pharmaceutical-grade methylene blue, a minimum of 99.99% pure, at a 1% concentration (about 0.5 mg per drop).
+
+### Who should avoid it entirely?
+Anyone who is pregnant or breastfeeding, has G6PD deficiency, or takes serotonergic medication. Keep it away from children. If you have any health condition or take any prescription drug, consult a qualified healthcare professional before any use.
 
 ## Disclaimer
 
@@ -103,3 +130,133 @@ No. Because it is sold for research and diagnostic purposes only, dosing and usa
   ]
 }
 ```
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is methylene blue used for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In professional medical settings, methylene blue is an established treatment for methemoglobinemia, a diagnostic and surgical staining dye, and a critical-care agent for certain forms of shock, and it is studied in antimicrobial photodynamic therapy. Separately, researchers are investigating its effects on mitochondrial and cognitive function, though that work is preliminary. This product is sold for research and diagnostic purposes only and should be used under the guidance of a qualified healthcare professional."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What benefits do people take methylene blue for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Interest in methylene blue outside the clinic centers on its role as a mitochondrial electron carrier and antioxidant, which is why it is discussed in connection with cellular energy and mental clarity. That research is early and largely preclinical, so these are areas of scientific interest rather than proven benefits, and nothing here is a claim about what this product will do for you. Because the compound is pharmacologically active with serious interactions, any use should be guided by a qualified healthcare professional."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is methylene blue an MAOI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Methylene blue is a monoamine oxidase inhibitor. That is why it must not be combined with serotonergic medications — the combination can cause serotonin syndrome, a potentially life-threatening reaction."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I take methylene blue with an antidepressant (SSRI, SNRI, or MAOI)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Methylene blue is an MAO inhibitor, and combining it with SSRIs, SNRIs, MAOIs, or other serotonergic medications can cause serotonin syndrome, which can be life-threatening. It should not be used with any serotonergic medication. Discuss every medication you take with your healthcare provider."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I take it with Adderall, Vyvanse, or Wellbutrin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "These are exactly the kinds of medications to be careful about. Wellbutrin (bupropion) and stimulants such as Adderall and Vyvanse act on the same neurotransmitter systems methylene blue affects, and combining them can raise the risk of serotonin syndrome and other adverse reactions. Do not combine methylene blue with them, and review every medication and supplement you take with your healthcare provider before any use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I take methylene blue with coffee?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Caffeine is not a serotonergic medication, so it is not the primary interaction concern — that is serotonergic drugs like antidepressants. That said, because methylene blue is pharmacologically active, any question about combining it with foods, drinks, or supplements is best answered by the healthcare professional overseeing its use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is methylene blue safe?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In clinical settings, methylene blue is described as a generally safe drug at appropriate doses given under medical supervision (Clifton et al., American Journal of Therapeutics, 2003). \"Safe\" is dose- and context-dependent, though: it has serious drug interactions (serotonin syndrome), is not appropriate in pregnancy, nursing, or G6PD deficiency, and can be harmful if misused. That is why this product is sold for research and diagnostic purposes only and should be used under professional guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the side effects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most common and harmless effect is temporary blue-green discoloration of the urine, and sometimes the tongue. The serious risk is serotonin syndrome when methylene blue is combined with serotonergic medications; signs include agitation, confusion, rapid heartbeat, high fever, and muscle rigidity, and warrant emergency care. Any use should be supervised by a qualified healthcare professional."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why does methylene blue turn urine blue or green?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "That is an expected, harmless effect of the dye itself passing through the body — methylene blue is intensely colored. It also stains fabric and surfaces, so handle it carefully."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much methylene blue is in each drop, and do you provide a dose?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 1% solution contains about 0.5 mg per drop, measured with the dropper. Because it is sold for research and diagnostic purposes only, we do not provide dosing or usage directions — the appropriate amount is determined by the overseeing qualified healthcare professional."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you take methylene blue every day, or long term?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We do not provide usage directions, including how often to use it — that is for the supervising healthcare professional to determine. Methylene blue is pharmacologically active with real interaction risks, so ongoing use is not something to self-direct."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I take it while pregnant or breastfeeding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Methylene blue is not for use during pregnancy or breastfeeding."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it an oral skincare product or a topical one?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Neither is how it is sold. It is a USP pharmaceutical-grade methylene blue solution sold for research and diagnostic purposes only, to be used under the guidance of a qualified healthcare professional. It is not a topical skincare product."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it pharmaceutical grade, and how pure is it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. It is USP pharmaceutical-grade methylene blue, a minimum of 99.99% pure, at a 1% concentration (about 0.5 mg per drop)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who should avoid it entirely?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Anyone who is pregnant or breastfeeding, has G6PD deficiency, or takes serotonergic medication. Keep it away from children. If you have any health condition or take any prescription drug, consult a qualified healthcare professional before any use."
+      }
+    }
+  ]
+}
+```
+
