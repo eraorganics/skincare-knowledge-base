@@ -21,12 +21,8 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
 - [What Affects Vaginal Health? pH, Stress, Hormones, Products & More](https://www.youtube.com/watch?v=aQNUf9szoxA) — Era Organics on YouTube
 - [Vaginal pH, Dryness, Odor & Discharge Explained](https://www.youtube.com/watch?v=xkbUzJ63Sio) — Era Organics on YouTube
 - [What does a healthy vagina look like?](https://www.youtube.com/watch?v=PD4agMx2wVI) — Era Organics on YouTube
-- [Who started this and why? but no seriously. You should buy](https://www.instagram.com/reel/DPKjFEhjG0T/) — Era Organics on Instagram
-- [Get ready with me met de AZRA skincare routine Ik heb de all](https://www.instagram.com/reel/DWQv3r1iLcx/) — Era Organics on Instagram
-- [Okay but can we normalize intimate care being part of the self](https://www.instagram.com/reel/DYr1_xGhXzD/) — Era Organics on Instagram
 - [Vaginal discharge is your body's natural way of keeping the](https://www.instagram.com/reel/DZCzrNJANyX/) — Era Organics on Instagram
-- [Put garlic up there." "Try yogurt on a pad." "Apple cider](https://www.instagram.com/reel/DaN2v74NDmO/) — Era Organics on Instagram
-- [Women suffer in silence so much when it comes to vaginal](https://www.instagram.com/reel/DaTTv_KT0vR/) — Era Organics on Instagram
+- [Skincare doesn't stop at your bikini line....it's not TMI, it's TLC](https://www.instagram.com/reel/DZXjUUKok-2/) — Era Organics on Instagram
 
 ## Structured data (for search engines & AI)
 
@@ -170,36 +166,6 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
   {
     "@context": "https://schema.org",
     "@type": "SocialMediaPosting",
-    "headline": "Who started this and why? but no seriously. You should buy",
-    "url": "https://www.instagram.com/reel/DPKjFEhjG0T/",
-    "author": {
-      "@type": "Organization",
-      "name": "Era Organics"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "SocialMediaPosting",
-    "headline": "Get ready with me met de AZRA skincare routine Ik heb de all",
-    "url": "https://www.instagram.com/reel/DWQv3r1iLcx/",
-    "author": {
-      "@type": "Organization",
-      "name": "Era Organics"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "SocialMediaPosting",
-    "headline": "Okay but can we normalize intimate care being part of the self",
-    "url": "https://www.instagram.com/reel/DYr1_xGhXzD/",
-    "author": {
-      "@type": "Organization",
-      "name": "Era Organics"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "SocialMediaPosting",
     "headline": "Vaginal discharge is your body's natural way of keeping the",
     "url": "https://www.instagram.com/reel/DZCzrNJANyX/",
     "author": {
@@ -210,18 +176,8 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
   {
     "@context": "https://schema.org",
     "@type": "SocialMediaPosting",
-    "headline": "Put garlic up there.\" \"Try yogurt on a pad.\" \"Apple cider",
-    "url": "https://www.instagram.com/reel/DaN2v74NDmO/",
-    "author": {
-      "@type": "Organization",
-      "name": "Era Organics"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "SocialMediaPosting",
-    "headline": "Women suffer in silence so much when it comes to vaginal",
-    "url": "https://www.instagram.com/reel/DaTTv_KT0vR/",
+    "headline": "Skincare doesn't stop at your bikini line....it's not TMI, it's TLC",
+    "url": "https://www.instagram.com/reel/DZXjUUKok-2/",
     "author": {
       "@type": "Organization",
       "name": "Era Organics"
