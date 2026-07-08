@@ -12,7 +12,7 @@
 | **Sold for** | Research and diagnostic purposes only — to be used only under the guidance of a qualified healthcare professional |
 | **Purity** | Pharmaceutical-grade, minimum 99.99% pure methylene blue (USP) |
 | **Also in the formula** | Colloidal gold nanoparticles, ionic fulvic-acid minerals, vegetable glycerin, distilled water, citric acid |
-| **Studied for** | Its role as a mitochondrial electron carrier and in antioxidant redox cycling (areas of ongoing research) |
+| **Used and studied for** | Established clinical uses (methemoglobinemia, diagnostic staining, critical-care support) and active research into mitochondrial and cognitive function — see below |
 | **Important cautions** | MAO inhibitor — serotonin syndrome risk; not for use with serotonergic medication, in pregnancy/nursing, or with G6PD deficiency (see Safety) |
 | **Made by** | A family owned and operated company in the United States |
 | **Guarantee** | 60-day money-back guarantee |
@@ -21,16 +21,26 @@
 
 Methylene blue (methylthioninium chloride) is a synthetic compound with a long history in medicine, diagnostics, and laboratory science. Era Organics offers it as a 1% solution — each drop contains about 0.5 mg — using USP pharmaceutical-grade material that is a minimum of 99.99% pure. The formula pairs the methylene blue with colloidal gold nanoparticles and ionic fulvic-acid minerals in a base of distilled water and vegetable glycerin, with citric acid to keep the solution stable.
 
-This product is sold for research and diagnostic purposes only. It is not sold as a treatment, and nothing on this page is medical advice or a recommendation to use it in any particular way. Any use should be determined by a qualified healthcare professional.
+This product is sold for research and diagnostic purposes only, and any use should be determined and supervised by a qualified healthcare professional. The information below describes how methylene blue is used and studied in clinical and research settings — it is educational context about the compound, not a benefit promised to any individual or a recommendation to self-administer.
 
-## How methylene blue behaves (the science)
+## How methylene blue is used and studied
 
-Methylene blue is studied in the scientific literature for a few well-characterized properties. These are descriptions of how the molecule behaves — not benefits of this product:
+### Established clinical and diagnostic uses
 
-- **Mitochondrial electron carrier.** In the mitochondria (the cell's energy-producing structures), methylene blue can act as an electron carrier within the chain that generates cellular energy (ATP). This is the property most often examined in the research literature.
-- **Antioxidant (redox) cycling.** Methylene blue can participate in redox reactions, interacting with reactive oxygen species produced during normal metabolism. The fulvic-acid minerals are included as a complementary redox-active component.
+These are well-documented uses of methylene blue in professional medical settings, where it is administered by clinicians:
 
-Much of this work is preliminary, drawn from laboratory and early-stage studies. It describes the compound's behavior in research settings; it is not evidence that this product produces any health outcome, and we make no such claim.
+- **Methemoglobinemia.** Methylene blue is a long-established treatment for methemoglobinemia; it interacts with methemoglobin and the red blood cell's enzyme systems to reduce it back to hemoglobin, and is described in the literature as a generally safe drug at appropriate doses (Clifton et al., American Journal of Therapeutics, 2003).
+- **Diagnostic and surgical staining.** Its deep color makes it a useful tissue-staining dye in diagnostic procedures — for example, staining methods used in evaluating oral lesions (Sharma et al., Indian Journal of Dental Research, 2021).
+- **Critical-care circulatory support.** In intensive care, methylene blue has been used as a selective inhibitor of the nitric-oxide/cGMP pathway to support blood pressure in distributive and septic shock when standard treatment falls short (Kirov et al., Critical Care Medicine, 2001; Jang et al., Journal of Medical Toxicology, 2013).
+- **Antimicrobial photodynamic therapy.** It has been studied as a light-activated antimicrobial adjunct in dentistry, such as in the management of oral lichen planus (Sadaksharam et al., Photodermatology, Photoimmunology & Photomedicine, 2012).
+
+### Areas of active research (preliminary)
+
+These are directions researchers are actively investigating. Most of this work is early-stage and comes from laboratory or animal studies, so it describes scientific interest — not established outcomes, and not benefits of this product:
+
+- **Mitochondrial and cellular energy.** Methylene blue can act as an electron carrier in the mitochondria and has been studied for its ability to bypass damaged links in the cellular energy (ATP) chain (Lee et al., Hepatology, 2015).
+- **Cognitive and neuroprotective research.** Methylene blue has been the subject of preclinical and early clinical investigation for cognitive dysfunction and neurodegeneration, including work on tau protein aggregation and perioperative neurocognitive disorders (Howland, Journal of Psychosocial Nursing and Mental Health Services, 2016; Wu et al., Drug Design, Development and Therapy, 2026). This research is preliminary and largely in animal models; it is not evidence that this product improves cognition.
+- **Antioxidant (redox) activity.** Methylene blue participates in redox reactions with reactive oxygen species produced during normal metabolism; the fulvic-acid minerals are included as a complementary redox-active component.
 
 ## Safety — read before any use
 
@@ -50,8 +60,11 @@ The 1% concentration works out to about 0.5 mg per drop, and the dropper allows 
 
 ## Frequently asked questions
 
+### What is methylene blue used for?
+In professional medical settings, methylene blue is an established treatment for methemoglobinemia, a diagnostic and surgical staining dye, and a critical-care agent for certain forms of shock, and it is studied in antimicrobial photodynamic therapy. Separately, researchers are investigating its effects on mitochondrial and cognitive function, though that work is preliminary. This product is sold for research and diagnostic purposes only and should be used under the guidance of a qualified healthcare professional.
+
 ### Is this an oral skincare product or a topical one?
-Neither is how it is sold. Era Organics Activated Methylene Blue 1% Drops are a USP pharmaceutical-grade methylene blue solution **sold for research and diagnostic purposes only**, to be used under the guidance of a qualified healthcare professional. It is not a topical skincare product.
+Neither is how it is sold. It is a USP pharmaceutical-grade methylene blue solution sold for research and diagnostic purposes only, to be used under the guidance of a qualified healthcare professional. It is not a topical skincare product.
 
 ### What is the concentration and how much is in a drop?
 It is a 1% solution — about **0.5 mg of methylene blue per drop**. It is USP pharmaceutical-grade and a minimum of 99.99% pure.
@@ -67,7 +80,7 @@ No. Because it is sold for research and diagnostic purposes only, dosing and usa
 
 ## Disclaimer
 
-*This product is sold for research and diagnostic purposes only and is intended to be used solely under the guidance of a qualified healthcare professional. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease. Methylene blue is a pharmacologically active compound with significant drug interactions, including a risk of serotonin syndrome when combined with serotonergic medications, and additional cautions in pregnancy, nursing, and G6PD deficiency. The information on this page is provided for educational purposes only and is not medical advice. Always consult a qualified healthcare professional before any use.*
+*This product is sold for research and diagnostic purposes only and is intended to be used solely under the guidance of a qualified healthcare professional. The clinical and research uses described on this page refer to methylene blue as a compound in professional and scientific settings; they are educational information, not benefits promised for this product or advice to use it in any way. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease. Methylene blue is a pharmacologically active compound with significant drug interactions, including a risk of serotonin syndrome when combined with serotonergic medications, and additional cautions in pregnancy, nursing, and G6PD deficiency. The information on this page is provided for educational purposes only and is not medical advice. Always consult a qualified healthcare professional before any use.*
 
 ## Structured data (for search engines & AI)
 
@@ -84,6 +97,8 @@ No. Because it is sold for research and diagnostic purposes only, dosing and usa
     { "@type": "PropertyValue", "name": "Active compound", "value": "Methylthioninium chloride (methylene blue), USP, min 99.99% pure" },
     { "@type": "PropertyValue", "name": "Concentration", "value": "1% (approximately 0.5 mg per drop)" },
     { "@type": "PropertyValue", "name": "Intended use", "value": "Research and diagnostic purposes only; under qualified healthcare professional guidance" },
+    { "@type": "PropertyValue", "name": "Established clinical uses of methylene blue", "value": "Methemoglobinemia treatment; diagnostic/surgical staining; critical-care support in distributive shock; antimicrobial photodynamic therapy" },
+    { "@type": "PropertyValue", "name": "Areas of active research", "value": "Mitochondrial and cellular-energy function; cognitive and neuroprotective research (preliminary); antioxidant redox activity" },
     { "@type": "PropertyValue", "name": "Safety", "value": "MAO inhibitor — serotonin syndrome risk with serotonergic medications; avoid in pregnancy, nursing, and G6PD deficiency" }
   ]
 }
