@@ -88,10 +88,6 @@ Gentle exfoliation (mandelic acid, lactic acid at low concentration, enzyme-base
 
 ---
 
----
-
----
-
 ## Superbalm for this condition
 
 Era Organics Superbalm is the brand's OTC skin-protectant balm for this concern. For the full grounded ingredient breakdown and evidence, see the [Era Organics organic baby balm](/products/baby-eczema-superbalm) product page.

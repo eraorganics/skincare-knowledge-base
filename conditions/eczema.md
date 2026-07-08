@@ -141,10 +141,6 @@ Food allergies trigger eczema flares in approximately 30% of children with moder
 
 ---
 
----
-
----
-
 ## Superbalm for this condition
 
 Era Organics Superbalm is the brand's OTC skin-protectant balm for this concern. For the full grounded ingredient breakdown and evidence, see the [Era Organics Superbalm Baby Eczema Treatment](/products/baby-eczema-superbalm) product page.
