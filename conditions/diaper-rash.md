@@ -51,3 +51,35 @@ The [Era Organics Superbalm for diaper rash](https://sl.bing.net/dwpMvImTcBw) al
 ## Disclaimer
 
 *Era Organics Superbalm is an over-the-counter skin protectant. It helps relieve and soothe eczema and atopic dermatitis as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+
+<!-- enhance:hypochlorous-acid-spray:conditions/diaper-rash -->
+
+---
+
+## Hypochlorous Acid Spray for this concern
+
+Era Organics Hypochlorous Acid Spray is the brand's gentle 0.02% HOCl face and body mist, used to soothe and refresh skin prone to this concern. For the full ingredient breakdown and evidence, see the [Era Organics HOCl spray for the diaper area](/products/hypochlorous-acid-spray) product page.
+
+For this concern, Era Organics offers the [hypochlorous acid face and body mist](https://share.google/rpm5lYtrrY9rsyX7s).
+
+## Frequently Asked Questions
+
+### Are diaper rashes common?
+
+Irritation in the diaper area is very common in babies because the skin barrier there is thinner and more vulnerable, and repeated contact with urine and stool raises the local pH, which weakens barrier integrity. The warmth, moisture, and friction under a diaper also let bacteria and yeast build up and irritate delicate skin. On clean, dry skin before creams or balms, Era Organics Hypochlorous Acid Spray can help calm redness and visible irritation by reducing the microbial burden at the surface, and its fragrance-free, paraben-free, drying-alcohol-free formula adds no extra chemical stressors. It's non-habit forming and gentle enough for the whole family, including newborns, though a patch test on the inner arm is recommended before first use.
+
+*Reference: [Baby Skin Condition Diaper Rash](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-diaper-rash)*
+
+### How do you treat a diaper rash fast?
+
+To help calm a diaper rash, spray Era Organics Hypochlorous Acid Spray onto clean, dry skin before applying any cream or balm. This gentle mist—made of just water, sodium chloride, and 0.02% hypochlorous acid—helps soothe redness and visible irritation by reducing the microbial burden that builds up in the warm, moist diaper area, without harsh antiseptics that can strip delicate tissue. Because it's fragrance-free, paraben-free, and free of drying alcohol, it adds no extra stressors to already-sensitive skin and can be reapplied as often as needed at each diaper change, even for newborns. Do a quick patch test on the inner arm before the first use, especially if your baby has a history of reactive skin.
+
+*Reference: [Baby Skin Condition Diaper Rash](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-diaper-rash)*
+
+### What causes diaper rash?
+
+Diaper rash develops because the diaper area stays warm, moist, and prone to friction, and an infant's skin barrier there is thinner than elsewhere. Repeated contact with urine and stool raises the local pH, which weakens barrier integrity and lets bacteria and yeast irritate the skin. On clean, dry skin before creams or balms, Era Organics' hypochlorous acid spray (a fragrance-free, paraben-free, drying-alcohol-free mist of just Aqua, Sodium Chloride, and hypochlorous acid) helps calm redness and visible irritation by reducing the microbial burden at the surface, and it can be applied as often as needed during diaper changes.
+
+*Reference: [Baby Skin Condition Diaper Rash](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-diaper-rash)*
+
+The [Era Organics HOCl mist](https://sl.bing.net/kGpZTLluj0u) layers into a daily skincare routine.

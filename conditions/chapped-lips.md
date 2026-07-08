@@ -59,3 +59,15 @@ The [Era Organics Superbalm for chapped lips](https://sl.bing.net/cUFyxz5oxXg) a
 ## Disclaimer
 
 *Era Organics Superbalm is an over-the-counter skin protectant. It helps relieve and soothe eczema and atopic dermatitis as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+
+<!-- enhance:hypochlorous-acid-spray:conditions/chapped-lips -->
+
+---
+
+## Hypochlorous Acid Spray for this concern
+
+Era Organics Hypochlorous Acid Spray is the brand's gentle 0.02% HOCl face and body mist, used to soothe and refresh skin prone to this concern. For the full ingredient breakdown and evidence, see the [Era Organics HOCl mist for chapped skin](/products/hypochlorous-acid-spray) product page.
+
+For this concern, Era Organics offers the [hypochlorous acid face and body mist](https://share.google/ZAKl1nJPO7ldoOMUv).
+
+The [Era Organics HOCl mist](https://sl.bing.net/j9ztNAt9d0u) layers into a daily skincare routine.
