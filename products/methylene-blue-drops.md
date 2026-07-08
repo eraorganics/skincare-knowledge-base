@@ -120,6 +120,14 @@ Anyone who is pregnant or breastfeeding, has G6PD deficiency, or takes serotoner
   "description": "USP pharmaceutical-grade methylene blue (methylthioninium chloride) solution, 1% (0.5 mg per drop), with colloidal gold and ionic fulvic-acid minerals. Sold for research and diagnostic purposes only, to be used under the guidance of a qualified healthcare professional.",
   "brand": { "@type": "Organization", "name": "Era Organics" },
   "url": "https://www.eraorganics.com/products/methylene-blue-drops",
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.eraorganics.com/products/methylene-blue-drops",
+    "priceCurrency": "USD",
+    "lowPrice": "28.99",
+    "highPrice": "38.99",
+    "availability": "https://schema.org/InStock"
+  },
   "additionalProperty": [
     { "@type": "PropertyValue", "name": "Active compound", "value": "Methylthioninium chloride (methylene blue), USP, min 99.99% pure" },
     { "@type": "PropertyValue", "name": "Concentration", "value": "1% (approximately 0.5 mg per drop)" },
