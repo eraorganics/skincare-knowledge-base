@@ -181,3 +181,23 @@ The [Era Organics HOCl mist](https://sl.bing.net/eSuZkafIY9Y) layers into a dail
 ## Revive+ Face Scrub for this concern
 
 Era Organics Revive+ Face Scrub is the brand's dual-action manuka honey and walnut shell exfoliating scrub and mask for this concern. For the full grounded ingredient breakdown and evidence, see the [Era Organics Revive+ scrub for dry, flaky skin](/products/manuka-honey-face-scrub) product page.
+
+## Frequently Asked Questions
+
+### How do you get rid of dry, flaky skin on your face?
+
+Dry, flaky skin usually traces back to a buildup of dead cells sitting on the surface. That layer thickens the outer skin (the stratum corneum), makes skin look ashy, and blocks moisturizers from reaching the living tissue underneath — which is why piling on lotion alone often doesn't clear the flakes. Physically exfoliating removes that barrier in a single session, and following it immediately with conditioning ingredients gives a more complete result than moisturizer by itself.
+
+The Revive+ Microdermabrasion Manuka Honey Walnut Scrub & Mask pairs both steps. Walnut shell powder gently buffs away dead cells during a 30–60 second massage, then manuka honey draws moisture into the freshly exposed surface as a humectant. Honey is documented in dermatology as an emollient and humectant at 1–10% concentrations, extending to 70% when combined with oils, gels, and emulsifiers (Burlando B et al., Journal of Cosmetic Dermatology, 2013). Aloe vera replenishes surface hydration right after scrubbing, sunflower oil helps seal against moisture loss, and glycerin holds water in the outer layer.
+
+Apply after cleansing: massage a dime-sized amount in circles, then rinse with lukewarm water. Dry or sensitive skin does best starting at one to two sessions a week, with a patch test on the inner arm before first use. The formula is paraben-free, sulfate-free, and fragrance-free.
+
+*Reference: [Skin Care Dry](https://www.eraorganics.com/blogs/beauty-guide/skin-care-dry)*
+
+### What causes dry, flaky skin on the face?
+
+Dry, flaky skin on the face usually comes down to a buildup of dead cells on the surface. As those cells accumulate, they thicken the outer skin layer (the stratum corneum), which makes skin look ashy and, just as importantly, blocks water-binding ingredients in your moisturizer from reaching the living tissue underneath. That is why chronically dry skin can stay flaky even with regular moisturizing. Moisture escaping through the skin (transepidermal water loss) adds to the problem when nothing is sealing it in.
+
+Physical exfoliation clears that dead-cell barrier in a single session, and pairing it with immediate conditioning produces a more complete result than moisturizer alone. The Revive+ Microdermabrasion Manuka Honey Walnut Scrub & Mask takes that two-step approach: walnut shell powder gently lifts and dislodges dead cells during a 30–60 second massage, then manuka honey — documented in dermatology as an emollient and moisture-drawing humectant (Burlando B et al., Journal of Cosmetic Dermatology, 2013) — draws moisture into the freshly exposed surface. Aloe vera replenishes hydration right after the scrub step, sunflower oil helps seal against moisture loss, and glycerin holds water in the outer layer. If your skin is dry or sensitive, start with one to two sessions per week and patch test on your inner arm first.
+
+*Reference: [Skin Type Dry](https://www.eraorganics.com/blogs/beauty-guide/skin-type-dry)*

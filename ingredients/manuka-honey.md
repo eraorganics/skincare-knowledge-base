@@ -8,6 +8,16 @@ The antimicrobial properties of manuka honey are documented in peer-reviewed lit
 
 For everyday skin care, manuka honey's moisture-drawing ingredient (humectant) action is the primary reason it appears in the Manuka Honey Face Scrub. Physical exfoliation temporarily disrupts the skin surface, and a moisture-drawing ingredient (humectant) present in the formula immediately attracts water back to that surface. The result is exfoliated skin that retains moisture rather than losing it to moisture loss through the skin (transepidermal water loss) in the minutes after rinsing.
 
+## Frequently Asked Questions
+
+### Is manuka honey good for dry, itchy, or rash-prone skin?
+
+Manuka honey is a natural fit for dry skin because it works as a moisture-drawing ingredient (a humectant): it pulls water from the environment and binds it to the skin's surface. That is the main reason Era Organics includes it in the Revive+ Microdermabrasion Manuka Honey Walnut Scrub & Mask. Physical exfoliation temporarily disrupts the skin surface, and a humectant in the same formula immediately attracts water back to it, so skin finishes feeling soft and hydrated rather than stripped or tight — a genuine advantage if your skin already runs dry.
+
+For itchy or rash-prone skin, it helps to know what a cosmetic can and cannot do. Manuka honey carries a higher concentration of methylglyoxal than standard honey, the compound behind its documented antimicrobial activity, and its skin-conditioning properties help soothe and moisturize skin that feels rough or uncomfortable. Its reputation partly comes from wound-care research — burns treated with manuka honey reepithelialized faster than controls in a porcine model (Privrodski et al., Pharmaceuticals, 2025) — but those are medical findings, not claims about a face scrub. If skin is actively rashy or broken, skip exfoliating that area until it calms, and patch test any new product first.
+
+*Reference: [Skin Care Dry](https://www.eraorganics.com/blogs/beauty-guide/skin-care-dry) · PMID 40143075*
+
 ## Related
 
 - **Full product:** [Era Organics Revive+ Face Scrub with manuka honey](/products/manuka-honey-face-scrub)

@@ -8,6 +8,12 @@ Citrus sinensis oil sits alongside aloe vera, manuka honey, and walnut shell in 
 
 Patch test the Gentle Face Exfoliant on the inner arm before first use, particularly with citrus sensitivity, as orange oil is a possible contact allergen for reactive skin types.
 
+## Frequently Asked Questions
+
+### How do you use orange oil on your skin?
+
+The simplest way to use orange oil on your skin is through a formula that already includes it, rather than applying the raw essential oil on its own. Orange oil (Citrus sinensis oil) is cold-pressed from sweet orange peel, and in skincare it does two jobs: it helps brighten the look of dull skin and uneven tone at the surface, and it lends a light, natural citrus scent so a formula can skip synthetic fragrance entirely. That scent comes from limonene, the primary volatile compound in sweet orange peel. Orange oil also contributes antioxidant properties that work against environmental stressors on the skin's surface. In the Revive+ Microdermabrasion Manuka Honey Walnut Scrub & Mask, orange oil sits alongside aloe vera, manuka honey, and finely milled walnut shell — the walnut powder buffs away dull surface buildup while the orange oil supports a brighter, more even-looking tone, with no synthetic dyes or artificial brighteners in the formula. One important step before you start: patch test on the inner arm before first use, especially if you have citrus sensitivity, since orange oil is a possible contact allergen for reactive skin types. If your skin stays calm, work the product into your regular routine as directed.
+
 ## Related
 
 - **Full product:** [Era Organics Revive+ scrub with orange peel oil](/products/manuka-honey-face-scrub)

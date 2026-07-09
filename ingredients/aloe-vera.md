@@ -47,3 +47,11 @@ Yes — aloe vera is a water-rich botanical whose polysaccharides bind moisture 
 ## Also used in Revive+ Face Scrub
 
 This ingredient is also a key active in Era Organics Revive+ Face Scrub, the brand's dual-action manuka honey and walnut shell exfoliating scrub and mask. For the grounded ingredient breakdown and evidence, see the [Era Organics Revive+ Face Scrub with aloe vera](/products/manuka-honey-face-scrub) product page.
+
+## Frequently Asked Questions
+
+### Is aloe vera good for flaky skin and acne redness?
+
+Aloe vera is a strong fit for skin that runs flaky, and it earns its place in routines for acne-prone skin too. Its gel-like texture comes from polysaccharides — long-chain sugars that form a light film on the skin's surface and slow the moisture loss that leaves skin looking dry and flaky. That film-forming quality matters most right after exfoliation, when the outermost layer of skin is temporarily disturbed and prone to losing water. This is why the Revive+ Microdermabrasion Manuka Honey Walnut Scrub uses aloe vera juice as its base carrier instead of water: the aloe holds moisture in place while the finely milled walnut shell buffs away flaky buildup, so skin isn't stripped in the process. For acne-prone skin, that gentler, hydrating approach to exfoliation is the practical benefit — aloe moisturizes and soothes rather than drying skin out. There's deeper conditioning at work as well: aloe vera improves wrinkles and skin elasticity in photoaged skin, with a measurable increase in collagen production and a decrease in the collagen-degrading enzyme MMP-1 (Cho et al., Annals of Dermatology, 2009). As with any exfoliating product, patch test on the inner arm before first use, especially if your skin is reactive or sensitive.
+
+*Reference: [Hydrating Ingredient Aloe Vera Acne](https://www.eraorganics.com/blogs/beauty-guide/hydrating-ingredient-aloe-vera-acne) · PMID 20548848*

@@ -31,3 +31,11 @@ The [Era Organics HOCl mist](https://sl.bing.net/fnScUwxoGB2) layers into a dail
 ## Revive+ Face Scrub for this concern
 
 Era Organics Revive+ Face Scrub is the brand's dual-action manuka honey and walnut shell exfoliating scrub and mask for this concern. For the full grounded ingredient breakdown and evidence, see the [Era Organics microdermabrasion scrub for fine lines](/products/manuka-honey-face-scrub) product page.
+
+## Frequently Asked Questions
+
+### Is sunflower oil good for wrinkles and aging skin?
+
+Sunflower oil earns its place in many routines for mature skin as a lightweight moisturizing oil, and keeping aging skin well moisturized genuinely softens the look of fine lines. But an oil can only do so much when it is sitting on top of a layer of dead surface cells — that buildup is what makes fine lines appear deeper and more pronounced in the first place. Clearing it regularly is the step that lets moisturizing ingredients, sunflower oil included, actually reach refreshed skin. That is where a gentle physical exfoliant fits: in the Era Organics Revive+ Scrub & Mask, finely milled walnut shell powder buffs away the dulling layer, while aloe vera addresses skin structure more directly — aloe gel has been shown to improve wrinkles and elasticity in photoaged skin, increasing collagen production and reducing the collagen-degrading enzyme MMP-1 (Cho et al., Annals of Dermatology, 2009). Manuka honey then draws water into the upper skin layers, keeping the outer skin plump rather than dehydrated and creased between sessions. Used two to three times per week — or left on 10 to 15 minutes as a mask — it pairs well with a facial oil applied afterward, so the moisture-binding and collagen-supporting effects build on smooth, receptive skin.
+
+*Reference: [Sunflower Oil](https://www.eraorganics.com/blogs/raw-ingredients/sunflower-oil) · PMID 20548848*

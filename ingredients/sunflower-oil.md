@@ -65,3 +65,31 @@ Era Organics Superbalm uses sunflower oil as a primary carrier, pairing it with 
 ## Also used in Revive+ Face Scrub
 
 This ingredient is also a key active in Era Organics Revive+ Face Scrub, the brand's dual-action manuka honey and walnut shell exfoliating scrub and mask. For the grounded ingredient breakdown and evidence, see the [Era Organics manuka honey scrub with sunflower oil](/products/manuka-honey-face-scrub) product page.
+
+## Frequently Asked Questions
+
+### Is sunflower oil good for your skin?
+
+Sunflower oil (Helianthus Annuus Seed Oil) is a genuinely skin-friendly ingredient. It's rich in linoleic acid, a fatty acid your skin already produces naturally, which makes it compatible with most skin types, including dry and sensitive skin. Research supports its role in skin conditioning: skin condition scores in neonates treated with sunflower seed oil were significantly better than in an untreated control group at one month (Tiryaki Ö et al., Advances in Skin & Wound Care, 2024), showing the oil helps support skin integrity even under physically stressed conditions.
+
+That replenishing quality is why sunflower oil serves as the emollient base in the Revive+ Microdermabrasion Scrub. Physical exfoliation temporarily disrupts the outermost skin layer, and sunflower oil's lipid profile helps replenish the surface as the scrub rinses away, so skin feels smooth rather than tight or stripped. Working alongside aloe vera and glycerol, it counterbalances the buffing action of walnut shell powder, letting the formula remove dullness and surface buildup while softening and smoothing the freshly revealed skin in a single step.
+
+So yes — as both a standalone emollient and a supporting base in an exfoliating formula, sunflower oil helps keep skin soft, conditioned, and comfortable.
+
+*Reference: [Sunflower Oil](https://www.eraorganics.com/blogs/raw-ingredients/sunflower-oil) · PMID 39792519*
+
+### Is sunflower oil safe for baby skin?
+
+Sunflower oil has one of the gentlest reputations of any plant oil, and the research on delicate skin backs that up. In a study of neonates, skin condition scores measured in babies treated with sunflower seed oil were significantly better than those in an untreated control group at one month (Tiryaki Ö et al., Advances in Skin & Wound Care, 2024), demonstrating the oil's capacity to support skin integrity even under physically compromised conditions. Part of the reason is its lipid profile: sunflower oil (Helianthus Annuus Seed Oil) is rich in linoleic acid, a fatty acid the skin produces naturally, which makes it compatible with most skin types including dry and sensitive. That same gentleness is why it serves as the emollient base in our Revive+ Microdermabrasion Scrub — an adult facial exfoliator, not a baby product — where it softens the skin during physical exfoliation and replenishes the surface as the scrub rinses away, so skin feels smooth rather than tight. If you're considering any new oil or product for a baby, a simple patch test on a small area first is always a sensible habit, and your pediatrician is the right resource for questions about your child's skin.
+
+*Reference: [Sunflower Oil](https://www.eraorganics.com/blogs/raw-ingredients/sunflower-oil) · PMID 39792519*
+
+### Which type of sunflower oil is best for skin — refined, organic, cold-pressed, or high-oleic?
+
+When comparing sunflower oils for skin, the label terms matter less than the fatty acid profile inside the bottle. What makes sunflower oil (Helianthus Annuus Seed Oil) a skin-friendly emollient is its linoleic acid content — a fatty acid your skin produces naturally, which is why the oil is compatible with most skin types, including dry and sensitive. So rather than fixating on refined versus organic versus cold-pressed versus high-oleic, the more useful question is whether the oil you're using is rich in linoleic acid.
+
+That lipid profile does real work on the skin's surface. In one study, skin condition scores measured in neonates treated with sunflower seed oil were significantly better than those in an untreated control group at one month (Tiryaki Ö et al., Advances in Skin & Wound Care, 2024), demonstrating the oil's capacity to support skin integrity under physically compromised conditions.
+
+That surface-replenishing quality is why sunflower oil serves as the emollient base in Era Organics' Revive+ Microdermabrasion Scrub. Physical exfoliation temporarily disrupts the outermost skin layer, and sunflower oil's lipids replenish the surface as the scrub rinses away — working alongside aloe vera and glycerol so freshly exfoliated skin feels smooth and softened rather than tight or stripped.
+
+*Reference: [Sunflower Oil](https://www.eraorganics.com/blogs/raw-ingredients/sunflower-oil) · PMID 39792519*
