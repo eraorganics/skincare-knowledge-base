@@ -12,6 +12,7 @@ See the full [Era Organics Hypochlorous Acid Spray](/products/hypochlorous-acid-
 - [Try the viral spray for yourself and see why everyone's](https://www.instagram.com/reel/DXz2Q93gHpp/) — Era Organics on Instagram
 - [The face mist that's earned a permanent spot in your bag](https://www.instagram.com/reel/DZFjL4LuV18/) — Era Organics on Instagram
 - [Acne and Milia be gone .](https://www.tiktok.com/@eraorganics/video/6960072936267058438) — Era Organics on TikTok
+- [Uneven skin tone? Skin tone looking dull? Check out this amazing before and after of our Flawless serum!!](https://www.tiktok.com/@eraorganics/video/7165980239577861422) — Era Organics on TikTok
 - [If your skincare doesn't have HOCL, you're missing out Era Organics' Hypochlorous Acid Spray = clear, calm](https://www.tiktok.com/@eraorganics/video/7550859380128763166) — Era Organics on TikTok
 - [The cleansers I use depending on the day. Sometimes I just need a basic cleanser and sometimes I need](https://www.tiktok.com/@eraorganics/video/7628708038496537886) — Era Organics on TikTok
 - [Healthy pH. Healthy flora. Better balance.](https://www.tiktok.com/@eraorganics/video/7650660891981073678) — Era Organics on TikTok
@@ -74,9 +75,17 @@ See the full [Era Organics Hypochlorous Acid Spray](/products/hypochlorous-acid-
     "@context": "https://schema.org",
     "@type": "VideoObject",
     "name": "Acne and Milia be gone .",
-    "description": "original sound - Era Organics ... Fight acne-causing bacteria the simple way. Shop now. original sound - Era",
+    "description": "Fight acne-causing bacteria the simple way. Hypochlorous acid works for body acne, back acne, chest",
     "url": "https://www.tiktok.com/@eraorganics/video/6960072936267058438",
-    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-p-0068/cad528b26dc14448ad19f6cd9a705222_1620518266~tplv-tiktokx-origin.image?dr=9636&x-expires=1783710000&x-signature=7jbeN9bj6fSfiwWV5vvwnqo3%2B8M%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-p-0068/cad528b26dc14448ad19f6cd9a705222_1620518266~tplv-tiktokx-origin.image?dr=9636&x-expires=1783796400&x-signature=7X1au5r530G6CTCDsy0noc9Nie8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "Uneven skin tone? Skin tone looking dull? Check out this amazing before and after of our Flawless serum!!",
+    "description": "Achieve clear, smooth, and radiant skin. serum for skin tone correction, effective anti-aging serum for",
+    "url": "https://www.tiktok.com/@eraorganics/video/7165980239577861422",
+    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/f94280e6c77146239f7816347fbfb59d_1668459809~tplv-tiktokx-origin.image?dr=9636&x-expires=1783796400&x-signature=DdFL%2FxntUSo9POTQJlvIBc7yDOc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
   },
   {
     "@context": "https://schema.org",
@@ -84,7 +93,7 @@ See the full [Era Organics Hypochlorous Acid Spray](/products/hypochlorous-acid-
     "name": "If your skincare doesn't have HOCL, you're missing out Era Organics' Hypochlorous Acid Spray = clear, calm",
     "description": "If your skincare doesn't have HOCL, you're missing out Era Organics' Hypochlorous Acid Spray = clear, calm",
     "url": "https://www.tiktok.com/@eraorganics/video/7550859380128763166",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oImr5GPQuRLBIWheIAiUfqRVFujXlA7fIQoCXI~tplv-tiktokx-dmt-logom:tos-useast8-i-0068-tx2/oU1EAqoQU5iDfCJFAiVUgfEEFEARGAykUEiFAI.image?dr=9634&x-expires=1783710000&x-signature=m%2FHa07laRCBdptboyj7NFUDMdL0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oImr5GPQuRLBIWheIAiUfqRVFujXlA7fIQoCXI~tplv-tiktokx-dmt-logom:tos-useast8-i-0068-tx2/oU1EAqoQU5iDfCJFAiVUgfEEFEARGAykUEiFAI.image?dr=9634&x-expires=1783796400&x-signature=GVzPNSk2pT%2BCVHpXqKy3Vu2MfBc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
   },
   {
     "@context": "https://schema.org",
@@ -92,15 +101,15 @@ See the full [Era Organics Hypochlorous Acid Spray](/products/hypochlorous-acid-
     "name": "The cleansers I use depending on the day. Sometimes I just need a basic cleanser and sometimes I need",
     "description": "Hypochlorous acid is a simple spray that helps support clearer-looking skin by calming irritation, fighting",
     "url": "https://www.tiktok.com/@eraorganics/video/7628708038496537886",
-    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/owyEgGF3NQDDZuDA24ZAf4EYp9QeRYsEV50pOB~tplv-tiktokx-origin.image?dr=9636&x-expires=1783710000&x-signature=e9ylIJJqbVMgbwSjtqBiAD3kD9c%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/owyEgGF3NQDDZuDA24ZAf4EYp9QeRYsEV50pOB~tplv-tiktokx-origin.image?dr=9636&x-expires=1783796400&x-signature=%2BywjSS6kbmcMbg2GfQ9chKVBukc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
   },
   {
     "@context": "https://schema.org",
     "@type": "VideoObject",
     "name": "Healthy pH. Healthy flora. Better balance.",
-    "description": "A disinfecting spray for your body that your skin already understands. Hypochlorous acid helps refresh",
+    "description": "Hypochlorous acid is a simple spray that helps support clearer-looking skin by calming irritation, fighting",
     "url": "https://www.tiktok.com/@eraorganics/video/7650660891981073678",
-    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ocJWHg6UkILBSD2IdeseCLmWsGdvmTEd5YkfkA~tplv-tiktokx-origin.image?dr=9636&x-expires=1783710000&x-signature=TOKxMWhZtW621D8dNEZqqDUQcSA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ocJWHg6UkILBSD2IdeseCLmWsGdvmTEd5YkfkA~tplv-tiktokx-origin.image?dr=9636&x-expires=1783796400&x-signature=qU5LCqkbE%2FjoMuBjegvWJOiz9pk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
   }
 ]
 ```
