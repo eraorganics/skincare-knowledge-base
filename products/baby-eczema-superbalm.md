@@ -435,6 +435,8 @@ For babies dealing with eczema or atopic dermatitis specifically, Era Organics S
 - [Era Organics Super Balm Let's see if this super balm is really](https://www.instagram.com/reel/DFk6Fl4JoNW/) — Era Organics on Instagram
 - [Baby skincare that actually makes my life easier From messy](https://www.instagram.com/reel/DYzwDtjqoFf/) — Era Organics on Instagram
 - [Anyone else playing skincare roulette with their babies? I](https://www.instagram.com/reel/DSTLpgmkgyd/) — Era Organics on Instagram
+- [If cradle cap keeps coming back, start here. These 5 steps can help stop it from forming](https://www.tiktok.com/@eraorganics/video/7626103223409003807) — Era Organics on TikTok
+- [Love seeing our products help with cradle cap!](https://www.tiktok.com/@eraorganics/video/7261066120030031150) — Era Organics on TikTok
 
 ## Disclaimer
 
@@ -676,7 +678,7 @@ For babies dealing with eczema or atopic dermatitis specifically, Era Organics S
     "name": "I almost used steroids… until Superbalm. Baby eczema is HARD. Finding something gentle",
     "description": "I almost used steroids… until Superbalm. Baby eczema is HARD. Finding something gentle",
     "url": "https://www.tiktok.com/@eraorganics/video/7585014984514587934",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oQQVTVpABzei1WKgDEIoNUF6NKCBmAf9EKC8da~tplv-tiktokx-origin.image?dr=9636&x-expires=1783616400&x-signature=%2FO2V48SP%2Fej9xgomWNMS2JWGQLs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oQQVTVpABzei1WKgDEIoNUF6NKCBmAf9EKC8da~tplv-tiktokx-origin.image?dr=9636&x-expires=1783796400&x-signature=wFvWZnA47a8z2W2Ic31Ol3PQWUc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
   },
   {
     "@context": "https://schema.org",
@@ -707,6 +709,22 @@ For babies dealing with eczema or atopic dermatitis specifically, Era Organics S
       "@type": "Organization",
       "name": "Era Organics"
     }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "If cradle cap keeps coming back, start here. These 5 steps can help stop it from forming",
+    "description": "If cradle cap keeps coming back, start here. These 5 steps can help stop it from forming",
+    "url": "https://www.tiktok.com/@eraorganics/video/7626103223409003807",
+    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/ooy1DflEEEbVIIXO0ApAFCmVEwRVAA4fDESAYJ~tplv-tiktokx-dmt-logom:tos-useast8-i-0068-tx2/o4EREUQqoGfVAIDJCAfgF4AVAyIvQAdDEV1puE.image?dr=9634&x-expires=1783796400&x-signature=M6XQ2nRwsUlMrtX%2BWLVwv913TsE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "Love seeing our products help with cradle cap!",
+    "description": "Love seeing our products help with cradle cap! These products helped clear it up in less",
+    "url": "https://www.tiktok.com/@eraorganics/video/7261066120030031150",
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oMHEbxBWi8TMABS4rkeFRCgM0DIJbDXnQIfTTg~tplv-tiktokx-dmt-logom:tos-useast5-i-0068-tx/48cfbd7dc33949a1ae0876131f5c58dc.image?dr=9634&x-expires=1783796400&x-signature=UUCLKdZYqxKOUYlJIMcTZv5FeK8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
   }
 ]
 ```
