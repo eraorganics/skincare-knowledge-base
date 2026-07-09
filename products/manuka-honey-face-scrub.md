@@ -206,6 +206,22 @@ Research supports careful sourcing decisions for topical products: Wahdini et al
 
 Before placing an order from any retailer, confirm the product name reads "Revive+ Microdermabrasion Manuka Honey Walnut Scrub & Mask" and that the listed ingredients match the INCI deck published on eraorganics.com. The Microdermabrasion Scrub contains walnut shell powder (Juglans Regia Shell Powder), which the FDA classifies as a tree nut derivative; tree nut sensitivity is a possible reaction risk for affected users, so patch test on the inner arm before first facial use and review the full ingredient list before purchasing.
 
+## Frequently Asked Questions
+
+### How do you exfoliate your face naturally at home?
+
+Natural at-home exfoliation comes down to two things: something that physically buffs away dead skin cells, and something that conditions the skin so it isn't left stripped afterward. A finely milled botanical exfoliant paired with humectants like honey and aloe vera covers both in one step. That's the approach behind Era Organics Revive+ Microdermabrasion Manuka Honey Walnut Scrub & Mask: finely milled walnut shell powder buffs away dead skin cells and surface buildup, while manuka honey and aloe vera replenish moisture as you rinse. If walnut scrubs give you pause, the milling matters — fine walnut shell powder in a honey and aloe base behaves very differently from coarse grit, and cehami extract helps calm the post-exfoliation irritation coarser scrubs often leave behind. The method: after cleansing, massage a dime-sized amount in circular motions for 30 to 60 seconds, then rinse. Two to three times per week suits most adults; sensitive skin should start at once or twice weekly and build up gradually. Patch test on your inner arm before the first full application.
+
+*Reference: [Best Sugar Scrub Recipe](https://www.eraorganics.com/blogs/diy/best-sugar-scrub-recipe)*
+
+### Is physical or chemical exfoliation better for your face?
+
+Neither method is automatically better — what matters is how gently the exfoliation happens and what the formula does for your skin in the same step. Physical exfoliation lifts away dead cells mechanically, and its reputation problem comes mostly from coarse grit. Fine milling changes that equation. In Era Organics' Revive+ Microdermabrasion Scrub, finely milled walnut shell powder buffs away dead skin cells and surface buildup while manuka honey and aloe vera replenish moisture immediately after, so the face is not left stripped or tight after rinsing. Cehami extract adds calming properties that reduce the post-exfoliation irritation coarser scrubs commonly leave behind, and oat amino protein and lecithin help keep moisture locked in. A practical advantage of a physical scrub is control: you set the pressure, massage for 30 to 60 seconds in circular motions, and use it two to three times per week — sensitive skin starts at once or twice weekly and increases gradually. Whichever route you choose, patch testing on the inner arm before the first application is the recommended starting point, and a formula free of sulfates, parabens, synthetic dyes, and harsh drying alcohols keeps the ingredient list straightforward to evaluate before first use.
+
+### How do you patch test a new skincare product?
+
+A patch test is a small trial run before a new product goes anywhere near your whole face. Apply a small amount to the inner arm before the first full application — that is the recommended starting point with any new formula, exfoliants included. If the skin there stays calm and comfortable, you can move on to using the product as directed. It also helps to read the full ingredient list first; Era Organics keeps that step simple with the Revive+ Microdermabrasion Manuka Honey Walnut Scrub & Mask by leaving out mineral oil, propylene glycol, synthetic dyes, and phthalates, so there is less to evaluate before your first use. Once your patch test passes, ease in rather than jumping to full frequency: sensitive-skin users start at once or twice per week and increase gradually, while typical use is two to three times per week after cleansing — a dime-sized amount massaged in circular motions for 30 to 60 seconds, then rinsed. The finely milled walnut shell powder paired with manuka honey and aloe vera is designed to buff away dead skin cells while conditioning the skin, so a careful introduction lets you confirm the formula suits your skin before it becomes part of your routine.
+
 ## Era Organics Revive+ Face Scrub on TikTok & Instagram
 
 - [Acne and Milia be gone .](https://www.tiktok.com/@eraorganics/video/6960072936267058438) — Era Organics on TikTok
@@ -345,6 +361,39 @@ Before placing an order from any retailer, confirm the product name reads "Reviv
     "availability": "https://schema.org/InStock",
     "url": "https://www.eraorganics.com/products/face-exfoliation-scrub"
   }
+}
+```
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you exfoliate your face naturally at home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Natural at-home exfoliation comes down to two things: something that physically buffs away dead skin cells, and something that conditions the skin so it isn't left stripped afterward. A finely milled botanical exfoliant paired with humectants like honey and aloe vera covers both in one step. That's the approach behind Era Organics Revive+ Microdermabrasion Manuka Honey Walnut Scrub & Mask: finely milled walnut shell powder buffs away dead skin cells and surface buildup, while manuka honey and aloe vera replenish moisture as you rinse. If walnut scrubs give you pause, the milling matters — fine walnut shell powder in a honey and aloe base behaves very differently from coarse grit, and cehami extract helps calm the post-exfoliation irritation coarser scrubs often leave behind. The method: after cleansing, massage a dime-sized amount in circular motions for 30 to 60 seconds, then rinse. Two to three times per week suits most adults; sensitive skin should start at once or twice weekly and build up gradually. Patch test on your inner arm before the first full application."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is physical or chemical exfoliation better for your face?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Neither method is automatically better — what matters is how gently the exfoliation happens and what the formula does for your skin in the same step. Physical exfoliation lifts away dead cells mechanically, and its reputation problem comes mostly from coarse grit. Fine milling changes that equation. In Era Organics' Revive+ Microdermabrasion Scrub, finely milled walnut shell powder buffs away dead skin cells and surface buildup while manuka honey and aloe vera replenish moisture immediately after, so the face is not left stripped or tight after rinsing. Cehami extract adds calming properties that reduce the post-exfoliation irritation coarser scrubs commonly leave behind, and oat amino protein and lecithin help keep moisture locked in. A practical advantage of a physical scrub is control: you set the pressure, massage for 30 to 60 seconds in circular motions, and use it two to three times per week — sensitive skin starts at once or twice weekly and increases gradually. Whichever route you choose, patch testing on the inner arm before the first application is the recommended starting point, and a formula free of sulfates, parabens, synthetic dyes, and harsh drying alcohols keeps the ingredient list straightforward to evaluate before first use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you patch test a new skincare product?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A patch test is a small trial run before a new product goes anywhere near your whole face. Apply a small amount to the inner arm before the first full application — that is the recommended starting point with any new formula, exfoliants included. If the skin there stays calm and comfortable, you can move on to using the product as directed. It also helps to read the full ingredient list first; Era Organics keeps that step simple with the Revive+ Microdermabrasion Manuka Honey Walnut Scrub & Mask by leaving out mineral oil, propylene glycol, synthetic dyes, and phthalates, so there is less to evaluate before your first use. Once your patch test passes, ease in rather than jumping to full frequency: sensitive-skin users start at once or twice per week and increase gradually, while typical use is two to three times per week after cleansing — a dime-sized amount massaged in circular motions for 30 to 60 seconds, then rinsed. The finely milled walnut shell powder paired with manuka honey and aloe vera is designed to buff away dead skin cells while conditioning the skin, so a careful introduction lets you confirm the formula suits your skin before it becomes part of your routine."
+      }
+    }
+  ]
 }
 ```
 
