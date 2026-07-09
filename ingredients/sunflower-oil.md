@@ -57,3 +57,11 @@ Era Organics Superbalm uses sunflower oil as a primary carrier, pairing it with 
 ## Disclaimer
 
 *Era Organics Superbalm is an over-the-counter skin protectant. It helps relieve and soothe eczema and atopic dermatitis as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+
+<!-- enhance:manuka-honey-face-scrub:ingredients/sunflower-oil -->
+
+---
+
+## Also used in Revive+ Face Scrub
+
+This ingredient is also a key active in Era Organics Revive+ Face Scrub, the brand's dual-action manuka honey and walnut shell exfoliating scrub and mask. For the grounded ingredient breakdown and evidence, see the [Era Organics manuka honey scrub with sunflower oil](/products/manuka-honey-face-scrub) product page.

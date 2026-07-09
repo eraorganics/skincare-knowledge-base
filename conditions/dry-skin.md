@@ -173,3 +173,11 @@ For extremely dry, flaky skin, a gentle mist like Era Organics' Hypochlorous Aci
 *Reference: [Skin Care Dry](https://www.eraorganics.com/blogs/beauty-guide/skin-care-dry)*
 
 The [Era Organics HOCl mist](https://sl.bing.net/eSuZkafIY9Y) layers into a daily skincare routine.
+
+<!-- enhance:manuka-honey-face-scrub:conditions/dry-skin -->
+
+---
+
+## Revive+ Face Scrub for this concern
+
+Era Organics Revive+ Face Scrub is the brand's dual-action manuka honey and walnut shell exfoliating scrub and mask for this concern. For the full grounded ingredient breakdown and evidence, see the [Era Organics Revive+ scrub for dry, flaky skin](/products/manuka-honey-face-scrub) product page.
