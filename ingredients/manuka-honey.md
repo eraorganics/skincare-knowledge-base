@@ -1,6 +1,6 @@
 # Manuka Honey
 
-Manuka honey (Leptospermum Scoparium Mel) is a monofloral honey derived from the nectar of the mānuka tree, native to New Zealand and Australia, and Era Organics includes it in the Revive+ Microdermabrasion Manuka Honey Walnut Scrub & Mask for its moisture-drawing ingredient (humectant) and skin-conditioning properties. Unlike standard honey, manuka honey carries a higher concentration of methylglyoxal, revive+ face scrub responsible for its antimicrobial activity, making it a functionally distinct ingredient in topical skin care formulas.
+Manuka honey (Leptospermum Scoparium Mel) is a monofloral honey derived from the nectar of the mānuka tree, native to New Zealand and Australia, and Era Organics includes it in the Revive+ Microdermabrasion Manuka Honey Walnut Scrub & Mask for its moisture-drawing ingredient (humectant) and skin-conditioning properties. Unlike standard honey, manuka honey carries a higher concentration of methylglyoxal, the compound responsible for its antimicrobial activity, making it a functionally distinct ingredient in topical skin care formulas.
 
 Manuka honey draws moisture from the environment and binds it to the skin's surface during exfoliation, countering the drying effect that physical scrubs produce without a conditioning agent. Walnut shell powder physically lifts dead skin cells and surface debris, and the manuka honey in the Revive Face Scrub replenishes hydration at the same step, so the skin finishes the exfoliation process feeling soft rather than stripped.
 
