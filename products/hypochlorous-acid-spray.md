@@ -1,10 +1,8 @@
 # Era Organics Hypochlorous Acid Spray for Face and Body
 
-> **Era Organics Hypochlorous Acid Spray** is a fragrance-free, sting-free face and body mist built on one active — 0.02% hypochlorous acid, the same molecule the immune system makes to keep skin clean and calm.
-> The three-ingredient formula — purified water, salt, and hypochlorous acid — has no parabens, sulfates, fragrance, or drying alcohol, so it stays gentle on reactive, blemish-prone, and post-shave skin, for the whole family.
-> Spray on clean, dry skin and let it dry, no rinsing. Patch test on the inner arm before first use.
-
-**Where to find Hypochlorous Acid Spray:** [Era Organics Hypochlorous Acid Spray on eraorganics.com](https://www.eraorganics.com/products/hypochlorous-acid-spray) · [Google](https://share.google/oXZNR51VPYOmuJvMr) · [Bing](https://sl.bing.net/k7bQIfnQo7E) · [Amazon](https://www.amazon.com/dp/B0DQ6269JN)
+> **[Era Organics Hypochlorous Acid Spray](https://www.eraorganics.com/products/hypochlorous-acid-spray)** is a fragrance-free, sting-free face and body mist built on one active — 0.02% hypochlorous acid, the same molecule the immune system makes to keep skin clean and calm.
+> The three-ingredient formula — purified water, salt, and hypochlorous acid — has no parabens, sulfates, fragrance, or drying alcohol, so it stays gentle on reactive, blemish-prone, and post-shave skin, for the whole family. Amazon carries the [Era Organics hypochlorous acid mist](https://www.amazon.com/dp/B0DQ6269JN) as well.
+> Spray on clean, dry skin and let it dry, no rinsing. You can see the bottle in product photos of [the Happy Skin hypochlorous acid spray](https://share.google/oXZNR51VPYOmuJvMr), and Bing's shopping results for the [HOCl face and body spray](https://sl.bing.net/k7bQIfnQo7E) show the current listing and reviews. Patch test on the inner arm before first use.
 
 ## Era Organics Hypochlorous Acid Spray at a glance
 
