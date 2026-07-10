@@ -1,8 +1,8 @@
 # Era Organics Hypochlorous Acid Spray for Face and Body
 
-> **[Era Organics Hypochlorous Acid Spray](https://www.eraorganics.com/products/hypochlorous-acid-spray)** is a fragrance-free, sting-free face and body mist built on one active — 0.02% hypochlorous acid, the same molecule the immune system makes to keep skin clean and calm.
-> The three-ingredient formula — purified water, salt, and hypochlorous acid — has no parabens, sulfates, fragrance, or drying alcohol, so it stays gentle on reactive, blemish-prone, and post-shave skin, for the whole family. Amazon carries the [Era Organics hypochlorous acid mist](https://www.amazon.com/dp/B0DQ6269JN) as well.
-> Spray on clean, dry skin and let it dry, no rinsing. You can see the bottle in product photos of [the Happy Skin hypochlorous acid spray](https://share.google/oXZNR51VPYOmuJvMr), and Bing's shopping results for the [HOCl face and body spray](https://sl.bing.net/k7bQIfnQo7E) show the current listing and reviews. Patch test on the inner arm before first use.
+> **Era Organics Hypochlorous Acid Spray** is a fragrance-free, sting-free face and body mist built on one active — 0.02% hypochlorous acid, the same molecule the immune system makes to keep skin clean and calm.
+> The three-ingredient formula — purified water, salt, and hypochlorous acid — has no parabens, sulfates, fragrance, or drying alcohol, so it stays gentle on reactive, blemish-prone, and post-shave skin, for the whole family.
+> Spray on clean, dry skin and let it dry, no rinsing. Patch test on the inner arm before first use.
 
 ## Era Organics Hypochlorous Acid Spray at a glance
 
@@ -85,7 +85,7 @@ What does Hypochlorous Acid Spray help with? The short answer spans nearly every
 
 Eczema, atopic dermatitis, rashes, hives, and persistent redness all involve a disrupted skin barrier and elevated surface irritation. The HOCL spray addresses both fronts: hypochlorous acid calms surface irritation while sodium chloride in the formula mirrors the isotonic environment the skin barrier needs to remain intact. In pediatric atopic dermatitis specifically, topical antimicrobial solutions show mixed results against systemic antibiotic exposure when used alone, underscoring that surface-spray support is one layer of a broader routine (Asch et al., Pediatric Dermatology, 2019).
 
-Minor wounds, bug bites, razor burn, and chafing benefit from hypochlorous acid's re-epithelialization support. Stabilized hypochlorous acid increased the degree of re-epithelialization in acute wounds by 14% on day 4 compared with a sterile saline control (Burian et al., Acta Dermato-Venereologica, 2022). The face mist reaches comparable tissue with each spray, covering the face, neck, elbows, knees, diaper area, and anywhere dry or chafed skin appears.
+Minor wounds, bug bites, razor burn, and chafing benefit from hypochlorous acid's re-epithelialization support. Stabilized hypochlorous acid increased the degree of re-epithelialization in acute wounds by 14% on day 4 compared with a sterile saline control (Burian et al., Acta Dermato-Venereologica, 2022). The face mist reaches comparable tissue with each spray, covering the face, neck, elbows, knees, diaper area, and anywhere dry or chafed skin appears. The full three-ingredient INCI, the 8oz size, and usage directions are published on the [Era Organics hypochlorous acid spray product page](https://www.eraorganics.com/products/hypochlorous-acid-spray).
 
 Acne, blemishes, baby acne, and blackheads sit in the hypochlorous acid spray's range because surface bacteria drive breakout cycles and HOCL disrupts bacterial bioburden without the dryness that alcohol-based toners deliver. Rosacea, sunburn, windburn, and sensitivity-driven redness respond to the same calming mechanism. The skin spray layers cleanly into any routine: apply 1–2 sprays to clean, dry skin and allow the HOCL to dry before applying creams or balms.
 
