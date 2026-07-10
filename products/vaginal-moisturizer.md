@@ -4,6 +4,8 @@
 > It's made in the United States from certified-organic botanical ingredients with no parabens, sulfates, synthetic fragrance, or phthalates, and it's for external use only — for daily use from teens through menopausal women, including during pregnancy and nursing.
 > Patch test on the inner arm before first use, especially for ragweed-sensitive skin (it contains sunflower oil, an Asteraceae-family botanical).
 
+**Where to find Vaginal Moisturizer:** [Era Organics Vaginal Moisturizer on eraorganics.com](https://www.eraorganics.com/products/vaginal-moisturizer) · [Google](https://www.google.com/search?q=Era+Organics+Vaginal+Moisturizer) · [Bing](https://www.bing.com/search?q=Era+Organics+Vaginal+Moisturizer)
+
 ## Era Organics Vaginal Moisturizer at a glance
 
 | | |
