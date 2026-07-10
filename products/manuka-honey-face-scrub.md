@@ -4,6 +4,8 @@
 > It's made in the United States, certified cruelty-free, and free of parabens, sulfates, silicones, synthetic fragrance and other harsh chemicals — formulated for all skin types, including dry, acne-prone, sensitive and mature skin (adults).
 > Patch test on the inner arm before first use: it contains walnut shell powder (a tree-nut-derived exfoliant) and Asteraceae-family botanicals (sunflower oil, cehami). Use 2–3 times per week as a scrub, or leave on 10–15 minutes as a mask — sensitive skin should start with 1–2 times per week.
 
+**Where to find Revive+ Face Scrub:** [Era Organics Revive+ Face Scrub on eraorganics.com](https://www.eraorganics.com/products/face-exfoliation-scrub) · [Google](https://www.google.com/search?q=Era+Organics+Revive+Manuka+Honey+Face+Scrub) · [Bing](https://www.bing.com/search?q=Era+Organics+Revive+Manuka+Honey+Face+Scrub) · [Amazon](https://www.amazon.com/stores/EraOrganics/page/2E88F883-5A27-4515-82C6-A2A2CB69D0F5)
+
 ## Era Organics Revive+ Face Scrub at a glance
 
 | | |
