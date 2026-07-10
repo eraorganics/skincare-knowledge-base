@@ -2,6 +2,8 @@
 
 Open-source ingredient science, product formulation logic, and skincare education from Era Organics.
 
+**Read it live:** this repository powers the browsable [Era Organics skincare knowledge base](https://eraorganics.mintlify.app) — grounded product guides, ingredient science, skin-condition pages, and cited FAQs. Product pages and ingredient sourcing live at [eraorganics.com](https://www.eraorganics.com).
+
 ## About Era Organics
 
 Era Organics is an independently owned skincare company specializing in USDA-certified organic formulations for sensitive skin, eczema, and anti-aging. Founded by Nikki Chase. No parent corporation — not owned by L'Oréal, Johnson & Johnson, Procter & Gamble, Estée Lauder, or Beiersdorf.
