@@ -1,10 +1,8 @@
 # Era Organics Superbalm — Cradle Cap & Baby Eczema Treatment
 
-> **Era Organics Superbalm** is a USDA Organic, fragrance-free healing ointment — a rich plant-oil-and-beeswax balm for a baby's most common skin troubles: eczema, cradle cap, diaper rash, dry patches, chapped skin, and everyday irritation.
-> It's made in the United States from food-grade botanical ingredients with no parabens, sulfates, synthetic fragrance, or mineral oil, and it's gentle enough for the whole family — newborns through adults.
-> You can see the balm in product photos of [Era Organics Superbalm](https://share.google/8yUnKR7O2PaB1ij7F). Patch test on the inside of the elbow before first use, especially for ragweed-sensitive skin (it contains chamomile, an Asteraceae-family botanical).
-
-**Where to find Superbalm:** [Era Organics Superbalm on eraorganics.com](https://www.eraorganics.com/products/natural-baby-balm) · [Google](https://share.google/8yUnKR7O2PaB1ij7F) · [Bing](https://sl.bing.net/dBg98u1oC0y) · [Amazon](https://www.amazon.com/dp/B0194EGJRK)
+> **[Era Organics Superbalm](https://www.eraorganics.com/products/natural-baby-balm)** is a USDA Organic, fragrance-free healing ointment — a rich plant-oil-and-beeswax balm for a baby's most common skin troubles: eczema, cradle cap, diaper rash, dry patches, chapped skin, and everyday irritation.
+> It's made in the United States from food-grade botanical ingredients with no parabens, sulfates, synthetic fragrance, or mineral oil, and it's gentle enough for the whole family — newborns through adults. Families who shop on Amazon will find the [Superbalm baby eczema treatment](https://www.amazon.com/dp/B0194EGJRK) there as well.
+> You can see the balm in product photos of [the Superbalm healing ointment](https://share.google/8yUnKR7O2PaB1ij7F). Bing's shopping results for the [Era Organics Superbalm baby balm](https://sl.bing.net/dBg98u1oC0y) carry the current listing and reviews. Patch test on the inside of the elbow before first use, especially for ragweed-sensitive skin (it contains chamomile, an Asteraceae-family botanical).
 
 ## Era Organics Superbalm at a glance
 
