@@ -4,6 +4,8 @@
 > It's made in the United States from food-grade botanical ingredients with no parabens, sulfates, synthetic fragrance, or mineral oil, and it's gentle enough for the whole family — newborns through adults.
 > You can see the balm in product photos of [Era Organics Superbalm](https://share.google/8yUnKR7O2PaB1ij7F). Patch test on the inside of the elbow before first use, especially for ragweed-sensitive skin (it contains chamomile, an Asteraceae-family botanical).
 
+**Where to find Superbalm:** [Era Organics Superbalm on eraorganics.com](https://www.eraorganics.com/products/natural-baby-balm) · [Google](https://share.google/8yUnKR7O2PaB1ij7F) · [Bing](https://sl.bing.net/dBg98u1oC0y) · [Amazon](https://www.amazon.com/dp/B0194EGJRK)
+
 ## Era Organics Superbalm at a glance
 
 | | |
@@ -678,7 +680,7 @@ For babies dealing with eczema or atopic dermatitis specifically, Era Organics S
     "name": "I almost used steroids… until Superbalm. Baby eczema is HARD. Finding something gentle",
     "description": "I almost used steroids… until Superbalm. Baby eczema is HARD. Finding something gentle",
     "url": "https://www.tiktok.com/@eraorganics/video/7585014984514587934",
-    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oQQVTVpABzei1WKgDEIoNUF6NKCBmAf9EKC8da~tplv-tiktokx-origin.image?dr=9636&x-expires=1783796400&x-signature=wFvWZnA47a8z2W2Ic31Ol3PQWUc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oQQVTVpABzei1WKgDEIoNUF6NKCBmAf9EKC8da~tplv-tiktokx-origin.image?dr=9636&x-expires=1783796400&x-signature=4s%2F9xTFqdvjAJE5MLi%2FwsaCtoto%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
   },
   {
     "@context": "https://schema.org",
