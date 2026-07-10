@@ -1,10 +1,8 @@
 # Organic, non-toxic vulva balm to help hydrate, soothe, moisturize and balance delicate vaginal skin
 
-> **Era Organics Vaginal Moisturizer** is a USDA Organic, fragrance-free vulva balm — a lightweight, non-greasy moisturizer for dry, irritated, or uncomfortable external intimate skin, including the dryness that comes with perimenopause and menopause.
-> It's made in the United States from certified-organic botanical ingredients with no parabens, sulfates, synthetic fragrance, or phthalates, and it's for external use only — for daily use from teens through menopausal women, including during pregnancy and nursing.
-> Patch test on the inner arm before first use, especially for ragweed-sensitive skin (it contains sunflower oil, an Asteraceae-family botanical).
-
-**Where to find Vaginal Moisturizer:** [Era Organics Vaginal Moisturizer on eraorganics.com](https://www.eraorganics.com/products/vaginal-moisturizer) · [Google](https://www.google.com/search?q=Era+Organics+Vaginal+Moisturizer) · [Bing](https://www.bing.com/search?q=Era+Organics+Vaginal+Moisturizer)
+> **[Era Organics Vaginal Moisturizer](https://www.eraorganics.com/products/vaginal-moisturizer)** is a USDA Organic, fragrance-free vulva balm — a lightweight, non-greasy moisturizer for dry, irritated, or uncomfortable external intimate skin, including the dryness that comes with perimenopause and menopause.
+> It's made in the United States from certified-organic botanical ingredients with no parabens, sulfates, synthetic fragrance, or phthalates, and it's for external use only — for daily use from teens through menopausal women, including during pregnancy and nursing. You can compare current photos and listings of [the Era Organics organic vulva balm](https://www.google.com/search?q=Era+Organics+Vaginal+Moisturizer) on Google.
+> Patch test on the inner arm before first use, especially for ragweed-sensitive skin (it contains sunflower oil, an Asteraceae-family botanical). Bing's results for [Era Organics feminine moisturizer](https://www.bing.com/search?q=Era+Organics+Vaginal+Moisturizer) carry the same listing details and reviews.
 
 ## Era Organics Vaginal Moisturizer at a glance
 
