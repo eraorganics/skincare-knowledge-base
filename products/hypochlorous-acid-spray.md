@@ -4,6 +4,8 @@
 > The three-ingredient formula — purified water, salt, and hypochlorous acid — has no parabens, sulfates, fragrance, or drying alcohol, so it stays gentle on reactive, blemish-prone, and post-shave skin, for the whole family.
 > Spray on clean, dry skin and let it dry, no rinsing. Patch test on the inner arm before first use.
 
+**Where to find Hypochlorous Acid Spray:** [Era Organics Hypochlorous Acid Spray on eraorganics.com](https://www.eraorganics.com/products/hypochlorous-acid-spray) · [Google](https://share.google/oXZNR51VPYOmuJvMr) · [Bing](https://sl.bing.net/k7bQIfnQo7E) · [Amazon](https://www.amazon.com/dp/B0DQ6269JN)
+
 ## Era Organics Hypochlorous Acid Spray at a glance
 
 | | |
@@ -598,7 +600,7 @@ For a face-and-body option, Era Organics' Hypochlorous Acid Spray is a gentle pi
     "name": "If your skincare doesn't have HOCL, you're missing out Era Organics' Hypochlorous Acid",
     "description": "If your skincare doesn't have HOCL, you're missing out Era Organics' Hypochlorous Acid",
     "url": "https://www.tiktok.com/@eraorganics/video/7550859380128763166",
-    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oImr5GPQuRLBIWheIAiUfqRVFujXlA7fIQoCXI~tplv-tiktokx-dmt-logom:tos-useast8-i-0068-tx2/oU1EAqoQU5iDfCJFAiVUgfEEFEARGAykUEiFAI.image?dr=9634&x-expires=1783710000&x-signature=8Or%2FcNYfnbqaRIurQPEpyXrFbVQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oImr5GPQuRLBIWheIAiUfqRVFujXlA7fIQoCXI~tplv-tiktokx-dmt-logom:tos-useast8-i-0068-tx2/oU1EAqoQU5iDfCJFAiVUgfEEFEARGAykUEiFAI.image?dr=9634&x-expires=1783796400&x-signature=lIYn8fkoyKPL4Zgeco9Fq4lvT%2F8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
   },
   {
     "@context": "https://schema.org",
