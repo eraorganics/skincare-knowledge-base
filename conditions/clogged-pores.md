@@ -20,7 +20,7 @@ What is in the scrub matters as much as the motion. Manuka honey has documented 
 
 ## Related
 
-- **Full product:** [Era Organics Revive+ scrub for clogged pores](/products/manuka-honey-face-scrub)
+- **Full product:** [Era Organics Revive+ scrub for clogged pores](/products/face-exfoliation-scrub)
 
 **Key ingredients:**
 

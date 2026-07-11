@@ -22,7 +22,7 @@ The safest natural approach is gentle, regular exfoliation rather than squeezing
 
 ## Related
 
-- **Full product:** [Era Organics walnut shell scrub for blackheads](/products/manuka-honey-face-scrub)
+- **Full product:** [Era Organics walnut shell scrub for blackheads](/products/face-exfoliation-scrub)
 
 **Key ingredients:**
 

@@ -16,7 +16,7 @@ The simplest way to use orange oil on your skin is through a formula that alread
 
 ## Related
 
-- **Full product:** [Era Organics Revive+ scrub with orange peel oil](/products/manuka-honey-face-scrub)
+- **Full product:** [Era Organics Revive+ scrub with orange peel oil](/products/face-exfoliation-scrub)
 
 ## Evidence
 - [Oil of bitter orange: new topical antifungal agent.](https://pubmed.ncbi.nlm.nih.gov/8737885/) — Ramadan W et al., International journal of dermatology 1996 (PMID: 8737885)

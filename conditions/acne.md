@@ -46,13 +46,13 @@ The [Era Organics HOCl mist](https://sl.bing.net/eQdiK01HhYa) layers into a dail
 
 *The information on this page is provided for educational purposes only and is not medical advice. Era Organics products are cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
 
-<!-- enhance:manuka-honey-face-scrub:conditions/acne -->
+<!-- enhance:face-exfoliation-scrub:conditions/acne -->
 
 ---
 
 ## Revive+ Face Scrub for this concern
 
-Era Organics Revive+ Face Scrub is the brand's dual-action manuka honey and walnut shell exfoliating scrub and mask for this concern. For the full grounded ingredient breakdown and evidence, see the [Era Organics face scrub for acne-prone skin](/products/manuka-honey-face-scrub) product page.
+Era Organics Revive+ Face Scrub is the brand's dual-action manuka honey and walnut shell exfoliating scrub and mask for this concern. For the full grounded ingredient breakdown and evidence, see the [Era Organics face scrub for acne-prone skin](/products/face-exfoliation-scrub) product page.
 
 ## Frequently Asked Questions
 

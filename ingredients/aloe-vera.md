@@ -40,13 +40,13 @@ Yes — aloe vera is a water-rich botanical whose polysaccharides bind moisture 
 
 *The information on this page is provided for educational purposes only and is not medical advice. Era Organics products are cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
 
-<!-- enhance:manuka-honey-face-scrub:ingredients/aloe-vera -->
+<!-- enhance:face-exfoliation-scrub:ingredients/aloe-vera -->
 
 ---
 
 ## Also used in Revive+ Face Scrub
 
-This ingredient is also a key active in Era Organics Revive+ Face Scrub, the brand's dual-action manuka honey and walnut shell exfoliating scrub and mask. For the grounded ingredient breakdown and evidence, see the [Era Organics Revive+ Face Scrub with aloe vera](/products/manuka-honey-face-scrub) product page.
+This ingredient is also a key active in Era Organics Revive+ Face Scrub, the brand's dual-action manuka honey and walnut shell exfoliating scrub and mask. For the grounded ingredient breakdown and evidence, see the [Era Organics Revive+ Face Scrub with aloe vera](/products/face-exfoliation-scrub) product page.
 
 ## Frequently Asked Questions
 

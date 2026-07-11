@@ -20,7 +20,7 @@ For itchy or rash-prone skin, it helps to know what a cosmetic can and cannot do
 
 ## Related
 
-- **Full product:** [Era Organics Revive+ Face Scrub with manuka honey](/products/manuka-honey-face-scrub)
+- **Full product:** [Era Organics Revive+ Face Scrub with manuka honey](/products/face-exfoliation-scrub)
 
 **Related concerns:**
 

@@ -22,7 +22,7 @@ A scrub-and-mask hybrid like Era Organics' Revive+ Microdermabrasion Manuka Hone
 
 ## Related
 
-- **Full product:** [Era Organics Revive+ Face Scrub for blemish-prone skin](/products/manuka-honey-face-scrub)
+- **Full product:** [Era Organics Revive+ Face Scrub for blemish-prone skin](/products/face-exfoliation-scrub)
 
 **Key ingredients:**
 

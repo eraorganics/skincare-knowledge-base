@@ -8,7 +8,7 @@ The Era Organics Revive+ pairs cehami extract with aloe vera and oat amino prote
 
 ## Related
 
-- **Full product:** [Era Organics face scrub with cehami extract](/products/manuka-honey-face-scrub)
+- **Full product:** [Era Organics face scrub with cehami extract](/products/face-exfoliation-scrub)
 
 ## Disclaimer
 

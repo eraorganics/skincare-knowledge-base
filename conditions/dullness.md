@@ -26,7 +26,7 @@ This pairing is the idea behind Era Organics' Revive+ Microdermabrasion Manuka H
 
 ## Related
 
-- **Full product:** [Era Organics manuka honey scrub for dull skin](/products/manuka-honey-face-scrub)
+- **Full product:** [Era Organics manuka honey scrub for dull skin](/products/face-exfoliation-scrub)
 
 **Key ingredients:**
 

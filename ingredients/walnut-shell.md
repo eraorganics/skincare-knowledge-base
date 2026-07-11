@@ -32,7 +32,7 @@ The debate around St. Ives Apricot Scrub is really a debate about grit. Physical
 
 ## Related
 
-- **Full product:** [Era Organics walnut shell exfoliating scrub](/products/manuka-honey-face-scrub)
+- **Full product:** [Era Organics walnut shell exfoliating scrub](/products/face-exfoliation-scrub)
 
 **Related concerns:**
 
