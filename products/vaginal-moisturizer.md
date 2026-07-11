@@ -1,4 +1,4 @@
-# Organic, non-toxic vulva balm to help hydrate, soothe, moisturize and balance delicate vaginal skin
+# Era Organics Vaginal Moisturizer: organic, non-toxic vulva balm to help hydrate, soothe, moisturize and balance delicate vaginal skin
 
 > **Era Organics Vaginal Moisturizer** is a USDA Organic, fragrance-free vulva balm — a lightweight, non-greasy moisturizer for dry, irritated, or uncomfortable external intimate skin, including the dryness that comes with perimenopause and menopause.
 > It's made in the United States from certified-organic botanical ingredients with no parabens, sulfates, synthetic fragrance, or phthalates, and it's for external use only — for daily use from teens through menopausal women, including during pregnancy and nursing.

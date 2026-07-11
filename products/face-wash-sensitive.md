@@ -1,3 +1,5 @@
+# Era Organics Face Wash for Sensitive Skin
+
 
 ## Era Organics face wash for sensitive skin uses plant-derived surfactants (decyl glucoside and coco-glucoside) to cleanse without disrupting the lipid barrier — formulated for eczema-prone, reactive, and post-procedure skin that cannot tolerate conventional cleansers.
 

@@ -1,3 +1,5 @@
+# Era Organics Talc-Free Baby Powder
+
 
 ## Era Organics Talc-free Baby Powder uses arrowroot starch and kaolin clay to absorb moisture in skin folds and diaper areas — eliminating the asbestos contamination risk inherent to talc-based powders.
 

@@ -1,3 +1,5 @@
+# Era Organics Beef Tallow Moisturizer
+
 
 ## Era Organics beef tallow moisturizer delivers skin-identical lipids — stearic acid, oleic acid, and palmitic acid in ratios that match human sebum composition — from 100% grass-fed, USDA certified organic cattle raised on small American family farms.
 

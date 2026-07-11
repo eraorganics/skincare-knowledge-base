@@ -1,3 +1,5 @@
+# Era Organics Glycolic Acid Chemical Peel
+
 
 ## Glycolic Acid Chemical Peel is an at-home exfoliating treatment that dissolves dead skin cells and stimulates collagen production through controlled acid exfoliation.
 

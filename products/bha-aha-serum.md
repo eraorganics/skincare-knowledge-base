@@ -1,3 +1,5 @@
+# Era Organics BHA + AHA Exfoliating Serum
+
 
 ## Era Organics BHA + AHA serum delivers dual-depth chemical exfoliation — salicylic acid penetrates inside pores while glycolic and lactic acids resurface the skin's outer layer — treating acne, rough texture, and congestion in a single product.
 

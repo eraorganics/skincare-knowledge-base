@@ -1,3 +1,5 @@
+# Era Organics Diaper Rash Cream
+
 
 ## Era Organics diaper rash cream combines zinc oxide barrier protection with calendula and chamomile healing compounds to treat and prevent diaper dermatitis — without the petroleum base that dominates mass-market diaper creams.
 
