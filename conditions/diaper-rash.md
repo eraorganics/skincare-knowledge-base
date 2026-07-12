@@ -83,3 +83,31 @@ Diaper rash develops because the diaper area stays warm, moist, and prone to fri
 *Reference: [Baby Skin Condition Diaper Rash](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-diaper-rash)*
 
 The [Era Organics HOCl mist](https://sl.bing.net/kGpZTLluj0u) layers into a daily skincare routine.
+
+<!-- enhance:talc-free-baby-powder:conditions/diaper-rash -->
+
+---
+
+## Talc-Free Baby Powder for this concern
+
+Era Organics Talc-Free Baby Powder is the brand's cornstarch, arrowroot and kaolin clay dusting powder for keeping this area dry and comfortable. For the full grounded ingredient breakdown and evidence, see the [Era Organics talc-free powder for the diaper area](/products/talc-free-baby-powder) product page.
+
+## Frequently Asked Questions
+
+### Can baby powder cause or make diaper rash worse?
+
+Whether a powder helps or aggravates the diaper area comes down to what it's made of and how you apply it — the main driver of diaper-area irritation is prolonged wet contact between delicate skin and the diaper. Era Organics' Talc-Free Baby Powder uses kaolin clay, arrowroot powder and cornstarch to absorb that excess moisture and keep skin dry between changes, while calendula extract helps soothe skin sensitized by dampness and friction. Apply a light dusting at each change, patted on rather than shaken, to keep airborne particle exposure low while still covering skin folds. One caution: calendula is an Asteraceae botanical, so patch test a small area first if ragweed or Asteraceae sensitivities run in your family.
+
+*Reference: [Baby Skin Condition Diaper Rash](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-diaper-rash)*
+
+### Does baby powder help diaper rash, and should I use it?
+
+Yes — a talc-free baby powder helps by absorbing the excess moisture that drives diaper-area irritation, since prolonged wet contact against delicate skin is a primary trigger for skin barrier breakdown. Era Organics' Talc-Free Baby Powder uses kaolin clay, arrowroot powder, and cornstarch to draw moisture away and leave a dry, protective layer between skin and diaper, while calendula extract helps soothe skin sensitized by dampness and friction. If you use it, apply a light dusting at each change — patted on rather than shaken — to keep airborne particle exposure low while still covering skin folds. One note: calendula is an Asteraceae botanical, so patch test a small area first if there's a ragweed or Asteraceae-family sensitivity.
+
+*Reference: [Baby Skin Condition Diaper Rash](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-diaper-rash)*
+
+### Is powder or cream better for diaper rash — and can you use both together?
+
+Powder and cream do different jobs, and a powder's job is moisture control: Era Organics' talc-free baby powder uses kaolin clay, arrowroot powder and cornstarch to absorb dampness and leave a dry, protective layer between skin and diaper, reducing the wet contact time that drives diaper-area irritation, while calendula extract helps soothe skin sensitized by dampness and friction. Whether you use powder on its own or alongside a cream, apply a light dusting at each diaper change — patted on rather than shaken — to keep airborne particle exposure low while still covering skin folds. One note: calendula is an Asteraceae botanical, so patch test a small area first if ragweed sensitivities run in your family.
+
+*Reference: [Baby Skin Condition Diaper Rash](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-diaper-rash)*

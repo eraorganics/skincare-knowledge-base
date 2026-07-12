@@ -63,3 +63,25 @@ Era Organics Superbalm includes calendula oil in a fragrance-free, paraben-free,
 ## Disclaimer
 
 *Era Organics Superbalm is an over-the-counter skin protectant. It helps relieve and soothe eczema and atopic dermatitis as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+
+<!-- enhance:talc-free-baby-powder:ingredients/calendula-oil -->
+
+---
+
+## Also used in Talc-Free Baby Powder
+
+This ingredient is also a key part of Era Organics Talc-Free Baby Powder, the brand's 100% talc-free dusting powder for the diaper area, skin folds, feet and underarms. For the grounded ingredient breakdown and evidence, see the [Era Organics talc-free baby powder with calendula](/products/talc-free-baby-powder) product page.
+
+## Frequently Asked Questions
+
+### Is calendula safe for babies?
+
+Calendula has a long history of use in topical formulations made for sensitive skin, including babies — that gentle track record is why we include calendula oil (from *Calendula officinalis* flowers) in our Talc-Free Baby Powder, where it helps soothe and calm easily irritated skin in the diaper area and skin folds. One caveat worth knowing: calendula belongs to the Asteraceae family, so if your baby has a known ragweed or Asteraceae allergy, patch test a small area of skin before full application.
+
+*Reference: [Calendula Cream For Babies](https://www.eraorganics.com/blogs/mom-and-kid/calendula-cream-for-babies)*
+
+### What does calendula do for baby skin?
+
+Calendula (an extract from *Calendula officinalis* flowers) helps soothe and calm easily irritated baby skin, especially in the diaper area and skin folds where friction and moisture combine to cause discomfort — which is exactly why it's included in Era Organics Talc-Free Baby Powder. Research supports its role too: in a randomized trial, calendula extract supported the skin's own recovery processes, shortening skin-surface renewal time compared with a control, and it has demonstrated antimicrobial activity in cosmetic formulas, helping keep the diaper environment cleaner and calmer. One honest note: calendula belongs to the Asteraceae (ragweed) family, so if your baby has a known ragweed or Asteraceae sensitivity, patch test a small area of skin before full use.
+
+*Reference: [Calendula Cream For Babies](https://www.eraorganics.com/blogs/mom-and-kid/calendula-cream-for-babies) · PMID 34674610, 24891745*
