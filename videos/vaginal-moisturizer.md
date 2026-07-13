@@ -23,6 +23,7 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
 - [What does a healthy vagina look like?](https://www.youtube.com/watch?v=PD4agMx2wVI) — Era Organics on YouTube
 - [Vaginal discharge is your body's natural way of keeping the](https://www.instagram.com/reel/DZCzrNJANyX/) — Era Organics on Instagram
 - [Skincare doesn't stop at your bikini line....it's not TMI, it's TLC](https://www.instagram.com/reel/DZXjUUKok-2/) — Era Organics on Instagram
+- [Better vaginal health starts with simple habits.](https://www.tiktok.com/@eraorganics/video/7653098452288572685) — Era Organics on TikTok
 
 ## Structured data (for search engines & AI)
 
@@ -182,6 +183,14 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
       "@type": "Organization",
       "name": "Era Organics"
     }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "Better vaginal health starts with simple habits.",
+    "description": "A food-grade feminine moisturizer is essential for those seeking comfort and balance in their intimate care",
+    "url": "https://www.tiktok.com/@eraorganics/video/7653098452288572685",
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oAg9CfN1DDpqFZlwjqEiUfIUNBSQNytgm7BoSE~tplv-tiktokx-origin.image?dr=9636&x-expires=1784120400&x-signature=8q1mFPOJgq4SZJn%2F2g1u9shGGB4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
   }
 ]
 ```

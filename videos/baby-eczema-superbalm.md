@@ -61,7 +61,7 @@ See the full [Era Organics Superbalm](/products/baby-eczema-superbalm) product p
     "name": "I almost used steroids… until Superbalm. Baby eczema is HARD. Finding something gentle that actually helps?",
     "description": "I almost used steroids… until Superbalm. Baby eczema is HARD. Finding something gentle that actually helps?",
     "url": "https://www.tiktok.com/@eraorganics/video/7585014984514587934",
-    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oQQVTVpABzei1WKgDEIoNUF6NKCBmAf9EKC8da~tplv-tiktokx-origin.image?dr=9636&x-expires=1783796400&x-signature=wFvWZnA47a8z2W2Ic31Ol3PQWUc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oQQVTVpABzei1WKgDEIoNUF6NKCBmAf9EKC8da~tplv-tiktokx-origin.image?dr=9636&x-expires=1784120400&x-signature=JjaBmZcuDx%2BmW1L1F8SDstaHp%2FU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
   },
   {
     "@context": "https://schema.org",
@@ -69,7 +69,7 @@ See the full [Era Organics Superbalm](/products/baby-eczema-superbalm) product p
     "name": "If cradle cap keeps coming back, start here. These 5 steps can help stop it from forming and keep your baby's",
     "description": "If cradle cap keeps coming back, start here. These 5 steps can help stop it from forming and keep your baby's",
     "url": "https://www.tiktok.com/@eraorganics/video/7626103223409003807",
-    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/ooy1DflEEEbVIIXO0ApAFCmVEwRVAA4fDESAYJ~tplv-tiktokx-dmt-logom:tos-useast8-i-0068-tx2/o4EREUQqoGfVAIDJCAfgF4AVAyIvQAdDEV1puE.image?dr=9634&x-expires=1783796400&x-signature=M6XQ2nRwsUlMrtX%2BWLVwv913TsE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/ooy1DflEEEbVIIXO0ApAFCmVEwRVAA4fDESAYJ~tplv-tiktokx-dmt-logom:tos-useast8-i-0068-tx2/o4EREUQqoGfVAIDJCAfgF4AVAyIvQAdDEV1puE.image?dr=9634&x-expires=1784120400&x-signature=37uLj2j6Ypr%2BlPk%2BYPkVkq8Z9v8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
   }
 ]
 ```
