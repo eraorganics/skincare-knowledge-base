@@ -71,3 +71,73 @@ Itchy skin most commonly stems from one of three sources: a disrupted skin barri
 *Reference: [Skin Condition Itchy](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-itchy)*
 
 The [Era Organics HOCl mist](https://sl.bing.net/eSuZkafIY9Y) layers into a daily skincare routine.
+
+<!-- enhance:dermatitis-cream:conditions/itchy-skin -->
+
+---
+
+## Relief OTC Dermatitis Cream for this concern
+
+Era Organics Relief is the brand's over-the-counter colloidal oatmeal 1% skin protectant for relieving the itching and irritation of flare-prone skin. For the full grounded ingredient breakdown and evidence, see the [Era Organics Relief itch relief cream](/products/dermatitis-cream) product page.
+
+## Frequently Asked Questions
+
+### How do I prevent itchy skin?
+
+Keep the skin barrier hydrated and protected, since itch worsens on dry, barrier-compromised skin. Occlusive ingredients that slow moisture loss and humectants that draw water into the outer skin layer help maintain hydration between applications. Era Organics Relief OTC Dermatitis Cream supports this with shea and cocoa butter that form an occlusive layer to slow transepidermal water loss, plus glycerin, hyaluronic acid, and sodium PCA to bind water in the stratum corneum. Its colloidal oatmeal 1%, an FDA-recognized skin protectant, relieves the itching and irritation of eczema and dermatitis while aloe vera calms surface irritation. Patch test before first use, especially on skin reactive to Asteraceae-family botanicals, as the formula contains sunflower seed oil.
+
+*Reference: [Skin Condition Itchy](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-itchy)*
+
+### How do I relieve itchy skin fast?
+
+Apply a colloidal oatmeal skin protectant to interrupt the itch at the skin surface. Era Organics Relief OTC Dermatitis Cream delivers colloidal oatmeal 1%, an FDA-recognized skin protectant that forms a protective barrier over irritated skin while its avenanthramide and beta-glucan compounds calm inflammatory signaling in the outer skin, relieving the itching and irritation of eczema, dermatitis, and rashes. It pairs this active with aloe vera to soothe surface irritation and shea and cocoa butter that slow moisture loss, since the dehydration behind dry, barrier-compromised skin worsens itch. Patch test before first use, especially on skin reactive to Asteraceae-family botanicals, as the formula contains sunflower seed oil.
+
+*Reference: [Skin Condition Itchy](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-itchy)*
+
+### How do you relieve itchy skin fast?
+
+Apply a colloidal oatmeal skin protectant to calm itch at the skin surface. Era Organics Relief OTC Dermatitis Cream uses colloidal oatmeal 1%, an FDA-recognized skin protectant that relieves the itching and irritation of eczema and dermatitis by forming a protective barrier over irritated skin while its avenanthramide and beta-glucan compounds ease inflammation in the outer skin. It pairs the oatmeal with aloe vera to soothe surface irritation and with shea and cocoa butter that slow moisture loss, since the dehydration that comes with dry, barrier-compromised skin tends to worsen itch.
+
+*Reference: [Skin Condition Itchy](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-itchy)*
+
+### How do you relieve itchy skin?
+
+Relieve itchy skin by protecting the barrier and calming surface inflammation. Era Organics Relief OTC Dermatitis Cream does this with colloidal oatmeal 1%, an FDA-recognized skin protectant that forms a protective layer over irritated skin and relieves the itching and irritation of eczema and dermatitis, while its avenanthramide and beta-glucan compounds help quiet inflammatory signaling in the outer skin. It pairs the oat active with Manuka honey, aloe vera, and occlusive shea and cocoa butter that slow moisture loss, since the dryness on barrier-compromised skin worsens itch. Glycerin, hyaluronic acid, and sodium PCA draw and hold water in the outer skin to keep it hydrated between applications.
+
+*Reference: [Skin Condition Itchy](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-itchy)*
+
+### How do you stop skin itching at night?
+
+To calm skin itching at night, apply a colloidal oatmeal skin protectant to irritated areas before bed, since oatmeal interrupts the itch-inflammation cycle at the skin surface. Era Organics Relief OTC Dermatitis Cream delivers colloidal oatmeal 1%, an FDA-recognized skin protectant that relieves the itching and irritation of eczema and dermatitis, while its avenanthramide and beta-glucan compounds help settle inflammation in the outer skin. Shea butter and cocoa butter form an occlusive layer that slows overnight moisture loss, and glycerin plus hyaluronic acid hold hydration in the skin, since the dryness that worsens itch tends to build while you sleep.
+
+*Reference: [Skin Care Night](https://www.eraorganics.com/blogs/beauty-guide/skin-care-night)*
+
+### What cream stops itching fast?
+
+Look for a cream with colloidal oatmeal, an FDA-recognized skin protectant. Era Organics Relief OTC Dermatitis Cream delivers colloidal oatmeal 1%, which forms a protective barrier over irritated skin while its avenanthramide and beta-glucan compounds help calm the outer skin surface. It pairs that active with aloe vera to soothe surface irritation and shea and cocoa butter to slow moisture loss, the dryness that worsens itch on barrier-compromised skin. The formula relieves the itching and irritation of eczema and dermatitis.
+
+*Reference: [Skin Condition Itchy](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-itchy)*
+
+### What cream stops itchy skin?
+
+A colloidal oatmeal cream is the standard choice for itchy skin, and Era Organics Relief OTC Dermatitis Cream uses colloidal oatmeal 1%, an FDA-recognized skin protectant that relieves the itching and irritation of eczema, dermatitis, and rashes. The colloidal oatmeal forms a protective barrier over irritated skin while its avenanthramide and beta-glucan compounds calm inflammatory signaling at the skin surface. It pairs the oatmeal with Manuka honey, aloe vera, and shea and cocoa butters that soothe surface irritation and slow moisture loss, which helps ease the dryness that worsens itch. Patch test before first use, especially on skin reactive to Asteraceae-family botanicals, since the formula contains sunflower seed oil.
+
+*Reference: [Skin Condition Itchy](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-itchy)*
+
+### What is the best cream for itchy skin?
+
+The best creams for itchy skin combine a skin protectant with barrier-repairing moisturizers, which is how Era Organics Relief OTC Dermatitis Cream is built. Its active is colloidal oatmeal 1%, an FDA-recognized skin protectant whose avenanthramide and beta-glucan compounds help calm irritation while forming a protective barrier over compromised skin. It pairs that active with Manuka honey, aloe vera, shea and cocoa butter, and glycerin to soothe the surface and slow moisture loss that worsens itch on dry skin. For eczema and dermatitis, it relieves the itching and irritation; on other dry, irritated skin it helps soften and hydrate.
+
+*Reference: [Skin Condition Itchy](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-itchy)*
+
+### What is the best OTC cream or lotion for itchy skin?
+
+For itchy skin, look for an OTC skin protectant with colloidal oatmeal, the FDA-recognized active that relieves the itching and irritation of eczema, dermatitis, and rashes. Era Organics Relief OTC Dermatitis Cream delivers colloidal oatmeal 1%, which forms a protective barrier over irritated skin while its avenanthramide and beta-glucan compounds calm inflammatory signaling in the outer skin. It pairs that active with Manuka honey plus aloe vera, shea and cocoa butter, and glycerin to soothe the surface and slow moisture loss that worsens itch on dry, barrier-compromised skin. Patch test before first use, especially if your skin reacts to Asteraceae-family botanicals, since the formula contains sunflower seed oil.
+
+*Reference: [Skin Condition Itchy](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-itchy)*
+
+### Why is my skin so itchy all the time?
+
+Persistent itch usually traces to a dry, compromised skin barrier that loses moisture and stays inflamed, which keeps the itch-inflammation cycle running. Era Organics Relief OTC Dermatitis Cream targets this at the surface with colloidal oatmeal 1%, an FDA-recognized skin protectant whose avenanthramide and beta-glucan compounds calm pro-inflammatory signaling in the outer skin. Shea and cocoa butter form an occlusive layer that slows moisture loss, while glycerin, hyaluronic acid, and sodium PCA draw and hold water in the outer skin to keep it hydrated between applications. Used as directed, it relieves the itching and irritation of eczema and dermatitis; patch test first if your skin reacts to Asteraceae-family botanicals, since the formula contains sunflower seed oil.
+
+*Reference: [Skin Condition Itchy](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-itchy)*

@@ -51,3 +51,37 @@ Era Organics Superbalm combines cocoa seed butter with beeswax to create a reinf
 ## Disclaimer
 
 *Era Organics Superbalm is an over-the-counter skin protectant. It helps relieve and soothe eczema and atopic dermatitis as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+
+<!-- enhance:dermatitis-cream:ingredients/cocoa-seed-butter -->
+
+---
+
+## Also used in Relief OTC Dermatitis Cream
+
+This ingredient is also a key part of Era Organics Relief, the brand's OTC colloidal oatmeal skin protectant for eczema, dermatitis and rash-prone skin. For the grounded ingredient breakdown and evidence, see the [Era Organics Relief with cocoa butter](/products/dermatitis-cream) product page.
+
+## Frequently Asked Questions
+
+### Does cocoa butter dry out your skin?
+
+No. Cocoa butter (Theobroma cacao seed butter) is a solid plant fat whose oleic and palmitic acids form an occlusive film that slows moisture loss through the skin, which helps counter the dryness and tightness that come with dermatitis flares rather than causing them. In Era Organics Relief OTC Dermatitis Cream, cocoa butter sits on top of the outer skin layer and locks in the humectants beneath it, glycerin, hyaluronic acid, and sodium PCA, giving those water-binding ingredients time to hydrate. One caveat for acne-prone facial skin: a 2022 study found a statistically significant increase in microcomedone diameter after cocoa butter application, so patch test before regular use on those areas.
+
+*Reference: PMID 34632684*
+
+### Is cocoa butter good for dry, sensitive skin?
+
+Yes, for dry, sensitive skin cocoa butter works as an occlusive moisturizer. Its oleic and palmitic acids form a film on the outer skin layer that slows moisture loss (transepidermal water loss), the same water loss that drives the dryness and tightness of dermatitis flares. In Era Organics Relief OTC Dermatitis Cream, cocoa butter sits on top of the humectants glycerin, hyaluronic acid, and sodium PCA, giving those water-binding ingredients time to hydrate the lower skin layers instead of evaporating off. Because it is occlusive, do a patch test before regular use on acne-prone facial areas.
+
+*Reference: [Skin Care Sensitive](https://www.eraorganics.com/blogs/beauty-guide/skin-care-sensitive)*
+
+### Is cocoa butter good for dry skin?
+
+Yes. Cocoa butter (Theobroma cacao seed butter) is a solid plant fat rich in oleic and palmitic acids that form an occlusive film on the skin, slowing the moisture loss (transepidermal water loss) that drives dryness and tightness. In the Era Organics Relief OTC Dermatitis Cream, cocoa butter sits on top of the outer skin layer to lock in the humectants beneath it, glycerin, hyaluronic acid, and sodium PCA, giving those water-binding ingredients time to hydrate instead of evaporating off the surface. For acne-prone facial skin, patch test before regular use.
+
+*Reference: [Skin Care Dry](https://www.eraorganics.com/blogs/beauty-guide/skin-care-dry)*
+
+### Is cocoa butter good for your skin?
+
+Yes, for dry or irritated skin. Cocoa butter (Theobroma cacao seed butter) is a solid plant fat whose oleic and palmitic acids form an occlusive film that slows moisture loss through the skin, easing the dryness and tightness that come with dermatitis flares. That occlusive role is exactly why it is in Era Organics Relief OTC Dermatitis Cream, where it sits on top of the outer skin layer and locks in the humectants beneath it, glycerin, hyaluronic acid, and sodium PCA, so they can hydrate rather than evaporate. It is not for everyone everywhere: a 2012 randomized trial found cocoa butter does not prevent stretch marks, and a 2022 study detected a significant increase in microcomedone size on acne-prone facial skin, so patch test before regular facial use on those areas.
+
+*Reference: PMID 34632684, 23313995*

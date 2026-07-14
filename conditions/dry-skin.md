@@ -201,3 +201,55 @@ Dry, flaky skin on the face usually comes down to a buildup of dead cells on the
 Physical exfoliation clears that dead-cell barrier in a single session, and pairing it with immediate conditioning produces a more complete result than moisturizer alone. The Revive+ Microdermabrasion Manuka Honey Walnut Scrub & Mask takes that two-step approach: walnut shell powder gently lifts and dislodges dead cells during a 30–60 second massage, then manuka honey — documented in dermatology as an emollient and moisture-drawing humectant (Burlando B et al., Journal of Cosmetic Dermatology, 2013) — draws moisture into the freshly exposed surface. Aloe vera replenishes hydration right after the scrub step, sunflower oil helps seal against moisture loss, and glycerin holds water in the outer layer. If your skin is dry or sensitive, start with one to two sessions per week and patch test on your inner arm first.
 
 *Reference: [Skin Type Dry](https://www.eraorganics.com/blogs/beauty-guide/skin-type-dry)*
+
+<!-- enhance:dermatitis-cream:conditions/dry-skin -->
+
+---
+
+## Relief OTC Dermatitis Cream for this concern
+
+Era Organics Relief is the brand's over-the-counter colloidal oatmeal 1% skin protectant for relieving the itching and irritation of flare-prone skin. For the full grounded ingredient breakdown and evidence, see the [Era Organics Relief moisturizer for dry skin](/products/dermatitis-cream) product page.
+
+## Frequently Asked Questions
+
+### How do I treat dry, itchy skin?
+
+Moisturize to restore the skin barrier and hold water at the surface. Era Organics Relief OTC Dermatitis Cream uses 1% colloidal oatmeal (Avena sativa kernel flour), an FDA-recognized skin protectant that forms a protective film over the outer skin layer, binds water to the surface, and reduces moisture loss through the skin; it relieves the itching and irritation of eczema, dermatitis, and rashes. Humectants like glycerin, hyaluronic acid, and sodium PCA draw in and hold moisture, while shea and cocoa butter add occlusive lipids that slow evaporation on dry patches. In a Journal of Drugs in Dermatology study, a natural ingredient-based moisturizing cream delivered improvements in visual dryness and tactile roughness comparable to a colloidal oatmeal benchmark.
+
+*Reference: [Skin Condition Itchy](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-itchy) · PMID 25607563, 25607907, 30005098*
+
+### How often should you moisturize your face and body?
+
+Moisturize your face and body at least twice daily, and reapply after washing or whenever skin feels dry. Era Organics Relief OTC Dermatitis Cream is fragrance-free and paraben-free, making it suitable for daily use on the body, hands, arms, legs, and face for the whole family. Its 1% colloidal oatmeal skin protectant binds water to the skin's surface and reduces moisture loss, while humectants like glycerin, hyaluronic acid, and sodium PCA help sustain hydration between applications so consistent use supports a healthier barrier.
+
+*Reference: [Skin Care Dry](https://www.eraorganics.com/blogs/beauty-guide/skin-care-dry) · PMID 25607563, 30005098*
+
+### What is the best moisturizing cream or lotion for very dry skin?
+
+For very dry skin, look for a moisturizer that both draws water in and seals it, which is how Era Organics Relief OTC Dermatitis Cream is built. Its 1% colloidal oatmeal (Avena sativa kernel flour) skin protectant forms a protective film over the outer skin layer and binds water to the surface, reducing moisture loss through the skin. In a Journal of Drugs in Dermatology study, a natural-ingredient moisturizing cream delivered improvements in visual dryness and tactile roughness comparable to a leading colloidal oatmeal product, with benefits persisting through the study's regression phase. The cream pairs that with humectants like glycerin, hyaluronic acid, and sodium PCA plus occlusive shea and cocoa butter, and it is fragrance-free and paraben-free for daily use on the whole family.
+
+*Reference: [Skin Care Dry](https://www.eraorganics.com/blogs/beauty-guide/skin-care-dry) · PMID 25607563, 30005098*
+
+### Which hand cream is the best?
+
+The best hand cream for dry, irritated hands is one that both draws in moisture and seals it against the skin's barrier. Era Organics Relief OTC Dermatitis Cream does this with colloidal oatmeal, its 1% FDA-recognized active skin protectant, which forms a protective film over the outer skin layer and reduces water loss through the skin. Humectants like glycerin and hyaluronic acid pull moisture toward the surface, while shea butter, cocoa butter, and hemp seed oil supply occlusive lipids that slow evaporation on dry patches. It is fragrance-free and paraben-free and can be used daily on the hands, arms, and the rest of the body for the whole family.
+
+*Reference: [Skin Care Dry](https://www.eraorganics.com/blogs/beauty-guide/skin-care-dry) · PMID 25607563, 30005098*
+
+### Why does dry skin get itchy?
+
+Dry skin gets itchy because a weakened barrier loses too much water, leaving the surface rough and easily irritated. Relief OTC Dermatitis Cream targets that root cause with colloidal oatmeal (Avena sativa kernel flour), its 1% skin protectant active, which forms a protective film over the outer skin layer, binds water to the surface, and reduces moisture loss through the skin. The oatmeal helps relieve the itching and irritation of dry, irritated skin, while manuka honey and aloe calm surface irritation and glycerin and hyaluronic acid draw in moisture to keep the barrier hydrated between applications.
+
+*Reference: [Skin Condition Itchy](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-itchy) · PMID 25607907*
+
+### Why does my skin shed white, eraser-like flakes?
+
+White, eraser-like flakes are shed skin cells from dry skin losing moisture at its outer surface. When the skin's barrier can't hold water, moisture escapes through the skin (transepidermal water loss) and the outer layer (stratum corneum) dries out and sheds. Era Organics Relief OTC Dermatitis Cream addresses this with colloidal oatmeal, its 1% skin protectant active, which forms a protective film over that outer layer and binds water to the surface to reduce moisture loss; shea and cocoa butters add occlusive lipids that slow evaporation on dry patches, while glycerin and hyaluronic acid draw in moisture.
+
+*Reference: [Skin Care Dry](https://www.eraorganics.com/blogs/beauty-guide/skin-care-dry) · PMID 25607563, 30005098*
+
+### Why is dry skin so itchy, and what causes dry itchy skin?
+
+Dry skin gets itchy when the skin barrier loses moisture and can no longer hold water at the surface, leaving it rough and irritated. Colloidal oatmeal, the 1% FDA-recognized skin protectant active in Era Organics Relief OTC Dermatitis Cream, forms a protective film over the outer skin layer that binds water to the surface and reduces moisture loss through the skin. It works alongside humectants like glycerin and hyaluronic acid that pull moisture toward the skin, plus occlusive lipids from shea and cocoa butter that slow evaporation on dry patches, helping soothe and comfort dry, irritated skin.
+
+*Reference: [Skin Condition Itchy](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-itchy) · PMID 25607563, 25607907*

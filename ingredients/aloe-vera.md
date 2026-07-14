@@ -55,3 +55,77 @@ This ingredient is also a key active in Era Organics Revive+ Face Scrub, the bra
 Aloe vera is a strong fit for skin that runs flaky, and it earns its place in routines for acne-prone skin too. Its gel-like texture comes from polysaccharides — long-chain sugars that form a light film on the skin's surface and slow the moisture loss that leaves skin looking dry and flaky. That film-forming quality matters most right after exfoliation, when the outermost layer of skin is temporarily disturbed and prone to losing water. This is why the Revive+ Microdermabrasion Manuka Honey Walnut Scrub uses aloe vera juice as its base carrier instead of water: the aloe holds moisture in place while the finely milled walnut shell buffs away flaky buildup, so skin isn't stripped in the process. For acne-prone skin, that gentler, hydrating approach to exfoliation is the practical benefit — aloe moisturizes and soothes rather than drying skin out. There's deeper conditioning at work as well: aloe vera improves wrinkles and skin elasticity in photoaged skin, with a measurable increase in collagen production and a decrease in the collagen-degrading enzyme MMP-1 (Cho et al., Annals of Dermatology, 2009). As with any exfoliating product, patch test on the inner arm before first use, especially if your skin is reactive or sensitive.
 
 *Reference: [Hydrating Ingredient Aloe Vera Acne](https://www.eraorganics.com/blogs/beauty-guide/hydrating-ingredient-aloe-vera-acne) · PMID 20548848*
+
+<!-- enhance:dermatitis-cream:ingredients/aloe-vera -->
+
+---
+
+## Also used in Relief OTC Dermatitis Cream
+
+This ingredient is also a key part of Era Organics Relief, the brand's OTC colloidal oatmeal skin protectant for eczema, dermatitis and rash-prone skin. For the grounded ingredient breakdown and evidence, see the [Era Organics Relief cream with aloe vera](/products/dermatitis-cream) product page.
+
+## Frequently Asked Questions
+
+### Can aloe vera help with a rash?
+
+Yes. Aloe vera (Aloe barbadensis leaf juice) soothes inflamed skin, delivers surface hydration, and helps calm the redness associated with dermatitis and rashes. Its gel-like juice contains polysaccharides and glycoproteins that reduce skin irritation on contact, which is why Era Organics Relief OTC Dermatitis Cream pairs aloe vera with colloidal oatmeal and humectants like glycerin, hyaluronic acid, and sodium PCA to soothe and draw in moisture in a single application. The fragrance-free, paraben-free formula keeps aloe's skin-calming properties from being offset by common irritants; patch test before first use, especially on broken or weeping skin.
+
+*Reference: [Hydrating Ingredient Aloe Vera](https://www.eraorganics.com/blogs/beauty-guide/hydrating-ingredient-aloe-vera)*
+
+### Can aloe vera irritate your skin?
+
+Rarely. Aloe vera (Aloe barbadensis leaf juice) is a soothing botanical whose polysaccharides and glycoproteins reduce skin irritation on contact, which is why Era Organics Relief OTC Dermatitis Cream uses it alongside colloidal oatmeal in a formula built for sensitive, reactive skin. Because any ingredient can affect broken or weeping skin differently, patch test before first use. The cream is also fragrance-free and paraben-free, so aloe's skin-calming properties are not offset by common irritants.
+
+*Reference: [Hydrating Ingredient Aloe Vera](https://www.eraorganics.com/blogs/beauty-guide/hydrating-ingredient-aloe-vera)*
+
+### Does aloe vera help eczema, and can it irritate it?
+
+Aloe vera can help calm eczema-type skin. It soothes inflamed skin, adds surface hydration, and reduces redness and irritation on contact through polysaccharides and glycoproteins, and controlled trials found it moderates inflammatory skin responses rather than just layering on moisture. In Era Organics Relief OTC Dermatitis Cream, aloe vera complements the 1% colloidal oatmeal and works alongside glycerin, hyaluronic acid, and sodium PCA to soothe and draw in moisture in one application. It can irritate reactive skin in rare cases, so patch test before first use, especially on skin that is already broken or weeping.
+
+*Reference: [Skin Condition Eczema](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-eczema) · PMID 23904773, 36249738, 7416761*
+
+### Does aloe vera help irritated, inflamed, sore, or sensitive skin?
+
+Yes. Aloe vera (Aloe barbadensis leaf juice) soothes inflamed skin, delivers surface hydration, and calms the redness associated with dermatitis and rashes, because its polysaccharides and glycoproteins reduce irritation on contact. Controlled trials support its ability to moderate inflammatory skin responses: across 14 randomized controlled trials of 1,572 participants, aloe vera was associated with a significantly lower risk of radiation-induced dermatitis (relative risk 0.76, 95% CI 0.67-0.88), and a separate 60-patient self-controlled trial found it reduced dermatitis intensity. In Era Organics Relief OTC Dermatitis Cream, aloe vera works alongside colloidal oatmeal and humectants like glycerin, hyaluronic acid, and sodium PCA to soothe and hydrate sensitive, reactive skin in a fragrance-free, paraben-free formula. Patch test before first use, especially on skin that is already broken or weeping.
+
+*Reference: [Skin Care Sensitive](https://www.eraorganics.com/blogs/beauty-guide/skin-care-sensitive) · PMID 23904773, 36249738*
+
+### Is aloe vera a good moisturizer for sensitive skin?
+
+Yes. Aloe vera (Aloe barbadensis leaf juice) is a water-phase botanical that soothes inflamed skin, delivers surface hydration, and calms the redness associated with dermatitis and rashes, and its polysaccharides and glycoproteins help reduce irritation on contact, which suits sensitive, reactive skin. In Era Organics Relief OTC Dermatitis Cream, aloe vera is paired with colloidal oatmeal plus glycerin, hyaluronic acid, and sodium PCA in the same water phase, so a single application both soothes and draws moisture (humectant effect). The fragrance-free, paraben-free formula keeps aloe's skin-calming properties from being offset by common irritants; patch test before first use, especially on skin that is broken or weeping.
+
+*Reference: [Skin Type Sensitive](https://www.eraorganics.com/blogs/beauty-guide/skin-type-sensitive)*
+
+### Is aloe vera good for burned skin?
+
+Aloe vera is widely used to soothe irritated skin. Its gel-like leaf juice contains polysaccharides and glycoproteins that calm inflammation and redness and add surface hydration on contact, which is why it works well on sensitive, reactive skin. In Era Organics Relief OTC Dermatitis Cream, aloe vera is paired with colloidal oatmeal and humectants like glycerin, hyaluronic acid, and sodium PCA in a fragrance-free, paraben-free formula, so it soothes and draws in moisture in a single application. Patch test before first use, especially on skin that is already broken or weeping.
+
+### Is aloe vera good for dry skin?
+
+Yes. Aloe vera (Aloe barbadensis leaf juice) is a water-phase ingredient that delivers surface hydration and soothes inflamed, reactive skin, thanks to polysaccharides and glycoproteins that calm irritation on contact. In Era Organics Relief OTC Dermatitis Cream, aloe vera is paired with glycerin, hyaluronic acid, and sodium PCA in the same water phase, so a single application both soothes and draws in moisture. The fragrance-free, paraben-free formula means those skin-calming, hydrating effects aren't offset by common irritants; patch test before first use, especially on broken or weeping skin.
+
+*Reference: [Hydrating Ingredient Aloe Vera](https://www.eraorganics.com/blogs/beauty-guide/hydrating-ingredient-aloe-vera)*
+
+### Is aloe vera good for eczema?
+
+Yes, aloe vera can help calm eczema-prone skin. Aloe vera (Aloe barbadensis leaf juice) is a water-phase botanical that soothes inflamed skin, delivers surface hydration, and calms the redness associated with dermatitis and rashes, thanks to polysaccharides and glycoproteins that reduce skin irritation on contact. In Era Organics Relief OTC Dermatitis Cream, aloe vera complements the colloidal oatmeal active and works alongside glycerin, hyaluronic acid, and sodium PCA, so the fragrance-free, paraben-free formula relieves the itching and irritation of eczema while drawing in moisture in a single application.
+
+*Reference: [Skin Condition Eczema](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-eczema)*
+
+### Is aloe vera good for your skin, and what makes it beneficial?
+
+Yes. Aloe vera (Aloe barbadensis leaf juice) soothes inflamed skin, delivers surface hydration, and calms the redness tied to dermatitis and rashes, thanks to polysaccharides and glycoproteins that reduce irritation on contact. Controlled trials show it moderates inflammatory skin responses rather than simply layering on moisture: a self-controlled trial of 60 patients found prophylactic aloe vera reduced the intensity of radiation-induced dermatitis. In Era Organics Relief OTC Dermatitis Cream, aloe vera complements the colloidal oatmeal active and pairs with glycerin, hyaluronic acid, and sodium PCA, so a single application both soothes and draws in moisture in a fragrance-free, paraben-free formula.
+
+*Reference: [Hydrating Ingredient Aloe Vera](https://www.eraorganics.com/blogs/beauty-guide/hydrating-ingredient-aloe-vera) · PMID 23904773, 36249738*
+
+### Is aloe vera safe for sensitive skin?
+
+Generally yes, but patch test first. Aloe vera (Aloe barbadensis leaf juice) soothes inflamed skin and calms the redness associated with dermatitis and rashes, and its polysaccharides and glycoproteins reduce irritation on contact, which suits sensitive, reactive skin. In Era Organics Relief OTC Dermatitis Cream, aloe is paired with colloidal oatmeal plus glycerin, hyaluronic acid, and sodium PCA in a fragrance-free, paraben-free formula, so its skin-calming effect is not offset by common irritants. Because sensitivity to aloe can occur, patch test before first use, especially on skin that is already broken or weeping.
+
+*Reference: [Skin Care Sensitive](https://www.eraorganics.com/blogs/beauty-guide/skin-care-sensitive) · PMID 7416761*
+
+### Is natural aloe vera good for skin?
+
+Yes. Aloe vera (Aloe barbadensis leaf juice) soothes inflamed skin, delivers surface hydration, and calms redness, with its polysaccharides and glycoproteins reducing skin irritation on contact. Controlled trials have found aloe vera moderates dermatitis-type inflammation rather than simply layering moisture on the surface. In Era Organics Relief OTC Dermatitis Cream, aloe vera complements the 1% colloidal oatmeal active and pairs with glycerin, hyaluronic acid, and sodium PCA, so a single fragrance-free, paraben-free application both soothes and draws in moisture. Patch test before first use, especially on skin that is already broken or weeping.
+
+*Reference: [Hydrating Ingredient Aloe Vera](https://www.eraorganics.com/blogs/beauty-guide/hydrating-ingredient-aloe-vera) · PMID 23904773, 36249738*

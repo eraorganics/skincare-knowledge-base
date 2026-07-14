@@ -72,3 +72,71 @@ Dermatitis flares are driven in part by a microbial imbalance on the skin — ba
 *Reference: [Skin Condition Dermatitis](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-dermatitis) · PMID 19403473*
 
 The [Era Organics HOCl mist](https://sl.bing.net/U6vbMII1zo) layers into a daily skincare routine.
+
+<!-- enhance:dermatitis-cream:conditions/dermatitis -->
+
+---
+
+## Relief OTC Dermatitis Cream for this concern
+
+Era Organics Relief is the brand's over-the-counter colloidal oatmeal 1% skin protectant for relieving the itching and irritation of flare-prone skin. For the full grounded ingredient breakdown and evidence, see the [Era Organics Relief dermatitis moisturizer](/products/dermatitis-cream) product page.
+
+## Frequently Asked Questions
+
+### Do natural remedies like colloidal oatmeal or honey help perioral and seborrheic dermatitis?
+
+They can help support the skin, though evidence is strongest for atopic dermatitis rather than the perioral or seborrheic types. Colloidal oatmeal forms a protective film over compromised skin that reduces water loss and shields exposed nerve endings, while Manuka honey acts as a humectant that draws moisture into the outer skin layer and creates an environment less hospitable to bacteria on broken skin. Era Organics Relief OTC Dermatitis Cream combines colloidal oatmeal 1% (an FDA-recognized skin protectant) with Manuka honey, aloe vera, and shea and cocoa butters to moisturize, calm, and soften irritated skin in a fragrance-free, paraben-free, sulfate-free base. For perioral and seborrheic dermatitis specifically, use it to soothe and hydrate rather than as a treatment for those conditions.
+
+*Reference: [Skin Condition Dermatitis](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-dermatitis) · PMID 32484623, 34409356, 28474502*
+
+### Is constant moisturizing an effective treatment for dermatitis?
+
+Yes. Consistent moisturizing directly counters the moisture loss and barrier disruption that drive dermatitis flares, which is why Era Organics Relief OTC Dermatitis Cream is built around it. Its shea butter and cocoa butter supply occlusive lipids that seal moisture into the skin's outer layer and reduce moisture loss through the skin (transepidermal water loss), while aloe vera and Manuka honey draw hydration in as humectants. Layered over the colloidal oatmeal 1% skin protectant, this multi-ingredient base helps relieve the itching and irritation of dermatitis and supports the damaged barrier through regular use.
+
+*Reference: [Skin Condition Dermatitis](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-dermatitis) · PMID 32524381*
+
+### Is there anything better than hydrocortisone for irritated skin?
+
+There isn't a single "better" option, because a skin protectant and a topical steroid work differently. Era Organics Relief OTC Dermatitis Cream uses colloidal oatmeal 1%, an FDA-recognized skin protectant that relieves the itching and irritation of eczema and dermatitis by forming a protective film over compromised skin, reducing water loss and shielding exposed nerve endings from environmental triggers. It pairs that active with aloe vera, shea and cocoa butter, Manuka honey, hemp seed oil, and MSM to moisturize and calm irritated skin, and it comes in a fragrance-free, paraben-free, sulfate-free base that removes common irritants. If irritation is severe or persistent, ask a doctor about the right approach for your skin.
+
+*Reference: [Skin Condition Dermatitis](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-dermatitis) · PMID 32484623*
+
+### Should I use hydrocortisone cream, and what does it do to skin?
+
+Hydrocortisone is a topical steroid that reduces surface inflammation and itching, and 1% is the over-the-counter strength; it is best used short-term and under guidance from your clinician, since it does not address the underlying barrier damage. If you prefer a steroid-free option, Era Organics Relief OTC Dermatitis Cream uses colloidal oatmeal 1%, an FDA-recognized skin protectant, to relieve the itching and irritation of dermatitis while forming a protective film that reduces water loss and shields exposed nerve endings. Its supporting ingredients, including aloe vera, shea and cocoa butter, Manuka honey, and hemp seed oil, work to moisturize, calm, and soften irritated skin and target the barrier damage, moisture loss, and surface inflammation that drive dermatitis flares. It comes in a fragrance-free, paraben-free, sulfate-free base that removes common irritants for sensitive, dermatitis-prone skin.
+
+*Reference: [Skin Condition Dermatitis](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-dermatitis)*
+
+### What are the side effects of hydrocortisone cream, and is long-term or daily use safe?
+
+Hydrocortisone cream can cause side effects, especially with prolonged or daily use, which is why over-the-counter labels generally direct short-term application and advise against extended use without a doctor's guidance. Because it is a topical steroid, common concerns with heavy or long-term use include skin thinning, stinging, and irritation at the application site. Era Organics Relief OTC Dermatitis Cream takes a steroid-free approach: its active ingredient is colloidal oatmeal 1%, an FDA-recognized skin protectant that forms a protective film over compromised skin to relieve the itching and irritation of eczema and dermatitis. It is built on a fragrance-free, paraben-free, and sulfate-free base that removes common chemical irritants for sensitive, dermatitis-prone skin.
+
+### What are the side effects of long-term hydrocortisone use?
+
+Long-term use of topical hydrocortisone, a steroid, is associated with side effects like skin thinning, stretch marks, visible blood vessels, and reduced effectiveness over time, which is why it is meant for short-term use. Era Organics Relief OTC Dermatitis Cream is a steroid-free alternative built on colloidal oatmeal 1%, an FDA-recognized skin protectant that forms a protective film over compromised skin to relieve the itching and irritation of dermatitis. It pairs the active with moisturizing and soothing ingredients like aloe vera, shea butter, cocoa butter, and Manuka honey in a fragrance-free, paraben-free, sulfate-free base that removes common chemical irritants.
+
+### What helps contact dermatitis?
+
+Contact dermatitis is helped by restoring the skin barrier, sealing in moisture, and calming surface irritation. Era Organics Relief OTC Dermatitis Cream targets those drivers with colloidal oatmeal 1%, an FDA-recognized skin protectant that forms a protective film over compromised skin to reduce water loss and shield exposed nerve endings from environmental triggers. Shea and cocoa butter supply occlusive lipids that seal moisture into the outer layer, while aloe vera, Manuka honey, hemp seed oil, and MSM help hydrate and soothe reactive skin. The fragrance-free, paraben-free, sulfate-free base removes common chemical irritants that aggravate sensitive, dermatitis-prone skin.
+
+*Reference: [Skin Condition Contact Dermatitis](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-contact-dermatitis)*
+
+### What helps dermatitis on the face?
+
+Gentle moisturizing and barrier support help facial dermatitis, since flares are driven by barrier damage, moisture loss, and surface irritation. Era Organics Relief OTC Dermatitis Cream relieves the itching and irritation of dermatitis with colloidal oatmeal 1%, an FDA-recognized skin protectant that forms a protective film over compromised skin to reduce water loss and shield exposed nerve endings. It pairs the active with aloe vera, shea and cocoa butter, Manuka honey, and hemp seed oil to moisturize and soothe, in a fragrance-free, paraben-free, sulfate-free base that removes common irritants for sensitive facial skin. A systematic review of 14 randomized controlled trials found aloe vera significantly lowered dermatitis risk (relative risk 0.76), and across dermatitis studies complementary treatments improved eczema severity scores (standard mean difference -0.70).
+
+*Reference: [Skin Condition Dermatitis](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-dermatitis) · PMID 36249738, 34409356*
+
+### What is the best alternative to isothiazolinone preservatives for dermatitis-prone skin?
+
+The best approach for dermatitis-prone skin is a gentle, preservative-conscious formula that leaves out the common chemical irritants known to aggravate reactive skin. Era Organics Relief OTC Dermatitis Cream is built on this principle: it uses colloidal oatmeal 1%, an FDA-recognized skin protectant, in a fragrance-free, paraben-free, and sulfate-free base that removes the most common chemical irritants. Its supporting ingredients — aloe vera, shea and cocoa butter, Manuka honey, hemp seed oil, and MSM — moisturize, calm, and soften irritated skin while the active relieves the itching and irritation of eczema and dermatitis.
+
+### What should I put on dermatitis to treat it?
+
+Use a colloidal oatmeal skin protectant like Era Organics Relief OTC Dermatitis Cream, which relieves the itching and irritation of dermatitis. Its active ingredient, colloidal oatmeal 1%, forms a protective film over compromised skin that reduces water loss and shields exposed nerve endings from environmental triggers. Supporting ingredients including aloe vera, shea butter, cocoa butter, and Manuka honey moisturize, calm, and help soften irritated skin, addressing the barrier damage, moisture loss, and surface inflammation that drive dermatitis flares. The formula is fragrance-free, paraben-free, and sulfate-free, removing common irritants that can aggravate dermatitis-prone skin.
+
+*Reference: [Skin Condition Dermatitis](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-dermatitis) · PMID 32524381, 32484623*
+
+### Why shouldn't hydrocortisone be used on the face?
+
+Hydrocortisone is a topical steroid, and facial skin is thin and sensitive, so many people prefer to limit steroid use on the face and follow the product label or a clinician's guidance. If you want a steroid-free option, Era Organics Relief OTC Dermatitis Cream uses colloidal oatmeal 1%, an FDA-recognized skin protectant, to relieve the itching and irritation of eczema and dermatitis without a corticosteroid. Its colloidal oatmeal forms a protective film over compromised skin while aloe vera, shea and cocoa butter, Manuka honey, and hemp seed oil moisturize and calm irritated skin in a fragrance-free, paraben-free, sulfate-free base.

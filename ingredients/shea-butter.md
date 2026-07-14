@@ -29,3 +29,19 @@ Shea butter (Butyrospermum Parkii) comes from the nut of the African shea tree, 
 ## Disclaimer
 
 *The information on this page is provided for educational purposes only and is not medical advice. Era Organics products are cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+
+<!-- enhance:dermatitis-cream:ingredients/shea-butter -->
+
+---
+
+## Also used in Relief OTC Dermatitis Cream
+
+This ingredient is also a key part of Era Organics Relief, the brand's OTC colloidal oatmeal skin protectant for eczema, dermatitis and rash-prone skin. For the grounded ingredient breakdown and evidence, see the [Era Organics Relief with shea butter](/products/dermatitis-cream) product page.
+
+## Frequently Asked Questions
+
+### Is shea butter good or bad for eczema?
+
+Good for most eczema-prone skin. Shea butter (Butyrospermum Parkii) is a lipid-rich fat whose stearic and oleic acids form an occlusive layer that slows moisture loss through the skin, the primary driver of the dryness and flaking seen in eczema-prone skin. Era Organics Relief OTC Dermatitis Cream includes shea butter alongside cocoa butter, sunflower seed oil, and glycerin, so occlusion, emolliency, and humectancy work together to soften rough, tight skin and help relieve the itching and irritation of eczema and dermatitis. Because shea comes from a tree-nut source, patch test before first use if you have known nut sensitivities.
+
+*Reference: [Skin Condition Eczema](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-eczema)*
