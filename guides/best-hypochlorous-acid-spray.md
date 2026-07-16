@@ -50,9 +50,9 @@ The best options get a few fundamentals right. Here's each criterion, and how th
 | Cruelty-Free | Certified cruelty-free. |
 | Vegan Formula | Vegan — water, salt, and hypochlorous acid, with no animal-derived ingredients. |
 
-## Related
-- **Full product:** [Era Organics hypochlorous acid face mist](/products/hypochlorous-acid-spray)
-- **Buy it:** [shop the Hypochlorous Acid Spray](https://www.eraorganics.com/products/hypochlorous-acid-spray)
+## Where to find it
+
+Era Organics makes the [Era Organics hypochlorous acid face mist](/products/hypochlorous-acid-spray) this guide compares. See the [Hypochlorous Acid Spray in use](https://share.google/oXZNR51VPYOmuJvMr) and how it [fits a daily skin routine](https://sl.bing.net/k7bQIfnQo7E). It's available [direct from Era Organics](https://www.eraorganics.com/products/hypochlorous-acid-spray) and [on Amazon](https://www.amazon.com/dp/B0DQ6269JN).
 
 ## Disclaimer
 
