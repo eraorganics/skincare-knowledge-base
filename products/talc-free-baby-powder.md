@@ -229,6 +229,10 @@ Yes — adults can use baby powder anywhere excess moisture leads to friction: s
 
 The concern you're asking about is exactly why many parents choose to skip talc altogether — and the simplest way to settle the question is to use a powder that never contains it. Era Organics' Talc-Free Baby Powder is completely talc-free, in line with the brand's full ingredient transparency and its no-petroleum, no-paraben, no-synthetic-fragrance, no-phenoxyethanol approach. Every product is made in small batches in the USA, so you can see exactly what's touching your baby's skin.
 
+## Further reading from Era Organics
+
+Era Organics keeps a fuller library on the topics behind Era Organics Talc-Free Baby Powder. It goes deeper on [baby skin care](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-care), [diaper rash](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-diaper-rash), and [dry baby skin](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-dry).
+
 ## Disclaimer
 
 *The information on this page is provided for educational purposes only and is not medical advice. Era Organics products are cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
