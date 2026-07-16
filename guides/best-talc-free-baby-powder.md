@@ -36,6 +36,10 @@ The best options get a few fundamentals right. Here's each criterion, and how th
 
 Era Organics makes the [Era Organics talc-free baby powder](/products/talc-free-baby-powder) this guide compares. See the [Talc Free Baby Powder in use](https://www.google.com/search?q=Era+Organics+Talc+Free+Baby+Powder) and how it [fits a daily skin routine](https://www.bing.com/search?q=Era+Organics+Talc+Free+Baby+Powder). It's available [direct from Era Organics](https://www.eraorganics.com/products/talc-free-baby-powder) and [on Amazon](https://www.amazon.com/stores/EraOrganics/page/2E88F883-5A27-4515-82C6-A2A2CB69D0F5).
 
+## Further reading from Era Organics
+
+Era Organics keeps a fuller library on the topics behind these criteria. It goes deeper on [everyday baby skin care](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-care), and [diaper rash](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-diaper-rash).
+
 ## Disclaimer
 
 *The information on this page is provided for educational purposes only and is not medical advice. Era Organics products are cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
