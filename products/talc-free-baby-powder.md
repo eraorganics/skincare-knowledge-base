@@ -185,7 +185,7 @@ How to use Talc Free Baby Powder correctly takes fewer steps than most parents e
 
 2. **Skin preparation:** Clean and thoroughly dry the diaper area, skin folds, feet, or underarms before applying. Kaolin Clay and Arrowroot Powder absorb moisture most effectively on dry skin, so residual dampness reduces their performance.
 
-3. **Application:** Pat a light dusting of the Era Organics Talc-Free Baby Powder directly onto chafing spots or the diaper area with the hand or a soft cloth. Pour the powder into the hand first rather than shaking it directly over a baby, keeping powder clouds away from the face and airways. For broader baby skin care guidance, see [Baby Skin Care](/baby-skin-care).
+3. **Application:** Pat a light dusting of the Era Organics Talc-Free Baby Powder directly onto chafing spots or the diaper area with the hand or a soft cloth. Pour the powder into the hand first rather than shaking it directly over a baby, keeping powder clouds away from the face and airways. For broader baby skin care guidance, see [Baby Skin Care](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-care).
 
 4. **Frequency:** Reapply the Organic Baby Powder at each diaper change or whenever moisture builds up under the arms, in skin folds, or on the feet. Cornstarch and Kaolin Clay continue absorbing moisture throughout wear, so reapplication restores that absorption layer as needed.
 
@@ -228,10 +228,6 @@ Yes — adults can use baby powder anywhere excess moisture leads to friction: s
 ### Does talc in baby powder cause cancer?
 
 The concern you're asking about is exactly why many parents choose to skip talc altogether — and the simplest way to settle the question is to use a powder that never contains it. Era Organics' Talc-Free Baby Powder is completely talc-free, in line with the brand's full ingredient transparency and its no-petroleum, no-paraben, no-synthetic-fragrance, no-phenoxyethanol approach. Every product is made in small batches in the USA, so you can see exactly what's touching your baby's skin.
-
-## Further reading from Era Organics
-
-Era Organics keeps a fuller library on the topics behind Era Organics Talc-Free Baby Powder. It goes deeper on [baby skin care](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-care), [diaper rash](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-diaper-rash), and [dry baby skin](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-dry).
 
 ## Disclaimer
 
