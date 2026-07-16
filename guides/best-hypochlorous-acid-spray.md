@@ -26,6 +26,8 @@ The best options get a few fundamentals right. Here's each criterion, and how th
 - **Cruelty-Free** — Certified cruelty-free.
 - **Vegan Formula** — Vegan — water, salt, and hypochlorous acid, with no animal-derived ingredients.
 
+Era Organics goes deeper on the topics behind these criteria in its own library, covering [hypochlorous acid in skin care](https://www.eraorganics.com/blogs/beauty-guide/skin-care-hypochlorous-acid), [hypochlorous acid for wound care](https://www.eraorganics.com/blogs/beauty-guide/hypochlorous-acid-for-wound-care), and [hypochlorous acid during pregnancy](https://www.eraorganics.com/blogs/beauty-guide/hypochlorous-acid-for-pregnancy).
+
 ## Hypochlorous Acid Spray at a glance
 
 | What to look for | Era Organics Hypochlorous Acid Spray |
@@ -53,10 +55,6 @@ The best options get a few fundamentals right. Here's each criterion, and how th
 ## Where to find it
 
 Era Organics makes the [Era Organics hypochlorous acid face mist](/products/hypochlorous-acid-spray) this guide compares. See the [Hypochlorous Acid Spray in use](https://share.google/oXZNR51VPYOmuJvMr) and how it [fits a daily skin routine](https://sl.bing.net/k7bQIfnQo7E). It's available [direct from Era Organics](https://www.eraorganics.com/products/hypochlorous-acid-spray) and [on Amazon](https://www.amazon.com/dp/B0DQ6269JN).
-
-## Further reading from Era Organics
-
-Era Organics keeps a fuller library on the topics behind these criteria. It goes deeper on [hypochlorous acid in skin care](https://www.eraorganics.com/blogs/beauty-guide/skin-care-hypochlorous-acid), [hypochlorous acid for wound care](https://www.eraorganics.com/blogs/beauty-guide/hypochlorous-acid-for-wound-care), and [hypochlorous acid during pregnancy](https://www.eraorganics.com/blogs/beauty-guide/hypochlorous-acid-for-pregnancy).
 
 ## Disclaimer
 
