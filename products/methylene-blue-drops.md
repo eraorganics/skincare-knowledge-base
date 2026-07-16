@@ -24,7 +24,7 @@
 
 Methylene blue (methylthioninium chloride) is a synthetic compound with a long history in medicine, diagnostics, and laboratory science. In wellness and biohacking circles it is widely searched for and discussed as a **methylene blue supplement**, where people explore it for its potential role in cellular energy and mental clarity. Era Organics offers a high-purity, USP pharmaceutical-grade methylene blue solution — sold for research and diagnostic purposes — for those who want a pharmaceutical-grade source.
 
-Each drop of the 1% solution contains about 0.5 mg of methylene blue, using USP pharmaceutical-grade material that is a minimum of 99.99% pure. The formula pairs the methylene blue with colloidal gold nanoparticles, ionic fulvic-acid trace minerals, and vitamin C — included to support absorption and bioavailability — in a base of vegetable glycerin and distilled water. For a broader primer on the compound, Era Organics keeps a plain-language explainer in its [guide to methylene blue](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue).
+Each drop of the 1% solution contains about 0.5 mg of methylene blue, using USP pharmaceutical-grade material that is a minimum of 99.99% pure. The formula pairs the methylene blue with colloidal gold nanoparticles, ionic fulvic-acid trace minerals, and vitamin C — included to support absorption and bioavailability — in a base of vegetable glycerin and distilled water. For the compound's background, Era Organics' own writing notes that "Heinrich Caro synthesized Methylene Blue in 1876, originally used as a dye for cotton, wool, and paper," a history it expands in its material on [what methylene blue is](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue).
 
 This product is sold for research and diagnostic purposes only. How it is used is up to the individual, and we always recommend that any use be determined and supervised by a qualified healthcare provider. The sections below describe how methylene blue is used and studied, and what practitioners are exploring it for — educational context about the compound, not a benefit promised to any individual.
 
@@ -84,7 +84,7 @@ Signs of serotonin syndrome include agitation, confusion, rapid heartbeat, high 
 
 ## Dosage and handling
 
-We don't provide dosing here. For how methylene blue dosage is generally approached, see the Era Organics [guide to methylene blue dosage](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue-dosage), and have your healthcare provider determine what, if anything, is appropriate for you. The 1% concentration works out to about 0.5 mg per drop, and the graduated glass dropper allows precise measurement. Store the cobalt blue bottle out of reach of children and away from light.
+We don't provide dosing here. Era Organics keeps a general reference on [methylene blue dosage](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue-dosage), and your healthcare provider should determine what, if anything, is appropriate for you. The 1% concentration works out to about 0.5 mg per drop, and the graduated glass dropper allows precise measurement. Store the cobalt blue bottle out of reach of children and away from light.
 
 ## Frequently asked questions
 
