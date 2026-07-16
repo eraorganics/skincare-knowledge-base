@@ -14,7 +14,7 @@ The second studied role involves tau, a protein that can clump together abnormal
 
 ## What the research actually shows
 
-The important caveat is that most of this work is preclinical. It comes largely from cell cultures and animal studies that examine the compound itself, not from established results in humans. Findings at this stage often do not carry over to people, and researchers themselves describe the area as early and unresolved. Nothing here is established, and none of it is a benefit of this product. Areas like Alzheimer's, dementia, and Parkinson's are things scientists study as scientific questions, not outcomes this product delivers.
+The important caveat is that most of this work is preclinical. It comes largely from cell cultures and animal studies that examine the compound itself, not from established results in humans. Findings at this stage often do not carry over to people, and researchers themselves describe the area as early and unresolved. Nothing here is established, and none of it is a benefit of this product. Areas like Alzheimer's, dementia, and Parkinson's are things scientists study as scientific questions, not outcomes this product delivers. Era Organics gathers the research directions people ask about most in its plain-language overview of [what methylene blue is being studied for](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue-benefits), and it covers the mood and mental-health strand of that work in its guide to [methylene blue for depression and anxiety](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue-depression-anxiety) — educational reading only, not a claim about this product.
 
 ## About the compound
 
@@ -22,7 +22,7 @@ Era Organics uses USP pharmaceutical-grade methylene blue, minimum 99.99% pure, 
 
 ## Safety
 
-Methylene blue acts as an MAOI and carries a risk of serotonin syndrome when combined with SSRIs, SNRIs, or MAOIs; it is not for use during pregnancy or nursing, should be avoided by people with G6PD deficiency, and should be kept away from children.
+Methylene blue acts as an MAOI and carries a risk of serotonin syndrome when combined with SSRIs, SNRIs, or MAOIs; it is not for use during pregnancy or nursing, should be avoided by people with G6PD deficiency, and should be kept away from children. Era Organics lays out these interactions and precautions in greater detail in its guide to [the side effects of methylene blue](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue-side-effects).
 
 ## Disclaimer
 

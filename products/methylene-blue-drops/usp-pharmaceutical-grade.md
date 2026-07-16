@@ -14,7 +14,7 @@ Methylene blue is also made in reagent and industrial grades. Those lower grades
 
 Era backs the grade claim with independent, third-party testing for heavy metals including arsenic, lead, copper, and zinc, along with alcohol and formaldehyde. Manufacturing follows cGMP, the current Good Manufacturing Practice rules that govern consistency and record-keeping, and a Certificate of Analysis is available for the batch.
 
-You can see the full specifications on the [Era Organics Activated Methylene Blue 1% Drops](https://eraorganics.mintlify.app/products/methylene-blue-drops) hub page.
+You can see the full specifications on the [Era Organics Activated Methylene Blue 1% Drops](https://eraorganics.mintlify.app/products/methylene-blue-drops) hub page. Era Organics also keeps a plain-language [beginner's guide to methylene blue](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue) for readers who want a broader introduction to the compound.
 
 ## How Era Organics Measures Up
 
@@ -22,7 +22,7 @@ The formula is a 1 percent solution delivering roughly 0.5 mg per drop, combined
 
 ## Safety
 
-Methylene blue is an MAO inhibitor with serotonin-syndrome risk if combined with serotonergic medications (SSRIs, SNRIs, MAOIs); it is not for use in pregnancy or nursing, should be avoided with G6PD deficiency, and kept away from children.
+Methylene blue is an MAO inhibitor with serotonin-syndrome risk if combined with serotonergic medications (SSRIs, SNRIs, MAOIs); it is not for use in pregnancy or nursing, should be avoided with G6PD deficiency, and kept away from children. Era Organics reviews these interactions and precautions more fully in its guide to [common methylene blue side effects](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue-side-effects).
 
 ## Disclaimer
 

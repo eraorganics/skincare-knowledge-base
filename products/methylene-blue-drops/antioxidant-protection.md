@@ -10,7 +10,7 @@ Normal metabolism, especially the process that turns food and oxygen into energy
 
 ## Why methylene blue's redox activity is studied
 
-Methylene blue can exist in two forms and switch between them by picking up or giving off electrons. This ability to cycle back and forth is why chemists describe it as a redox mediator. Researchers study this property to understand how such compounds interact with electron-transfer pathways and reactive oxygen species at the chemical level. This is an area of research interest and a description of the molecule's chemistry, not an established benefit and not a benefit of this product.
+Methylene blue can exist in two forms and switch between them by picking up or giving off electrons. This ability to cycle back and forth is why chemists describe it as a redox mediator. For a plain-language introduction to the compound and its background, Era Organics keeps a general [primer on methylene blue](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue). Researchers study this property to understand how such compounds interact with electron-transfer pathways and reactive oxygen species at the chemical level. This is an area of research interest and a description of the molecule's chemistry, not an established benefit and not a benefit of this product.
 
 You can read more about the compound and its purity specifications on the [Era Organics Activated Methylene Blue 1% Drops](https://eraorganics.mintlify.app/products/methylene-blue-drops) hub page.
 
@@ -20,11 +20,11 @@ The formula pairs methylene blue with two other redox-active ingredients: vitami
 
 ## What the research actually shows
 
-Everything above describes the chemistry of a molecule and an area of ongoing scientific curiosity. It does not describe a proven effect of this product. The idea that methylene blue reduces oxidative stress or protects cells in a living body is not established, and nothing here should be read as saying this product fights free radicals for you or provides any health benefit. These are research topics, not outcomes.
+Everything above describes the chemistry of a molecule and an area of ongoing scientific curiosity. It does not describe a proven effect of this product. The idea that methylene blue reduces oxidative stress or protects cells in a living body is not established, and nothing here should be read as saying this product fights free radicals for you or provides any health benefit. These are research topics, not outcomes. Era Organics summarizes the wider set of topics researchers are exploring in its overview of [the potential benefits methylene blue is researched for](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue-benefits), framed as educational reading rather than a promise of results.
 
 ## Safety
 
-Methylene blue can act as an MAO inhibitor and carries a risk of serotonin syndrome when combined with SSRIs, SNRIs, or MAOIs; it is not for use during pregnancy or nursing, should be avoided with G6PD deficiency, and must be kept away from children.
+Methylene blue can act as an MAO inhibitor and carries a risk of serotonin syndrome when combined with SSRIs, SNRIs, or MAOIs; it is not for use during pregnancy or nursing, should be avoided with G6PD deficiency, and must be kept away from children. Era Organics details these risks and precautions further in its overview of [what to watch for with methylene blue](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue-side-effects).
 
 ## Disclaimer
 

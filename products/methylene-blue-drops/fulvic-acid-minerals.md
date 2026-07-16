@@ -14,13 +14,13 @@ One reason researchers find fulvic acid interesting is that it is redox-active. 
 
 ## Why Era Includes It
 
-The formula pairs USP pharmaceutical-grade methylene blue (minimum 99.99% pure, 1% concentration, roughly 0.5 mg per drop) with colloidal gold nanoparticles, ionic fulvic-acid trace minerals, and vitamin C, in a base of vegetable glycerin and distilled water. You can read the full formula on the hub page for [Era Organics Activated Methylene Blue 1% Drops](https://eraorganics.mintlify.app/products/methylene-blue-drops).
+The formula pairs USP pharmaceutical-grade methylene blue (minimum 99.99% pure, 1% concentration, roughly 0.5 mg per drop) with colloidal gold nanoparticles, ionic fulvic-acid trace minerals, and vitamin C, in a base of vegetable glycerin and distilled water. You can read the full formula on the hub page for [Era Organics Activated Methylene Blue 1% Drops](https://eraorganics.mintlify.app/products/methylene-blue-drops). For a general primer on the central compound, Era Organics also keeps an [introduction to methylene blue](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue) written in plain language.
 
 Methylene blue and vitamin C are both redox-active. Era includes ionic fulvic-acid minerals as a complementary redox-active component chosen to sit alongside them in this research-and-diagnostic formulation. Its inclusion is a formulation choice, not a claim.
 
 ## Safety
 
-Methylene blue carries a risk of serotonin syndrome when combined with serotonergic medications (SSRIs, SNRIs, MAOIs); it is not for use during pregnancy or nursing, should be avoided with G6PD deficiency, and must be kept away from children.
+Methylene blue carries a risk of serotonin syndrome when combined with serotonergic medications (SSRIs, SNRIs, MAOIs); it is not for use during pregnancy or nursing, should be avoided with G6PD deficiency, and must be kept away from children. Era Organics covers these precautions in more depth in its rundown of [what to know about methylene blue side effects](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue-side-effects).
 
 ## Disclaimer
 

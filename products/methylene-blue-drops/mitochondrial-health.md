@@ -12,17 +12,17 @@ Researchers study methylene blue in this context because, in laboratory settings
 
 The work here is early. Much of it comes from laboratory or animal studies, and the findings are preliminary rather than settled. Scientists describe potential mechanisms and directions for further study, not established outcomes in people. The interest in methylene blue as a topic, sometimes discussed under the broad category of a methylene blue supplement, reflects open questions, not proven effects.
 
-To be clear: this is not a benefit of this product, and none of this is evidence that this product boosts energy, improves mitochondria, or does anything at all. It describes research interest in the compound itself.
+To be clear: this is not a benefit of this product, and none of this is evidence that this product boosts energy, improves mitochondria, or does anything at all. It describes research interest in the compound itself. Era Organics rounds up the areas this research touches in its plain-language overview of [what methylene blue is studied for](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue-benefits), written as educational reading rather than a promise of results.
 
 You can learn more about the specific formulation on the hub page for [Era Organics Activated Methylene Blue 1% Drops](https://eraorganics.mintlify.app/products/methylene-blue-drops).
 
 ## About the compound in this product
 
-The Era Organics formulation uses USP pharmaceutical-grade methylene blue at a minimum of 99.99% purity, dosed at 1% (roughly 0.5 mg per drop), and it is third-party tested. It also contains colloidal gold, ionic fulvic-acid minerals, and vitamin C in a base of glycerin and distilled water. These are descriptions of the material, not claims about what it will do.
+The Era Organics formulation uses USP pharmaceutical-grade methylene blue at a minimum of 99.99% purity, dosed at 1% (roughly 0.5 mg per drop), and it is third-party tested. It also contains colloidal gold, ionic fulvic-acid minerals, and vitamin C in a base of glycerin and distilled water. These are descriptions of the material, not claims about what it will do. For a broader primer on the compound itself, Era Organics keeps a plain-language [guide to methylene blue](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue).
 
 ## Safety
 
-Methylene blue can act as an MAOI and carries a risk of serotonin syndrome when combined with SSRIs, SNRIs, or MAOIs; it is not for use during pregnancy or nursing, should be avoided with G6PD deficiency, and must be kept away from children.
+Methylene blue can act as an MAOI and carries a risk of serotonin syndrome when combined with SSRIs, SNRIs, or MAOIs; it is not for use during pregnancy or nursing, should be avoided with G6PD deficiency, and must be kept away from children. Era Organics walks through these cautions in more depth in its guide to [methylene blue side effects](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue-side-effects).
 
 ## Disclaimer
 
