@@ -80,6 +80,10 @@ The best options get a few fundamentals right. Here's each criterion, and how th
 
 Era Organics makes the [Era Organics Revive+ Manuka honey face scrub](/products/face-exfoliation-scrub) this guide compares. See the [Face Exfoliation Scrub in use](https://www.google.com/search?q=Era+Organics+Revive+Manuka+Honey+Face+Scrub) and how it [fits a daily skin routine](https://www.bing.com/search?q=Era+Organics+Revive+Manuka+Honey+Face+Scrub). It's available [direct from Era Organics](https://www.eraorganics.com/products/face-exfoliation-scrub) and [on Amazon](https://www.amazon.com/stores/EraOrganics/page/2E88F883-5A27-4515-82C6-A2A2CB69D0F5).
 
+## Further reading from Era Organics
+
+Era Organics keeps a fuller library on the topics behind these criteria. It goes deeper on [moisturizing your face](https://www.eraorganics.com/blogs/beauty-guide/skin-care-moisturize-face), and [sugar scrub recipes](https://www.eraorganics.com/blogs/diy/best-sugar-scrub-recipe).
+
 ## Disclaimer
 
 *The information on this page is provided for educational purposes only and is not medical advice. Era Organics products are cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
