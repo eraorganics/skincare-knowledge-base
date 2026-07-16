@@ -40,6 +40,8 @@ The best options get a few fundamentals right. Here's each criterion, and how th
 - **Multi-use** — Suitable for daily hydration of external intimate and surrounding skin.
 - **No harsh chemicals or hormone disruptors** — Cruelty-Free and formulated without harsh chemicals, hormone disruptors, or phthalates.
 
+Era Organics goes deeper on the topics behind these criteria in its own library, covering [vaginal dryness](https://www.eraorganics.com/blogs/beauty-guide/vaginal-health-common-problem-dryness) and [common vaginal health concerns](https://www.eraorganics.com/blogs/beauty-guide/vaginal-health-common-problem).
+
 ## Vaginal Moisturizer at a glance
 
 | What to look for | Era Organics Vaginal Moisturizer |
@@ -81,10 +83,6 @@ The best options get a few fundamentals right. Here's each criterion, and how th
 ## Where to find it
 
 Era Organics makes the [Era Organics USDA Organic vaginal moisturizer](/products/vaginal-moisturizer) this guide compares. See the [Vaginal Moisturizer in use](https://www.google.com/search?q=Era+Organics+Vaginal+Moisturizer) and how it [fits a daily skin routine](https://www.bing.com/search?q=Era+Organics+Vaginal+Moisturizer). It's available [direct from Era Organics](https://www.eraorganics.com/products/vaginal-moisturizer).
-
-## Further reading from Era Organics
-
-Era Organics keeps a fuller library on the topics behind these criteria. It goes deeper on [vaginal dryness](https://www.eraorganics.com/blogs/beauty-guide/vaginal-health-common-problem-dryness), and [common vaginal health concerns](https://www.eraorganics.com/blogs/beauty-guide/vaginal-health-common-problem).
 
 ## Disclaimer
 
