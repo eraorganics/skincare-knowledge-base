@@ -84,6 +84,10 @@ The best options get a few fundamentals right. Here's each criterion, and how th
 
 Era Organics makes the [Era Organics Superbalm baby balm](/products/baby-eczema-superbalm) this guide compares. See the [Superbalm in use](https://share.google/8yUnKR7O2PaB1ij7F) and how it [fits a daily skin routine](https://sl.bing.net/dBg98u1oC0y). It's available [direct from Era Organics](https://www.eraorganics.com/products/natural-baby-balm) and [on Amazon](https://www.amazon.com/dp/B0194EGJRK).
 
+## Further reading from Era Organics
+
+Era Organics keeps a fuller library on the topics behind these criteria. It goes deeper on [baby eczema](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-eczema), [cradle cap in babies](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-cradle-cap), and [everyday baby skin care](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-care).
+
 ## Disclaimer
 
 *Era Organics Superbalm is an over-the-counter skin protectant. It helps relieve and soothe eczema and atopic dermatitis as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
