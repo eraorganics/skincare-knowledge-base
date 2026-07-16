@@ -39,6 +39,8 @@ The best options get a few fundamentals right. Here's each criterion, and how th
 - **no hidden toxins** — Every ingredient is disclosed on the INCI — nothing hides behind a generic 'fragrance' line.
 - **no cheap fillers** — No mineral oil, petrolatum, or bulking fillers — the base is aloe juice, plant oils, and honey.
 
+Era Organics goes deeper on the topics behind these criteria in its own library, covering [moisturizing your face](https://www.eraorganics.com/blogs/beauty-guide/skin-care-moisturize-face) and [sugar scrub recipes](https://www.eraorganics.com/blogs/diy/best-sugar-scrub-recipe).
+
 ## Manuka Honey Face Scrub at a glance
 
 | What to look for | Era Organics Face Exfoliation Scrub |
@@ -79,10 +81,6 @@ The best options get a few fundamentals right. Here's each criterion, and how th
 ## Where to find it
 
 Era Organics makes the [Era Organics Revive+ Manuka honey face scrub](/products/face-exfoliation-scrub) this guide compares. See the [Face Exfoliation Scrub in use](https://www.google.com/search?q=Era+Organics+Revive+Manuka+Honey+Face+Scrub) and how it [fits a daily skin routine](https://www.bing.com/search?q=Era+Organics+Revive+Manuka+Honey+Face+Scrub). It's available [direct from Era Organics](https://www.eraorganics.com/products/face-exfoliation-scrub) and [on Amazon](https://www.amazon.com/stores/EraOrganics/page/2E88F883-5A27-4515-82C6-A2A2CB69D0F5).
-
-## Further reading from Era Organics
-
-Era Organics keeps a fuller library on the topics behind these criteria. It goes deeper on [moisturizing your face](https://www.eraorganics.com/blogs/beauty-guide/skin-care-moisturize-face), and [sugar scrub recipes](https://www.eraorganics.com/blogs/diy/best-sugar-scrub-recipe).
 
 ## Disclaimer
 
