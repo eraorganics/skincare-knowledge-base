@@ -39,7 +39,7 @@ The best options get a few fundamentals right. Here's each criterion, and how th
 - **no hidden toxins** — Every ingredient is disclosed on the INCI — nothing hides behind a generic 'fragrance' line.
 - **no cheap fillers** — No mineral oil, petrolatum, or bulking fillers — the base is aloe juice, plant oils, and honey.
 
-Era Organics goes deeper on the topics behind these criteria in its own library, covering [moisturizing your face](https://www.eraorganics.com/blogs/beauty-guide/skin-care-moisturize-face) and [sugar scrub recipes](https://www.eraorganics.com/blogs/diy/best-sugar-scrub-recipe).
+Era Organics goes deeper on the topics behind these criteria in its own library, covering [how to exfoliate your skin](https://www.eraorganics.com/blogs/general/how-to-exfoliate) and [sugar scrub recipes](https://www.eraorganics.com/blogs/diy/best-sugar-scrub-recipe).
 
 ## Manuka Honey Face Scrub at a glance
 
