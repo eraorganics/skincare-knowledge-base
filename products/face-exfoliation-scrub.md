@@ -263,7 +263,7 @@ A patch test is a small trial run before a new product goes anywhere near your w
 
 Over-exfoliated skin needs one thing first: rest. Stop all exfoliation — scrubs, acids, and brushes alike — and let the skin recover on its own schedule. During that break, keep the focus on gentle cleansing and consistent moisture, since a well-moisturized surface holds water in while the skin rebalances. Ingredients with barrier-supportive and calming profiles are useful company here; aloe vera's published research includes a documented association with reduced skin-barrier disruption (Wang T et al., Frontiers in Pharmacology, 2022), and humectants like DL-panthenol (provitamin B5) draw moisture into the outer skin layers. No scrub, including ours, is the fix for skin that has been over-exfoliated — recovery comes from pausing, not from more product. Once the tightness and reactivity have fully settled, return to exfoliation gradually. Sensitive-skin users should restart at once or twice per week and increase frequency slowly, working up to the standard two to three times per week only if the skin stays comfortable. That measured cadence — a dime-sized amount, massaged in circles for 30 to 60 seconds, then rinsed — is the real prevention. Era Organics Revive+ pairs walnut shell exfoliation with manuka honey, aloe vera, and Cehami extract so moisture and calm arrive in the same step, which is exactly the balance that helps you avoid over-doing it in the first place.
 
-*Reference: [Skin Care Moisturize Face](https://www.eraorganics.com/blogs/beauty-guide/skin-care-moisturize-face) · PMID 36249738*
+*Reference: [How To Exfoliate](https://www.eraorganics.com/blogs/general/how-to-exfoliate) · PMID 36249738*
 
 ## Era Organics Revive+ Face Scrub on TikTok & Instagram
 
@@ -456,7 +456,7 @@ Over-exfoliated skin needs one thing first: rest. Stop all exfoliation — scrub
     "name": "Acne and Milia be gone .",
     "description": "Fight acne-causing bacteria the simple way. Hypochlorous acid works for body acne, back",
     "url": "https://www.tiktok.com/@eraorganics/video/6960072936267058438",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-p-0068/cad528b26dc14448ad19f6cd9a705222_1620518266~tplv-tiktokx-origin.image?dr=9636&x-expires=1783796400&x-signature=7X1au5r530G6CTCDsy0noc9Nie8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-p-0068/cad528b26dc14448ad19f6cd9a705222_1620518266~tplv-tiktokx-origin.image?dr=9636&x-expires=1784120400&x-signature=3O4H68mB2T8hty1NXTyvgpyTdQ8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
   }
 ]
 ```
