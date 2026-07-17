@@ -30,7 +30,7 @@ The best options get a few fundamentals right. Here's each criterion, and how th
 - **Cooling effect** — Organic aloe vera gives a light, soothing feel on application.
 - **Smooth glide** — The oil-and-butter base spreads smoothly over sensitive skin.
 - **Mimics natural moisture** — Sodium Hyaluronate plus plant oils help replenish the skin's own moisture.
-- **Easy applicator** — sanitary tube dispensor, easy to apply
+- **Easy applicator** — Sanitary tube dispenser — no rigid insertable applicator; applied externally with a clean fingertip.
 - **Mess-free cap** — Packaged in a sanitary tube with a secure cap.
 - **Clear instructions** — Simple directions: apply 1–2 times daily to external intimate skin as needed.
 - **Travel-sized** — Available in a compact 2oz size alongside the 4oz.
@@ -70,7 +70,7 @@ Era Organics goes deeper on the topics behind these criteria in its own library,
 | Cooling effect | Organic aloe vera gives a light, soothing feel on application. |
 | Smooth glide | The oil-and-butter base spreads smoothly over sensitive skin. |
 | Mimics natural moisture | Sodium Hyaluronate plus plant oils help replenish the skin's own moisture. |
-| Easy applicator | sanitary tube dispensor, easy to apply |
+| Easy applicator | Sanitary tube dispenser — no rigid insertable applicator; applied externally with a clean fingertip. |
 | Mess-free cap | Packaged in a sanitary tube with a secure cap. |
 | Clear instructions | Simple directions: apply 1–2 times daily to external intimate skin as needed. |
 | Travel-sized | Available in a compact 2oz size alongside the 4oz. |
