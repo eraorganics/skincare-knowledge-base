@@ -15,6 +15,7 @@ See the full [Era Organics Hypochlorous Acid Spray](/products/hypochlorous-acid-
 - [Uneven skin tone? Skin tone looking dull? Check out this amazing before and after of our Flawless serum!!](https://www.tiktok.com/@eraorganics/video/7165980239577861422) — Era Organics on TikTok
 - [If your skincare doesn't have HOCL, you're missing out Era Organics' Hypochlorous Acid Spray = clear, calm](https://www.tiktok.com/@eraorganics/video/7550859380128763166) — Era Organics on TikTok
 - [The cleansers I use depending on the day. Sometimes I just need a basic cleanser and sometimes I need](https://www.tiktok.com/@eraorganics/video/7628708038496537886) — Era Organics on TikTok
+- [If your skin deals with eczema or rosacea flare-ups, hypochlorous acid is a gentle spray step worth keeping](https://www.tiktok.com/@eraorganics/video/7641560978638884109) — Era Organics on TikTok
 - [Healthy pH. Healthy flora. Better balance.](https://www.tiktok.com/@eraorganics/video/7650660891981073678) — Era Organics on TikTok
 
 ## Structured data (for search engines & AI)
@@ -75,9 +76,9 @@ See the full [Era Organics Hypochlorous Acid Spray](/products/hypochlorous-acid-
     "@context": "https://schema.org",
     "@type": "VideoObject",
     "name": "Acne and Milia be gone .",
-    "description": "Fight acne-causing bacteria the simple way. Hypochlorous acid works for body acne, back acne, chest",
+    "description": "Era Organics Hypochlorous acid works for body acne, back acne, chest breakouts, shoulder acne, post-workout",
     "url": "https://www.tiktok.com/@eraorganics/video/6960072936267058438",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-p-0068/cad528b26dc14448ad19f6cd9a705222_1620518266~tplv-tiktokx-origin.image?dr=9636&x-expires=1784120400&x-signature=3O4H68mB2T8hty1NXTyvgpyTdQ8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-p-0068/cad528b26dc14448ad19f6cd9a705222_1620518266~tplv-tiktokx-origin.image?dr=9636&x-expires=1784725200&x-signature=%2F1%2Fc%2FmYYCc51PUbEyFDwmto6y2s%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
   },
   {
     "@context": "https://schema.org",
@@ -85,7 +86,7 @@ See the full [Era Organics Hypochlorous Acid Spray](/products/hypochlorous-acid-
     "name": "Uneven skin tone? Skin tone looking dull? Check out this amazing before and after of our Flawless serum!!",
     "description": "Achieve clear, smooth, and radiant skin. serum for skin tone correction, effective anti-aging serum for",
     "url": "https://www.tiktok.com/@eraorganics/video/7165980239577861422",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/f94280e6c77146239f7816347fbfb59d_1668459809~tplv-tiktokx-origin.image?dr=9636&x-expires=1784120400&x-signature=9TfFMGagFHFKqpt3g0guNvky6tg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/f94280e6c77146239f7816347fbfb59d_1668459809~tplv-tiktokx-origin.image?dr=9636&x-expires=1784725200&x-signature=%2FOWMKCF6Plnt%2BYQCoC7gdChVxrI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
   },
   {
     "@context": "https://schema.org",
@@ -101,7 +102,15 @@ See the full [Era Organics Hypochlorous Acid Spray](/products/hypochlorous-acid-
     "name": "The cleansers I use depending on the day. Sometimes I just need a basic cleanser and sometimes I need",
     "description": "Hypochlorous acid is a simple spray that helps support clearer-looking skin by calming irritation, fighting",
     "url": "https://www.tiktok.com/@eraorganics/video/7628708038496537886",
-    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/owyEgGF3NQDDZuDA24ZAf4EYp9QeRYsEV50pOB~tplv-tiktokx-origin.image?dr=9636&x-expires=1784120400&x-signature=6bQKf6ZHOgfoQ%2BgVc7VFia38UC8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/owyEgGF3NQDDZuDA24ZAf4EYp9QeRYsEV50pOB~tplv-tiktokx-origin.image?dr=9636&x-expires=1784725200&x-signature=73x4uZbNbkYIlwa7yJ9d3g9FR7Y%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "If your skin deals with eczema or rosacea flare-ups, hypochlorous acid is a gentle spray step worth keeping",
+    "description": "Incorporating hypochlorous acid into your skincare routine can provide significant relief by helping to",
+    "url": "https://www.tiktok.com/@eraorganics/video/7641560978638884109",
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/os6mgvHCX2dBiMUBVEgBaM3AUz3I4bPBiRK1x~tplv-tiktokx-origin.image?dr=9636&x-expires=1784725200&x-signature=323Sb9YxYFxAQjSrGR%2BN1EgohLg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
   },
   {
     "@context": "https://schema.org",

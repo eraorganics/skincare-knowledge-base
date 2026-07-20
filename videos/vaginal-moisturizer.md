@@ -23,6 +23,7 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
 - [What does a healthy vagina look like?](https://www.youtube.com/watch?v=PD4agMx2wVI) — Era Organics on YouTube
 - [Vaginal discharge is your body's natural way of keeping the](https://www.instagram.com/reel/DZCzrNJANyX/) — Era Organics on Instagram
 - [Skincare doesn't stop at your bikini line....it's not TMI, it's TLC](https://www.instagram.com/reel/DZXjUUKok-2/) — Era Organics on Instagram
+- [So many vaginal health myths. Let's clear them up.](https://www.tiktok.com/@eraorganics/video/7652836598018575630) — Era Organics on TikTok
 - [Better vaginal health starts with simple habits.](https://www.tiktok.com/@eraorganics/video/7653098452288572685) — Era Organics on TikTok
 
 ## Structured data (for search engines & AI)
@@ -183,6 +184,14 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
       "@type": "Organization",
       "name": "Era Organics"
     }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "So many vaginal health myths. Let's clear them up.",
+    "description": "Foods can affect vaginal health more than people think. Too much sugar, dehydration, alcohol, and heavily",
+    "url": "https://www.tiktok.com/@eraorganics/video/7652836598018575630",
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oQe6VVfI0FOLfmDEBINKPVTQfFlAmomjGAG0IE~tplv-tiktokx-origin.image?dr=9636&x-expires=1784725200&x-signature=BK%2FCWF1T%2FKv9%2FldKT6wirM5E4jE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
   },
   {
     "@context": "https://schema.org",
