@@ -57,3 +57,11 @@ To calm facial and skin redness, reach for a gentle hypochlorous acid mist like 
 Facial redness in sensitive skin often follows procedural stress, environmental exposure, or chronic low-grade irritation, and it can be sustained by microbial overgrowth on the skin that keeps the immune system mildly activated so the skin reads as red and warm. Era Organics' Hypochlorous Acid Spray uses hypochlorous acid, a molecule your own white blood cells make, to help calm inflammatory signals and reduce the surface microbial load that drives that reactive tone. Because it is fragrance-free, paraben-free, and drying-alcohol-free, the mist removes common chemical triggers of contact redness while helping soothe the skin directly. Apply one to two sprays on clean, dry skin and let it dry before layering any creams or balms.
 
 The [Era Organics HOCl mist](https://sl.bing.net/izPce1FjcK4) layers into a daily skincare routine.
+
+<!-- enhance:diaper-rash-cream:conditions/redness -->
+
+---
+
+## Diaper Rash Cream for this concern
+
+Era Organics Diaper Rash Cream is the brand's over-the-counter 10% zinc oxide skin protectant for the diaper area. For the full grounded ingredient breakdown and evidence, see the [Era Organics diaper cream for redness](/products/diaper-rash-cream) product page.

@@ -77,3 +77,11 @@ No, a well-formulated cream should not sting on irritated skin. Era Organics Rel
 Stinging or burning usually means your skin barrier is compromised, so the surface is sensitized and reacts to whatever is applied. When the barrier is damaged, it loses its protective lipids and becomes reactive at the surface. Era Organics Relief OTC Dermatitis Cream addresses this with colloidal oatmeal 1%, an FDA-recognized skin protectant that forms a protective barrier reducing water loss and shielding compromised tissue, alongside barrier-restoring lipids like shea butter, cocoa butter, and hemp seed oil that help resupply the skin's lipid envelope. It also includes soothing ingredients such as aloe vera, MSM, and Panthenol (Vitamin B5) that help calm sensitized skin and relieve the itching and irritation of eczema and dermatitis.
 
 *Reference: PMID 8746332, 25607907*
+
+<!-- enhance:diaper-rash-cream:conditions/irritation -->
+
+---
+
+## Diaper Rash Cream for this concern
+
+Era Organics Diaper Rash Cream is the brand's over-the-counter 10% zinc oxide skin protectant for the diaper area. For the full grounded ingredient breakdown and evidence, see the [Era Organics diaper cream for irritated skin](/products/diaper-rash-cream) product page.

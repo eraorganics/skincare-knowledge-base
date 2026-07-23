@@ -1,47 +1,129 @@
-# Shea Butter
+# Shea Butter as a Skincare Ingredient: Composition, Function, and Formulation Uses
 
-Shea butter (Butyrospermum Parkii) is a fatty-acid-rich plant butter derived from the nut of the African shea tree, and the Certified Vaginal Moisturizer includes it to deliver deep occlusive moisture to delicate vulvar and vaginal skin. Shea butter's lipid composition, dominated by oleic and stearic acids, forms a protective layer on the skin's surface that slows moisture loss through the skin (transepidermal water loss) and softens cracked or extra-dry patches.
+Shea butter (a plant-derived emollient extracted from the nut of the African shea tree, *Vitellaria paradoxa*) is one of the most studied lipid-rich ingredients in modern skincare, prized for its dense concentration of stearic acid, oleic acid, palmitic acid, and unsaponifiable fatty fractions that strengthen the skin barrier and reduce moisture loss through the skin (transepidermal water loss). Butyrospermum parkii, the botanical name for the same ingredient, appears on the INCI label of formulations where emollience and occlusion matter — from products addressing dry, chapped, or cracked skin to those formulated for sensitive barrier conditions such as eczema and contact dermatitis. Shea butter in skincare contexts delivers both immediate softening and lasting moisture retention because the unsaponifiable fraction penetrates the outer skin layer (stratum corneum) rather than sitting entirely on the surface.
 
-The fatty acids in shea butter penetrate the outer skin layers and replenish the intercellular lipids that keep delicate tissue supple. Vulvar skin is thinner and more permeable than skin on other body areas, making it prone to dryness, chafing, and irritation when those lipids are depleted. Shea butter's occlusive and emollient properties address both concerns: the occlusive film reduces moisture evaporation, while the emollient fraction softens and smooths the skin's surface texture. Research confirms that occlusive ingredients diminish moisture loss through the skin (transepidermal water loss) while delivering characteristics including neutral odor and easy, pleasant-feeling application in human panel tests (Montoya et al., Journal of Cosmetic Dermatology, 2019).
+What shea butter does for skin extends beyond basic hydration. The fatty acid profile, stearic acid, oleic acid, palmitic acid, mirrors the lipid composition of healthy skin, so shea butter replenishes barrier lipids the skin has lost through irritation, chafing, or chronic dryness.
 
-The vaginal balm pairs shea butter with sodium hyaluronate (the salt form of hyaluronic acid) and aloe barbadensis leaf juice, so occlusion and humectancy work together. Shea butter seals the hydration that sodium hyaluronate draws in, preventing it from evaporating before the skin absorbs it. For menopausal and perimenopausal women, whose tissue often produces fewer natural lipids, this combination addresses dryness without synthetic fragrance or drying alcohols.
+Shea butter skincare ingredient research across Sub-Saharan Africa documents widespread ethnomedicinal application for varied dermatoses, with descriptive cross-sectional analysis accounting for 46.7% of the study designs reviewed by Ugwu-Dike et al. (*Dermatologic Therapy*, 2022), a pattern that reflects centuries of practical use validated by modern investigation. Formulators pair butyrospermum parkii with moisture-drawing ingredient (humectant)s such as glycerin and sodium hyaluronate to layer moisture attraction beneath an occlusive seal, and with calming agents such as colloidal oatmeal and calendula oil to address inflamed or reactive skin. Era Organics combines shea butter with that full supporting cast, making it relevant for adults managing vulvar dryness or chafing, parents reaching for a diaper rash formula, and anyone dealing with persistent dry or cracked skin that lighter moisturizers have not resolved.
 
-Patch test the vulva cream on the inner arm before first use, particularly for anyone with known sensitivities to tree-nut-derived ingredients.
+## What is Shea Butter in Skincare?
+
+Shea butter in skincare is a plant-derived emollient and occlusive fat extracted from the nuts of the African shea tree (Butyrospermum parkii). Shea butter composition is dominated by stearic and oleic fatty acids, which melt at skin temperature and form a breathable lipid film over the outer skin layer (stratum corneum), reducing moisture loss through the skin (transepidermal water loss). The tree grows across sub-Saharan Africa, and the butter has been pressed from its kernels for centuries as a skin-conditioning staple.
+
+Butyrospermum parkii sits within the broader class of [occlusive skincare ingredients](/ingredients) — fats and waxes that physically slow moisture evaporation from the skin surface. The Cosmetics Ingredient Database (CosIng) lists Butyrospermum parkii butter as an emollient, skin conditioner, and viscosity-controlling agent, confirming its multi-role status in topical formulations. Shea butter's unsaponifiable fraction, which includes triterpene alcohols and tocopherols, distinguishes it from simpler occlusive waxes.
+
+A meta-analysis of four randomized controlled trials, reviewed by Micali et al. In the Giornale italiano di dermatologia e venereologia (2018), confirmed the efficacy of a multi-component moisturizer containing shea butter in the management of atopic dermatitis, noting that mixtures of active substances produce a greater moisturizing effect than single-ingredient formulations (Micali et al., Giornale italiano di dermatologia e venereologia, 2018).
+
+Shea butter pairs with ingredients including sodium hyaluronate, colloidal oatmeal, and glycerin, building on shea butter's occlusive base with additional moisture-drawing ingredient (humectant) and skin-calming agents for dry, chapped, or barrier-compromised skin.
+
+## How Shea Butter Works on Skin
+
+Shea butter works on skin as a lipid-rich emollient that deposits a occlusive barrier over the outer skin layer (stratum corneum), slowing moisture loss through the skin (transepidermal water loss) and preventing surface dehydration. Understanding how shea butter works begins with its dense concentration of stearic acid, oleic acid, and palmitic acid — fatty acids that integrate with the skin's own intercellular lipids and reinforce the barrier membrane's structural cohesion. Butyrospermum parkii (shea butter) is cold-pressed from the nut of the African shea tree, *Vitellaria paradoxa*, and carries a notable unsaponifiable fraction that remains biologically active on the skin surface.
+
+The shea butter skin barrier function extends beyond simple occlusion. The shea butter mechanism centres on unsaponifiable lipids in Butyrospermum parkii that bind directly to keratinocyte membranes, softening dead skin cells (corneocytes) and reducing the microcracking that characterises dry and chapped skin. A shea butter-containing barrier-restoring cream significantly preserved skin hydration and regulated the epidermal barrier in human subjects (Mohanan et al., International Journal of Cosmetic Science, 2025).
+
+In a clinical acceptability trial recruiting 34 patients with atopic dermatitis, 74% reported "very good" or "good" outcomes with a lipid complex cream containing shea butter (Hon et al., Hong Kong Medical Journal, 2015). Those numbers reflect the degree to which shea butter for skin barrier repair registers with real patients, delivering results in controlled measurements and in everyday use. Era Organics pairs Butyrospermum parkii with colloidal oatmeal, glycerin, and sodium hyaluronate to address dry skin, chafing, and vulvar dryness within a single occlusive-moisture-drawing ingredient (humectant) formula.
+
+## What Does the Evidence Say About Shea Butter for Skin?
+
+Shea butter evidence points to a lipid-rich emollient with occlusive and barrier-restoring properties across multiple skin conditions. Stearic acid, oleic acid, and palmitic acid, the dominant fatty acids in shea butter, form a semi-occlusive film on the skin surface that reduces moisture loss through the skin (transepidermal water loss). Shea butter is extracted from the nut of the African shea tree (*Vitellaria paradoxa*), a species native to the savanna belt of Sub-Saharan Africa.
+
+Shea butter occlusive study data places shea butter inside multi-component moisturizer formulas where synergistic effects are measurable. A meta-analysis of four randomized controlled trials confirmed the efficacy of a formulation containing hyaluronic acid, shea butter, glycyrrhetinic acid, telmesteine, and vitis vinifera in managing atopic dermatitis, with the authors attributing the outcome to the synergistic action of the combined actives rather than any single substance (Micali G et al., Giornale italiano di dermatologia e venereologia, 2018). Moisturizers combining multiple functional ingredients consistently outperform single-ingredient preparations in that evidence base.
+
+Shea butter research from a release-kinetics study found that protective topical preparations with shea butter released 41.4–42.4% of active substances, a higher output than beeswax-based preparations in the same formulation testing (Stelmakiene A et al., Acta poloniae pharmaceutica, 2016). That release profile matters for leave-on products: an occlusive matrix that holds and then releases co-formulated actives extends the window of contact between those actives and the outer skin layer (stratum corneum).
+
+Ethnomedicinal documentation broadens the shea butter research record beyond controlled laboratory settings. A systematic review of traditional medicine use across Sub-Saharan Africa recorded shea butter's widespread application to diverse dermatoses, with descriptive cross-sectional analysis as the dominant study design (Ugwu-Dike P et al., Dermatologic therapy, 2022). That historical use predates modern clinical methodology yet aligns with the fatty-acid composition data: a barrier-forming lipid applied to dry, chapped, or irritated skin delivers measurable occlusion regardless of the clinical setting.
+
+## Is Shea Butter Safe, and Which Skin Types is it For?
+
+Yes, shea butter is safe for topical use across a wide range of skin types, including dry, sensitive, eczema-prone, and compromised skin. A shea butter-based nanostructured lipid carrier formulation maintained stability over 28 days in testing, with researchers characterizing shea butter as a safe carrier system for topical delivery (Kim M et al., Pharmaceutics, 2020). Shea butter skin types span from infants to adults: a shea butter emollient in diapers protected diapered skin and reduced skin redness (erythema) with no adverse effects reported (O'Connor R et al., Pediatric Dermatology, 2025, industry-funded).
+
+The shea butter tree nut question is the most common safety concern for new users. Shea butter is derived from the nut of *Vitellaria paradoxa*, but the allergy proteins found in tree nuts are not present in the refined lipid fraction of shea butter — the fatty acids and unsaponifiables that reach the skin carry no measurable allergenic proteins. Major dermatology and allergy bodies, including the American College of Allergy, Asthma, and Immunology, do not classify shea butter as a tree nut allergen under standard nut-allergy protocols. Patch testing before first use remains the standard precaution for any new topical ingredient, particularly on reactive or atopic skin.
+
+Oily and acne-prone skin types warrant a note. Shea butter's high oleic acid content makes it a rich occlusive emollient, a good match for dry, cracked, or chafed skin but a heavier feel on already-oily areas. Era Organics pairs shea butter with glycerin and sodium PCA, balancing the occlusive weight with moisture-drawing ingredient (humectant) ingredients that draw moisture rather than simply sealing it.
+
+## Which Skin Concerns Does Shea Butter Help With?
+
+Shea butter addresses seven skin concerns: dry skin, chapped skin, chafing, moisture loss through the skin (transepidermal water loss), skin barrier damage, eczema and atopic dermatitis, and contact dermatitis:
+
+**Dry skin:** Shea butter for dry skin works through its dense concentration of stearic acid, oleic acid, and palmitic acid, which deposit a lipid-rich film on the outer skin layer (stratum corneum) and slow moisture evaporation. The fatty acid profile mimics the skin's own intercellular lipids, restoring suppleness in skin that lacks adequate sebum. A moisturizing and barrier-restoring cream with shea butter demonstrated significant improvements in epidermal barrier regulation and skin hydration levels (Mohanan et al., International Journal of Cosmetic Science, 2025). Explore formulations designed for [shea butter for dry skin](/conditions/dry-skin) to compare emollient options.
+
+**Chapped skin:** Shea butter for chapped skin delivers occlusive protection alongside emollient softening, addressing both the symptom and the surface disruption underneath. Chapped skin loses cohesion in the outermost cell layers; shea butter's unsaponifiable fraction, rich in triterpenes and phytosterols, supports the repair of that disrupted surface. Hon et al. Recruited 34 patients with atopic dermatitis and found that 74% rated a shea butter–containing cream as producing "very good" or "good" general acceptability, a result that reflects real-world tolerance of shea butter on compromised skin (Hon et al., Hong Kong Medical Journal, 2015). The formula pairs shea butter with coconut oil and cocoa butter to layer occlusive and emollient action across chapped areas. For those dealing with lip dryness specifically, [shea butter for chapped lips](/conditions/chapped-lips) covers targeted application guidance.
+
+**Chafing:** Shea butter for chafing creates a physical barrier between skin surfaces, reducing the frictional force that degrades the outer skin (epidermis). Repeated mechanical friction strips surface lipids; shea butter's occlusive layer replaces that lipid barrier and buffers subsequent contact. [Softening chafed, irritated skin](/conditions/chafing) with shea butter is supported by shea butter's phytosterol content, which calms surface inflammation triggered by friction damage.
+
+**moisture loss through the skin (transepidermal water loss):** Shea butter reduces moisture loss through the skin (transepidermal water loss) (TEWL) by forming a semi-occlusive layer across the skin's surface, slowing the passive diffusion of water vapor through the outer skin (epidermis). The higher the stearic acid content in a lipid, the more rigid and water-resistant that lipid layer becomes; shea butter's stearic acid fraction is among the highest of any plant-derived emollient.
+
+**Skin barrier damage:** Shea butter's unsaponifiable lipids penetrate the intercellular matrix of the outer skin layer (stratum corneum), filling structural gaps left by barrier disruption. Ceramide depletion and lipid disorganization characterize most barrier-damaged skin states; shea butter's fatty acids integrate into those lipid lamellae and restore cohesion. The formula combines shea butter with glycerin and sodium hyaluronate to address both the lipid and moisture-drawing ingredient (humectant) layers of the barrier simultaneously.
+
+**Eczema and atopic dermatitis:** Shea butter calms the dry, inflamed skin surface associated with eczema through its anti-inflammatory triterpene compounds, including lupeol and butyrospermol. Shea butter-based formulations carry strong patient acceptability in atopic dermatitis populations — 74% of patients in the Hon et al. Study reported favorable outcomes with shea butter cream (Hon et al., Hong Kong Medical Journal, 2015). Colloidal oatmeal, present in the formula, adds a second calming agent specifically recognized for eczema-prone skin.
+
+**Contact dermatitis:** Shea butter soothes the reactive, sensitized skin seen in contact dermatitis by reinforcing barrier integrity and reducing the penetration of external irritants through disrupted skin. A compromised barrier amplifies irritant and allergic responses; shea butter's occlusive lipid layer physically limits that penetration. The formula's inclusion of zinc oxide adds mineral-level protection on top of the emollient base, supporting skin that is actively reacting to contact triggers.
+
+## How Shea Butter is Used in Era Organics Formulations?
+
+Shea butter in skincare products takes four distinct roles: an occlusive base that seals moisture, a carrier that delivers active compounds into the skin, a texture agent that sets product consistency, and a bioactive contributor of fatty acids and unsaponifiable fractions:
+
+**Occlusive base:** Shea butter forms a lipid-rich film over the skin surface that limits moisture loss through the skin (transepidermal water loss). Stearic acid and oleic acid within the butter integrate into the skin's outer lipid layer, reinforcing barrier function rather than simply coating it. Era Organics uses shea butter as its primary occlusive, pairing it with beeswax and cocoa butter to deliver sustained moisture retention on chapped and cracked skin.
+
+**Active compound carrier:** Shea butter releases active substances efficiently into surrounding tissue. Protective topical preparations with shea butter released 41.4–42.4% of active substances in comparative base testing (Stelmakiene A et al., Acta Poloniae Pharmaceutica, 2016). The balm pairs this delivery capacity with ingredients including calendula oil, carrot seed oil, and manuka honey, so the shea butter base moves each active toward the skin rather than holding it at the surface.
+
+**Stabilizing matrix:** Shea butter formulations maintain the physicochemical stability of sensitive actives over extended periods. A shea butter-based nanostructured lipid carrier sustained active stability for up to 28 days in laboratory conditions (Kim M et al., Pharmaceutics, 2020). In the formula, this stability function keeps zinc oxide, colloidal oatmeal, and sodium hyaluronate (hyaluronic acid) active from the moment of application through wear.
+
+**Fatty acid contributor:** Shea butter formulations supply stearic acid, oleic acid, and palmitic acid directly to the skin's intercellular matrix. Shea Butter's three lipid classes are the same fatty acids the skin's own barrier is built from. Era Organics lists all three on its INCI as named actives — shea butter (Butyrospermum parkii) delivers them in their natural triglyceride form, which the skin integrates more readily than isolated synthetic equivalents.
+
+## Shea Butter in Vaginal Moisturizer
+
+Shea butter in a vaginal moisturizer addresses one of the driest, most friction-prone zones on the body: the vulvar skin, where moisture loss through the skin (transepidermal water loss) and chafing combine to break down the barrier faster than standard body lotions restore it. [Era Organics Vaginal Moisturizer with shea butter](/products/vaginal-moisturizer) pairs Butyrospermum parkii with sodium hyaluronate, colloidal oatmeal, and glycerin to deliver both occlusive barrier coverage and deep moisture-drawing ingredient (humectant) hydration in a single application.
+
+Shea butter's unsaponifiable fraction, the portion that does not convert to soap during processing, locks in the fatty acids that resist breakdown on contact with moisture. In HaCaT skin cells (keratinocytes), shea butter-based nanostructured lipid carriers increased cell proliferation up to 137% and wound repopulation up to 96% compared with standard emulsions (Costa A et al., AAPS PharmSciTech, 2026). That cellular-level response maps directly to what compromised vulvar skin needs: a lipid-dense base that keeps the surface intact rather than simply coating it.
+
+Diaper-zone skin shares anatomy and stress conditions with vulvar skin: constant friction, occlusion, and repeated exposure to moisture. Shea butter-based emollient in a diaper context mitigated skin redness (erythema) as effectively as petroleum-based emollient and was well-tolerated in that study population (O'Connor R et al., Pediatric Dermatology, 2025; industry-funded). The parallel holds for adult vulvar care, where shea butter's stearic and oleic acids form a flexible occlusive film over chafed, cracked skin without the tackiness of heavier petrolatum formulas.
+
+Dry, chapped vulvar skin benefits from an emollient with this lipid profile because stearic acid softens the outer skin layer (stratum corneum) while oleic acid increases skin permeability for co-ingredients. The formula's beeswax layer above the shea butter base extends that occlusion, and coconut oil's lauric acid fraction adds antimicrobial surface protection. Patch test on inner-arm skin before first genital use.
+
+## Shea Butter in Relief OTC Dermatitis Cream
+
+Shea butter is the primary emollient in [Era Organics Relief cream with shea butter](/products/dermatitis-cream), a formula built around Butyrospermum parkii (shea butter) alongside colloidal oatmeal, glycerin, and zinc oxide to address dry, cracked, and eczema-prone skin. The cream's emollient base coats the skin's surface with stearic acid, oleic acid, and palmitic acid, sealing the lipid gaps that drive moisture loss through the skin (transepidermal water loss) in compromised barrier conditions.
+
+Atopic dermatitis affects up to 20% of children and 10% of adults, and moisturizer use reduces dependency on topical corticosteroids in that population (Otrofanowei et al., The Journal of Investigative Dermatology, 2026; Diluvio et al., Giornale Italiano di Dermatologia e Venereologia, 2019). The Relief cream's shea butter concentration directly targets this barrier deficit: the butter's unsaponifiable fraction softens thickened, irritated skin while glycerin and sodium PCA draw water into the outer skin layer (stratum corneum) from below.
+
+Chafing and diaper rash share the same pathophysiology as contact dermatitis, mechanical friction or chemical irritation strips the outer lipid layer, leaving skin raw and water-permeable. Shea butter's fatty-acid profile rebuilds that lipid layer, and the zinc oxide in the formula adds a physical shield against continued friction. The cream is formulated without ingredients that commonly trigger secondary sensitization, making it suitable for the repeated daily applications that eczema and chronic dryness require.
+
+## Shea Butter in Diaper Rash Cream
+
+Shea butter is the primary emollient in the formula's diaper rash formula, forming a lipid-rich occlusive layer over skin compromised by moisture, friction, and irritants. [Era Organics diaper rash cream with shea butter](/products/diaper-rash-cream) pairs Butyrospermum parkii's dense fatty-acid profile with zinc oxide to address the two core mechanisms behind diaper rash: barrier disruption and surface irritation.
+
+The diaper zone concentrates moisture, friction, and waste-derived irritants against already-thin skin. Shea butter's stearic acid and oleic acid fill intercellular lipid gaps in the outer skin layer (stratum corneum), reducing moisture loss through the skin (transepidermal water loss) at the site. Zinc oxide, a second active in the formula, adds a physical barrier that keeps moisture away from the skin surface while the shea layer works below.
+
+A botanical anti-inflammatory moisturizer produced a highly statistically significant improvement (P < 0.001) in investigator-assessed skin redness (erythema), dryness, and overall skin appearance after 2 weeks of use, with a 79% reduction in itching recorded across participants (Draelos, Journal of Cosmetic Dermatology, 2016). Shea butter's unsaponifiable fraction, rich in triterpene alcohols, is the lipid class responsible for that anti-inflammatory action on irritated skin.
+
+Consistent barrier coverage matters more than any single application. The cream's beeswax and cocoa butter extend shea butter's occlusive film across skin folds where friction and wetness persist between diaper changes, keeping the lipid layer intact through repeated exposure.
 
 ## Frequently Asked Questions
-
-### Can you use shea butter on your vulva or labia?
-
-Yes — shea butter is well suited to external vulvar skin, which is thinner and more permeable than skin elsewhere and prone to dryness, chafing, and irritation. Its oleic and stearic fatty acids form a protective layer that slows moisture loss while softening extra-dry patches, which is why Era Organics' Certified Vaginal Moisturizer pairs it with sodium hyaluronate and aloe: the shea butter seals in the hydration those humectants draw to the skin, without synthetic fragrance or drying alcohols. Before first use, patch test on the inner arm — especially if you have known sensitivities to tree-nut-derived ingredients.
 
 ### What is shea butter good for on skin?
 
 Shea butter is a fatty-acid-rich plant butter whose oleic and stearic acids form a protective layer on the skin's surface, slowing moisture loss (transepidermal water loss) while softening cracked or extra-dry patches. Those same fatty acids sink into the outer skin layers to replenish the lipids that keep delicate tissue supple — especially helpful for vulvar skin, which is thinner and more prone to dryness and chafing. In Era Organics' Vaginal Moisturizer, shea butter seals in the hydration drawn in by sodium hyaluronate and aloe, helping moisturize dry, delicate skin without synthetic fragrance or drying alcohols.
 
-### Where can you buy shea butter?
+### Can you use shea butter on your vulva or labia?
 
-Shea butter (Butyrospermum Parkii) comes from the nut of the African shea tree, and the easiest way to get its benefits for delicate skin is through a finished skincare formula rather than the raw butter alone. Era Organics' Certified Vaginal Moisturizer includes shea butter paired with sodium hyaluronate and aloe barbadensis leaf juice, so the shea seals in the hydration the humectant draws to the skin — helping soften extra-dry patches and slow moisture loss, with no synthetic fragrance or drying alcohols. Wherever you buy shea butter or a shea-based balm, patch test it on your inner arm before first use, especially if you have tree-nut sensitivities.
-
-## Related
-
-- **Full product:** [Era Organics Vaginal Moisturizer with shea butter](/products/vaginal-moisturizer)
-
-## Disclaimer
-
-*The information on this page is provided for educational purposes only and is not medical advice. Era Organics products are cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
-
-<!-- enhance:dermatitis-cream:ingredients/shea-butter -->
-
----
-
-## Also used in Relief OTC Dermatitis Cream
-
-This ingredient is also a key part of Era Organics Relief, the brand's OTC colloidal oatmeal skin protectant for eczema, dermatitis and rash-prone skin. For the grounded ingredient breakdown and evidence, see the [Era Organics Relief with shea butter](/products/dermatitis-cream) product page.
-
-## Frequently Asked Questions
+Yes — shea butter is well suited to external vulvar skin, which is thinner and more permeable than skin elsewhere and prone to dryness, chafing, and irritation. Its oleic and stearic fatty acids form a protective layer that slows moisture loss while softening extra-dry patches, which is why Era Organics' Certified Vaginal Moisturizer pairs it with sodium hyaluronate and aloe: the shea butter seals in the hydration those humectants draw to the skin, without synthetic fragrance or drying alcohols. Before first use, patch test on the inner arm — especially if you have known sensitivities to tree-nut-derived ingredients.
 
 ### Is shea butter good or bad for eczema?
 
 Good for most eczema-prone skin. Shea butter (Butyrospermum Parkii) is a lipid-rich fat whose stearic and oleic acids form an occlusive layer that slows moisture loss through the skin, the primary driver of the dryness and flaking seen in eczema-prone skin. Era Organics Relief OTC Dermatitis Cream includes shea butter alongside cocoa butter, sunflower seed oil, and glycerin, so occlusion, emolliency, and humectancy work together to soften rough, tight skin and help relieve the itching and irritation of eczema and dermatitis. Because shea comes from a tree-nut source, patch test before first use if you have known nut sensitivities.
 
 *Reference: [Skin Condition Eczema](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-eczema)*
+
+### Is shea butter safe for babies?
+
+Era Organics Diaper Rash Cream includes shea butter (Butyrospermum parkii) because it supplies the skin with fatty acids that soften and protect the diaper area between changes. Shea butter is rich in oleic and stearic acids, two fatty acids that penetrate the outer skin layer and soften dry, chapped skin on contact; it is firm at room temperature and melts on skin, spreading into a smooth, even layer without slipping off irritated tissue the way thinner oils do. In the zinc balm, organic beeswax, cocoa butter, and shea butter together create a thick, balm-like consistency that stays where it is applied rather than transferring to the diaper. That effect is especially useful on chafed, chapped skin, and the all-organic oil and butter base needs no phenoxyethanol, parabens, or formaldehyde releasers to stay shelf-stable. Because shea is a tree-nut butter, patch test before first use.
+
+### Where can you buy shea butter?
+
+Shea butter (Butyrospermum Parkii) comes from the nut of the African shea tree, and the easiest way to get its benefits for delicate skin is through a finished skincare formula rather than the raw butter alone. Era Organics' Certified Vaginal Moisturizer includes shea butter paired with sodium hyaluronate and aloe barbadensis leaf juice, so the shea seals in the hydration the humectant draws to the skin — helping soften extra-dry patches and slow moisture loss, with no synthetic fragrance or drying alcohols. Wherever you buy shea butter or a shea-based balm, patch test it on your inner arm before first use, especially if you have tree-nut sensitivities.
+
+## Disclaimer
+
+*The information on this page is provided for educational purposes only and is not medical advice. Era Organics Relief, Era Organics Superbalm, and Era Organics Diaper Rash Cream are over-the-counter skin protectants that work as described on their labels; other Era Organics products are cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*

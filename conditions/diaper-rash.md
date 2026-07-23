@@ -111,3 +111,11 @@ Yes — a talc-free baby powder helps by absorbing the excess moisture that driv
 Powder and cream do different jobs, and a powder's job is moisture control: Era Organics' talc-free baby powder uses kaolin clay, arrowroot powder and cornstarch to absorb dampness and leave a dry, protective layer between skin and diaper, reducing the wet contact time that drives diaper-area irritation, while calendula extract helps soothe skin sensitized by dampness and friction. Whether you use powder on its own or alongside a cream, apply a light dusting at each diaper change — patted on rather than shaken — to keep airborne particle exposure low while still covering skin folds. One note: calendula is an Asteraceae botanical, so patch test a small area first if ragweed sensitivities run in your family.
 
 *Reference: [Baby Skin Condition Diaper Rash](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-diaper-rash)*
+
+<!-- enhance:diaper-rash-cream:conditions/diaper-rash -->
+
+---
+
+## Diaper Rash Cream for this concern
+
+Era Organics Diaper Rash Cream is the brand's over-the-counter 10% zinc oxide skin protectant for the diaper area. For the full grounded ingredient breakdown and evidence, see the [Era Organics zinc oxide diaper rash cream](/products/diaper-rash-cream) product page.

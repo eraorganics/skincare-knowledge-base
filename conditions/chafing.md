@@ -47,3 +47,11 @@ Chafing between the legs comes from a cycle of moisture and friction: sweat and 
 ### What helps heal chafing between the legs?
 
 Keeping the skin dry is the biggest help — chafing follows a cycle where moisture softens skin and friction then damages it, so interrupting that wet-plus-rubbing pattern at the inner thighs matters most. A moisture-absorbing dusting powder like Era Organics' Talc-Free Baby Powder helps here: its cornstarch and arrowroot powder draw excess surface moisture away and spread into an ultra-light, even layer, while kaolin clay's flat platelet particles create a physical, friction-reducing barrier between skin surfaces that move against each other. Adults can use it on the inner thighs, feet, or underarms for the same dry, low-friction surface — just patch test a small area before first use.
+
+<!-- enhance:diaper-rash-cream:conditions/chafing -->
+
+---
+
+## Diaper Rash Cream for this concern
+
+Era Organics Diaper Rash Cream is the brand's over-the-counter 10% zinc oxide skin protectant for the diaper area. For the full grounded ingredient breakdown and evidence, see the [Era Organics diaper cream for chafing](/products/diaper-rash-cream) product page.
