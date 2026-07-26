@@ -128,6 +128,26 @@ That surface-replenishing quality is why sunflower oil serves as the emollient b
 
 *Reference: [Sunflower Oil](https://www.eraorganics.com/blogs/raw-ingredients/sunflower-oil) · PMID 39792519*
 
+### Is sunflower oil good for skin?
+
+Sunflower oil is well-suited for skin, and its value comes down to one key fatty acid: linoleic acid. Linoleic acid is the dominant fat in the outer skin layer (stratum corneum), and topical sunflower oil replenishes it — restoring what eczema-prone or barrier-compromised skin loses through moisture evaporation.
+
+A pilot study found that sunflower seed oil applied twice daily for five weeks did not disrupt skin barrier function in newborns, and a randomized controlled trial of 115 neonates measured detailed skin barrier markers across sunflower oil, olive oil, and no-oil groups — one of the most comprehensive neonatal skin oil datasets available.
+
+Era Organics Superbalm uses cold-pressed sunflower oil as a primary carrier for exactly this reason. It pairs with Beeswax, which seals the surface to slow moisture evaporation, and Cocoa Butter, which adds emollient weight — locking in the barrier support sunflower oil delivers at the lipid level. If you're using Superbalm on a baby with an atopic eczema family history, patch test on the inside of the elbow first.
+
+*Reference: [Sunflower Oil](https://www.eraorganics.com/blogs/raw-ingredients/sunflower-oil) · PMID 28070970, 26551528*
+
+### Is sunflower oil safe to use on skin?
+
+Sunflower oil is well-tolerated on skin and a strong choice for sensitive, barrier-compromised, or eczema-prone skin. Its high linoleic acid content mirrors the dominant fatty acid already present in healthy stratum corneum lipids, which means it replenishes what compromised or eczema-prone skin loses through transepidermal water loss rather than simply sitting on top.
+
+Clinical evidence supports its safety: a pilot study in full-term neonates found that sunflower seed oil applied twice daily for five weeks did not impair skin barrier function. A separate randomized controlled trial in 115 neonates measured lipid lamellae profiles, TEWL, hydration, and skin pH across sunflower oil, olive oil, and no-oil groups — generating one of the most detailed neonatal skin barrier datasets available for topical oils.
+
+Era Organics Superbalm uses sunflower oil as a primary carrier, pairing it with Beeswax to seal the surface and slow moisture evaporation, and Cocoa Butter for additional emollient weight. For infants with a family history of atopic dermatitis, patch test Superbalm on the inside of the elbow before first full use.
+
+*Reference: [Sunflower Oil](https://www.eraorganics.com/blogs/raw-ingredients/sunflower-oil) · PMID 28070970, 26551528*
+
 ## Disclaimer
 
 *The information on this page is provided for educational purposes only and is not medical advice. Era Organics Relief, Era Organics Superbalm, and Era Organics Diaper Rash Cream are over-the-counter skin protectants that work as described on their labels; other Era Organics products are cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
