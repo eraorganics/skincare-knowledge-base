@@ -122,6 +122,36 @@ In Era Organics Diaper Rash Cream, coconut oil (Cocos nucifera) is a moisturizin
 
 *Reference: [Baby Skin Dry](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-dry) · PMID 39792519*
 
+### Is coconut oil good for a baby's skin?
+
+Coconut oil can be a good moisturizer for baby skin when properly formulated. Its primary fatty acid, lauric acid, binds to the skin surface and slows moisture loss — which helps keep delicate infant skin hydrated between diaper changes and bath times.
+
+Era Organics Superbalm uses coconut oil as part of a mineral-oil-free formula made for sensitive baby skin. As an OTC skin protectant, it helps relieve and soothe eczema and atopic dermatitis. It can also soothe the dry, flaky patches associated with cradle cap and diaper rash.
+
+One important caveat: coconut oil is a potential contact allergen for some individuals, especially those with known coconut sensitivities. Before the first full-body use — and particularly on newborns — patch test Superbalm on the inside of the elbow and wait 24 hours before applying more broadly.
+
+For babies with eczema or very sensitive skin, a tested OTC product like Superbalm provides coconut oil's moisturizing benefits without mineral oil or synthetic emollients.
+
+*Reference: PMID 24588369*
+
+### Is coconut oil good for moisturizing a baby's skin?
+
+Coconut oil can moisturize baby skin, and research on its main fatty acid — lauric acid — explains why. Lauric acid binds to the outer skin layer and slows transepidermal water loss, forming a protective barrier that keeps moisture from escaping. Reviews of natural oils used for moisturization confirm this occlusive effect. For babies specifically, Era Organics Superbalm includes coconut oil to keep moisture locked into delicate infant skin between diaper changes and bath times, without relying on mineral oil or synthetic emollients.
+
+As an OTC skin protectant, Superbalm can help relieve eczema and atopic dermatitis. It soothes the dry, flaky patches associated with cradle cap and diaper rash. One important caveat: coconut oil is a possible contact allergen for individuals with sensitivities to coconut-derived ingredients. Before the first full-body use — especially on newborns or babies with a history of contact dermatitis — patch test Superbalm on the inside of the elbow and wait 24 hours before proceeding.
+
+*Reference: PMID 30152555, 24588369*
+
+### Is coconut oil good for skin?
+
+Coconut oil can be a solid choice for dry or compromised skin. Its dominant fatty acid, lauric acid, binds to the skin surface and slows transepidermal water loss, forming a light occlusive barrier over the outer skin layer. Research on natural oils for moisturization supports coconut oil's role as an effective emollient for dry, flaky skin.
+
+Era Organics uses coconut oil in Superbalm, a mineral-oil-free healing ointment formulated to help relieve eczema and atopic dermatitis. The formula draws on coconut oil's ability to lock moisture into delicate skin — including infant skin between diaper changes and baths — without mineral oil, petrolatum derivatives, or synthetic emollients. The result is a barrier-supporting ointment designed for sensitive and reactive skin.
+
+One caveat worth noting: coconut oil is a possible contact allergen for people with sensitivities to coconut-derived ingredients. Patch test Superbalm on the inside of the elbow before first full-body use, especially for newborns or anyone with a history of contact dermatitis.
+
+*Reference: PMID 30152555, 24588369*
+
 ## Disclaimer
 
 *The information on this page is provided for educational purposes only and is not medical advice. Era Organics Relief, Era Organics Superbalm, and Era Organics Diaper Rash Cream are over-the-counter skin protectants that work as described on their labels; other Era Organics products are cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*

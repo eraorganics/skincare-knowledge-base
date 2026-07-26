@@ -144,6 +144,16 @@ Cocoa butter (Theobroma Cacao) is a well-tolerated plant fat that forms a dense,
 
 *Reference: [Whats The Secret To Healthy Skin Balance Your Skins Ph Levels](https://www.eraorganics.com/blogs/damage-skin/whats-the-secret-to-healthy-skin-balance-your-skins-ph-levels)*
 
+### Is cocoa butter safe or toxic?
+
+Cocoa seed butter — the fat pressed from roasted Theobroma cacao seeds — is safe for most people and widely used in skincare as an occlusive emollient. Rather than penetrating deep into skin, it sits on the surface and forms a physical barrier that slows transepidermal water loss, keeping dry or barrier-compromised skin softer and more resilient.
+
+Its high concentration of stearic and oleic fatty acids closely mirrors the lipid composition of the skin's outermost layer (the stratum corneum), helping it integrate smoothly without disrupting the skin's natural pH balance.
+
+One caveat worth knowing: cocoa is classified as a tree nut by some regulatory frameworks, so anyone with known tree-nut allergies should patch test on the inside of the elbow before first use.
+
+Era Organics Superbalm combines cocoa seed butter with beeswax to create a reinforced double barrier that protects fragile or chafed skin against wind, cold, and friction, while locking in botanical actives like calendula oil and chamomile. Superbalm can also help relieve eczema and atopic dermatitis, and its smooth, gliding texture means no friction-heavy rubbing on inflamed or sensitive skin.
+
 ## Disclaimer
 
 *The information on this page is provided for educational purposes only and is not medical advice. Era Organics Relief, Era Organics Superbalm, and Era Organics Diaper Rash Cream are over-the-counter skin protectants that work as described on their labels; other Era Organics products are cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*

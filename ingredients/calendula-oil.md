@@ -126,6 +126,26 @@ Calendula has a long history of use in topical formulations made for sensitive s
 
 *Reference: [Calendula Cream For Babies](https://www.eraorganics.com/blogs/mom-and-kid/calendula-cream-for-babies)*
 
+### Does calendula help heal bruises and wounds?
+
+Calendula oil — from the dried flowers of Calendula officinalis (pot marigold) — is widely used to soothe and calm irritated skin. Its flavonoids and triterpenoids help quiet inflamed, irritated skin, while the oil forms a light protective layer over compromised skin to reduce moisture loss as skin recovers from redness, chafing, and dryness.
+
+Calendula also carries antimicrobial properties, adding a layer of protection for skin exposed to moisture and friction. A two-month study confirmed calendula extract's effectiveness against skin microflora throughout a topical application period, which matters when skin is in a sensitive or compromised state.
+
+Era Organics Superbalm includes calendula oil to soothe and protect sensitive skin — including baby skin on the face, scalp, and diaper area. A 59-patient study on a herbal calendula formulation confirmed both effectiveness and tolerability throughout the treatment period and two weeks beyond, supporting its use as a safe ingredient for repeated daily application on delicate skin.
+
+*Reference: [Calendula Oil](https://www.eraorganics.com/blogs/raw-ingredients/calendula-oil) · PMID 24891745, 32525718*
+
+### Is calendula good for skin and what does it do?
+
+Calendula oil — pressed from the dried flowers of Calendula officinalis (pot marigold) — is a well-tolerated botanical that calms inflamed, irritated skin. Its flavonoids and triterpenoids reduce redness and help soothe eczema and atopic dermatitis, while a light protective layer it forms over the skin surface slows moisture loss as skin recovers.
+
+Beyond moisturizing, calendula carries natural antimicrobial properties. A two-month study found Calendula officinalis extract maintained preservative effectiveness against skin microflora throughout the application period — a meaningful benefit anywhere friction and moisture create microbial exposure, like the diaper area or skin folds. A separate 59-patient study confirmed tolerability at daily application frequency across the full treatment window.
+
+Era Organics Superbalm includes calendula oil because it calms and protects sensitive skin — including baby skin on the face, scalp, and diaper area — and holds up to repeated daily use. For dry, irritated, or eczema-prone skin, it's a gentle, reliable choice.
+
+*Reference: [Calendula Oil](https://www.eraorganics.com/blogs/raw-ingredients/calendula-oil) · PMID 24891745, 32525718*
+
 ## Disclaimer
 
 *The information on this page is provided for educational purposes only and is not medical advice. Era Organics Relief, Era Organics Superbalm, and Era Organics Diaper Rash Cream are over-the-counter skin protectants that work as described on their labels; other Era Organics products are cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
