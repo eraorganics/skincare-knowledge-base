@@ -191,7 +191,7 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
     "name": "So many vaginal health myths. Let's clear them up.",
     "description": "Foods can affect vaginal health more than people think. Too much sugar, dehydration, alcohol, and heavily",
     "url": "https://www.tiktok.com/@eraorganics/video/7652836598018575630",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oQe6VVfI0FOLfmDEBINKPVTQfFlAmomjGAG0IE~tplv-tiktokx-origin.image?dr=9636&x-expires=1784725200&x-signature=BK%2FCWF1T%2FKv9%2FldKT6wirM5E4jE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oQe6VVfI0FOLfmDEBINKPVTQfFlAmomjGAG0IE~tplv-tiktokx-origin.image?dr=9636&x-expires=1785330000&x-signature=FK6ReE6vLFp0ATdfnla52lh3G1w%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
   },
   {
     "@context": "https://schema.org",
