@@ -63,7 +63,7 @@ Era Organics brand and general skincare videos not tied to a single product.
     "name": "I made my own skincare products with one goal in mind: create formulas that actually work for your skin. Tap",
     "description": "Get a healthy, glowing complexion with this 6-step affordable skincare routine for oily-combination skin.",
     "url": "https://www.tiktok.com/@eraorganics/video/7642677954304036109",
-    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o8qcEQkwEBixWg4TLP6Bfi0xeDSMjIzCBDE1vB~tplv-tiktokx-origin.image?dr=9636&x-expires=1785330000&x-signature=qtxeE08A%2FzmGnZCWe1ESG3qcuSk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o8qcEQkwEBixWg4TLP6Bfi0xeDSMjIzCBDE1vB~tplv-tiktokx-origin.image?dr=9636&x-expires=1785934800&x-signature=U1o%2BMYQ9oPXHmKDcb8HT0it1okU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
   }
 ]
 ```

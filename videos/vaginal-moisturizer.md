@@ -6,6 +6,8 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
 
 ## Videos
 
+- [Harmony for Her Organic Vaginal Moisturizer | Instant, Long-Lasting Dryness Relief](https://www.youtube.com/watch?v=libkTLd98Sg) — Era Organics on YouTube
+- [Are Vaginal Suppositories Actually Good for Vaginal Health?](https://www.youtube.com/watch?v=VRO1jTawjfM) — Era Organics on YouTube
 - [Is Balancing Vaginal pH Important? Here's Why It Matters](https://www.youtube.com/watch?v=YNC-jOcOWFY) — Era Organics on YouTube
 - [What Foods Can Cause Vaginal Problems?](https://www.youtube.com/watch?v=-4jrw5eBjIg) — Era Organics on YouTube
 - [Common Vaginal Concerns You Should Know](https://www.youtube.com/watch?v=05oqr1w8OTY) — Era Organics on YouTube
@@ -19,8 +21,6 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
 - [Common Myths and Misconceptions About Vaginal Health](https://www.youtube.com/watch?v=gwPwcvkBMMQ) — Era Organics on YouTube
 - [Can Stress Affect Vaginal Health? Here's what to know](https://www.youtube.com/watch?v=mLQXQkx2fck) — Era Organics on YouTube
 - [What Affects Vaginal Health? pH, Stress, Hormones, Products & More](https://www.youtube.com/watch?v=aQNUf9szoxA) — Era Organics on YouTube
-- [Vaginal pH, Dryness, Odor & Discharge Explained](https://www.youtube.com/watch?v=xkbUzJ63Sio) — Era Organics on YouTube
-- [What does a healthy vagina look like?](https://www.youtube.com/watch?v=PD4agMx2wVI) — Era Organics on YouTube
 - [Vaginal discharge is your body's natural way of keeping the](https://www.instagram.com/reel/DZCzrNJANyX/) — Era Organics on Instagram
 - [Skincare doesn't stop at your bikini line....it's not TMI, it's TLC](https://www.instagram.com/reel/DZXjUUKok-2/) — Era Organics on Instagram
 - [So many vaginal health myths. Let's clear them up.](https://www.tiktok.com/@eraorganics/video/7652836598018575630) — Era Organics on TikTok
@@ -30,6 +30,24 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
 
 ```json
 [
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "Harmony for Her Organic Vaginal Moisturizer | Instant, Long-Lasting Dryness Relief",
+    "description": "Vaginal dryness and irritation are common, but temporary surface relief may not be enough.",
+    "url": "https://www.youtube.com/watch?v=libkTLd98Sg",
+    "thumbnailUrl": "https://i.ytimg.com/vi/libkTLd98Sg/hqdefault.jpg",
+    "uploadDate": "2026-07-31T03:24:41+00:00"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "Are Vaginal Suppositories Actually Good for Vaginal Health?",
+    "description": "Suppositories can provide targeted support, but they're not right for every symptom. Diagnosis matters before",
+    "url": "https://www.youtube.com/watch?v=VRO1jTawjfM",
+    "thumbnailUrl": "https://i.ytimg.com/vi/VRO1jTawjfM/hqdefault.jpg",
+    "uploadDate": "2026-07-31T03:04:29+00:00"
+  },
   {
     "@context": "https://schema.org",
     "@type": "VideoObject",
@@ -149,24 +167,6 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
   },
   {
     "@context": "https://schema.org",
-    "@type": "VideoObject",
-    "name": "Vaginal pH, Dryness, Odor & Discharge Explained",
-    "description": "Your vagina is self-cleaning, but one common \"hygiene\" mistake can throw that whole system off fast.",
-    "url": "https://www.youtube.com/watch?v=xkbUzJ63Sio",
-    "thumbnailUrl": "https://i.ytimg.com/vi/xkbUzJ63Sio/hqdefault.jpg",
-    "uploadDate": "2026-06-18T19:33:53+00:00"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "VideoObject",
-    "name": "What does a healthy vagina look like?",
-    "description": "Healthy pH. Healthy flora. Better balance.",
-    "url": "https://www.youtube.com/watch?v=PD4agMx2wVI",
-    "thumbnailUrl": "https://i.ytimg.com/vi/PD4agMx2wVI/hqdefault.jpg",
-    "uploadDate": "2026-06-12T23:52:26+00:00"
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "SocialMediaPosting",
     "headline": "Vaginal discharge is your body's natural way of keeping the",
     "url": "https://www.instagram.com/reel/DZCzrNJANyX/",
@@ -191,7 +191,7 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
     "name": "So many vaginal health myths. Let's clear them up.",
     "description": "Foods can affect vaginal health more than people think. Too much sugar, dehydration, alcohol, and heavily",
     "url": "https://www.tiktok.com/@eraorganics/video/7652836598018575630",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oQe6VVfI0FOLfmDEBINKPVTQfFlAmomjGAG0IE~tplv-tiktokx-origin.image?dr=9636&x-expires=1785330000&x-signature=FK6ReE6vLFp0ATdfnla52lh3G1w%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oQe6VVfI0FOLfmDEBINKPVTQfFlAmomjGAG0IE~tplv-tiktokx-origin.image?dr=9636&x-expires=1785934800&x-signature=BHcH1QYcESwpC%2BjoDQMCyb0Hc0Q%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
   },
   {
     "@context": "https://schema.org",
