@@ -6,6 +6,13 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
 
 ## Videos
 
+- [You Moisturize Your Face—Don't Forget Delicate Skin](https://www.youtube.com/watch?v=-bxhRpfGtrY) — Era Organics on YouTube
+- [The Vagina Cleans Itself" Is True… But](https://www.youtube.com/watch?v=tMU725816rs) — Era Organics on YouTube
+- [Unboxing Our Feminine Moisturizer](https://www.youtube.com/watch?v=95gbYfhVopE) — Era Organics on YouTube
+- [Your Vulva May Be Aging Faster Than Your Face](https://www.youtube.com/watch?v=careImjI-f8) — Era Organics on YouTube
+- [The Intimate-Care Habit You Should Stop Today](https://www.youtube.com/watch?v=rRWvp_kgV3M) — Era Organics on YouTube
+- [How Skincare Can Support Vaginal Health](https://www.youtube.com/watch?v=2pqEACyQXIA) — Era Organics on YouTube
+- [The Best Foods for Vaginal Health](https://www.youtube.com/watch?v=SNZLxsnrJRM) — Era Organics on YouTube
 - [Harmony for Her Organic Vaginal Moisturizer | Instant, Long-Lasting Dryness Relief](https://www.youtube.com/watch?v=libkTLd98Sg) — Era Organics on YouTube
 - [Are Vaginal Suppositories Actually Good for Vaginal Health?](https://www.youtube.com/watch?v=VRO1jTawjfM) — Era Organics on YouTube
 - [Is Balancing Vaginal pH Important? Here's Why It Matters](https://www.youtube.com/watch?v=YNC-jOcOWFY) — Era Organics on YouTube
@@ -14,22 +21,79 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
 - [When to See a Doctor for Vaginal Concerns](https://www.youtube.com/watch?v=nH3-iQVX0g8) — Era Organics on YouTube
 - [Common Myths and Misconceptions About Vaginal Health](https://www.youtube.com/watch?v=XnMwlCMy-Ww) — Era Organics on YouTube
 - [How Vaginal Dryness Can Indicate Poor Vaginal Health](https://www.youtube.com/watch?v=ud6jsHKgp8Q) — Era Organics on YouTube
-- [Is Vaginal Odor Common? Here's What to Know](https://www.youtube.com/watch?v=hDlXRX6kSmQ) — Era Organics on YouTube
-- [Is Vaginal Discharge Normal? Here's What to Know](https://www.youtube.com/watch?v=Rr0fi5x1bB4) — Era Organics on YouTube
-- [How to Properly Clean the Vagina (and Vulva)](https://www.youtube.com/watch?v=x7e3X7xUzdE) — Era Organics on YouTube
-- [Best Vaginal Health Tips for pH, Flora, Comfort & Daily Balance](https://www.youtube.com/watch?v=knbX8ow5On8) — Era Organics on YouTube
-- [Common Myths and Misconceptions About Vaginal Health](https://www.youtube.com/watch?v=gwPwcvkBMMQ) — Era Organics on YouTube
-- [Can Stress Affect Vaginal Health? Here's what to know](https://www.youtube.com/watch?v=mLQXQkx2fck) — Era Organics on YouTube
-- [What Affects Vaginal Health? pH, Stress, Hormones, Products & More](https://www.youtube.com/watch?v=aQNUf9szoxA) — Era Organics on YouTube
 - [Vaginal discharge is your body's natural way of keeping the](https://www.instagram.com/reel/DZCzrNJANyX/) — Era Organics on Instagram
 - [Skincare doesn't stop at your bikini line....it's not TMI, it's TLC](https://www.instagram.com/reel/DZXjUUKok-2/) — Era Organics on Instagram
 - [So many vaginal health myths. Let's clear them up.](https://www.tiktok.com/@eraorganics/video/7652836598018575630) — Era Organics on TikTok
 - [Better vaginal health starts with simple habits.](https://www.tiktok.com/@eraorganics/video/7653098452288572685) — Era Organics on TikTok
+- [Dryness and sensitivity can change with age, hormones, postpartum, and menopause. Delicate skin deserves care](https://www.tiktok.com/@eraorganics/video/7670997146639830286) — Era Organics on TikTok
 
 ## Structured data (for search engines & AI)
 
 ```json
 [
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "You Moisturize Your Face—Don't Forget Delicate Skin",
+    "description": "We care for our face every day, but intimate skin deserves moisture too. Keep it gentle, fragrance-free, and",
+    "url": "https://www.youtube.com/watch?v=-bxhRpfGtrY",
+    "thumbnailUrl": "https://i.ytimg.com/vi/-bxhRpfGtrY/hqdefault.jpg",
+    "uploadDate": "2026-08-09T19:12:32+00:00"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "The Vagina Cleans Itself\" Is True… But",
+    "description": "The vagina cleans itself. The vulva is different. Gentle external care can still support hydration, comfort",
+    "url": "https://www.youtube.com/watch?v=tMU725816rs",
+    "thumbnailUrl": "https://i.ytimg.com/vi/tMU725816rs/hqdefault.jpg",
+    "uploadDate": "2026-08-08T19:12:48+00:00"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "Unboxing Our Feminine Moisturizer",
+    "description": "Prebiotic support, hyaluronic acid, and organic aloe vera—all in one gentle formula. See more at",
+    "url": "https://www.youtube.com/watch?v=95gbYfhVopE",
+    "thumbnailUrl": "https://i.ytimg.com/vi/95gbYfhVopE/hqdefault.jpg",
+    "uploadDate": "2026-08-07T19:06:57+00:00"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "Your Vulva May Be Aging Faster Than Your Face",
+    "description": "Dryness and sensitivity can change with age, hormones, postpartum, and menopause. Delicate skin deserves care",
+    "url": "https://www.youtube.com/watch?v=careImjI-f8",
+    "thumbnailUrl": "https://i.ytimg.com/vi/careImjI-f8/hqdefault.jpg",
+    "uploadDate": "2026-08-06T19:06:57+00:00"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "The Intimate-Care Habit You Should Stop Today",
+    "description": "Skip douching and perfumed sprays. Choose hydration, breathable fabrics, and gentle care that supports your",
+    "url": "https://www.youtube.com/watch?v=rRWvp_kgV3M",
+    "thumbnailUrl": "https://i.ytimg.com/vi/rRWvp_kgV3M/hqdefault.jpg",
+    "uploadDate": "2026-08-05T15:46:34+00:00"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "How Skincare Can Support Vaginal Health",
+    "description": "Less is more. Gentle cleansing, breathable fabrics, and the right moisturizer can support delicate skin.",
+    "url": "https://www.youtube.com/watch?v=2pqEACyQXIA",
+    "thumbnailUrl": "https://i.ytimg.com/vi/2pqEACyQXIA/hqdefault.jpg",
+    "uploadDate": "2026-08-04T15:42:00+00:00"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "The Best Foods for Vaginal Health",
+    "description": "A balanced diet can support your microbiome, hydration, and overall vaginal health. Find more simple wellness",
+    "url": "https://www.youtube.com/watch?v=SNZLxsnrJRM",
+    "thumbnailUrl": "https://i.ytimg.com/vi/SNZLxsnrJRM/hqdefault.jpg",
+    "uploadDate": "2026-08-03T18:36:41+00:00"
+  },
   {
     "@context": "https://schema.org",
     "@type": "VideoObject",
@@ -104,69 +168,6 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
   },
   {
     "@context": "https://schema.org",
-    "@type": "VideoObject",
-    "name": "Is Vaginal Odor Common? Here's What to Know",
-    "description": "Vaginal odor is more common than most people think. Natural scent can change with sweat, sex, your cycle, and",
-    "url": "https://www.youtube.com/watch?v=hDlXRX6kSmQ",
-    "thumbnailUrl": "https://i.ytimg.com/vi/hDlXRX6kSmQ/hqdefault.jpg",
-    "uploadDate": "2026-06-22T12:32:32+00:00"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "VideoObject",
-    "name": "Is Vaginal Discharge Normal? Here's What to Know",
-    "description": "Vaginal discharge is usually a normal part of vaginal health. It can change throughout your cycle and helps",
-    "url": "https://www.youtube.com/watch?v=Rr0fi5x1bB4",
-    "thumbnailUrl": "https://i.ytimg.com/vi/Rr0fi5x1bB4/hqdefault.jpg",
-    "uploadDate": "2026-06-21T15:31:24+00:00"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "VideoObject",
-    "name": "How to Properly Clean the Vagina (and Vulva)",
-    "description": "Proper vaginal care is usually much simpler than people think. The vagina is self-cleaning, so the focus",
-    "url": "https://www.youtube.com/watch?v=x7e3X7xUzdE",
-    "thumbnailUrl": "https://i.ytimg.com/vi/x7e3X7xUzdE/hqdefault.jpg",
-    "uploadDate": "2026-06-20T12:30:49+00:00"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "VideoObject",
-    "name": "Best Vaginal Health Tips for pH, Flora, Comfort & Daily Balance",
-    "description": "Better vaginal health starts with simple habits.",
-    "url": "https://www.youtube.com/watch?v=knbX8ow5On8",
-    "thumbnailUrl": "https://i.ytimg.com/vi/knbX8ow5On8/hqdefault.jpg",
-    "uploadDate": "2026-06-19T13:30:55+00:00"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "VideoObject",
-    "name": "Common Myths and Misconceptions About Vaginal Health",
-    "description": "So many vaginal health myths. Let's clear them up.",
-    "url": "https://www.youtube.com/watch?v=gwPwcvkBMMQ",
-    "thumbnailUrl": "https://i.ytimg.com/vi/gwPwcvkBMMQ/hqdefault.jpg",
-    "uploadDate": "2026-06-18T20:34:40+00:00"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "VideoObject",
-    "name": "Can Stress Affect Vaginal Health? Here's what to know",
-    "description": "Anxious week? Your vaginal health may notice too.",
-    "url": "https://www.youtube.com/watch?v=mLQXQkx2fck",
-    "thumbnailUrl": "https://i.ytimg.com/vi/mLQXQkx2fck/hqdefault.jpg",
-    "uploadDate": "2026-06-18T19:54:34+00:00"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "VideoObject",
-    "name": "What Affects Vaginal Health? pH, Stress, Hormones, Products & More",
-    "description": "Vaginal health can be affected by more than you think, from stress and hormones to detergents, antibiotics",
-    "url": "https://www.youtube.com/watch?v=aQNUf9szoxA",
-    "thumbnailUrl": "https://i.ytimg.com/vi/aQNUf9szoxA/hqdefault.jpg",
-    "uploadDate": "2026-06-18T19:46:36+00:00"
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "SocialMediaPosting",
     "headline": "Vaginal discharge is your body's natural way of keeping the",
     "url": "https://www.instagram.com/reel/DZCzrNJANyX/",
@@ -191,7 +192,7 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
     "name": "So many vaginal health myths. Let's clear them up.",
     "description": "Foods can affect vaginal health more than people think. Too much sugar, dehydration, alcohol, and heavily",
     "url": "https://www.tiktok.com/@eraorganics/video/7652836598018575630",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oQe6VVfI0FOLfmDEBINKPVTQfFlAmomjGAG0IE~tplv-tiktokx-origin.image?dr=9636&x-expires=1785934800&x-signature=BHcH1QYcESwpC%2BjoDQMCyb0Hc0Q%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oQe6VVfI0FOLfmDEBINKPVTQfFlAmomjGAG0IE~tplv-tiktokx-origin.image?dr=9636&x-expires=1786539600&x-signature=MJvAvvEqd2jQmkCuwdY8n8KhrJQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
   },
   {
     "@context": "https://schema.org",
@@ -200,6 +201,14 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
     "description": "A food-grade feminine moisturizer is essential for those seeking comfort and balance in their intimate care",
     "url": "https://www.tiktok.com/@eraorganics/video/7653098452288572685",
     "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oAg9CfN1DDpqFZlwjqEiUfIUNBSQNytgm7BoSE~tplv-tiktokx-origin.image?dr=9636&x-expires=1784120400&x-signature=8q1mFPOJgq4SZJn%2F2g1u9shGGB4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "Dryness and sensitivity can change with age, hormones, postpartum, and menopause. Delicate skin deserves care",
+    "description": "Dryness and sensitivity can change with age, hormones, postpartum, and menopause. Delicate skin deserves care",
+    "url": "https://www.tiktok.com/@eraorganics/video/7670997146639830286",
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o8NIwoOEbIR2Bq1xqimhYPiH0Bz0ftCSABA2Np~tplv-tiktokx-origin.image?dr=9636&x-expires=1786539600&x-signature=FkIa6dRE1pAY6z%2FuH%2FlftDJZqmQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
   }
 ]
 ```

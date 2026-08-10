@@ -79,7 +79,7 @@ See the full [Era Organics Hypochlorous Acid Spray](/products/hypochlorous-acid-
     "name": "Acne and Milia be gone .",
     "description": "Era Organics Hypochlorous acid works for body acne, back acne, chest breakouts, shoulder acne, post-workout",
     "url": "https://www.tiktok.com/@eraorganics/video/6960072936267058438",
-    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-p-0068/cad528b26dc14448ad19f6cd9a705222_1620518266~tplv-tiktokx-origin.image?dr=9636&x-expires=1785934800&x-signature=a34iHnQr32YQzKSx3CGB7ZM4vI4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-p-0068/cad528b26dc14448ad19f6cd9a705222_1620518266~tplv-tiktokx-origin.image?dr=9636&x-expires=1786539600&x-signature=H15ox8AZIqNh8g%2FJCO8ctY09IOA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
   },
   {
     "@context": "https://schema.org",
@@ -87,7 +87,7 @@ See the full [Era Organics Hypochlorous Acid Spray](/products/hypochlorous-acid-
     "name": "Uneven skin tone? Skin tone looking dull? Check out this amazing before and after of our Flawless serum!!",
     "description": "Achieve clear, smooth, and radiant skin. serum for skin tone correction, effective anti-aging serum for",
     "url": "https://www.tiktok.com/@eraorganics/video/7165980239577861422",
-    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/f94280e6c77146239f7816347fbfb59d_1668459809~tplv-tiktokx-origin.image?dr=9636&x-expires=1785934800&x-signature=ESXpPj7bExiUKl9A%2F6%2BQ2x64VRY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/f94280e6c77146239f7816347fbfb59d_1668459809~tplv-tiktokx-origin.image?dr=9636&x-expires=1786539600&x-signature=7LI4Pp36ra33P3%2FNWsCZV4YzTH4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
   },
   {
     "@context": "https://schema.org",
@@ -95,7 +95,7 @@ See the full [Era Organics Hypochlorous Acid Spray](/products/hypochlorous-acid-
     "name": "Hypochlorous acid great for most skin… But not for: Deep cuts or broken skin Allergic reactions If your derm",
     "description": "- Helps fade acne marks and dark spots and supports a more even skin tone. - May help reduce breakouts by",
     "url": "https://www.tiktok.com/@eraorganics/video/7535938799923203359",
-    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/okVflWHR8E4nECZEEoQAAhD8FxfAACHACIAVAT~tplv-tiktokx-dmt-logom:tos-useast8-i-0068-tx2/oABPJ4taAIACcHnNBDESARHCbIEliPhAAVEUi.image?dr=9634&x-expires=1785934800&x-signature=CzWYKGuSgISu5dMKz4lykK20aAY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/okVflWHR8E4nECZEEoQAAhD8FxfAACHACIAVAT~tplv-tiktokx-dmt-logom:tos-useast8-i-0068-tx2/oABPJ4taAIACcHnNBDESARHCbIEliPhAAVEUi.image?dr=9634&x-expires=1786539600&x-signature=R1Na5ISVnmIGOTiuIYJonPpXyag%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
   },
   {
     "@context": "https://schema.org",
