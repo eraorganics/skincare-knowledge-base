@@ -20,7 +20,6 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
 - [Common Vaginal Concerns You Should Know](https://www.youtube.com/watch?v=05oqr1w8OTY) — Era Organics on YouTube
 - [When to See a Doctor for Vaginal Concerns](https://www.youtube.com/watch?v=nH3-iQVX0g8) — Era Organics on YouTube
 - [Common Myths and Misconceptions About Vaginal Health](https://www.youtube.com/watch?v=XnMwlCMy-Ww) — Era Organics on YouTube
-- [How Vaginal Dryness Can Indicate Poor Vaginal Health](https://www.youtube.com/watch?v=ud6jsHKgp8Q) — Era Organics on YouTube
 - [Vaginal discharge is your body's natural way of keeping the](https://www.instagram.com/reel/DZCzrNJANyX/) — Era Organics on Instagram
 - [Skincare doesn't stop at your bikini line....it's not TMI, it's TLC](https://www.instagram.com/reel/DZXjUUKok-2/) — Era Organics on Instagram
 - [So many vaginal health myths. Let's clear them up.](https://www.tiktok.com/@eraorganics/video/7652836598018575630) — Era Organics on TikTok
@@ -159,15 +158,6 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
   },
   {
     "@context": "https://schema.org",
-    "@type": "VideoObject",
-    "name": "How Vaginal Dryness Can Indicate Poor Vaginal Health",
-    "description": "Vaginal dryness can be a sign of imbalance, not just discomfort.",
-    "url": "https://www.youtube.com/watch?v=ud6jsHKgp8Q",
-    "thumbnailUrl": "https://i.ytimg.com/vi/ud6jsHKgp8Q/hqdefault.jpg",
-    "uploadDate": "2026-06-23T11:30:57+00:00"
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "SocialMediaPosting",
     "headline": "Vaginal discharge is your body's natural way of keeping the",
     "url": "https://www.instagram.com/reel/DZCzrNJANyX/",
@@ -208,7 +198,7 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
     "name": "Dryness and sensitivity can change with age, hormones, postpartum, and menopause. Delicate skin deserves care",
     "description": "Dryness and sensitivity can change with age, hormones, postpartum, and menopause. Delicate skin deserves care",
     "url": "https://www.tiktok.com/@eraorganics/video/7670997146639830286",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o8NIwoOEbIR2Bq1xqimhYPiH0Bz0ftCSABA2Np~tplv-tiktokx-origin.image?dr=9636&x-expires=1786539600&x-signature=FkIa6dRE1pAY6z%2FuH%2FlftDJZqmQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o8NIwoOEbIR2Bq1xqimhYPiH0Bz0ftCSABA2Np~tplv-tiktokx-origin.image?dr=9636&x-expires=1787144400&x-signature=PO9FINB0DWP3Ys9t%2B2r%2FjfEQpaI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
   }
 ]
 ```
