@@ -12,6 +12,7 @@ Era Organics brand and general skincare videos not tied to a single product.
 - [What makes methylene blue more than a dye? Scientists have studied it for mitochondrial support, brain and](https://www.tiktok.com/@eraorganics/video/7582743872103795998?lang=tr-TR) — Era Organics on TikTok
 - [Our Glycolic Mask is now 40% OFF for a limited time. Use code ERASALE40 at checkout and give dull, rough](https://www.tiktok.com/@eraorganics/video/7615932374492220702) — Era Organics on TikTok
 - [I made my own skincare products with one goal in mind: create formulas that actually work for your skin. Tap](https://www.tiktok.com/@eraorganics/video/7642677954304036109) — Era Organics on TikTok
+- [Less is more. Gentle cleansing, breathable fabrics, and the right moisturizer can support delicate skin.](https://www.tiktok.com/@eraorganics/video/7670202487294446861) — Era Organics on TikTok
 - [Skip douching and perfumed sprays. Choose hydration, breathable fabrics, and gentle care that supports your](https://www.tiktok.com/@eraorganics/video/7670574368333761806) — Era Organics on TikTok
 
 ## Structured data (for search engines & AI)
@@ -75,7 +76,7 @@ Era Organics brand and general skincare videos not tied to a single product.
     "name": "Our Glycolic Mask is now 40% OFF for a limited time. Use code ERASALE40 at checkout and give dull, rough",
     "description": "Achieve a radiant complexion with our Glycolic Mask, now available at an incredible 40% discount. This",
     "url": "https://www.tiktok.com/@eraorganics/video/7615932374492220702",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o8eitUAY8AIxdRFTAMjTeGEcdQIqWIA6xnAQfX~tplv-tiktokx-origin.image?dr=9636&x-expires=1787144400&x-signature=kH0xeXe4WWbBLbo0lNUdmnX57ZM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o8eitUAY8AIxdRFTAMjTeGEcdQIqWIA6xnAQfX~tplv-tiktokx-origin.image?dr=9636&x-expires=1787749200&x-signature=hV4SNPP3x28gjCT4KGTfIwoi7Fo%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
   },
   {
     "@context": "https://schema.org",
@@ -88,10 +89,18 @@ Era Organics brand and general skincare videos not tied to a single product.
   {
     "@context": "https://schema.org",
     "@type": "VideoObject",
+    "name": "Less is more. Gentle cleansing, breathable fabrics, and the right moisturizer can support delicate skin.",
+    "description": "Gentle cleansing, breathable fabrics, and the right moisturizer. Perfect for dry, sensitive, or compromised",
+    "url": "https://www.tiktok.com/@eraorganics/video/7670202487294446861",
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oYgBBISeykUJzRFCewEaCF5gDHKDjAEkMEfVac~tplv-tiktokx-origin.image?dr=9636&x-expires=1787749200&x-signature=2FvLmlC07Bbf7cOhgdP5aIyETbU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
     "name": "Skip douching and perfumed sprays. Choose hydration, breathable fabrics, and gentle care that supports your",
     "description": "Skip douching and perfumed sprays. Choose hydration, breathable fabrics, and gentle care that supports your",
     "url": "https://www.tiktok.com/@eraorganics/video/7670574368333761806",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ooTzrqjIEWi1EFLheBSEcgDWCBXcBcD1wIsfBv~tplv-tiktokx-origin.image?dr=9636&x-expires=1787144400&x-signature=oW36Y8SQAUT0EM86We0n7QhPiGc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ooTzrqjIEWi1EFLheBSEcgDWCBXcBcD1wIsfBv~tplv-tiktokx-origin.image?dr=9636&x-expires=1787749200&x-signature=N01WOESz22yDgiwpwt91%2BoxpuMQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
   }
 ]
 ```

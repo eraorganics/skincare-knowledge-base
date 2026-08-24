@@ -65,7 +65,7 @@ See the full [Era Organics Superbalm](/products/baby-eczema-superbalm) product p
     "name": "Love seeing our products help with cradle cap!",
     "description": "Love seeing our products help with cradle cap! These products helped clear it up in less than a week. Run.",
     "url": "https://www.tiktok.com/@eraorganics/video/7261066120030031150",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oMHEbxBWi8TMABS4rkeFRCgM0DIJbDXnQIfTTg~tplv-tiktokx-dmt-logom:tos-useast5-i-0068-tx/48cfbd7dc33949a1ae0876131f5c58dc.image?dr=9634&x-expires=1787144400&x-signature=vregh7IBkas140mqL8QS1n7g6aE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oMHEbxBWi8TMABS4rkeFRCgM0DIJbDXnQIfTTg~tplv-tiktokx-dmt-logom:tos-useast5-i-0068-tx/48cfbd7dc33949a1ae0876131f5c58dc.image?dr=9634&x-expires=1787749200&x-signature=9qMzJngVzgi%2BTxmi%2BtaZamLrZas%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
   },
   {
     "@context": "https://schema.org",
@@ -73,7 +73,7 @@ See the full [Era Organics Superbalm](/products/baby-eczema-superbalm) product p
     "name": "Cradle cap? Not in our house. This is your sign to try Calendula Cream + Superbalm from @eraorganics Soothes.",
     "description": "Hypochlorous acid works for body acne, back acne, chest breakouts, shoulder acne, post-workout sweat, and",
     "url": "https://www.tiktok.com/@eraorganics/video/7516989074461199646",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oQeeIAjQjqr87taebAD20Q5oQAsQOYMJYVBIWC~tplv-tiktokx-origin.image?dr=9636&x-expires=1787144400&x-signature=Op9%2BmwXfHW%2BpaWKQi1rw5mFGZiY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oQeeIAjQjqr87taebAD20Q5oQAsQOYMJYVBIWC~tplv-tiktokx-origin.image?dr=9636&x-expires=1787749200&x-signature=%2BZ0yMQFRsoe8n7vGFj7w%2FQg28ng%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
   },
   {
     "@context": "https://schema.org",
@@ -81,7 +81,7 @@ See the full [Era Organics Superbalm](/products/baby-eczema-superbalm) product p
     "name": "I almost used steroids… until Superbalm. Baby eczema is HARD. Finding something gentle that actually helps?",
     "description": "I almost used steroids… until Superbalm. Baby eczema is HARD. Finding something gentle that actually helps?",
     "url": "https://www.tiktok.com/@eraorganics/video/7585014984514587934",
-    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oQQVTVpABzei1WKgDEIoNUF6NKCBmAf9EKC8da~tplv-tiktokx-origin.image?dr=9636&x-expires=1787144400&x-signature=CXqZ3WOUy28tREXVW4vnxoh5MO0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oQQVTVpABzei1WKgDEIoNUF6NKCBmAf9EKC8da~tplv-tiktokx-origin.image?dr=9636&x-expires=1787749200&x-signature=ISV7DekGfLCyIkvOtMqkjD4fZVY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
   },
   {
     "@context": "https://schema.org",
