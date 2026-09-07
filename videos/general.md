@@ -11,6 +11,7 @@ Era Organics brand and general skincare videos not tied to a single product.
 - [So I made my own brand—Era Organics Clean, natural, and gentle skincare that actually works. Proof that](https://www.tiktok.com/@eraorganics/video/7550371791596752158) — Era Organics on TikTok
 - [What makes methylene blue more than a dye? Scientists have studied it for mitochondrial support, brain and](https://www.tiktok.com/@eraorganics/video/7582743872103795998?lang=tr-TR) — Era Organics on TikTok
 - [Our Glycolic Mask is now 40% OFF for a limited time. Use code ERASALE40 at checkout and give dull, rough](https://www.tiktok.com/@eraorganics/video/7615932374492220702) — Era Organics on TikTok
+- [Originally used as a fabric dye, Methylene Blue has come a long way. Now it's known for its connection to](https://www.tiktok.com/@eraorganics/video/7629778822505696542) — Era Organics on TikTok
 - [I made my own skincare products with one goal in mind: create formulas that actually work for your skin. Tap](https://www.tiktok.com/@eraorganics/video/7642677954304036109) — Era Organics on TikTok
 - [Less is more. Gentle cleansing, breathable fabrics, and the right moisturizer can support delicate skin.](https://www.tiktok.com/@eraorganics/video/7670202487294446861) — Era Organics on TikTok
 - [Skip douching and perfumed sprays. Choose hydration, breathable fabrics, and gentle care that supports your](https://www.tiktok.com/@eraorganics/video/7670574368333761806) — Era Organics on TikTok
@@ -77,6 +78,14 @@ Era Organics brand and general skincare videos not tied to a single product.
     "description": "Achieve a radiant complexion with our Glycolic Mask, now available at an incredible 40% discount. This",
     "url": "https://www.tiktok.com/@eraorganics/video/7615932374492220702",
     "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o8eitUAY8AIxdRFTAMjTeGEcdQIqWIA6xnAQfX~tplv-tiktokx-origin.image?dr=9636&x-expires=1787749200&x-signature=hV4SNPP3x28gjCT4KGTfIwoi7Fo%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "Originally used as a fabric dye, Methylene Blue has come a long way. Now it's known for its connection to",
+    "description": "Originally used as a fabric dye, Methylene Blue has come a long way. Now it's known for its connection to",
+    "url": "https://www.tiktok.com/@eraorganics/video/7629778822505696542",
+    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oYNTCExFIVwLFn1AkAfIxaavja6rGIDTIerQeq~tplv-tiktokx-origin.image?dr=9636&x-expires=1788958800&x-signature=qhNNuA38t%2FADlwa%2B83GCAOYsahA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
   },
   {
     "@context": "https://schema.org",

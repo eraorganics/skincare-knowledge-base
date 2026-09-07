@@ -183,7 +183,7 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
     "name": "You've tried 27 \"miracle\" products and your skin still hates you It's time for a skincare reset @EraOrganics",
     "description": "@EraOrganics is the clean, organic line that actually helps calm and repair your skin barrier — not destroy",
     "url": "https://www.tiktok.com/@eraorganics/video/7571551694211894558",
-    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o0EhWpnCCBkWQAVr8sIA0iiEyTBs3FBB9fkfMV~tplv-tiktokx-origin.image?dr=9636&x-expires=1788354000&x-signature=CI8HoCBMgaVYbdVNUj5G0426RR0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o0EhWpnCCBkWQAVr8sIA0iiEyTBs3FBB9fkfMV~tplv-tiktokx-origin.image?dr=9636&x-expires=1788958800&x-signature=KE7VOuT%2BD6Xw2exa%2BpVw2ntnJlQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
   },
   {
     "@context": "https://schema.org",
@@ -207,7 +207,7 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
     "name": "Dryness and sensitivity can change with age, hormones, postpartum, and menopause. Delicate skin deserves care",
     "description": "Dryness and sensitivity can change with age, hormones, postpartum, and menopause. Delicate skin deserves care",
     "url": "https://www.tiktok.com/@eraorganics/video/7670997146639830286",
-    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o8NIwoOEbIR2Bq1xqimhYPiH0Bz0ftCSABA2Np~tplv-tiktokx-origin.image?dr=9636&x-expires=1788354000&x-signature=QcEQcpTktShu45f3cgxZBOvodo0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o8NIwoOEbIR2Bq1xqimhYPiH0Bz0ftCSABA2Np~tplv-tiktokx-origin.image?dr=9636&x-expires=1788958800&x-signature=vrz%2FiZp8wbg21vM3wmwTXc7tsC4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
   }
 ]
 ```
