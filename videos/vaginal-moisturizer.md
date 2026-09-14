@@ -16,10 +16,6 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
 - [How Skincare Can Support Vaginal Health](https://www.youtube.com/watch?v=2pqEACyQXIA) — Era Organics on YouTube
 - [The Best Foods for Vaginal Health](https://www.youtube.com/watch?v=SNZLxsnrJRM) — Era Organics on YouTube
 - [Harmony for Her Organic Vaginal Moisturizer | Instant, Long-Lasting Dryness Relief](https://www.youtube.com/watch?v=libkTLd98Sg) — Era Organics on YouTube
-- [Are Vaginal Suppositories Actually Good for Vaginal Health?](https://www.youtube.com/watch?v=VRO1jTawjfM) — Era Organics on YouTube
-- [Is Balancing Vaginal pH Important? Here's Why It Matters](https://www.youtube.com/watch?v=YNC-jOcOWFY) — Era Organics on YouTube
-- [What Foods Can Cause Vaginal Problems?](https://www.youtube.com/watch?v=-4jrw5eBjIg) — Era Organics on YouTube
-- [Common Vaginal Concerns You Should Know](https://www.youtube.com/watch?v=05oqr1w8OTY) — Era Organics on YouTube
 - [Vaginal discharge is your body's natural way of keeping the](https://www.instagram.com/reel/DZCzrNJANyX/) — Era Organics on Instagram
 - [Skincare doesn't stop at your bikini line....it's not TMI, it's TLC](https://www.instagram.com/reel/DZXjUUKok-2/) — Era Organics on Instagram
 - [You've tried 27 "miracle" products and your skin still hates you It's time for a skincare reset @EraOrganics](https://www.tiktok.com/@eraorganics/video/7571551694211894558) — Era Organics on TikTok
@@ -123,42 +119,6 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
   },
   {
     "@context": "https://schema.org",
-    "@type": "VideoObject",
-    "name": "Are Vaginal Suppositories Actually Good for Vaginal Health?",
-    "description": "Suppositories can provide targeted support, but they're not right for every symptom. Diagnosis matters before",
-    "url": "https://www.youtube.com/watch?v=VRO1jTawjfM",
-    "thumbnailUrl": "https://i.ytimg.com/vi/VRO1jTawjfM/hqdefault.jpg",
-    "uploadDate": "2026-07-31T03:04:29+00:00"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "VideoObject",
-    "name": "Is Balancing Vaginal pH Important? Here's Why It Matters",
-    "description": "Yes, vaginal pH balance matters more than most people think.",
-    "url": "https://www.youtube.com/watch?v=YNC-jOcOWFY",
-    "thumbnailUrl": "https://i.ytimg.com/vi/YNC-jOcOWFY/hqdefault.jpg",
-    "uploadDate": "2026-06-28T12:31:03+00:00"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "VideoObject",
-    "name": "What Foods Can Cause Vaginal Problems?",
-    "description": "Foods can affect vaginal health more than people think. Too much sugar, dehydration, alcohol, and heavily",
-    "url": "https://www.youtube.com/watch?v=-4jrw5eBjIg",
-    "thumbnailUrl": "https://i.ytimg.com/vi/-4jrw5eBjIg/hqdefault.jpg",
-    "uploadDate": "2026-06-27T14:30:55+00:00"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "VideoObject",
-    "name": "Common Vaginal Concerns You Should Know",
-    "description": "Yeast infections, BV, UTIs, dryness, irritation, discharge changes, and odor shifts are some of the most",
-    "url": "https://www.youtube.com/watch?v=05oqr1w8OTY",
-    "thumbnailUrl": "https://i.ytimg.com/vi/05oqr1w8OTY/hqdefault.jpg",
-    "uploadDate": "2026-06-26T13:31:07+00:00"
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "SocialMediaPosting",
     "headline": "Vaginal discharge is your body's natural way of keeping the",
     "url": "https://www.instagram.com/reel/DZCzrNJANyX/",
@@ -183,7 +143,7 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
     "name": "You've tried 27 \"miracle\" products and your skin still hates you It's time for a skincare reset @EraOrganics",
     "description": "@EraOrganics is the clean, organic line that actually helps calm and repair your skin barrier — not destroy",
     "url": "https://www.tiktok.com/@eraorganics/video/7571551694211894558",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o0EhWpnCCBkWQAVr8sIA0iiEyTBs3FBB9fkfMV~tplv-tiktokx-origin.image?dr=9636&x-expires=1788958800&x-signature=KE7VOuT%2BD6Xw2exa%2BpVw2ntnJlQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o0EhWpnCCBkWQAVr8sIA0iiEyTBs3FBB9fkfMV~tplv-tiktokx-origin.image?dr=9636&x-expires=1789563600&x-signature=KuHl89Wu6uQXboIu4MPd1U%2FYiN4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
   },
   {
     "@context": "https://schema.org",

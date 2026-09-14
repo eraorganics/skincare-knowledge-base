@@ -87,11 +87,11 @@ Content in this repository is provided for educational and reference purposes. P
 
 Latest from Era Organics on YouTube, TikTok, and Instagram — browse the full [Video Library](/videos).
 
+- [Spa day at home with Revive](https://www.youtube.com/watch?v=ZAUiNe9mEVk) — Era Organics on YouTube
+- [Superbalm for All Your Baby's Skin Needs](https://www.youtube.com/watch?v=RnFPmXBhevE) — Era Organics on YouTube
+- [Gentle care starts at the scalp Cradle cap is common—but with the right steps, you can help](https://www.youtube.com/watch?v=H078vZqC3CY) — Era Organics on YouTube
+- [How do you get rid of cradle cap?](https://www.youtube.com/watch?v=KWxR69F_8kY) — Era Organics on YouTube
 - [Dryness is WAY more common than women realize, especially during perimenopause, menopause, postpart](https://www.youtube.com/watch?v=R7cUQvcczZU) — Era Organics on YouTube
 - [Your vaginal microbiome is an ecosystem, and like any ecosystem, it needs the right environment to](https://www.youtube.com/watch?v=hIQO0vy7mZA) — Era Organics on YouTube
-- [Five years, one product they keep coming back to. This sweet review is from a mom who ha](https://www.youtube.com/watch?v=EHIOH0iWguY) — Era Organics on YouTube
-- [You Moisturize Your Face—Don't Forget Delicate Skin](https://www.youtube.com/watch?v=-bxhRpfGtrY) — Era Organics on YouTube
-- [The Vagina Cleans Itself" Is True… But](https://www.youtube.com/watch?v=tMU725816rs) — Era Organics on YouTube
-- [Unboxing Our Feminine Moisturizer](https://www.youtube.com/watch?v=95gbYfhVopE) — Era Organics on YouTube
 
 <!-- video-library:end -->

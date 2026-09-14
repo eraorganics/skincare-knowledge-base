@@ -80,7 +80,7 @@ See the full [Era Organics Hypochlorous Acid Spray](/products/hypochlorous-acid-
     "name": "Acne and Milia be gone .",
     "description": "Acne and Milia be gone . Join me after work for a sweet debate on Crumbl and Insomnia Cookies! Discover our",
     "url": "https://www.tiktok.com/@eraorganics/video/6960072936267058438",
-    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-p-0068/cad528b26dc14448ad19f6cd9a705222_1620518266~tplv-tiktokx-origin.image?dr=9636&x-expires=1788958800&x-signature=onTxoqWoYQH%2Ff1owUCIvEBEBKEg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-p-0068/cad528b26dc14448ad19f6cd9a705222_1620518266~tplv-tiktokx-origin.image?dr=9636&x-expires=1789563600&x-signature=o3N1t7RDOWgWr2yvHsnD1ubSF5U%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
   },
   {
     "@context": "https://schema.org",
@@ -88,7 +88,7 @@ See the full [Era Organics Hypochlorous Acid Spray](/products/hypochlorous-acid-
     "name": "Uneven skin tone? Skin tone looking dull? Check out this amazing before and after of our Flawless serum!!",
     "description": "Achieve clear, smooth, and radiant skin. serum for skin tone correction, effective anti-aging serum for",
     "url": "https://www.tiktok.com/@eraorganics/video/7165980239577861422",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/f94280e6c77146239f7816347fbfb59d_1668459809~tplv-tiktokx-origin.image?dr=9636&x-expires=1788958800&x-signature=3%2Bn%2Bz2oPW12u1OgeYulqKiwBH1s%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/f94280e6c77146239f7816347fbfb59d_1668459809~tplv-tiktokx-origin.image?dr=9636&x-expires=1789563600&x-signature=Z%2F9IvhJgtaV7VukMeLDxR3ex6C4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
   },
   {
     "@context": "https://schema.org",
@@ -104,7 +104,7 @@ See the full [Era Organics Hypochlorous Acid Spray](/products/hypochlorous-acid-
     "name": "If your skincare doesn't have HOCL, you're missing out Era Organics' Hypochlorous Acid Spray = clear, calm",
     "description": "If your skincare doesn't have HOCL, you're missing out Era Organics' Hypochlorous Acid Spray = clear, calm",
     "url": "https://www.tiktok.com/@eraorganics/video/7550859380128763166",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oImr5GPQuRLBIWheIAiUfqRVFujXlA7fIQoCXI~tplv-tiktokx-dmt-logom:tos-useast8-i-0068-tx2/oU1EAqoQU5iDfCJFAiVUgfEEFEARGAykUEiFAI.image?dr=9634&x-expires=1788958800&x-signature=Qk1FSYtXTkhkL4hXUS7bCqc7fEY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oImr5GPQuRLBIWheIAiUfqRVFujXlA7fIQoCXI~tplv-tiktokx-dmt-logom:tos-useast8-i-0068-tx2/oU1EAqoQU5iDfCJFAiVUgfEEFEARGAykUEiFAI.image?dr=9634&x-expires=1789563600&x-signature=3X5WmraHwwsBe5JiK7egCV1OPbI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
   },
   {
     "@context": "https://schema.org",
@@ -118,9 +118,9 @@ See the full [Era Organics Hypochlorous Acid Spray](/products/hypochlorous-acid-
     "@context": "https://schema.org",
     "@type": "VideoObject",
     "name": "If your skin deals with eczema or rosacea flare-ups, hypochlorous acid is a gentle spray step worth keeping",
-    "description": "Incorporating hypochlorous acid into your skincare routine can provide significant relief by helping to",
+    "description": "Utilizing products infused with hypochlorous acid can help in maintaining a balanced skin state, thereby",
     "url": "https://www.tiktok.com/@eraorganics/video/7641560978638884109",
-    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/os6mgvHCX2dBiMUBVEgBaM3AUz3I4bPBiRK1x~tplv-tiktokx-origin.image?dr=9636&x-expires=1788958800&x-signature=1sTo%2Ft2LAKC1YzyVnjKI%2F%2FEXrJE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/os6mgvHCX2dBiMUBVEgBaM3AUz3I4bPBiRK1x~tplv-tiktokx-origin.image?dr=9636&x-expires=1789563600&x-signature=xRQ4rxQIUpdcB%2B%2F3YhK2UZ7YPJk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
   },
   {
     "@context": "https://schema.org",
@@ -128,7 +128,7 @@ See the full [Era Organics Hypochlorous Acid Spray](/products/hypochlorous-acid-
     "name": "A disinfecting spray for your body that your skin already understands. Hypochlorous acid helps refresh",
     "description": "A disinfecting spray for your body that your skin already understands. Hypochlorous acid helps refresh",
     "url": "https://www.tiktok.com/@eraorganics/video/7649365190701567245",
-    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ocB9IidHJi4cMABgBUiaohAD82kgYTQHEIivV~tplv-tiktokx-origin.image?dr=9636&x-expires=1788958800&x-signature=Ot4u%2BOFEeYrOuGSk5sqyKVO6eoA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ocB9IidHJi4cMABgBUiaohAD82kgYTQHEIivV~tplv-tiktokx-origin.image?dr=9636&x-expires=1789563600&x-signature=Nuc8GJ2e1axaPK%2FXRFTEcbIGhwA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
   },
   {
     "@context": "https://schema.org",

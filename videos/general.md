@@ -4,6 +4,7 @@ Era Organics brand and general skincare videos not tied to a single product.
 
 ## Videos
 
+- [Spa day at home with Revive](https://www.youtube.com/watch?v=ZAUiNe9mEVk) — Era Organics on YouTube
 - [Five years, one product they keep coming back to. This sweet review is from a mom who ha](https://www.youtube.com/watch?v=EHIOH0iWguY) — Era Organics on YouTube
 - [Natural & Organic Skincare on Instagram: " Era Organics](https://www.instagram.com/reel/DJjshAVuvwG/) — Era Organics on Instagram
 - [Just put it in the cart. You won't regret it. Microdermabrasion right at your fingertips.](https://www.tiktok.com/@eraorganics/video/7096175058909154606) — Era Organics on TikTok
@@ -20,6 +21,15 @@ Era Organics brand and general skincare videos not tied to a single product.
 
 ```json
 [
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "Spa day at home with Revive",
+    "description": "Your sign to have a little spa day… at home",
+    "url": "https://www.youtube.com/watch?v=ZAUiNe9mEVk",
+    "thumbnailUrl": "https://i.ytimg.com/vi/ZAUiNe9mEVk/hqdefault.jpg",
+    "uploadDate": "2026-09-11T14:02:08+00:00"
+  },
   {
     "@context": "https://schema.org",
     "@type": "VideoObject",
