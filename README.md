@@ -87,11 +87,11 @@ Content in this repository is provided for educational and reference purposes. P
 
 Latest from Era Organics on YouTube, TikTok, and Instagram — browse the full [Video Library](/videos).
 
-- [Spa day at home with Revive](https://www.youtube.com/watch?v=ZAUiNe9mEVk) — Era Organics on YouTube
-- [Superbalm for All Your Baby's Skin Needs](https://www.youtube.com/watch?v=RnFPmXBhevE) — Era Organics on YouTube
-- [Gentle care starts at the scalp Cradle cap is common—but with the right steps, you can help](https://www.youtube.com/watch?v=H078vZqC3CY) — Era Organics on YouTube
-- [How do you get rid of cradle cap?](https://www.youtube.com/watch?v=KWxR69F_8kY) — Era Organics on YouTube
-- [Dryness is WAY more common than women realize, especially during perimenopause, menopause, postpart](https://www.youtube.com/watch?v=R7cUQvcczZU) — Era Organics on YouTube
-- [Your vaginal microbiome is an ecosystem, and like any ecosystem, it needs the right environment to](https://www.youtube.com/watch?v=hIQO0vy7mZA) — Era Organics on YouTube
+- [All the skin problems and all the skin solutions](https://www.youtube.com/watch?v=uzHA7Jyl7CI) — Era Organics on YouTube
+- [Methylene Blue But make it quality](https://www.youtube.com/watch?v=CyrG4_85qAc) — Era Organics on YouTube
+- [Quick tips for baby eczema](https://www.youtube.com/watch?v=i0b77qGxkSQ) — Era Organics on YouTube
+- [HOCL for post workouts](https://www.youtube.com/watch?v=IB6NKG8chw8) — Era Organics on YouTube
+- [A little rant about my industry](https://www.youtube.com/watch?v=Dk5NM_JYTfU) — Era Organics on YouTube
+- [Reviews for superbalm](https://www.youtube.com/watch?v=YT4nvfdyQXA) — Era Organics on YouTube
 
 <!-- video-library:end -->

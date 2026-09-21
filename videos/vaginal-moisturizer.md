@@ -10,12 +10,6 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
 - [Your vaginal microbiome is an ecosystem, and like any ecosystem, it needs the right environment to](https://www.youtube.com/watch?v=hIQO0vy7mZA) — Era Organics on YouTube
 - [You Moisturize Your Face—Don't Forget Delicate Skin](https://www.youtube.com/watch?v=-bxhRpfGtrY) — Era Organics on YouTube
 - [The Vagina Cleans Itself" Is True… But](https://www.youtube.com/watch?v=tMU725816rs) — Era Organics on YouTube
-- [Unboxing Our Feminine Moisturizer](https://www.youtube.com/watch?v=95gbYfhVopE) — Era Organics on YouTube
-- [Your Vulva May Be Aging Faster Than Your Face](https://www.youtube.com/watch?v=careImjI-f8) — Era Organics on YouTube
-- [The Intimate-Care Habit You Should Stop Today](https://www.youtube.com/watch?v=rRWvp_kgV3M) — Era Organics on YouTube
-- [How Skincare Can Support Vaginal Health](https://www.youtube.com/watch?v=2pqEACyQXIA) — Era Organics on YouTube
-- [The Best Foods for Vaginal Health](https://www.youtube.com/watch?v=SNZLxsnrJRM) — Era Organics on YouTube
-- [Harmony for Her Organic Vaginal Moisturizer | Instant, Long-Lasting Dryness Relief](https://www.youtube.com/watch?v=libkTLd98Sg) — Era Organics on YouTube
 - [Vaginal discharge is your body's natural way of keeping the](https://www.instagram.com/reel/DZCzrNJANyX/) — Era Organics on Instagram
 - [Skincare doesn't stop at your bikini line....it's not TMI, it's TLC](https://www.instagram.com/reel/DZXjUUKok-2/) — Era Organics on Instagram
 - [You've tried 27 "miracle" products and your skin still hates you It's time for a skincare reset @EraOrganics](https://www.tiktok.com/@eraorganics/video/7571551694211894558) — Era Organics on TikTok
@@ -65,60 +59,6 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
   },
   {
     "@context": "https://schema.org",
-    "@type": "VideoObject",
-    "name": "Unboxing Our Feminine Moisturizer",
-    "description": "Prebiotic support, hyaluronic acid, and organic aloe vera—all in one gentle formula. See more at",
-    "url": "https://www.youtube.com/watch?v=95gbYfhVopE",
-    "thumbnailUrl": "https://i.ytimg.com/vi/95gbYfhVopE/hqdefault.jpg",
-    "uploadDate": "2026-08-07T19:06:57+00:00"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "VideoObject",
-    "name": "Your Vulva May Be Aging Faster Than Your Face",
-    "description": "Dryness and sensitivity can change with age, hormones, postpartum, and menopause. Delicate skin deserves care",
-    "url": "https://www.youtube.com/watch?v=careImjI-f8",
-    "thumbnailUrl": "https://i.ytimg.com/vi/careImjI-f8/hqdefault.jpg",
-    "uploadDate": "2026-08-06T19:06:57+00:00"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "VideoObject",
-    "name": "The Intimate-Care Habit You Should Stop Today",
-    "description": "Skip douching and perfumed sprays. Choose hydration, breathable fabrics, and gentle care that supports your",
-    "url": "https://www.youtube.com/watch?v=rRWvp_kgV3M",
-    "thumbnailUrl": "https://i.ytimg.com/vi/rRWvp_kgV3M/hqdefault.jpg",
-    "uploadDate": "2026-08-05T15:46:34+00:00"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "VideoObject",
-    "name": "How Skincare Can Support Vaginal Health",
-    "description": "Less is more. Gentle cleansing, breathable fabrics, and the right moisturizer can support delicate skin.",
-    "url": "https://www.youtube.com/watch?v=2pqEACyQXIA",
-    "thumbnailUrl": "https://i.ytimg.com/vi/2pqEACyQXIA/hqdefault.jpg",
-    "uploadDate": "2026-08-04T15:42:00+00:00"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "VideoObject",
-    "name": "The Best Foods for Vaginal Health",
-    "description": "A balanced diet can support your microbiome, hydration, and overall vaginal health. Find more simple wellness",
-    "url": "https://www.youtube.com/watch?v=SNZLxsnrJRM",
-    "thumbnailUrl": "https://i.ytimg.com/vi/SNZLxsnrJRM/hqdefault.jpg",
-    "uploadDate": "2026-08-03T18:36:41+00:00"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "VideoObject",
-    "name": "Harmony for Her Organic Vaginal Moisturizer | Instant, Long-Lasting Dryness Relief",
-    "description": "Vaginal dryness and irritation are common, but temporary surface relief may not be enough.",
-    "url": "https://www.youtube.com/watch?v=libkTLd98Sg",
-    "thumbnailUrl": "https://i.ytimg.com/vi/libkTLd98Sg/hqdefault.jpg",
-    "uploadDate": "2026-07-31T03:24:41+00:00"
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "SocialMediaPosting",
     "headline": "Vaginal discharge is your body's natural way of keeping the",
     "url": "https://www.instagram.com/reel/DZCzrNJANyX/",
@@ -143,7 +83,7 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
     "name": "You've tried 27 \"miracle\" products and your skin still hates you It's time for a skincare reset @EraOrganics",
     "description": "@EraOrganics is the clean, organic line that actually helps calm and repair your skin barrier — not destroy",
     "url": "https://www.tiktok.com/@eraorganics/video/7571551694211894558",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o0EhWpnCCBkWQAVr8sIA0iiEyTBs3FBB9fkfMV~tplv-tiktokx-origin.image?dr=9636&x-expires=1789563600&x-signature=KuHl89Wu6uQXboIu4MPd1U%2FYiN4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o0EhWpnCCBkWQAVr8sIA0iiEyTBs3FBB9fkfMV~tplv-tiktokx-origin.image?dr=9636&x-expires=1790168400&x-signature=lmg4%2BaLBbKG4wcC6AONT6Uv9TZQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
   },
   {
     "@context": "https://schema.org",

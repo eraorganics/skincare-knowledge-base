@@ -4,15 +4,19 @@ Era Organics brand and general skincare videos not tied to a single product.
 
 ## Videos
 
+- [Methylene Blue But make it quality](https://www.youtube.com/watch?v=CyrG4_85qAc) — Era Organics on YouTube
+- [A little rant about my industry](https://www.youtube.com/watch?v=Dk5NM_JYTfU) — Era Organics on YouTube
 - [Spa day at home with Revive](https://www.youtube.com/watch?v=ZAUiNe9mEVk) — Era Organics on YouTube
 - [Five years, one product they keep coming back to. This sweet review is from a mom who ha](https://www.youtube.com/watch?v=EHIOH0iWguY) — Era Organics on YouTube
 - [Natural & Organic Skincare on Instagram: " Era Organics](https://www.instagram.com/reel/DJjshAVuvwG/) — Era Organics on Instagram
 - [Just put it in the cart. You won't regret it. Microdermabrasion right at your fingertips.](https://www.tiktok.com/@eraorganics/video/7096175058909154606) — Era Organics on TikTok
+- [My holy grail product.](https://www.tiktok.com/@eraorganics/video/7327764012278484270) — Era Organics on TikTok
 - [My no effort routine when I'm home alone but still want to look in the mirror without](https://www.tiktok.com/@eraorganics/video/7358181396000804142) — Era Organics on TikTok
 - [So I made my own brand—Era Organics Clean, natural, and gentle skincare that actually works. Proof that](https://www.tiktok.com/@eraorganics/video/7550371791596752158) — Era Organics on TikTok
 - [What makes methylene blue more than a dye? Scientists have studied it for mitochondrial support, brain and](https://www.tiktok.com/@eraorganics/video/7582743872103795998?lang=tr-TR) — Era Organics on TikTok
 - [Our Glycolic Mask is now 40% OFF for a limited time. Use code ERASALE40 at checkout and give dull, rough](https://www.tiktok.com/@eraorganics/video/7615932374492220702) — Era Organics on TikTok
 - [Originally used as a fabric dye, Methylene Blue has come a long way. Now it's known for its connection to](https://www.tiktok.com/@eraorganics/video/7629778822505696542) — Era Organics on TikTok
+- [If you've been curious about methylene blue for energy, focus, brain health, or healthy aging, this is a](https://www.tiktok.com/@eraorganics/video/7630848024368925966) — Era Organics on TikTok
 - [I made my own skincare products with one goal in mind: create formulas that actually work for your skin. Tap](https://www.tiktok.com/@eraorganics/video/7642677954304036109) — Era Organics on TikTok
 - [Less is more. Gentle cleansing, breathable fabrics, and the right moisturizer can support delicate skin.](https://www.tiktok.com/@eraorganics/video/7670202487294446861) — Era Organics on TikTok
 - [Skip douching and perfumed sprays. Choose hydration, breathable fabrics, and gentle care that supports your](https://www.tiktok.com/@eraorganics/video/7670574368333761806) — Era Organics on TikTok
@@ -21,6 +25,24 @@ Era Organics brand and general skincare videos not tied to a single product.
 
 ```json
 [
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "Methylene Blue But make it quality",
+    "description": "Why is our Methylene Blue different?",
+    "url": "https://www.youtube.com/watch?v=CyrG4_85qAc",
+    "thumbnailUrl": "https://i.ytimg.com/vi/CyrG4_85qAc/hqdefault.jpg",
+    "uploadDate": "2026-09-19T17:10:36+00:00"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "A little rant about my industry",
+    "description": "Hot take: the skincare industry has convinced us we need WAY more products than we actually do.",
+    "url": "https://www.youtube.com/watch?v=Dk5NM_JYTfU",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Dk5NM_JYTfU/hqdefault.jpg",
+    "uploadDate": "2026-09-17T17:11:05+00:00"
+  },
   {
     "@context": "https://schema.org",
     "@type": "VideoObject",
@@ -56,6 +78,14 @@ Era Organics brand and general skincare videos not tied to a single product.
     "description": "Just put it in the cart. You won't regret it. Microdermabrasion right at your fingertips.",
     "url": "https://www.tiktok.com/@eraorganics/video/7096175058909154606",
     "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/4eaa9fccd00b49079a23147bf409333d_1652207009~tplv-tiktokx-origin.image?dr=9636&x-expires=1784725200&x-signature=P%2FCyNUciH8VMh%2FoJpDn2uV0K8kw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "My holy grail product.",
+    "description": "Because it allows the makeup to sit on the skin. perfectly smooth, the results are instant, shrinking my",
+    "url": "https://www.tiktok.com/@eraorganics/video/7327764012278484270",
+    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/bd0aa8145a9f4ec4885615d8643673c4_1706128049~tplv-tiktokx-dmt-logom:tos-useast5-i-0068-tx/oUAxCAxnBkvErbciFjqUES4cBAIZgizyJB5AE.image?dr=9634&x-expires=1790168400&x-signature=ZAbOcpHxjv3XeuumnN6%2FcPhg1qY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
   },
   {
     "@context": "https://schema.org",
@@ -100,6 +130,14 @@ Era Organics brand and general skincare videos not tied to a single product.
   {
     "@context": "https://schema.org",
     "@type": "VideoObject",
+    "name": "If you've been curious about methylene blue for energy, focus, brain health, or healthy aging, this is a",
+    "description": "If you've been curious about methylene blue for energy, focus, brain health, or healthy aging, this is a",
+    "url": "https://www.tiktok.com/@eraorganics/video/7630848024368925966",
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/okI7MTQgeCGgLAD5luQJnFEHfcDuuzBX0fa7Ak~tplv-tiktokx-origin.image?dr=9636&x-expires=1790168400&x-signature=0X8Hlr5isY7GzX89efQAvKpYP%2Fo%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
     "name": "I made my own skincare products with one goal in mind: create formulas that actually work for your skin. Tap",
     "description": "Get a healthy, glowing complexion with this 6-step affordable skincare routine for oily-combination skin.",
     "url": "https://www.tiktok.com/@eraorganics/video/7642677954304036109",
@@ -119,7 +157,7 @@ Era Organics brand and general skincare videos not tied to a single product.
     "name": "Skip douching and perfumed sprays. Choose hydration, breathable fabrics, and gentle care that supports your",
     "description": "Skip douching and perfumed sprays. Choose hydration, breathable fabrics, and gentle care that supports your",
     "url": "https://www.tiktok.com/@eraorganics/video/7670574368333761806",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ooTzrqjIEWi1EFLheBSEcgDWCBXcBcD1wIsfBv~tplv-tiktokx-origin.image?dr=9636&x-expires=1788354000&x-signature=%2FQA5FLG%2BVh24njtCGy%2Bmlhrh4ZA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ooTzrqjIEWi1EFLheBSEcgDWCBXcBcD1wIsfBv~tplv-tiktokx-origin.image?dr=9636&x-expires=1790168400&x-signature=O2jNcWbRjoqlaP7SX7VCFtp5rKE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
   }
 ]
 ```
