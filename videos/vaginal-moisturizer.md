@@ -8,8 +8,6 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
 
 - [Dryness is WAY more common than women realize, especially during perimenopause, menopause, postpart](https://www.youtube.com/watch?v=R7cUQvcczZU) — Era Organics on YouTube
 - [Your vaginal microbiome is an ecosystem, and like any ecosystem, it needs the right environment to](https://www.youtube.com/watch?v=hIQO0vy7mZA) — Era Organics on YouTube
-- [You Moisturize Your Face—Don't Forget Delicate Skin](https://www.youtube.com/watch?v=-bxhRpfGtrY) — Era Organics on YouTube
-- [The Vagina Cleans Itself" Is True… But](https://www.youtube.com/watch?v=tMU725816rs) — Era Organics on YouTube
 - [Vaginal discharge is your body's natural way of keeping the](https://www.instagram.com/reel/DZCzrNJANyX/) — Era Organics on Instagram
 - [Skincare doesn't stop at your bikini line....it's not TMI, it's TLC](https://www.instagram.com/reel/DZXjUUKok-2/) — Era Organics on Instagram
 - [You've tried 27 "miracle" products and your skin still hates you It's time for a skincare reset @EraOrganics](https://www.tiktok.com/@eraorganics/video/7571551694211894558) — Era Organics on TikTok
@@ -38,24 +36,6 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
     "url": "https://www.youtube.com/watch?v=hIQO0vy7mZA",
     "thumbnailUrl": "https://i.ytimg.com/vi/hIQO0vy7mZA/hqdefault.jpg",
     "uploadDate": "2026-08-17T18:18:29+00:00"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "VideoObject",
-    "name": "You Moisturize Your Face—Don't Forget Delicate Skin",
-    "description": "We care for our face every day, but intimate skin deserves moisture too. Keep it gentle, fragrance-free, and",
-    "url": "https://www.youtube.com/watch?v=-bxhRpfGtrY",
-    "thumbnailUrl": "https://i.ytimg.com/vi/-bxhRpfGtrY/hqdefault.jpg",
-    "uploadDate": "2026-08-09T19:12:32+00:00"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "VideoObject",
-    "name": "The Vagina Cleans Itself\" Is True… But",
-    "description": "The vagina cleans itself. The vulva is different. Gentle external care can still support hydration, comfort",
-    "url": "https://www.youtube.com/watch?v=tMU725816rs",
-    "thumbnailUrl": "https://i.ytimg.com/vi/tMU725816rs/hqdefault.jpg",
-    "uploadDate": "2026-08-08T19:12:48+00:00"
   },
   {
     "@context": "https://schema.org",

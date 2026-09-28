@@ -7,7 +7,6 @@ Era Organics brand and general skincare videos not tied to a single product.
 - [Methylene Blue But make it quality](https://www.youtube.com/watch?v=CyrG4_85qAc) — Era Organics on YouTube
 - [A little rant about my industry](https://www.youtube.com/watch?v=Dk5NM_JYTfU) — Era Organics on YouTube
 - [Spa day at home with Revive](https://www.youtube.com/watch?v=ZAUiNe9mEVk) — Era Organics on YouTube
-- [Five years, one product they keep coming back to. This sweet review is from a mom who ha](https://www.youtube.com/watch?v=EHIOH0iWguY) — Era Organics on YouTube
 - [Natural & Organic Skincare on Instagram: " Era Organics](https://www.instagram.com/reel/DJjshAVuvwG/) — Era Organics on Instagram
 - [Just put it in the cart. You won't regret it. Microdermabrasion right at your fingertips.](https://www.tiktok.com/@eraorganics/video/7096175058909154606) — Era Organics on TikTok
 - [My holy grail product.](https://www.tiktok.com/@eraorganics/video/7327764012278484270) — Era Organics on TikTok
@@ -54,15 +53,6 @@ Era Organics brand and general skincare videos not tied to a single product.
   },
   {
     "@context": "https://schema.org",
-    "@type": "VideoObject",
-    "name": "Five years, one product they keep coming back to. This sweet review is from a mom who ha",
-    "description": "No description",
-    "url": "https://www.youtube.com/watch?v=EHIOH0iWguY",
-    "thumbnailUrl": "https://i.ytimg.com/vi/EHIOH0iWguY/hqdefault.jpg",
-    "uploadDate": "2026-08-13T17:18:52+00:00"
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "SocialMediaPosting",
     "headline": "Natural & Organic Skincare on Instagram: \" Era Organics",
     "url": "https://www.instagram.com/reel/DJjshAVuvwG/",
@@ -85,7 +75,7 @@ Era Organics brand and general skincare videos not tied to a single product.
     "name": "My holy grail product.",
     "description": "Because it allows the makeup to sit on the skin. perfectly smooth, the results are instant, shrinking my",
     "url": "https://www.tiktok.com/@eraorganics/video/7327764012278484270",
-    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/bd0aa8145a9f4ec4885615d8643673c4_1706128049~tplv-tiktokx-dmt-logom:tos-useast5-i-0068-tx/oUAxCAxnBkvErbciFjqUES4cBAIZgizyJB5AE.image?dr=9634&x-expires=1790168400&x-signature=ZAbOcpHxjv3XeuumnN6%2FcPhg1qY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/bd0aa8145a9f4ec4885615d8643673c4_1706128049~tplv-tiktokx-dmt-logom:tos-useast5-i-0068-tx/oUAxCAxnBkvErbciFjqUES4cBAIZgizyJB5AE.image?dr=9634&x-expires=1790773200&x-signature=b1Rt1i5CPC%2FezdK1X%2Bw%2FLfkTkHU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
   },
   {
     "@context": "https://schema.org",
@@ -133,7 +123,7 @@ Era Organics brand and general skincare videos not tied to a single product.
     "name": "If you've been curious about methylene blue for energy, focus, brain health, or healthy aging, this is a",
     "description": "If you've been curious about methylene blue for energy, focus, brain health, or healthy aging, this is a",
     "url": "https://www.tiktok.com/@eraorganics/video/7630848024368925966",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/okI7MTQgeCGgLAD5luQJnFEHfcDuuzBX0fa7Ak~tplv-tiktokx-origin.image?dr=9636&x-expires=1790168400&x-signature=0X8Hlr5isY7GzX89efQAvKpYP%2Fo%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/okI7MTQgeCGgLAD5luQJnFEHfcDuuzBX0fa7Ak~tplv-tiktokx-origin.image?dr=9636&x-expires=1790773200&x-signature=DmWwSOgleELXL1e0PQBOdEY9FmY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
   },
   {
     "@context": "https://schema.org",

@@ -87,11 +87,11 @@ Content in this repository is provided for educational and reference purposes. P
 
 Latest from Era Organics on YouTube, TikTok, and Instagram — browse the full [Video Library](/videos).
 
+- [10 Products that help baby eczema](https://www.youtube.com/watch?v=j9OfToPdmNs) — Era Organics on YouTube
+- [My Go-to Eczema Solution](https://www.youtube.com/watch?v=43Vkhg0OVgM) — Era Organics on YouTube
+- [HOCL for the win](https://www.youtube.com/watch?v=uaVPN_Wtdyc) — Era Organics on YouTube
 - [All the skin problems and all the skin solutions](https://www.youtube.com/watch?v=uzHA7Jyl7CI) — Era Organics on YouTube
 - [Methylene Blue But make it quality](https://www.youtube.com/watch?v=CyrG4_85qAc) — Era Organics on YouTube
 - [Quick tips for baby eczema](https://www.youtube.com/watch?v=i0b77qGxkSQ) — Era Organics on YouTube
-- [HOCL for post workouts](https://www.youtube.com/watch?v=IB6NKG8chw8) — Era Organics on YouTube
-- [A little rant about my industry](https://www.youtube.com/watch?v=Dk5NM_JYTfU) — Era Organics on YouTube
-- [Reviews for superbalm](https://www.youtube.com/watch?v=YT4nvfdyQXA) — Era Organics on YouTube
 
 <!-- video-library:end -->
