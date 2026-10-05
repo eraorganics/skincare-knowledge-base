@@ -14,4 +14,4 @@ Coconut oil (Cocos Nucifera Oil) and sweet almond oil (Prunus Amygdalus Dulcis O
 
 ## Disclaimer
 
-*The information on this page is provided for educational purposes only and is not medical advice. Era Organics products are cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*The information on this page is provided for educational purposes only and is not medical advice. Era Organics offers the Certified Organic Vaginal Moisturizer as a cosmetic product that moisturizes and comforts the skin, and it is not intended to diagnose or treat any medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*

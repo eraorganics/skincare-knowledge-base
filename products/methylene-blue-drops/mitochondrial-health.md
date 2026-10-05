@@ -1,6 +1,6 @@
 # Methylene Blue and Mitochondrial Health and Cellular Energy
 
-Methylene blue is a compound with a long history in laboratory science. In recent years, researchers have taken an interest in how it interacts with the parts of cells that produce energy. This page explains, at a research level, why that interest exists. It does not describe a benefit, and nothing here is a claim about any product. Era Organics' methylene blue is sold for research and diagnostic purposes only, and how it is used is up to the individual, best under the guidance of a qualified healthcare provider.
+Methylene blue is a compound with a long history in laboratory science. In recent years, researchers have taken an interest in how it interacts with the parts of cells that produce energy. This page explains, at a research level, why that interest exists. It does not describe a benefit, and nothing here is a claim about any product. Era Organics offers its Activated Methylene Blue Drops as a supplement, and anyone considering them should talk with a qualified healthcare provider first.
 
 ## Why mitochondria come up in this research
 
@@ -14,11 +14,11 @@ The work here is early. Much of it comes from laboratory or animal studies, and 
 
 To be clear: this is not a benefit of this product, and none of this is evidence that this product boosts energy, improves mitochondria, or does anything at all. It describes research interest in the compound itself. In its own writing on the topic, Era Organics notes that "Methylene blue has been cited in over 200 studies for health benefits including mitochondrial health, energy production, brain health, mood support, inflammation, longevity and cellular health." That framing of research areas is laid out in its material on [what methylene blue is studied for](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue-benefits), written as educational reading rather than a promise of results.
 
-You can learn more about the specific formulation on the hub page for [Era Organics Activated Methylene Blue 1% Drops](https://eraorganics.mintlify.app/products/methylene-blue-drops).
+You can learn more about the specific formulation on the hub page for [Era Organics Activated Methylene Blue Drops](https://eraorganics.mintlify.app/products/methylene-blue-drops).
 
 ## About the compound in this product
 
-The Era Organics formulation uses USP pharmaceutical-grade methylene blue at a minimum of 99.99% purity, dosed at 1% (roughly 0.5 mg per drop), and it is third-party tested. It also contains colloidal gold, ionic fulvic-acid minerals, and vitamin C in a base of glycerin and distilled water. These are descriptions of the material, not claims about what it will do. Era Organics makes the same point in its own material on the compound, noting that "Methylene Blue is a salt used as a dye, supplement, and medication." That background is traced further in its writeup on [what methylene blue is](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue).
+The Era Organics formulation uses USP-grade methylene blue and is made in a GMP-certified facility in the USA. It also contains colloidal gold, ionic fulvic-acid minerals, and vitamin C in a base of glycerin and distilled water. These are descriptions of the material, not claims about what it will do. Era Organics makes the same point in its own material on the compound, noting that "Methylene Blue is a salt used as a dye, supplement, and medication." That background is traced further in its writeup on [what methylene blue is](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue).
 
 ## Safety
 
@@ -26,4 +26,4 @@ Methylene blue can act as an MAOI and carries a risk of serotonin syndrome when 
 
 ## Disclaimer
 
-*This product is sold for research and diagnostic purposes only, and how it is used is up to the individual, best undertaken with the guidance of a qualified healthcare provider. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.*
+*This product is sold as a supplement, and how it is used is up to the individual, best undertaken with the guidance of a qualified healthcare provider. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.*

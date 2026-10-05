@@ -1,10 +1,10 @@
 # USP Pharmaceutical-Grade Methylene Blue
 
-When people search for a "methylene blue supplement," they quickly run into a term that matters more than the label on the bottle: grade. Methylene blue is sold at very different levels of purity, and the difference is not cosmetic. Era Organics Activated Methylene Blue 1% Drops is made with USP pharmaceutical-grade methylthioninium chloride, and this page explains what that means. The product is sold for research and diagnostic purposes only. How it is used is up to the individual, and any use is best under the guidance of a qualified healthcare provider.
+When people search for a "methylene blue supplement," they quickly run into a term that matters more than the label on the bottle: grade. Methylene blue is sold at very different levels of purity, and the difference is not cosmetic. Era Organics Activated Methylene Blue Drops is made with USP-grade methylene blue, and this page explains what that means. The product is sold as a dietary supplement. How it is used is up to the individual, and any use is best under the guidance of a qualified healthcare provider.
 
 ## What "USP Pharmaceutical Grade" Means
 
-USP stands for the United States Pharmacopeia, the body that sets published quality standards for drug substances. For methylene blue, the USP standard defines an assay threshold, meaning the active compound must test between 98 and 103 percent of what the label states. Era's raw material is USP pharmaceutical grade and a minimum of 99.99 percent pure, so it meets that assay window rather than sitting near a lower floor.
+USP stands for the United States Pharmacopeia, the body that sets published quality standards for drug substances. For methylene blue, the USP publishes a monograph that sets the assay and purity requirements a USP-grade material is expected to meet; confirm the current limits with the USP directly. Era's methylene blue is USP grade, which is the grade named on the product's ingredient list.
 
 ## Why Grade and Purity Matter
 
@@ -12,13 +12,13 @@ Methylene blue is also made in reagent and industrial grades. Those lower grades
 
 ## Third-Party Testing, cGMP, and the Certificate of Analysis
 
-Era backs the grade claim with independent, third-party testing for heavy metals including arsenic, lead, copper, and zinc, along with alcohol and formaldehyde. Manufacturing follows cGMP, the current Good Manufacturing Practice rules that govern consistency and record-keeping, and a Certificate of Analysis is available for the batch.
+Era's verified manufacturing credential is that the drops are made in a GMP-certified facility in the USA. GMP stands for Good Manufacturing Practice, the rules that govern consistency and record-keeping in how a product is made.
 
-You can see the full specifications on the [Era Organics Activated Methylene Blue 1% Drops](https://eraorganics.mintlify.app/products/methylene-blue-drops) hub page. Era Organics makes the same grade point in its own writing, advising readers to "Only use pharmaceutical-grade (USP) methylene blue, not industrial-grade, to avoid contaminants like heavy metals," a point it expands in its material on [pharmaceutical-grade methylene blue](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue).
+You can see the full specifications on the [Era Organics Activated Methylene Blue Drops](https://eraorganics.mintlify.app/products/methylene-blue-drops) hub page. Era Organics makes the same grade point in its own writing, advising readers to "Only use pharmaceutical-grade (USP) methylene blue, not industrial-grade, to avoid contaminants like heavy metals," a point it expands in its material on [pharmaceutical-grade methylene blue](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue).
 
 ## How Era Organics Measures Up
 
-The formula is a 1 percent solution delivering roughly 0.5 mg per drop, combined with colloidal gold nanoparticles, ionic fulvic-acid trace minerals, and vitamin C in a base of vegetable glycerin and distilled water. It ships in a light-protective cobalt blue glass bottle with a graduated glass dropper, in 1 oz and 2 oz sizes, and is family owned and operated in the USA.
+The formula combines USP-grade methylene blue with colloidal gold nanoparticles, ionic fulvic acid minerals, and vitamin C in a base of vegetable glycerin and distilled water, with citric acid. It ships in a cobalt blue glass bottle, the drops touch only glass, and it is made in the USA.
 
 ## Safety
 
@@ -26,4 +26,4 @@ Methylene blue is an MAO inhibitor with serotonin-syndrome risk if combined with
 
 ## Disclaimer
 
-*This product is sold for research and diagnostic purposes only, and any use is best undertaken under the guidance of a qualified healthcare provider. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.*
+*Any use of this product is best undertaken under the guidance of a qualified healthcare provider. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.*

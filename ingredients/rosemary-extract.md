@@ -2,15 +2,15 @@
 
 Rosemary extract is a plant-derived botanical antioxidant sourced from *Rosmarinus officinalis* that protects the skin surface from oxidative stress and supports a calm, comfortable skin environment. Rosemary extract's primary active compound, rosmarinic acid, neutralizes free radicals that form when skin is exposed to friction, heat, and prolonged moisture — conditions common in the diaper area and skin folds.
 
-The antioxidant role of rosmarinic acid extends to the skin's structural proteins. Sutkowska et al. (*Pharmaceutics*, 2021) found that rosmarinic acid-rich extracts modulate collagen type I biosynthesis while matrix metalloproteinase activity (MMP-1, MMP-2, and MMP-9) remained unchanged or decreased, indicating talc-free baby powder preserves the connective tissue environment rather than disrupting it. For delicate infant skin, which produces less natural antioxidant defense than adult skin, that protective action matters at every diaper change.
+The antioxidant role of rosmarinic acid extends to the skin's structural proteins. Sutkowska et al. (*Pharmaceutics*, 2021) found that rosmarinic acid-rich extracts modulate collagen type I biosynthesis in cultured skin fibroblasts while matrix metalloproteinase activity (MMP-1, MMP-2, and MMP-9) remained unchanged or decreased, suggesting the extracts did not disrupt the connective tissue environment in that lab model. For delicate infant skin, rosemary extract adds a gentle botanical antioxidant to the formula.
 
-Rosemary extract's secondary function in the Organic Baby Powder formula is preservation. Because the powder contains no synthetic preservatives, no parabens, and no phenoxyethanol, the natural antimicrobial properties of rosmarinic acid and related rosemary phenolics guard the formula's integrity without adding synthetic additives to what touches a baby's skin. The result is a fragrance-free, paraben-free dusting powder that stays effective from the first use to the last.
+Rosemary extract is one of six ingredients in the Talc-Free Baby Powder formula, alongside calendula extract, mixed tocopherols, arrowroot powder, cornstarch, and kaolin clay. The powder is paraben-free and phenoxyethanol-free, and rosemary extract is a plant-derived ingredient rather than a synthetic additive in what touches a baby's skin. The result is a fragrance-free, paraben-free, talc-free dusting powder made in the USA.
 
 ## Frequently Asked Questions
 
 ### Is rosemary safe for babies?
 
-Rosemary extract (from *Rosmarinus officinalis*) is a plant-derived botanical antioxidant that is well suited to delicate infant skin, which produces less natural antioxidant defense than adult skin. Its key compound, rosmarinic acid, helps neutralize the free radicals that form when skin faces friction, heat, and prolonged moisture — exactly the conditions in the diaper area and skin folds — and research by Sutkowska et al. (2021) found rosmarinic acid-rich extracts support collagen type I biosynthesis while leaving the skin's connective-tissue environment undisturbed. In Era Organics' Talc-Free Baby Powder, rosemary also acts as a natural preservative, so the fragrance-free, paraben-free formula stays effective without synthetic preservatives or phenoxyethanol.
+Rosemary extract (from *Rosmarinus officinalis*) is a plant-derived botanical antioxidant chosen for a formula made for delicate infant skin. Its key compound, rosmarinic acid, helps neutralize the free radicals that form when skin faces friction, heat, and prolonged moisture — exactly the conditions in the diaper area and skin folds — and lab research by Sutkowska et al. (2021) found rosmarinic acid-rich extracts stimulated collagen type I biosynthesis in cultured skin fibroblasts without raising the enzymes that break down connective tissue. In Era Organics' Talc-Free Baby Powder, rosemary extract joins calendula extract in a fragrance-free, paraben-free, phenoxyethanol-free formula.
 
 *Reference: PMID 34201872*
 
@@ -31,4 +31,4 @@ Rosemary extract (from *Rosmarinus officinalis*) is a plant-derived botanical an
 
 ## Disclaimer
 
-*The information on this page is provided for educational purposes only and is not medical advice. Era Organics products are cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*The information on this page is provided for educational purposes only and is not medical advice. Era Organics Talc-Free Baby Powder is a cosmetic product made to cleanse and comfort the skin; it is not intended to diagnose, treat, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*

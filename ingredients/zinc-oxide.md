@@ -1,10 +1,10 @@
 # Zinc Oxide
 
-Zinc oxide is in diaper rash cream because it is the only FDA-recognized over-the-counter active ingredient approved to treat and prevent diaper rash. The mineral is a physical barrier, sitting on top of the skin to seal out moisture, urine, and stool before they reach the already-irritated surface. Era Organics Diaper Rash Cream delivers it at 10% — the concentration at which the FDA classifies it as an effective skin protectant.
+Zinc oxide is in diaper rash cream as the labeled over-the-counter active ingredient that helps treat and prevent diaper rash. The mineral acts as a physical barrier: it sits on top of the skin and helps seal out wetness before it reaches skin that is already irritated. Era Organics Diaper Rash Cream contains it at 10%, as listed on the product label.
 
-Clinical data on zinc oxide in diaper rash specifically shows measurable improvement in moisture loss through the skin (transepidermal water loss) (TEWL). A comparative clinical study found the zinc oxide side recorded lower mean TEWL values than the untreated control side on day one of application (Wananukul et al., Journal of the Medical Association of Thailand, 2006). Lower TEWL means the skin barrier is losing less water, a direct signal that zinc oxide is reinforcing the compromised skin surface rather than simply coating it.
+Studies of zinc oxide for diaper rash have measured how much water the skin loses (transepidermal water loss, or TEWL). In one comparison study, the side treated with zinc oxide had lower average TEWL than the untreated side on the first day of use (Wananukul et al., Journal of the Medical Association of Thailand, 2006). Lower TEWL means the skin barrier is losing less water, which suggests zinc oxide supports the damaged skin surface rather than simply coating it.
 
-The Zinc Diaper Balm carries the zinc oxide in a base of organic plant oils and beeswax rather than petroleum or mineral oil. That base matters because zinc oxide needs to stay in contact with the skin through a full diaper cycle. Beeswax, cocoa butter, and shea butter give the Baby Comfort Cream its dense, stay-in-place texture, so the active ingredient remains where it was applied instead of wiping away at the first shift in the diaper.
+Era Organics Diaper Rash Cream carries the zinc oxide in a base of plant oils and beeswax rather than mineral oil. Beeswax, cocoa butter, and shea butter make up part of the Diaper Rash Cream's base, alongside oils such as jojoba, calendula, and coconut.
 
 ## Related
 
@@ -31,4 +31,4 @@ The Zinc Diaper Balm carries the zinc oxide in a base of organic plant oils and 
 
 ## Disclaimer
 
-*Era Organics Diaper Rash Cream is an over-the-counter skin protectant. Its 10% zinc oxide active helps treat and prevent diaper rash, protects chafed skin, and helps seal out wetness as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — if a rash does not improve within seven days, spreads, blisters, or comes with a fever, stop use and consult your pediatrician. Individual results may vary.*
+*The Era Organics Diaper Rash Cream label lists zinc oxide at 10% as its active ingredient. Its 10% zinc oxide active helps treat and prevent diaper rash, protects chafed skin, and helps seal out wetness as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — if a rash does not improve within seven days, spreads, blisters, or comes with a fever, stop use and consult your pediatrician. Individual results may vary.*

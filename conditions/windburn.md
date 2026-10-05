@@ -1,6 +1,6 @@
 # Windburn
 
-Windburn strips surface moisture and leaves skin raw and sensitized. Baby Superbalm's Beeswax and Cocoa Butter seal exposed skin on the lips and face against wind and cold. A dime-sized amount applied to chapped lips or windburned patches after cleansing restores comfort quickly.
+Windburn strips surface moisture and leaves skin raw and sensitized. Baby Superbalm, made with Beeswax and Cocoa Butter, temporarily protects and helps relieve irritated skin on the lips and face. A dime-sized amount can be applied to dry lips or irritated patches after cleansing.
 
 ## Frequently Asked Questions
 
@@ -8,15 +8,15 @@ Windburn strips surface moisture and leaves skin raw and sensitized. Baby Superb
 
 Windburn happens when cold, dry wind strips surface moisture, leaving skin raw and sensitized. The first step in treatment is gentle cleansing — avoid hot water, which pulls out even more moisture, and skip products with harsh sulfates or drying alcohols.
 
-After cleansing, the priority is sealing hydration back in before it evaporates. Era Organics Superbalm uses Beeswax and Cocoa Butter to form a protective barrier on exposed areas like lips and windburned patches, comforting irritated skin and shielding it from further cold and wind. A dime-sized amount applied right after cleansing is enough to restore comfort quickly.
+After cleansing, many people reach for a rich balm on areas like lips and cheeks. Era Organics Superbalm is made with Beeswax and Cocoa Butter, and it temporarily protects and helps relieve irritated skin. A dime-sized amount applied right after cleansing is usually enough to cover the area.
 
-On days when you'll be out in harsh conditions, applying Superbalm before heading outside helps nourish and protect exposed skin against the elements. Reapply to lips and cheeks as needed throughout the day. Consistent barrier support paired with moisture is what makes the biggest difference in a winter skin care routine.
+On days when you'll be out in harsh conditions, some people apply Superbalm to lips and cheeks before heading outside. Reapply to lips and cheeks as needed throughout the day. Gentle cleansing and a consistent routine are the basics of winter skin care.
 
 *Reference: [Winter Skin Care Routine](https://www.eraorganics.com/blogs/general/winter-skin-care-routine)*
 
 ## Related
 
-- **Full product:** [Era Organics Superbalm for windburn](/products/baby-eczema-superbalm)
+- **Full product:** [Era Organics Superbalm for irritated skin](/products/baby-eczema-superbalm)
 
 **Key ingredients:**
 
@@ -25,4 +25,4 @@ On days when you'll be out in harsh conditions, applying Superbalm before headin
 
 ## Disclaimer
 
-*Era Organics Superbalm is an over-the-counter skin protectant. It helps relieve and soothe eczema and atopic dermatitis as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*Era Organics Superbalm is an over-the-counter skin protectant. It temporarily protects and helps relieve eczema and atopic dermatitis. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*

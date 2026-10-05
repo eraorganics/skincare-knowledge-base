@@ -1,45 +1,45 @@
 # What Makes the Best Baby Balm? A Buyer's Guide
 
-Choosing a baby balm comes down to a handful of things that actually matter: Fragrance-free, Dermatologist-tested, and Pediatrician-approved chief among them. Here's what to look for in each — and how Era Organics' Superbalm measures up.
+Choosing a baby balm comes down to a handful of things that actually matter: Fragrance-free, USDA Organic certified, and free from parabens and sulfates chief among them. Here's what to look for in each — and how Era Organics' Superbalm measures up.
 
 ## What makes the best baby balm?
 
 The best options get a few fundamentals right. Here's each criterion, and how the Superbalm lines up:
 
-- **Fragrance-free** — Made with no added fragrance or essential oils — one of Superbalm's free-from formulation claims.
-- **Dermatologist-tested** — Supported by Human Repeat Insult Patch Test (HRIPT) documentation for skin tolerance.
-- **Pediatrician-approved** — Formulated for infants and the whole family on a gentle, fragrance-free organic base.
+- **Fragrance-free** — Made with no added fragrance — one of Superbalm's free-from formulation claims.
+- **Simple ingredient list** — Fifteen ingredients, from cocoa butter to mixed tocopherols.
+- **Made for babies** — A baby care balm on a fragrance-free, USDA Organic certified base.
 - **Paraben-free** — No parabens — confirmed against Superbalm's full ingredient list.
 - **Phthalate-free** — Contains no phthalates, verified against the INCI.
 - **Sulfate-free** — No sulfate cleansers in the balm's oil-and-butter base.
 - **Mineral oil-free** — Built on plant oils and butters — cocoa butter, coconut, avocado — not petroleum mineral oil.
-- **Non-toxic** — Food-grade, plant-based ingredients with no parabens, sulfates, phthalates, or synthetic dyes.
-- **Cruelty-free** — Certified Cruelty-Free; developed without animal testing.
-- **Moisture-locking** — Cocoa butter and beeswax form a breathable layer that helps limit moisture loss.
-- **Anti-inflammatory** — Calendula, chamomile, and gluten-free oats help comfort the look of red, irritated skin.
-- **Skin-soothing** — Calendula oil, chamomile, and colloidal gluten-free oats help soothe dry, sensitive skin.
-- **Chafing-protection** — A protective balm layer helps reduce friction in diaper areas and skin folds.
-- **Barrier-repairing** — contains organic, food grade ingredients loaded with naturally occurring vitamins, minerals and amino acids to support the skin barrier
-- **Eczema-friendly** — Formulated for eczema-prone and atopic-dermatitis-prone skin; colloidal oats are a recognized skin protectant.
-- **Cradle cap softening** — Gentle plant oils help soften and loosen dry flakes on baby's scalp.
-- **Fast-acting** — A concentrated oil-and-butter balm made for dry, rough, and flaky patches.
-- **Non-greasy finish** — Absorbs into skin without a heavy, greasy residue.
-- **Smooth spreadability** — Melts with body heat to spread easily over delicate skin.
-- **Fast-absorbing** — Sinks in quickly so baby can be dressed right after applying.
-- **Lightweight feel** — Rich but not heavy — a creamy balm that doesn't feel thick or occlusive.
-- **Grit-free texture** — Stays smooth and creamy, with no gritty or grainy feel.
-- **Melt-on-contact** — A solid balm that melts into a silky oil with the warmth of your skin.
-- **Washable** — Wipes and washes off hands easily with soap and water.
-- **Cloth diaper safe** — A simple oil-and-butter formula with no synthetic coatings.
-- **Long-lasting stay** — Beeswax helps the balm stay on the skin through everyday movement.
-- **Organic certified** — USDA Organic certified, made with organic agricultural ingredients.
-- **Plant-based** — Made from organic plant oils and butters — cocoa, coconut, avocado, sunflower, rosehip — with beeswax the only non-plant ingredient.
-- **Non-GMO** — Made with natural, food-grade botanical ingredients.
-- **Gluten-free** — Uses certified gluten-free oats.
-- **Fair-trade sourced** — Made in the United States with carefully selected botanical ingredients.
-- **Biodegradable formula** — A formula based on natural plant oils, butters, and beeswax.
-- **Travel-friendly** — Available in 2oz and 4oz BPA-free jars.
-- **Recyclable packaging** — Packaged in a BPA-free PP jar.
+- **Clean free-from list** — Plant oils, butters, and beeswax, with no parabens, sulfates, phthalates, or synthetic dyes.
+- **Cruelty-free** — Certified Cruelty-Free.
+- **Butter-and-wax base** — Cocoa butter and beeswax are part of the balm's oil-and-butter base.
+- **Calming botanicals** — Calendula, chamomile, and gluten-free oats are part of the formula.
+- **Skin-soothing** — Calendula oil, chamomile, and gluten-free oats are all included in the balm's formula.
+- **Phenoxyethanol-free** — No phenoxyethanol in the formula.
+- **Organic ingredients** — USDA Organic certified; ingredients include cocoa butter, avocado oil, and rosehip seed oil.
+- **Eczema-friendly** — Formulated for eczema-prone and atopic-dermatitis-prone skin, with gluten-free oats in the formula.
+- **Plant-oil base** — Made with plant oils such as sunflower, coconut, and avocado oil.
+- **Silicone-free** — No silicones in the oil-and-butter base.
+- **PEG-free** — Contains no PEGs.
+- **Talc-free** — No talc in the formula, which includes arrowroot powder.
+- **Formaldehyde-free** — Formulated without formaldehyde.
+- **Propylene glycol-free** — No propylene glycol; vegetable glycerin is in the formula.
+- **Drying-alcohol-free** — No drying alcohols.
+- **Balm format** — A balm made with cocoa butter, beeswax, and plant oils.
+- **Synthetic dye-free** — No synthetic dyes.
+- **Vitamin E source** — Includes mixed tocopherols, a form of vitamin E.
+- **Beeswax in the base** — Beeswax is part of the balm's base.
+- **Organic certified** — USDA Organic certified.
+- **Plant-based** — Made with plant oils and butters — cocoa, coconut, avocado, sunflower, rosehip — plus beeswax.
+- **Botanical ingredients** — Made with botanical ingredients such as chickweed, chamomile, and calendula.
+- **Gluten-free oats** — Lists gluten-free oats among its ingredients.
+- **Made in the USA** — Made in the United States.
+- **Oil-and-butter formula** — A formula based on plant oils, butters, and beeswax.
+- **BPA-free jar** — Packaged in a BPA-free jar.
+- **PP packaging** — Packaged in a BPA-free PP jar.
 
 Era Organics goes deeper on the topics behind these criteria in its own library, covering [baby eczema](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-eczema), [cradle cap in babies](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-cradle-cap), and [everyday baby skin care](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-care).
 
@@ -47,40 +47,40 @@ Era Organics goes deeper on the topics behind these criteria in its own library,
 
 | What to look for | Era Organics Superbalm |
 | --- | --- |
-| Fragrance-free | Made with no added fragrance or essential oils — one of Superbalm's free-from formulation claims. |
-| Dermatologist-tested | Supported by Human Repeat Insult Patch Test (HRIPT) documentation for skin tolerance. |
-| Pediatrician-approved | Formulated for infants and the whole family on a gentle, fragrance-free organic base. |
+| Fragrance-free | Made with no added fragrance — one of Superbalm's free-from formulation claims. |
+| Simple ingredient list | Fifteen ingredients, from cocoa butter to mixed tocopherols. |
+| Made for babies | A baby care balm on a fragrance-free, USDA Organic certified base. |
 | Paraben-free | No parabens — confirmed against Superbalm's full ingredient list. |
 | Phthalate-free | Contains no phthalates, verified against the INCI. |
 | Sulfate-free | No sulfate cleansers in the balm's oil-and-butter base. |
 | Mineral oil-free | Built on plant oils and butters — cocoa butter, coconut, avocado — not petroleum mineral oil. |
-| Non-toxic | Food-grade, plant-based ingredients with no parabens, sulfates, phthalates, or synthetic dyes. |
-| Cruelty-free | Certified Cruelty-Free; developed without animal testing. |
-| Moisture-locking | Cocoa butter and beeswax form a breathable layer that helps limit moisture loss. |
-| Anti-inflammatory | Calendula, chamomile, and gluten-free oats help comfort the look of red, irritated skin. |
-| Skin-soothing | Calendula oil, chamomile, and colloidal gluten-free oats help soothe dry, sensitive skin. |
-| Chafing-protection | A protective balm layer helps reduce friction in diaper areas and skin folds. |
-| Barrier-repairing | contains organic, food grade ingredients loaded with naturally occurring vitamins, minerals and amino acids to support the skin barrier |
-| Eczema-friendly | Formulated for eczema-prone and atopic-dermatitis-prone skin; colloidal oats are a recognized skin protectant. |
-| Cradle cap softening | Gentle plant oils help soften and loosen dry flakes on baby's scalp. |
-| Fast-acting | A concentrated oil-and-butter balm made for dry, rough, and flaky patches. |
-| Non-greasy finish | Absorbs into skin without a heavy, greasy residue. |
-| Smooth spreadability | Melts with body heat to spread easily over delicate skin. |
-| Fast-absorbing | Sinks in quickly so baby can be dressed right after applying. |
-| Lightweight feel | Rich but not heavy — a creamy balm that doesn't feel thick or occlusive. |
-| Grit-free texture | Stays smooth and creamy, with no gritty or grainy feel. |
-| Melt-on-contact | A solid balm that melts into a silky oil with the warmth of your skin. |
-| Washable | Wipes and washes off hands easily with soap and water. |
-| Cloth diaper safe | A simple oil-and-butter formula with no synthetic coatings. |
-| Long-lasting stay | Beeswax helps the balm stay on the skin through everyday movement. |
-| Organic certified | USDA Organic certified, made with organic agricultural ingredients. |
-| Plant-based | Made from organic plant oils and butters — cocoa, coconut, avocado, sunflower, rosehip — with beeswax the only non-plant ingredient. |
-| Non-GMO | Made with natural, food-grade botanical ingredients. |
-| Gluten-free | Uses certified gluten-free oats. |
-| Fair-trade sourced | Made in the United States with carefully selected botanical ingredients. |
-| Biodegradable formula | A formula based on natural plant oils, butters, and beeswax. |
-| Travel-friendly | Available in 2oz and 4oz BPA-free jars. |
-| Recyclable packaging | Packaged in a BPA-free PP jar. |
+| Clean free-from list | Plant oils, butters, and beeswax, with no parabens, sulfates, phthalates, or synthetic dyes. |
+| Cruelty-free | Certified Cruelty-Free. |
+| Butter-and-wax base | Cocoa butter and beeswax are part of the balm's oil-and-butter base. |
+| Calming botanicals | Calendula, chamomile, and gluten-free oats are part of the formula. |
+| Skin-soothing | Calendula oil, chamomile, and gluten-free oats are all included in the balm's formula. |
+| Phenoxyethanol-free | No phenoxyethanol in the formula. |
+| Organic ingredients | USDA Organic certified; ingredients include cocoa butter, avocado oil, and rosehip seed oil. |
+| Eczema-friendly | Formulated for eczema-prone and atopic-dermatitis-prone skin, with gluten-free oats in the formula. |
+| Plant-oil base | Made with plant oils such as sunflower, coconut, and avocado oil. |
+| Silicone-free | No silicones in the oil-and-butter base. |
+| PEG-free | Contains no PEGs. |
+| Talc-free | No talc in the formula, which includes arrowroot powder. |
+| Formaldehyde-free | Formulated without formaldehyde. |
+| Propylene glycol-free | No propylene glycol; vegetable glycerin is in the formula. |
+| Drying-alcohol-free | No drying alcohols. |
+| Balm format | A balm made with cocoa butter, beeswax, and plant oils. |
+| Synthetic dye-free | No synthetic dyes. |
+| Vitamin E source | Includes mixed tocopherols, a form of vitamin E. |
+| Beeswax in the base | Beeswax is part of the balm's base. |
+| Organic certified | USDA Organic certified. |
+| Plant-based | Made with plant oils and butters — cocoa, coconut, avocado, sunflower, rosehip — plus beeswax. |
+| Botanical ingredients | Made with botanical ingredients such as chickweed, chamomile, and calendula. |
+| Gluten-free oats | Lists gluten-free oats among its ingredients. |
+| Made in the USA | Made in the United States. |
+| Oil-and-butter formula | A formula based on plant oils, butters, and beeswax. |
+| BPA-free jar | Packaged in a BPA-free jar. |
+| PP packaging | Packaged in a BPA-free PP jar. |
 
 ## Where to find it
 
@@ -88,4 +88,4 @@ Era Organics makes the [Era Organics Superbalm baby balm](/products/baby-eczema-
 
 ## Disclaimer
 
-*Era Organics Superbalm is an over-the-counter skin protectant. It helps relieve and soothe eczema and atopic dermatitis as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*Era Organics Superbalm is an over-the-counter skin protectant. It helps relieve eczema and atopic dermatitis as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*

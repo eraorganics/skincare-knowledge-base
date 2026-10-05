@@ -1,12 +1,12 @@
 # Hypochlorous Acid
 
-Hypochlorous acid (HOCl) is the active antimicrobial molecule in the spray — the same oxidant white blood cells produce during an immune response to neutralize pathogens on the skin. At a concentration of 0.02%, hypochlorous acid delivers targeted antimicrobial action without the harsh chemical load of traditional disinfectants.
+Hypochlorous acid (HOCl) is the key ingredient in the spray — the same molecule white blood cells produce as part of the body's natural immune response. The spray contains hypochlorous acid at 0.02% in a simple saline base, a fragrance-free mist for the face and body.
 
-The body produces HOCl naturally as a first-line defense, which explains hypochlorous acid spray's compatibility with living tissue. Clinical studies across dermatology, surgery, and ophthalmology confirm HOCl's broad utility, with the majority showing it is useful in therapeutic contexts across multiple tissue types (Haralović et al., Biomedicines, 2025). Sodium chloride and water are the only supporting ingredients in the formula, making the three-ingredient list unusually short for a product targeting redness, irritation, and skin imbalance.
+The body produces HOCl naturally, which is part of why researchers have studied it across many tissue types. Clinical studies across dermatology, surgery, and ophthalmology have explored HOCl's broad utility, with the majority reporting it useful in clinical settings across multiple tissue types (Haralović et al., Biomedicines, 2025). Sodium chloride and water are the only other ingredients in the formula, for a three-ingredient list made for dry, irritated, or redness-prone skin.
 
-The antimicrobial scope of HOCl extends to biofilm-forming organisms that resist standard wound care. HOCl disrupts *Candida albicans* biofilms in wound beds, a problem that conventional approaches struggle to address (Zmuda et al., Journal of Applied Microbiology, 2020). For everyday skin concerns, razor burn, bug bites, chapping, or baby acne, this mechanism means the face mist addresses the microbial dimension of surface irritation without synthetic preservatives or drying alcohols.
+In laboratory research, HOCl has been studied against biofilm-forming organisms. One study found HOCl disrupted *Candida albicans* biofilms in a wound model, a problem that conventional approaches struggle to address (Zmuda et al., Journal of Applied Microbiology, 2020). For everyday skin discomfort from razor burn, bug bites, chapping, or baby acne, the face mist soothes and comforts the look and feel of skin, and is made without parabens, phenoxyethanol, or drying alcohols.
 
-Safety data from a 157-patient aesthetic surgery cohort showed a surgical site infection rate of 1.27% when HOCl was used as a skin preparation agent, with both infections resolving with oral antibiotics (Arnaout et al., Aesthetic Plastic Surgery, 2026). Patch testing on the inner arm before first use remains standard guidance, particularly for ragweed-sensitive users given the product's broad application range from scalp to diaper area.
+Safety data from a 157-patient aesthetic surgery cohort showed a surgical site infection rate of 1.27% when HOCl was used as a skin preparation agent, with both infections resolving with oral antibiotics (Arnaout et al., Aesthetic Plastic Surgery, 2026). Patch testing on the inner arm before first use remains standard guidance, particularly for those with sensitive skin.
 
 ## Related
 
@@ -44,4 +44,4 @@ Safety data from a 157-patient aesthetic surgery cohort showed a surgical site i
 
 ## Disclaimer
 
-*The information on this page is provided for educational purposes only and is not medical advice. Era Organics products are cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*The information on this page is provided for educational purposes only and is not medical advice. The Era Organics hypochlorous acid spray is sold as a cosmetic face and body mist and is not intended to diagnose, treat, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*

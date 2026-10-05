@@ -2,9 +2,9 @@
 
 Kaolin clay is a naturally occurring white mineral clay that absorbs excess oil and moisture from the skin's surface without stripping the skin barrier. Derived from the mineral kaolinite, kaolin clay has a fine, soft texture that sits comfortably against delicate skin, making it a practical alternative to talc in a baby dusting powder.
 
-Kaolin clay's moisture-absorbing structure draws perspiration away from the diaper area, skin folds, and underarms, keeping the skin surface dry between changes. Unlike coarser absorbents, kaolin clay particles are light enough to dust evenly across the skin without caking, which maintains breathability throughout wear.
+Kaolin clay's moisture-absorbing structure draws perspiration away from the diaper area, skin folds, and underarms, helping the skin surface feel dry between changes. Unlike coarser absorbents, kaolin clay particles are light enough to dust evenly across the skin without caking, which helps skin feel breathable.
 
-Safety assessment of kaolin clay particles in skin-contact applications is an active area of evaluation. Kawanishi et al. Examined the genotoxicity of micro- and nano-sized kaolin particles on human primary dermal skin cells (keratinocytes) and collagen-producing cells (fibroblasts), finding that fine kaolin particles tended toward higher genotoxic potency than coarse particles in that cell model (Kawanishi et al., Genes and Environment, 2020). The Era Organics Talc-Free Baby Powder uses kaolin clay in a light-dusting format applied by patting rather than shaking heavy airborne clouds near the face, a method that limits particle inhalation and keeps contact intentional and surface-level.
+Safety assessment of kaolin clay particles in skin-contact applications is an active area of evaluation. Kawanishi et al. Examined the genotoxicity of micro- and nano-sized kaolin particles on human primary dermal skin cells (keratinocytes) and collagen-producing cells (fibroblasts), finding that fine kaolin particles tended toward higher genotoxic potency than coarse particles in that cell model (Kawanishi et al., Genes and Environment, 2020). The Era Organics Talc-Free Baby Powder includes kaolin clay alongside arrowroot powder and cornstarch in a talc-free, fragrance-free formula.
 
 Separately, a clinical assessment of a clay-based mask formula found significant improvements in skin hydration and texture alongside high product safety scores (Zhang et al., Skin Research and Technology, 2023). Kaolin clay's dual contribution to moisture management and skin-surface texture makes it a purposeful ingredient in the Organic Baby Powder's six-ingredient blend.
 
@@ -12,13 +12,13 @@ Separately, a clinical assessment of a clay-based mask formula found significant
 
 ### Is kaolin clay safe for babies and kids?
 
-Kaolin clay is a naturally occurring white mineral clay with a fine, soft texture that absorbs excess oil and moisture without stripping the skin barrier, which is why it's a long-used alternative to talc for delicate skin. Safety research on kaolin particles is ongoing — one lab study on human skin cells found that very fine particles tended toward higher genotoxic potency than coarser ones — so how a powder is applied matters. Era Organics Talc-Free Baby Powder uses kaolin in a light-dusting format that's patted on rather than shaken into airborne clouds near the face, limiting particle inhalation while the clay draws perspiration away from the diaper area, skin folds, and underarms to help keep skin dry.
+Kaolin clay is a naturally occurring white mineral clay with a fine, soft texture that absorbs excess oil and moisture without stripping the skin barrier, which is why it's a long-used alternative to talc for delicate skin. Safety research on kaolin particles is ongoing — one lab study on human skin cells found that very fine particles tended toward higher genotoxic potency than coarser ones — so how a powder is applied matters. Era Organics Talc-Free Baby Powder pairs kaolin with arrowroot powder and cornstarch in a talc-free, fragrance-free formula, where the clay helps absorb moisture around the diaper area, skin folds, and underarms so skin feels drier.
 
 *Reference: PMID 32322315*
 
 ### What is kaolin clay and what is it good for?
 
-Kaolin clay is a naturally occurring white mineral clay, derived from the mineral kaolinite, with a fine, soft texture that absorbs excess oil and moisture without stripping the skin barrier. It's good at drawing perspiration away from the diaper area, skin folds, and underarms to keep skin dry, and its light particles dust evenly without caking, so skin stays breathable. That combination makes it a practical talc alternative, which is why it's part of the six-ingredient blend in Era Organics' Talc-Free Baby Powder. Research into kaolin particle safety on skin cells is ongoing, and the powder is designed to be patted on rather than shaken into airborne clouds near the face, keeping contact intentional and surface-level.
+Kaolin clay is a naturally occurring white mineral clay, derived from the mineral kaolinite, with a fine, soft texture that absorbs excess oil and moisture without stripping the skin barrier. It's good at drawing perspiration away from the diaper area, skin folds, and underarms to help skin feel dry, and its light particles dust evenly without caking, so skin feels breathable. That combination makes it a practical talc alternative, which is why it's part of the six-ingredient blend in Era Organics' Talc-Free Baby Powder. Research into kaolin particle safety on skin cells is ongoing, and the powder is made without talc, fragrance, parabens, or synthetic dyes.
 
 *Reference: PMID 32322315*
 
@@ -40,4 +40,4 @@ Kaolin clay is a naturally occurring white mineral clay, derived from the minera
 
 ## Disclaimer
 
-*The information on this page is provided for educational purposes only and is not medical advice. Era Organics products are cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*The information on this page is provided for educational purposes only and is not medical advice. Era Organics Talc-Free Baby Powder is a cosmetic powder made to help skin feel dry, soft, and comfortable. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*

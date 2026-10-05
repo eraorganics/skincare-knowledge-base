@@ -1,14 +1,14 @@
 # Hives
 
-Hives and general skin irritation involve an inflammatory response at the skin surface. Chamomile, a botanical with recognized anti-inflammatory properties, and Gluten Free Oats in the balm calm reactive skin and reduce surface redness.
+Hives and general skin irritation involve an inflammatory response at the skin surface. The balm's ingredients include Chamomile, a botanical studied for its anti-inflammatory properties, and Gluten Free Oats, a traditional ingredient for dry, irritated skin.
 
 ## Frequently Asked Questions
 
 ### How do I treat hives or urticaria naturally?
 
-Hives (urticaria) involve an inflammatory response at the skin surface that leaves skin red, raised, and reactive. A topical that calms surface inflammation without adding irritation is a sensible starting point.
+Hives (urticaria) involve an inflammatory response at the skin surface that leaves skin red, raised, and reactive. Choosing gentle skin care that adds no extra irritants is a sensible starting point, but a topical product does not treat the hives reaction itself.
 
-Era Organics Superbalm is formulated with chamomile, a botanical with recognized anti-inflammatory properties, and oats — both of which calm reactive skin and help reduce surface redness. For skin already in a reactive state, the formula matters: Superbalm contains no fragrances, parabens, sulfates, phthalates, or synthetic dyes, keeping potential irritants away from inflamed skin. Applying a thin layer to affected areas can soothe and comfort the skin surface while the reaction runs its course.
+Era Organics Superbalm is formulated with chamomile, a botanical studied for its anti-inflammatory properties, and oats, a long-used ingredient for dry, irritated skin. For skin already in a reactive state, the formula matters: Superbalm contains no fragrances, parabens, sulfates, phthalates, or synthetic dyes, so fewer potential irritants touch sensitive skin. Superbalm is meant to temporarily protect and help relieve the itch and irritation of eczema, dermatitis, and rashes; for hives, ask a clinician what to use.
 
 If hives are severe, recurring, or accompanied by swelling or difficulty breathing, seek medical attention promptly — those symptoms go beyond what a topical can address.
 
@@ -18,7 +18,7 @@ If hives are severe, recurring, or accompanied by swelling or difficulty breathi
 
 Hives — also called urticaria — develop when an inflammatory response flares at the skin surface, producing raised, itchy welts that can appear and disappear quickly. The inflammatory nature of the reaction is what drives the characteristic redness and discomfort.
 
-Calming that surface inflammation matters during a breakout. Era Organics Superbalm contains chamomile, a botanical recognized for its anti-inflammatory properties, and oats that help calm reactive skin and reduce surface redness — making it a gentle, comforting option for irritated, flaring skin.
+Era Organics Superbalm's ingredients include chamomile, a botanical studied for its anti-inflammatory properties, and oats, a long-used ingredient for dry, irritated skin.
 
 Since reactive skin is already under stress, keeping products simple and gentle is important. Superbalm is fragrance-free, paraben-free, and free from synthetic dyes, which means fewer potential irritants coming into contact with already-sensitive skin during a flare.
 
@@ -35,7 +35,7 @@ Since reactive skin is already under stress, keeping products simple and gentle 
 
 ## Disclaimer
 
-*Era Organics Superbalm is an over-the-counter skin protectant. It helps relieve and soothe eczema and atopic dermatitis as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*Era Organics Superbalm is an over-the-counter skin protectant. It is meant to temporarily protect and help relieve the itch and irritation of eczema and atopic dermatitis. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
 
 <!-- enhance:dermatitis-cream:conditions/hives -->
 
@@ -43,42 +43,42 @@ Since reactive skin is already under stress, keeping products simple and gentle 
 
 ## Relief OTC Dermatitis Cream for this concern
 
-Era Organics Relief is the brand's over-the-counter colloidal oatmeal 1% skin protectant for relieving the itching and irritation of flare-prone skin. For the full grounded ingredient breakdown and evidence, see the [Era Organics Relief cream for hives](/products/dermatitis-cream) product page.
+Era Organics Relief is the brand's over-the-counter colloidal oatmeal 1% skin protectant, made to temporarily protect and help relieve the itch and irritation of eczema, dermatitis, and rashes. For the full ingredient breakdown and evidence, see the [Era Organics Relief OTC Dermatitis Cream](/products/dermatitis-cream) product page.
 
 ## Frequently Asked Questions
 
 ### How do I stop hives from itching?
 
-To calm itching hives, keep the skin cool, moisturized, and protected so you interrupt the itch-scratch cycle that worsens flares. Era Organics Relief OTC Dermatitis Cream can help here: its colloidal oatmeal 1% forms a protective film over reactive skin, and the avenanthramides naturally found in oat grain help reduce surface irritation and temporarily soothe inflamed skin. Aloe vera, glycerin, and hyaluronic acid restore surface moisture lost during a flare, while shea and cocoa butter add occlusive lipids that slow moisture loss through the weakened barrier. Patch test on a small area first, especially if you have known sensitivities to botanicals like oat or sunflower.
+Keeping itchy skin cool, moisturized, and protected helps you avoid the itch-scratch cycle, where scratching makes the itch worse. Era Organics Relief OTC Dermatitis Cream is made for the itch and irritation of eczema, dermatitis, and rashes, not for hives. Its active ingredient, colloidal oatmeal 1%, is a skin protectant that forms a protective film on the skin, and the avenanthramides naturally found in oat grain have been studied for their anti-itch properties. Aloe vera, glycerin, and hyaluronic acid are humectants that draw moisture to the skin surface, while shea and cocoa butter are occlusive lipids that help slow moisture loss. Patch test on a small area first, especially if you have known sensitivities to botanicals like oat or sunflower.
 
 *Reference: [How To Get Rid Of Hives](https://www.eraorganics.com/blogs/damage-skin/how-to-get-rid-of-hives)*
 
 ### What can I put on hives to treat them?
 
-You can apply a colloidal oatmeal skin protectant to help calm and soothe hive-prone skin. Era Organics Relief OTC Dermatitis Cream uses colloidal oatmeal 1%, an FDA-recognized active that forms a protective film over reactive skin, and its avenanthramides (anti-itch polyphenols in oat grain) help interrupt the itch-scratch cycle that worsens hive flares. Aloe vera, glycerin, and hyaluronic acid restore surface moisture lost during hive episodes, while shea and cocoa butter add occlusive lipids that reinforce the weakened skin barrier and slow moisture loss between applications. Patch test on a small area first, especially if you have known sensitivities to botanical ingredients like sunflower or oat.
+Hives themselves are best discussed with a clinician, since a skin protectant doesn't treat the underlying reaction. Era Organics Relief OTC Dermatitis Cream uses colloidal oatmeal 1%, an active ingredient listed in the FDA's over-the-counter skin protectant rules (21 CFR Part 347), and is made for the itch and irritation of eczema, dermatitis, and rashes; the avenanthramides in oat grain have been studied for their anti-itch properties. Aloe vera, glycerin, and hyaluronic acid are humectants that draw moisture to the skin surface, while shea and cocoa butter are occlusive lipids that help support the skin barrier and slow moisture loss between applications. Patch test on a small area first, especially if you have known sensitivities to botanical ingredients like sunflower or oat.
 
 *Reference: [How To Get Rid Of Hives](https://www.eraorganics.com/blogs/damage-skin/how-to-get-rid-of-hives)*
 
 ### What can you put on hives to relieve them?
 
-Apply a colloidal oatmeal skin protectant to help calm the itching and irritation of hive-prone skin. Era Organics Relief OTC Dermatitis Cream uses colloidal oatmeal 1%, an FDA-recognized active that forms a protective film over reactive skin; its avenanthramides (anti-itch polyphenols from oat grain) help interrupt the itch-scratch cycle that worsens flares. Aloe vera, glycerin, and hyaluronic acid restore surface moisture lost during episodes, while shea and cocoa butter add occlusive lipids that reinforce the weakened skin barrier and slow moisture loss. Patch test a small area before first use, especially if you have known sensitivities to botanicals like oat or sunflower.
+Ask a clinician what to use for hives; a colloidal oatmeal skin protectant is made for a different job. Era Organics Relief OTC Dermatitis Cream uses colloidal oatmeal 1%, a skin protectant ingredient that forms a protective film on the skin, and is made for the itch and irritation of eczema, dermatitis, and rashes; oat avenanthramides have been studied for their anti-itch properties. Aloe vera, glycerin, and hyaluronic acid are humectants that draw moisture to the skin surface, while shea and cocoa butter are occlusive lipids that help support the skin barrier and slow moisture loss. Patch test a small area before first use, especially if you have known sensitivities to botanicals like oat or sunflower.
 
 *Reference: [How To Get Rid Of Hives](https://www.eraorganics.com/blogs/damage-skin/how-to-get-rid-of-hives)*
 
 ### What causes hives on the skin?
 
-Hives are raised, reactive welts that flare when skin becomes irritated and inflamed, and scratching them makes the flare worse. Era Organics Relief OTC Dermatitis Cream helps here through its colloidal oatmeal 1% skin protectant, which forms a protective film over reactive skin; the avenanthramides in colloidal oatmeal help interrupt the itch-scratch cycle by calming surface irritation. Aloe vera, glycerin, hyaluronic acid, and occlusive shea and cocoa butters work alongside the active to restore surface moisture lost during hive episodes and soothe recently inflamed skin. Patch test on a small area before first use, especially if you have known sensitivities to botanical ingredients such as oat.
+Hives are raised, reactive welts that flare when skin becomes irritated and inflamed, and scratching them makes the flare worse. Era Organics Relief OTC Dermatitis Cream is a colloidal oatmeal 1% skin protectant made for the itch and irritation of eczema, dermatitis, and rashes, not for hives; the avenanthramides in oat grain have been studied for their anti-itch properties. Aloe vera, glycerin, and hyaluronic acid draw moisture to the skin surface, and shea and cocoa butters are occlusive lipids that help slow moisture loss. Patch test on a small area before first use, especially if you have known sensitivities to botanical ingredients such as oat.
 
 *Reference: [How To Get Rid Of Hives](https://www.eraorganics.com/blogs/damage-skin/how-to-get-rid-of-hives)*
 
 ### What helps hives on the face?
 
-A skin protectant that forms a calming barrier over reactive skin can help hives on the face feel more comfortable. Era Organics Relief OTC Dermatitis Cream uses colloidal oatmeal 1%, an FDA-recognized skin protectant whose avenanthramides help interrupt the itch-scratch cycle and temporarily soothe surface irritation during a flare. Aloe vera, glycerin, and hyaluronic acid restore moisture lost during hive episodes, while shea and cocoa butter add occlusive lipids that support the weakened skin barrier. Patch test on a small area first, especially if you have known sensitivities to botanicals like oat or sunflower.
+Hives on the face are worth showing to a clinician, especially if there is any swelling. Era Organics Relief OTC Dermatitis Cream uses colloidal oatmeal 1%, a skin protectant ingredient, and is made for the itch and irritation of eczema, dermatitis, and rashes; oat avenanthramides have been studied for their anti-itch properties. Aloe vera, glycerin, and hyaluronic acid draw moisture to the skin surface, while shea and cocoa butter are occlusive lipids that help support the skin barrier. Patch test on a small area first, especially if you have known sensitivities to botanicals like oat or sunflower.
 
 *Reference: [How To Get Rid Of Hives](https://www.eraorganics.com/blogs/damage-skin/how-to-get-rid-of-hives)*
 
 ### Why do I get temporary red, itchy patches on my skin?
 
-Temporary red, itchy patches are often hives, a reactive skin flare where the surface becomes irritated and inflamed. Era Organics Relief OTC Dermatitis Cream helps by forming a protective film over reactive skin through its colloidal oatmeal 1% skin protectant, whose avenanthramides (anti-itch polyphenols from oat grain) help interrupt the itch-scratch cycle and calm surface irritation. Aloe vera, glycerin, and hyaluronic acid restore surface moisture lost during a flare, while shea and cocoa butter supply occlusive lipids that reinforce the weakened skin barrier and slow moisture loss. Patch test on a small area first, especially with known sensitivities to botanicals like oat or sunflower.
+Temporary red, itchy patches are often hives, a reactive skin flare where the surface becomes irritated and inflamed; a clinician can confirm the cause. Era Organics Relief OTC Dermatitis Cream is a colloidal oatmeal 1% skin protectant made for the itch and irritation of eczema, dermatitis, and rashes, and the avenanthramides in oat grain have been studied for their anti-itch properties. Aloe vera, glycerin, and hyaluronic acid draw moisture to the skin surface, while shea and cocoa butter supply occlusive lipids that help support the skin barrier and slow moisture loss. Patch test on a small area first, especially with known sensitivities to botanicals like oat or sunflower.
 
 *Reference: [How To Get Rid Of Hives](https://www.eraorganics.com/blogs/damage-skin/how-to-get-rid-of-hives)*

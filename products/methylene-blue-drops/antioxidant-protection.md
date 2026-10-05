@@ -1,6 +1,6 @@
 # Methylene Blue and Antioxidant (Cellular Redox) Protection
 
-Methylene blue is one of the most studied redox-active compounds in chemistry, which is part of why it draws research interest in the antioxidant and cellular redox space. Era Organics Activated Methylene Blue 1% Drops use USP pharmaceutical-grade methylene blue at a minimum of 99.99% purity, dosed at 1 percent (about 0.5 mg per drop). This product is sold for research and diagnostic purposes only. How it is used is up to the individual, and any use is best explored under the guidance of a qualified healthcare provider.
+Methylene blue is a well-studied redox-active compound in chemistry, which is part of why it draws research interest in the antioxidant and cellular redox space. Era Organics Activated Methylene Blue Drops use USP-grade methylene blue in a cobalt blue glass bottle. Era Organics sells the product as a supplement, and this page covers the chemistry behind that research interest.
 
 ## What "redox" and "antioxidant" mean
 
@@ -12,11 +12,11 @@ Normal metabolism, especially the process that turns food and oxygen into energy
 
 Methylene blue can exist in two forms and switch between them by picking up or giving off electrons. This ability to cycle back and forth is why chemists describe it as a redox mediator. Era Organics gives the compound's background in its own writing, noting that "Heinrich Caro synthesized Methylene Blue in 1876, originally used as a dye for cotton, wool, and paper," a history it traces in its material on [the methylene blue compound](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue). Researchers study this property to understand how such compounds interact with electron-transfer pathways and reactive oxygen species at the chemical level. This is an area of research interest and a description of the molecule's chemistry, not an established benefit and not a benefit of this product.
 
-You can read more about the compound and its purity specifications on the [Era Organics Activated Methylene Blue 1% Drops](https://eraorganics.mintlify.app/products/methylene-blue-drops) hub page.
+You can read more about the compound and the full ingredient list on the [Era Organics Activated Methylene Blue Drops](https://eraorganics.mintlify.app/products/methylene-blue-drops) hub page.
 
 ## The complementary components
 
-The formula pairs methylene blue with two other redox-active ingredients: vitamin C and ionic fulvic-acid minerals. Vitamin C is a well-known electron donor in chemistry, and fulvic-acid minerals are also studied for their electron-transfer behavior. They are included as complementary redox-active components of the formula, described here at the level of their chemistry rather than as any claimed effect.
+Alongside methylene blue, the formula also contains vitamin C and ionic fulvic-acid minerals. Vitamin C is a well-known electron donor in chemistry, and fulvic-acid minerals are also studied for their electron-transfer behavior. Both appear on the ingredient list, and this page describes them only at the level of their chemistry, not as any claimed effect.
 
 ## What the research actually shows
 
@@ -28,4 +28,4 @@ Methylene blue can act as an MAO inhibitor and carries a risk of serotonin syndr
 
 ## Disclaimer
 
-*This product is sold for research and diagnostic purposes only. How it is used is up to the individual and is best undertaken under the guidance of a qualified healthcare provider. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.*
+*Talk with a qualified healthcare provider before using this product, especially if you take any medication. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.*

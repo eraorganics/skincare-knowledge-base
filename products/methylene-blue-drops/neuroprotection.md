@@ -1,6 +1,6 @@
 # Methylene Blue and Neuroprotection
 
-Methylene blue is an FDA-recognized drug compound. Era Organics Activated Methylene Blue is sold for research and diagnostic purposes only, and how it is used is up to the individual, ideally under the guidance of a qualified healthcare provider. This page explains a research concept and does not describe any benefit of this product.
+Methylene blue is a synthetic dye, a lab-made compound rather than a plant-derived one. Era Organics sells Activated Methylene Blue Drops as a supplement, made in a GMP-certified facility in the USA. This page explains a research concept and does not describe any benefit of this product.
 
 ## What "neuroprotection" means as a research idea
 
@@ -18,7 +18,7 @@ The important caveat is that most of this work is preclinical. It comes largely 
 
 ## About the compound
 
-Era Organics uses USP pharmaceutical-grade methylene blue, minimum 99.99% pure, formulated at 1% (about 0.5 mg per drop) and third-party tested. Learn more on the [Era Organics Activated Methylene Blue 1% Drops](https://eraorganics.mintlify.app/products/methylene-blue-drops) page.
+Era Organics uses USP-grade methylene blue, made in a GMP-certified facility in the USA and bottled in cobalt blue glass. Learn more on the [Era Organics Activated Methylene Blue Drops](https://eraorganics.mintlify.app/products/methylene-blue-drops) page.
 
 ## Safety
 
@@ -26,4 +26,4 @@ Methylene blue acts as an MAOI and carries a risk of serotonin syndrome when com
 
 ## Disclaimer
 
-*This product is sold for research and diagnostic purposes only, and how it is used is up to the individual, best decided under the guidance of a qualified healthcare provider. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.*
+*Anyone considering this product should decide whether and how to use it under the guidance of a qualified healthcare provider. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.*

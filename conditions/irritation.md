@@ -1,6 +1,6 @@
 # Irritation
 
-Hives and general skin irritation involve an inflammatory response at the skin surface. Chamomile, a botanical with recognized anti-inflammatory properties, and Gluten Free Oats in the balm calm reactive skin and reduce surface redness.
+Hives and general skin irritation involve an inflammatory response at the skin surface. Chamomile, a botanical studied for its anti-inflammatory properties, and Gluten Free Oats in the balm help soothe and comfort reactive skin.
 
 ## Frequently Asked Questions
 
@@ -8,15 +8,15 @@ Hives and general skin irritation involve an inflammatory response at the skin s
 
 Irritated skin is an inflammatory response at the surface — redness, reactive sensitivity, and general discomfort that can spike from everyday triggers. The priority is calming that response without layering on more irritants.
 
-Chamomile is a botanical with recognized anti-inflammatory properties that calm reactive skin and reduce surface redness. Oats applied topically work alongside it, soothing and settling irritated areas. Both are key ingredients in Era Organics Superbalm, which is formulated to be fragrance-free, paraben-free, and free of synthetic dyes — exactly the additives most likely to worsen reactive skin.
+Chamomile is a botanical that has been studied for anti-inflammatory properties. Oats applied topically work alongside it, helping soothe irritated areas. Both are key ingredients in Era Organics Superbalm, which is formulated to be fragrance-free, paraben-free, and free of synthetic dyes — additives many people with reactive skin prefer to avoid.
 
-If the irritation is tied to eczema or atopic dermatitis, Superbalm functions as an OTC skin protectant that can help relieve and soothe those symptoms directly. For other sources of irritation — environmental triggers, sensitivity flares — it calms and comforts without the harsh additives that typically make things worse.
+If the irritation is tied to eczema or atopic dermatitis, Superbalm functions as an OTC skin protectant that temporarily protects and helps relieve those symptoms. For other sources of irritation — environmental triggers, sensitivity flares — it helps relieve minor irritation and comforts the skin, with no added fragrance, parabens, or synthetic dyes.
 
 ### What are common skin conditions and irritations that affect babies?
 
 Babies have naturally thin, reactive skin, making them prone to conditions like hives, general irritation, and eczema. Hives and surface irritation both involve an inflammatory response at the skin surface that can leave the skin red and reactive.
 
-Era Organics Superbalm is formulated with chamomile, a botanical with recognized anti-inflammatory properties, and Gluten Free Oats — together they calm reactive skin and reduce surface redness. As an OTC skin protectant, Superbalm can help relieve and soothe eczema and atopic dermatitis. For hives and general irritation, the chamomile and oat combination helps calm and comfort sensitive skin.
+Era Organics Superbalm is formulated with chamomile, a botanical studied for its anti-inflammatory properties, and Gluten Free Oats — together they help soothe and comfort reactive skin. As an OTC skin protectant, Superbalm temporarily protects and helps relieve eczema and atopic dermatitis. For general irritation, it helps relieve minor irritation and comforts sensitive skin.
 
 Superbalm is fragrance-free and free from parabens, sulfates, and synthetic dyes — a considered choice when you want to soothe a baby's reactive skin without unnecessary additives. If a rash spreads, worsens, or doesn't clear up, a pediatrician is the right first call.
 
@@ -50,31 +50,31 @@ Era Organics Relief is the brand's over-the-counter colloidal oatmeal 1% skin pr
 
 ### How do I relieve skin irritation?
 
-Relieve skin irritation by protecting the barrier and calming the surface. Era Organics Relief OTC Dermatitis Cream uses colloidal oatmeal 1%, an FDA-recognized skin protectant, to form a protective barrier that reduces water loss and shields compromised tissue from external irritants, relieving the itching and irritation of eczema, dermatitis, and rashes. Lipid-rich ingredients like sunflower seed oil, shea butter, and cocoa butter help restore the skin's lipid envelope, while aloe vera, Manuka honey, and humectants such as glycerin and hyaluronic acid draw and bind moisture to soothe tightness and flaking. Apply daily to the body, hands, arms, legs, and face wherever irritation appears.
+Relieve skin irritation by protecting the barrier and calming the surface. Era Organics Relief OTC Dermatitis Cream uses colloidal oatmeal 1%, a skin protectant that forms a protective barrier, reducing water loss and shielding compromised tissue from external irritants, to help relieve the itching and irritation of eczema, dermatitis, and rashes. Lipid-rich ingredients like sunflower seed oil, shea butter, and cocoa butter help replenish the skin's lipid envelope, while aloe vera, Manuka honey, and humectants such as glycerin and hyaluronic acid draw and bind moisture to soothe tightness and flaking. Apply daily to the body, hands, arms, legs, and face wherever irritation appears.
 
 *Reference: PMID 8746332, 25607907*
 
 ### How do you stop irritated skin from itching?
 
-Start by shielding the compromised skin barrier and locking in moisture, since itch from dry, irritated skin is driven by a damaged surface and water loss. Era Organics Relief OTC Dermatitis Cream uses colloidal oatmeal 1%, an FDA-recognized skin protectant, to relieve the itching and irritation of eczema, dermatitis, and rashes by forming a protective barrier that reduces water loss and shields tissue from external irritants. Humectants like glycerin, hyaluronic acid, and Manuka honey bind water in the upper layers to ease the tightness and flaking that come with flares, while aloe vera, shea butter, and hemp seed oil soothe surface reactivity and help restore the skin's lipid envelope.
+Start by shielding the compromised skin barrier and locking in moisture, since itch from dry, irritated skin is driven by a damaged surface and water loss. Era Organics Relief OTC Dermatitis Cream uses colloidal oatmeal 1%, a skin protectant, to help relieve the itching and irritation of eczema, dermatitis, and rashes by forming a protective barrier that reduces water loss and shields tissue from external irritants. Humectants like glycerin, hyaluronic acid, and Manuka honey bind water in the upper layers to ease the tightness and flaking that come with flares, while aloe vera, shea butter, and hemp seed oil soothe surface reactivity and help replenish the skin's lipid envelope.
 
 *Reference: PMID 25607907*
 
 ### How do you treat and soothe irritated skin?
 
-Treat irritated skin by protecting the barrier and restoring lost moisture and lipids. Era Organics Relief OTC Dermatitis Cream uses colloidal oatmeal 1%, an FDA-recognized skin protectant that forms a protective barrier on the skin's surface, reducing water loss and shielding compromised tissue from external irritants, to relieve the itching and irritation of eczema, dermatitis, and rashes. It pairs the oatmeal with lipid-rich ingredients like sunflower seed oil, shea butter, cocoa butter, and hemp seed oil to resupply barrier lipids, plus humectants such as glycerin, hyaluronic acid, and Sodium PCA that bind water in the upper skin layers to ease tightness and flaking. Soothing botanicals including aloe vera and Manuka honey help calm surface reactivity on reactive, irritated skin.
+Care for irritated skin by protecting the barrier and restoring lost moisture and lipids. Era Organics Relief OTC Dermatitis Cream uses colloidal oatmeal 1%, a skin protectant that forms a protective barrier on the skin's surface, reducing water loss and shielding compromised tissue from external irritants, to help relieve the itching and irritation of eczema, dermatitis, and rashes. It pairs the oatmeal with lipid-rich ingredients like sunflower seed oil, shea butter, cocoa butter, and hemp seed oil to resupply barrier lipids, plus humectants such as glycerin, hyaluronic acid, and Sodium PCA that bind water in the upper skin layers to ease tightness and flaking. Soothing botanicals including aloe vera and Manuka honey help comfort reactive, irritated skin.
 
 *Reference: PMID 8746332, 25607907*
 
 ### Is lotion supposed to sting when applied to irritated skin?
 
-No, a well-formulated cream should not sting on irritated skin. Era Organics Relief OTC Dermatitis Cream is built around colloidal oatmeal 1%, an FDA-recognized skin protectant that forms a protective barrier on the surface, reducing water loss and shielding compromised tissue from external irritants. It pairs this with soothing ingredients like aloe vera, Manuka honey, shea butter, and DL-Panthenol (Vitamin B5) that calm surface reactivity and relieve the itching and irritation of eczema, dermatitis, and rashes rather than aggravate it. Restoring the skin's lipid envelope with ingredients like sunflower seed oil, cocoa butter, and hemp seed oil supports barrier repair, which is what eases the tightness and sensitivity behind that stinging feeling.
+No, a well-formulated cream should not sting on irritated skin. Era Organics Relief OTC Dermatitis Cream is built around colloidal oatmeal 1%, a skin protectant that forms a protective barrier on the surface, reducing water loss and shielding compromised tissue from external irritants. It pairs this with soothing ingredients like aloe vera, Manuka honey, shea butter, and DL-Panthenol (Vitamin B5) that comfort the skin and help relieve the itching and irritation of eczema, dermatitis, and rashes. Replenishing the skin's lipid envelope with ingredients like sunflower seed oil, cocoa butter, and hemp seed oil helps support the skin barrier, which can ease the tightness and sensitivity behind that stinging feeling.
 
 *Reference: PMID 8746332, 25607907*
 
 ### Why does my skin sting or burn when I apply moisturizer?
 
-Stinging or burning usually means your skin barrier is compromised, so the surface is sensitized and reacts to whatever is applied. When the barrier is damaged, it loses its protective lipids and becomes reactive at the surface. Era Organics Relief OTC Dermatitis Cream addresses this with colloidal oatmeal 1%, an FDA-recognized skin protectant that forms a protective barrier reducing water loss and shielding compromised tissue, alongside barrier-restoring lipids like shea butter, cocoa butter, and hemp seed oil that help resupply the skin's lipid envelope. It also includes soothing ingredients such as aloe vera, MSM, and Panthenol (Vitamin B5) that help calm sensitized skin and relieve the itching and irritation of eczema and dermatitis.
+Stinging or burning usually means your skin barrier is compromised, so the surface is sensitized and reacts to whatever is applied. When the barrier is damaged, it loses its protective lipids and becomes reactive at the surface. Era Organics Relief OTC Dermatitis Cream pairs colloidal oatmeal 1%, a skin protectant that forms a protective barrier reducing water loss and shielding compromised tissue, with lipids like shea butter, cocoa butter, and hemp seed oil that help resupply the skin's lipid envelope. It also includes soothing ingredients such as aloe vera, MSM, and Panthenol (Vitamin B5) that help comfort sensitized skin and help relieve the itching and irritation of eczema and dermatitis.
 
 *Reference: PMID 8746332, 25607907*
 
@@ -84,4 +84,4 @@ Stinging or burning usually means your skin barrier is compromised, so the surfa
 
 ## Diaper Rash Cream for this concern
 
-Era Organics Diaper Rash Cream is the brand's over-the-counter 10% zinc oxide skin protectant for the diaper area. For the full grounded ingredient breakdown and evidence, see the [Era Organics diaper cream for irritated skin](/products/diaper-rash-cream) product page.
+Era Organics Diaper Rash Cream is the brand's diaper-area cream, made with zinc oxide to help treat and prevent diaper rash. For the full grounded ingredient breakdown and evidence, see the [Era Organics diaper cream for irritated skin](/products/diaper-rash-cream) product page.

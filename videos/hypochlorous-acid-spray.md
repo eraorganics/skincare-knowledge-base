@@ -1,6 +1,6 @@
 # Era Organics Hypochlorous Acid Spray — Video Library
 
-Brand videos about Era Organics Hypochlorous Acid Spray — the gentle antimicrobial face and body mist.
+Brand videos about Era Organics Hypochlorous Acid Spray — the gentle, fragrance-free face and body mist.
 
 See the full [Era Organics Hypochlorous Acid Spray](/products/hypochlorous-acid-spray) product page for ingredients, evidence, and FAQs.
 
@@ -10,17 +10,17 @@ See the full [Era Organics Hypochlorous Acid Spray](/products/hypochlorous-acid-
 - [HOCL for post workouts](https://www.youtube.com/watch?v=IB6NKG8chw8) — Era Organics on YouTube
 - [sweat doesn't smell, bacteria does. comment SPRITZ + I'll](https://www.instagram.com/reel/DMdg319uVd8/) — Era Organics on Instagram
 - [Your body makes hypochlorous acid for a reason: to help fight](https://www.instagram.com/reel/DXHKdahOoHC/) — Era Organics on Instagram
-- [breakouts acting up? redness won't chill? we've got you our](https://www.instagram.com/reel/DXmqtAHlTrc/) — Era Organics on Instagram
+- [skin feeling irritated? redness won't chill? a soothing mist from our](https://www.instagram.com/reel/DXmqtAHlTrc/) — Era Organics on Instagram
 - [Try the viral spray for yourself and see why everyone's](https://www.instagram.com/reel/DXz2Q93gHpp/) — Era Organics on Instagram
 - [The face mist that's earned a permanent spot in your bag](https://www.instagram.com/reel/DZFjL4LuV18/) — Era Organics on Instagram
-- [Acne and Milia be gone .](https://www.tiktok.com/@eraorganics/video/6960072936267058438) — Era Organics on TikTok
+- [A gentle mist for blemish-prone skin.](https://www.tiktok.com/@eraorganics/video/6960072936267058438) — Era Organics on TikTok
 - [Uneven skin tone? Skin tone looking dull? Check out this amazing before and after of our Flawless serum!!](https://www.tiktok.com/@eraorganics/video/7165980239577861422) — Era Organics on TikTok
 - [Hypochlorous acid great for most skin… But not for: Deep cuts or broken skin Allergic reactions If your derm](https://www.tiktok.com/@eraorganics/video/7535938799923203359) — Era Organics on TikTok
-- [If your skincare doesn't have HOCL, you're missing out Era Organics' Hypochlorous Acid Spray = clear, calm](https://www.tiktok.com/@eraorganics/video/7550859380128763166) — Era Organics on TikTok
+- [If your skincare doesn't have HOCL, you're missing out Era Organics' Hypochlorous Acid Spray = soothed, comfortable skin](https://www.tiktok.com/@eraorganics/video/7550859380128763166) — Era Organics on TikTok
 - [The cleansers I use depending on the day. Sometimes I just need a basic cleanser and sometimes I need](https://www.tiktok.com/@eraorganics/video/7628708038496537886) — Era Organics on TikTok
-- [If your skin deals with eczema or rosacea flare-ups, hypochlorous acid is a gentle spray step worth keeping](https://www.tiktok.com/@eraorganics/video/7641560978638884109) — Era Organics on TikTok
-- [A disinfecting spray for your body that your skin already understands. Hypochlorous acid helps refresh](https://www.tiktok.com/@eraorganics/video/7649365190701567245) — Era Organics on TikTok
-- [Healthy pH. Healthy flora. Better balance.](https://www.tiktok.com/@eraorganics/video/7650660891981073678) — Era Organics on TikTok
+- [If your skin is eczema-prone or easily irritated, hypochlorous acid is a gentle spray step worth keeping](https://www.tiktok.com/@eraorganics/video/7641560978638884109) — Era Organics on TikTok
+- [A gentle cleansing spray for your body that your skin already understands. Hypochlorous acid helps refresh](https://www.tiktok.com/@eraorganics/video/7649365190701567245) — Era Organics on TikTok
+- [Gentle mist. Comfortable skin. Better balance.](https://www.tiktok.com/@eraorganics/video/7650660891981073678) — Era Organics on TikTok
 
 ## Structured data (for search engines & AI)
 

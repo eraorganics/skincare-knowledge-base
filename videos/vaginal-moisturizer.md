@@ -10,7 +10,7 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
 - [Your vaginal microbiome is an ecosystem, and like any ecosystem, it needs the right environment to](https://www.youtube.com/watch?v=hIQO0vy7mZA) — Era Organics on YouTube
 - [Vaginal discharge is your body's natural way of keeping the](https://www.instagram.com/reel/DZCzrNJANyX/) — Era Organics on Instagram
 - [Skincare doesn't stop at your bikini line....it's not TMI, it's TLC](https://www.instagram.com/reel/DZXjUUKok-2/) — Era Organics on Instagram
-- [You've tried 27 "miracle" products and your skin still hates you It's time for a skincare reset @EraOrganics](https://www.tiktok.com/@eraorganics/video/7571551694211894558) — Era Organics on TikTok
+- [You've tried 27 "miracle" products and your skin still hates you It's time for a skincare reset with Era Organics](https://www.tiktok.com/@eraorganics/video/7571551694211894558) — Era Organics on TikTok
 - [So many vaginal health myths. Let's clear them up.](https://www.tiktok.com/@eraorganics/video/7652836598018575630) — Era Organics on TikTok
 - [Better vaginal health starts with simple habits.](https://www.tiktok.com/@eraorganics/video/7653098452288572685) — Era Organics on TikTok
 - [Dryness and sensitivity can change with age, hormones, postpartum, and menopause. Delicate skin deserves care](https://www.tiktok.com/@eraorganics/video/7670997146639830286) — Era Organics on TikTok

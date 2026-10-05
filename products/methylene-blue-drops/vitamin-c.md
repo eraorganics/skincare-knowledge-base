@@ -1,6 +1,6 @@
 # Vitamin C in Era Organics Activated Methylene Blue
 
-Era Organics Activated Methylene Blue 1% Drops pairs USP pharmaceutical-grade methylene blue (minimum 99.99% pure, delivered at 1% or roughly 0.5 mg per drop) with a small set of complementary ingredients: colloidal gold nanoparticles, ionic fulvic-acid trace minerals, and vitamin C, all in a base of vegetable glycerin and distilled water. This page explains what vitamin C is and why Era includes it in the formula. The product is sold for research and diagnostic purposes only.
+Era Organics Activated Methylene Blue Drops pairs USP-grade methylene blue with a small set of other ingredients: colloidal gold nanoparticles, ionic fulvic-acid trace minerals, and vitamin C, all in a base of vegetable glycerin and distilled water. This page explains what vitamin C is and where it sits in the formula. The product is sold as a supplement.
 
 ## What Vitamin C Is
 
@@ -10,11 +10,11 @@ Vitamin C is also redox-active. In plain terms, that means it can readily give u
 
 ## Why Era Includes It
 
-Methylene blue is itself a redox-active compound, meaning it too can move between chemical states depending on its surroundings. Era pairs it with vitamin C as a complementary redox-active component. Vitamin C is included to support the absorption and bioavailability of the formula, meaning how the blend is taken up and made available, rather than to add any separate effect of its own.
+Methylene blue is itself a redox-active compound, meaning it too can move between chemical states depending on its surroundings. Era lists vitamin C as one of the formula's ingredients. Vitamin C is listed among the formula's ingredients alongside methylene blue, colloidal gold, and fulvic acid minerals, and Era does not claim any separate effect for it on its own.
 
-Because both ingredients are redox-active and water-soluble, they sit together naturally in the distilled water and vegetable glycerin base. You can read more about the full formula and how the ingredients fit together on the [Era Organics Activated Methylene Blue 1% Drops](https://eraorganics.mintlify.app/products/methylene-blue-drops) hub page. For background on the compound at the heart of the blend, Era Organics notes in its own writing that "Methylene Blue is a salt used as a dye, supplement, and medication," and it explains more in its material on [the methylene blue molecule](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue).
+The drops use a base of distilled water and vegetable glycerin. You can read more about the full formula and its ingredients on the [Era Organics Activated Methylene Blue Drops](https://eraorganics.mintlify.app/products/methylene-blue-drops) hub page. For background on the compound at the heart of the blend, Era Organics notes in its own writing that "Methylene Blue is a salt used as a dye, supplement, and medication," and it explains more in its material on [the methylene blue molecule](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue).
 
-How this product is used is up to the individual, and any use is best approached under the guidance of a qualified healthcare provider.
+Anyone considering this product may want to talk it over with a qualified healthcare provider first.
 
 ## Safety
 
@@ -22,4 +22,4 @@ Methylene blue can interact with serotonergic medications (SSRIs, SNRIs, MAOIs) 
 
 ## Disclaimer
 
-*This product is sold for research and diagnostic purposes only, and how it is used is up to the individual, best approached under the guidance of a qualified healthcare provider. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.*
+*How this product is used is up to the individual, best approached under the guidance of a qualified healthcare provider. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.*

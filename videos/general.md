@@ -8,15 +8,15 @@ Era Organics brand and general skincare videos not tied to a single product.
 - [A little rant about my industry](https://www.youtube.com/watch?v=Dk5NM_JYTfU) — Era Organics on YouTube
 - [Spa day at home with Revive](https://www.youtube.com/watch?v=ZAUiNe9mEVk) — Era Organics on YouTube
 - [Natural & Organic Skincare on Instagram: " Era Organics](https://www.instagram.com/reel/DJjshAVuvwG/) — Era Organics on Instagram
-- [Just put it in the cart. You won't regret it. Microdermabrasion right at your fingertips.](https://www.tiktok.com/@eraorganics/video/7096175058909154606) — Era Organics on TikTok
-- [My holy grail product.](https://www.tiktok.com/@eraorganics/video/7327764012278484270) — Era Organics on TikTok
+- [Just put it in the cart. An at-home exfoliation step right at your fingertips.](https://www.tiktok.com/@eraorganics/video/7096175058909154606) — Era Organics on TikTok
+- [My go-to product.](https://www.tiktok.com/@eraorganics/video/7327764012278484270) — Era Organics on TikTok
 - [My no effort routine when I'm home alone but still want to look in the mirror without](https://www.tiktok.com/@eraorganics/video/7358181396000804142) — Era Organics on TikTok
-- [So I made my own brand—Era Organics Clean, natural, and gentle skincare that actually works. Proof that](https://www.tiktok.com/@eraorganics/video/7550371791596752158) — Era Organics on TikTok
+- [So I made my own brand—Era Organics, the skincare line I wanted to use myself. Proof that](https://www.tiktok.com/@eraorganics/video/7550371791596752158) — Era Organics on TikTok
 - [What makes methylene blue more than a dye? Scientists have studied it for mitochondrial support, brain and](https://www.tiktok.com/@eraorganics/video/7582743872103795998?lang=tr-TR) — Era Organics on TikTok
-- [Our Glycolic Mask is now 40% OFF for a limited time. Use code ERASALE40 at checkout and give dull, rough](https://www.tiktok.com/@eraorganics/video/7615932374492220702) — Era Organics on TikTok
+- [A look at our Glycolic Mask and a past promotion featured in this video.](https://www.tiktok.com/@eraorganics/video/7615932374492220702) — Era Organics on TikTok
 - [Originally used as a fabric dye, Methylene Blue has come a long way. Now it's known for its connection to](https://www.tiktok.com/@eraorganics/video/7629778822505696542) — Era Organics on TikTok
 - [If you've been curious about methylene blue for energy, focus, brain health, or healthy aging, this is a](https://www.tiktok.com/@eraorganics/video/7630848024368925966) — Era Organics on TikTok
-- [I made my own skincare products with one goal in mind: create formulas that actually work for your skin. Tap](https://www.tiktok.com/@eraorganics/video/7642677954304036109) — Era Organics on TikTok
+- [I started my own skincare line with one goal in mind: formulas I'd want to use on my own skin. Tap](https://www.tiktok.com/@eraorganics/video/7642677954304036109) — Era Organics on TikTok
 - [Less is more. Gentle cleansing, breathable fabrics, and the right moisturizer can support delicate skin.](https://www.tiktok.com/@eraorganics/video/7670202487294446861) — Era Organics on TikTok
 - [Skip douching and perfumed sprays. Choose hydration, breathable fabrics, and gentle care that supports your](https://www.tiktok.com/@eraorganics/video/7670574368333761806) — Era Organics on TikTok
 

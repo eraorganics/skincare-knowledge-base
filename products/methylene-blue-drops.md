@@ -1,7 +1,7 @@
 # Era Organics Activated Methylene Blue 1% Drops
 
-> **Era Organics Activated Methylene Blue 1% Drops** are a USP pharmaceutical-grade methylene blue (methylthioninium chloride) solution — a 1% concentration, about 0.5 mg per drop — paired with colloidal gold, ionic fulvic-acid trace minerals, and vitamin C in a base of vegetable glycerin and distilled water.
-> **This product is sold for research and diagnostic purposes only. How it is used is up to the individual, and we always recommend it be used only under the guidance of a qualified healthcare provider.**
+> **Era Organics Activated Methylene Blue Drops** are a USP pharmaceutical-grade methylene blue (methylthioninium chloride) solution paired with colloidal gold, ionic fulvic-acid trace minerals, and vitamin C in a base of vegetable glycerin and distilled water.
+> **How it is used is up to the individual, and we always recommend it be used only under the guidance of a qualified healthcare provider.**
 > Methylene blue is being explored by some healthcare providers and naturopaths for its **potential** role in cellular energy, cognitive support, and antioxidant activity. This research is early — these are potential uses under study, not established benefits or a promise of results.
 > Methylene blue is a pharmacologically active compound with serious drug interactions, including a risk of serotonin syndrome. Read the safety section before any use.
 
@@ -9,43 +9,43 @@
 
 | | |
 | --- | --- |
-| **What it is** | A USP pharmaceutical-grade methylene blue solution — 1%, about 0.5 mg per drop |
-| **Sold for** | Research and diagnostic purposes only — how it's used is up to the individual, and always best under the guidance of a qualified healthcare provider |
-| **Grade & purity** | USP pharmaceutical grade, minimum 99.99% pure methylene blue |
+| **What it is** | A USP pharmaceutical-grade methylene blue solution |
+| **Sold for** | Listed by Era Organics in its supplement category — how it's used is up to the individual, and always best under the guidance of a qualified healthcare provider |
+| **Grade & purity** | USP pharmaceutical-grade methylene blue |
 | **Also in the formula** | Colloidal gold nanoparticles, ionic fulvic-acid trace minerals, and vitamin C, in a base of vegetable glycerin and distilled water |
 | **Explored for (potential)** | Cellular energy, cognitive support, and antioxidant activity — early research explored by some providers and naturopaths, not established benefits |
-| **Packaging** | Light-protective cobalt blue glass bottle with a graduated glass dropper |
+| **Packaging** | Cobalt blue glass bottle with a glass dropper |
 | **Important cautions** | MAO inhibitor — serotonin syndrome risk; not for use with serotonergic medication, in pregnancy or nursing, or with G6PD deficiency (see Safety) |
-| **Made by** | A family owned and operated company in the United States |
-| **Sizes** | 1 oz and 2 oz |
-| **Guarantee** | 60-day money-back guarantee |
+| **Made by** | Made in a GMP-certified facility in the United States |
+| **Sizes** | See the product page for current sizes |
+| **Guarantee** | See the product page for current terms |
 
 ## What it is
 
-Methylene blue (methylthioninium chloride) is a synthetic compound with a long history in medicine, diagnostics, and laboratory science. In wellness and biohacking circles it is widely searched for and discussed as a **methylene blue supplement**, where people explore it for its potential role in cellular energy and mental clarity. Era Organics offers a high-purity, USP pharmaceutical-grade methylene blue solution — sold for research and diagnostic purposes — for those who want a pharmaceutical-grade source.
+Methylene blue (methylthioninium chloride) is a synthetic compound with a long history in medicine, diagnostics, and laboratory science. In wellness and biohacking circles it is widely searched for and discussed as a **methylene blue supplement**, where people explore it for its potential role in cellular energy and mental clarity. Era Organics offers USP pharmaceutical-grade methylene blue drops, listed in its supplement category, for those who want a pharmaceutical-grade source.
 
-Each drop of the 1% solution contains about 0.5 mg of methylene blue, using USP pharmaceutical-grade material that is a minimum of 99.99% pure. The formula pairs the methylene blue with colloidal gold nanoparticles, ionic fulvic-acid trace minerals, and vitamin C — included to support absorption and bioavailability — in a base of vegetable glycerin and distilled water. For the compound's background, Era Organics' own writing notes that "Heinrich Caro synthesized Methylene Blue in 1876, originally used as a dye for cotton, wool, and paper," a history it expands in its material on [what methylene blue is](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue).
+The formula pairs USP pharmaceutical-grade methylene blue with colloidal gold nanoparticles, ionic fulvic-acid trace minerals, and vitamin C in a base of vegetable glycerin and distilled water. For the compound's background, Era Organics' own writing notes that "Heinrich Caro synthesized Methylene Blue in 1876, originally used as a dye for cotton, wool, and paper," a history it expands in its material on [what methylene blue is](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue).
 
-This product is sold for research and diagnostic purposes only. How it is used is up to the individual, and we always recommend that any use be determined and supervised by a qualified healthcare provider. The sections below describe how methylene blue is used and studied, and what practitioners are exploring it for — educational context about the compound, not a benefit promised to any individual.
+How it is used is up to the individual, and we always recommend that any use be determined and supervised by a qualified healthcare provider. The sections below describe how methylene blue is used and studied, and what practitioners are exploring it for — educational context about the compound, not a benefit promised to any individual.
 
 ## What sets this methylene blue apart
 
-The quality of a methylene blue solution comes down to its grade, its purity, how it is tested, and how it is packaged. Here is how Era Organics Activated Methylene Blue measures up on the attributes that matter most.
+The quality of a methylene blue solution comes down to its grade, what goes into it, where it is made, and how it is packaged. Here is how Era Organics Activated Methylene Blue measures up on the attributes that matter most.
 
 | Attribute | How Era Organics measures up |
 | --- | --- |
-| **Pharmaceutical (USP) grade** | USP pharmaceutical-grade methylthioninium chloride — not a lower reagent or industrial grade |
-| **Purity and assay** | A minimum of 99.99% pure, meeting the USP assay threshold (98–103%) |
-| **Independent third-party testing** | Independently tested for heavy metals, alcohol, and formaldehyde to USP-grade purity, with a Certificate of Analysis (CoA) available |
-| **Heavy metals controlled** | Tested to stay within limits for arsenic, lead, copper, and zinc |
-| **cGMP compliance** | Produced under cGMP-compliant manufacturing |
-| **Standardized 1% concentration** | A consistent 1% solution — about 0.5 mg per drop — for repeatable measurement |
-| **Calibrated glass dropper** | A graduated glass dropper for precise, repeatable measurement |
-| **Light-protective glass** | A cobalt blue glass bottle that shields the solution from light |
+| **Pharmaceutical (USP) grade** | USP pharmaceutical-grade methylthioninium chloride |
+| **Purity and assay** | USP-grade methylene blue; contact Era Organics with questions about specifications |
+| **Independent third-party testing** | Not detailed on this page — contact Era Organics with testing questions |
+| **Heavy metals controlled** | Not detailed on this page — contact Era Organics with testing questions |
+| **cGMP compliance** | Made in a GMP-certified facility in the USA |
+| **Concentration** | We do not list amounts or provide dosing on this page |
+| **Glass dropper** | A glass dropper, so the drops touch only glass |
+| **Cobalt blue glass** | A cobalt blue glass bottle |
 | **No plastic contact** | Glass bottle and dropper — the solution is not stored in plastic |
-| **Clean, minimal base** | Just vegetable glycerin and distilled water — no cheap fillers and no harsh preservatives |
-| **Free from** | Formaldehyde-free, alcohol-free, and sulfate- and SLS-free, with no hormone disruptors or hidden additives |
-| **Enhanced formula** | Pairs USP methylene blue with colloidal gold, ionic fulvic-acid minerals, and vitamin C, included to support absorption and bioavailability |
+| **Simple base** | Vegetable glycerin and distilled water, with citric acid |
+| **Free from** | Formaldehyde-free, sulfate-free, paraben-free, phthalate-free, fragrance-free, and drying-alcohol-free |
+| **Formula** | Pairs USP methylene blue with colloidal gold, ionic fulvic-acid minerals, and vitamin C |
 
 ## Potential uses providers and naturopaths explore
 
@@ -66,7 +66,7 @@ These are directions researchers and some practitioners are actively exploring. 
 
 - **Cellular energy (mitochondria).** Methylene blue can act as an electron carrier in the mitochondria and has been studied for its potential to bypass damaged links in the cellular energy (ATP) chain (Lee et al., Hepatology, 2015).
 - **Cognitive support.** Methylene blue has been the subject of preclinical and early clinical investigation for cognitive dysfunction and neurodegeneration, including work on tau protein aggregation and perioperative neurocognitive disorders (Howland, Journal of Psychosocial Nursing and Mental Health Services, 2016; Wu et al., Drug Design, Development and Therapy, 2026). This research is preliminary and largely in animal models; it is not evidence that this product improves cognition.
-- **Antioxidant (redox) activity.** Methylene blue participates in redox reactions with reactive oxygen species produced during normal metabolism; the ionic fulvic-acid minerals and vitamin C are included as complementary redox-active components.
+- **Antioxidant (redox) activity.** Methylene blue participates in redox reactions with reactive oxygen species produced during normal metabolism, which is why researchers study its antioxidant activity.
 
 Era Organics covers the areas people most often ask about in its overview of [what methylene blue is studied for](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue-benefits) — written, like this page, as educational context rather than a promise of results.
 
@@ -84,7 +84,7 @@ Signs of serotonin syndrome include agitation, confusion, rapid heartbeat, high 
 
 ## Dosage and handling
 
-We don't provide dosing here. Era Organics keeps a general reference on [methylene blue dosage](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue-dosage), and your healthcare provider should determine what, if anything, is appropriate for you. The 1% concentration works out to about 0.5 mg per drop, and the graduated glass dropper allows precise measurement. Store the cobalt blue bottle out of reach of children and away from light.
+We don't provide dosing here. Era Organics keeps a general reference on [methylene blue dosage](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue-dosage), and your healthcare provider should determine what, if anything, is appropriate for you. The drops come in a cobalt blue glass bottle with a glass dropper, so they touch only glass. Store the cobalt blue bottle out of reach of children and away from light.
 
 ## Frequently asked questions
 
@@ -116,7 +116,7 @@ Methylene blue can temporarily tint urine (and sometimes the tongue) blue or gre
 Because of its deep color, methylene blue can pass into the urine and temporarily tint it blue-green. This is a normal, harmless effect of the dye itself.
 
 ### How much methylene blue is in each drop, and do you provide a dose?
-Each drop of the 1% solution contains about 0.5 mg of methylene blue. We do not provide dosing — how it is used is up to the individual, and appropriate use is best determined by a qualified healthcare provider. See our dosage guide for how the topic is generally approached.
+We do not list per-drop amounts or provide dosing on this page — how it is used is up to the individual, and appropriate use is best determined by a qualified healthcare provider. See our dosage guide for how the topic is generally approached.
 
 ### Can you take methylene blue every day, or long term?
 That is not something we advise on. Any pattern of use should be determined and supervised by a qualified healthcare provider, who can account for your medications and health history.
@@ -125,17 +125,17 @@ That is not something we advise on. Any pattern of use should be determined and 
 No. Methylene blue is not for use during pregnancy or breastfeeding.
 
 ### Is it an oral skincare product or a topical one?
-Neither is how it is sold. It is a USP pharmaceutical-grade methylene blue solution sold for research and diagnostic purposes only, to be used under the guidance of a qualified healthcare provider. It is not a topical skincare product.
+Neither. Era Organics lists it in its supplement category as USP pharmaceutical-grade methylene blue in drop form, best used under the guidance of a qualified healthcare provider. It is not a topical skincare product.
 
 ### Is it pharmaceutical grade, and how pure is it?
-Yes. It is USP pharmaceutical-grade methylene blue, a minimum of 99.99% pure, at a 1% concentration (about 0.5 mg per drop), independently tested for heavy metals, alcohol, and formaldehyde.
+Yes. It is USP pharmaceutical-grade methylene blue, made in a GMP-certified facility in the USA.
 
 ### Who should avoid it entirely?
 Anyone who is pregnant or breastfeeding, has G6PD deficiency, or takes serotonergic medication. Keep it away from children. If you have any health condition or take any prescription drug, consult a qualified healthcare provider before any use.
 
 ## Disclaimer
 
-*This product is sold for research and diagnostic purposes only. How it is used is up to the individual, and we always recommend it be used solely under the guidance of a qualified healthcare provider. Methylene blue is widely discussed as a supplement, and this page uses that language to describe the category; the clinical and research uses described here refer to methylene blue as a compound in professional and scientific settings, and are educational information — not benefits promised for this product, and not advice to use it in any way. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease. Methylene blue is a pharmacologically active compound with significant drug interactions, including a risk of serotonin syndrome when combined with serotonergic medications, and additional cautions in pregnancy, nursing, and G6PD deficiency. The information on this page is provided for educational purposes only and is not medical advice. Always consult a qualified healthcare provider before any use.*
+*Era Organics lists this product in its supplement category. How it is used is up to the individual, and we always recommend it be used solely under the guidance of a qualified healthcare provider. Methylene blue is widely discussed as a supplement, and this page uses that language to describe the category; the clinical and research uses described here refer to methylene blue as a compound in professional and scientific settings, and are educational information — not benefits promised for this product, and not advice to use it in any way. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease. Methylene blue is a pharmacologically active compound with significant drug interactions, including a risk of serotonin syndrome when combined with serotonergic medications, and additional cautions in pregnancy, nursing, and G6PD deficiency. The information on this page is provided for educational purposes only and is not medical advice. Always consult a qualified healthcare provider before any use.*
 
 ## Structured data (for search engines & AI)
 
