@@ -6,7 +6,7 @@ Hypochlorous acid spray for sun-stressed skin is a soothing, comforting mist for
 
 In related bleach-bath research, Hon et al., found that a four-week, twice-weekly regimen of diluted sodium hypochlorite (bleach) baths reduced topical corticosteroid use by a mean difference of 1.1 ± 2.6 days/week (p = 0) among all 40 patients who completed the trial; sodium hypochlorite is the oxidized chlorine compound most closely related to hypochlorous acid in the bleach-bath literature (Hon et al., The Journal of Dermatological Treatment, 2016).
 
-The face mist contains no fragrances, drying alcohols, or synthetic dyes, which suits skin that feels sensitive after time in the sun. Era Organics describes the spray as sting-free and alcohol-free, and gentle enough for sensitive skin. The formula is also paraben-free and phenoxyethanol-free.
+The face mist contains no fragrances, drying alcohols, or synthetic dyes, which suits skin that feels sensitive after time in the sun. Era Organics describes the spray as sting-free and alcohol-free, and gentle enough to use on skin. The formula is also paraben-free and phenoxyethanol-free.
 
 The study cited on this page does not test hypochlorous acid against UV-related sun damage, so no sun-damage study figures are given here; the ingredient science above rests on the biochemistry of hypochlorous acid as an oxidant the body makes naturally and on the product's listed 0.02% HOCL concentration.
 
