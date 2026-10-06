@@ -56,17 +56,17 @@ Calendula oil has been studied or used for six skin concerns: irritation, rednes
 
 **Dry skin:** [Calendula oil for dry skin](https://eraorganics.com/conditions/dry-skin) delivers the fatty-acid lipids that compromised skin needs to replace lost moisture. The oil's linoleic and oleic acids integrate into the upper skin layers, softening the surface and reducing the tight, flaky texture that marks moisture loss through the skin (transepidermal water loss). Cocoa butter and shea butter in Era Organics Diaper Rash Cream add moisturizing richness for drier, thicker skin zones.
 
-**Chafing and diaper rash:** Calendula oil for chafing addresses the friction-driven irritation that develops in skin folds, the diaper area, and any surface where repeated movement or moisture contact wears on the outer barrier. In Era Organics Diaper Rash Cream, zinc oxide forms a protective layer over the skin and helps treat and prevent diaper rash, while calendula oil adds a soothing botanical. Together, these two ingredients suit infant skin and adults prone to chafing.
+**Chafing and diaper rash:** Calendula oil for chafing addresses the friction-driven irritation that develops in skin folds, the diaper area, and any surface where repeated movement or moisture contact wears on the outer barrier. In Era Organics Diaper Rash Cream, zinc oxide forms a protective layer over the skin and helps treat and prevent diaper rash, while calendula oil adds a soothing botanical. Together, these two ingredients suit delicate infant skin in the diaper area.
 
 **Inflammatory skin reactions:** Calendula oil for dermatitis-prone and reactive skin draws on the flavonoid isorhamnetin and the triterpenoid oleanolic acid, both identified in *Calendula officinalis* flowers, which have been studied for calming localized inflammatory signals at the skin surface. The protective effect observed against sodium-lauryl-sulfate-induced irritant contact dermatitis in a marigold cream preparation supports calendula's role in the elicitation phase of skin inflammation (Fuchs et al., Skin Pharmacology and Physiology, 2005). Era Organics Superbalm includes calendula oil in a balm that temporarily protects and helps relieve irritated, dermatitis-prone skin.
 
 ## How Calendula Oil is Used in Era Organics Formulations?
 
-Research describes calendula oil in skincare across four functional roles: an emollient base, an antioxidant carrier, a skin-soothing agent, and a wound-comfort ingredient. Era Organics formulas use calendula in the first three roles; the fourth reflects ingredient research only:
+Research describes calendula oil in skincare across four functional roles: an emollient base, an antioxidant carrier, a skin-soothing agent, and a wound-comfort ingredient. Era Organics formulas use calendula as an emollient and skin-soothing ingredient; the antioxidant and wound-comfort roles reflect ingredient research only:
 
 **Emollient base:** Calendula oil is the fatty-acid-rich foundation that softens dry, rough skin by filling gaps in the skin's surface layer. The oil's lipid profile coats the outer skin layer (stratum corneum), reducing moisture loss through the skin (transepidermal water loss) without occlusive heaviness. Radulescu C et al. Used *Calendula officinalis* oil at a 5% concentration as a core emollient component in topical cream formulations (Antioxidants (Basel, Switzerland), 2026).
 
-**Antioxidant carrier:** Calendula oil is a delivery vehicle for the carotenoids and flavonoids concentrated in marigold flower petals. Those compounds neutralize free radicals at the skin's surface, slowing oxidative stress that breaks down collagen structure over time. Era Organics Talc-Free Baby Powder pairs calendula with rosemary extract, a second antioxidant source on its INCI list, giving the formulation two distinct antioxidant inputs.
+**Antioxidant carrier:** Calendula oil is a delivery vehicle for the carotenoids and flavonoids concentrated in marigold flower petals. Those compounds neutralize free radicals at the skin's surface, slowing oxidative stress that breaks down collagen structure over time. Era Organics Talc-Free Baby Powder lists calendula alongside rosemary extract and mixed tocopherols on its INCI list.
 
 **Skin-soothing agent:** Calendula oil is one of the calming botanicals in Era Organics Superbalm, a balm for rashes, irritation, and dermatitis-prone skin. The triterpenoid compounds in *Calendula officinalis* help calm the look of surface redness. Patch test before first use, as approximately 2.03% of subjects in a contact sensitization study reacted to marigold (Reider N et al., Contact Dermatitis, 2001).
 
@@ -76,7 +76,7 @@ Research describes calendula oil in skincare across four functional roles: an em
 
 Calendula oil in diaper rash cream addresses the two core problems of diaper rash: surface inflammation and a compromised moisture barrier. A topical calendula ointment matched 1.5% olive ointment in healing diaper dermatitis across 76 pediatric subjects in a triple-blind trial (Sharifi-Heris Z et al., Dermatologic Therapy, 2018), placing calendula among the documented options for infant skin care. [Era Organics diaper rash cream with calendula oil](/products/diaper-rash-cream) pairs that botanical record with zinc oxide, beeswax, and shea butter in a single formula.
 
-The formula's calendula oil works alongside the formula's other skin-calming ingredients. Zinc oxide, the cream's active ingredient, forms a protective barrier over the skin. Shea butter and cocoa butter soften dry patches. Beeswax seals the outer layer against further friction.
+The formula's calendula oil works alongside the formula's other skin-calming ingredients. Zinc oxide, the cream's active ingredient, forms a protective barrier over the skin. Shea butter and cocoa butter soften dry patches. Beeswax helps protect the outer layer from friction.
 
 A protective effect of marigold (*Calendula officinalis*) extracts against irritant contact dermatitis was demonstrated in the elicitation phase of a sodium lauryl sulfate challenge model (Fuchs S et al., Skin Pharmacology and Physiology, 2005). That finding is relevant to the inflammatory stage of diaper rash, where skin already shows redness and surface disruption. The diaper rash cream brings calendula into that window alongside shea butter and cocoa butter, both occlusive skin-softening ingredients (emollients) on the INCI list, for layered surface protection.
 
@@ -84,7 +84,7 @@ Speed of resolution matters in infant care. Shampoo-clay combination cleared 93.
 
 ## Calendula Oil in Talc-free Baby Powder
 
-Calendula oil in talc-free baby powder addresses one of the central challenges of infant skincare: keeping delicate skin comfortable without ingredients that clog, irritate, or accumulate in airways. [Era Organics Talc-Free Baby Powder with calendula](/products/talc-free-baby-powder) pairs Calendula officinalis extract with kaolin clay, arrowroot powder, and cornstarch, ingredients that help absorb moisture and keep skin feeling dry and comfortable.
+Calendula oil in talc-free baby powder addresses one of the central challenges of infant skincare: keeping delicate skin comfortable without talc. [Era Organics Talc-Free Baby Powder with calendula](/products/talc-free-baby-powder) pairs Calendula officinalis extract with kaolin clay, arrowroot powder, and cornstarch, ingredients that help absorb moisture and keep skin feeling dry and comfortable.
 
 The formulation omits talc entirely. Talc-free powder matters to many parents because inhaling fine powder particles is a concern for infants, a worry that has pushed many families away from traditional baby powders. Arrowroot powder and cornstarch take over the moisture-absorbing role; kaolin clay adds a soft, mineral-based layer.
 
@@ -110,7 +110,7 @@ Calendula oil, pressed from Calendula officinalis flowers, is used on baby skin 
 
 ### Is calendula safe for babies to ingest?
 
-Era Organics Diaper Rash Cream is for external use only, it is not a food and should never be swallowed, so keep it away from your baby's mouth and hands. The calendula oil inside, pressed from Calendula officinalis flowers, is included to calm and comfort rash-prone skin in the diaper area, where its fatty acid profile softens irritation and supports the barrier formed by zinc oxide and the plant-butter base. Calendula has a long, well-tolerated record on delicate skin, which is why it sits alongside zinc oxide, beeswax, and shea butter in this zinc balm. Patch test before first use on newborns with unknown sensitivities. If your baby ingests any of the cream, contact poison control or a clinician, and route any medical questions to your pediatrician.
+Era Organics Diaper Rash Cream is a cream made for the skin of the diaper area, not for eating, so keep it away from your baby's mouth and hands. The calendula oil inside, pressed from Calendula officinalis flowers, is included to calm and comfort rash-prone skin in the diaper area, where its fatty acid profile softens irritation and supports the barrier formed by zinc oxide and the plant-butter base. Calendula has a long, well-tolerated record on delicate skin, which is why it sits alongside zinc oxide, beeswax, and shea butter in this zinc balm. Patch test before first use on newborns with unknown sensitivities. If your baby ingests any of the cream, contact poison control or a clinician, and route any medical questions to your pediatrician.
 
 *Reference: [Calendula Oil](https://www.eraorganics.com/blogs/raw-ingredients/calendula-oil)*
 
@@ -130,7 +130,7 @@ Calendula has a long history of use in topical formulations made for sensitive s
 
 Calendula oil — from the dried flowers of Calendula officinalis (pot marigold) — is widely used to soothe and calm irritated skin. Its flavonoids and triterpenoids help quiet inflamed, irritated skin, while the oil forms a light protective layer over compromised skin to reduce moisture loss as skin recovers from redness, chafing, and dryness.
 
-Calendula also carries antimicrobial properties, adding a layer of protection for skin exposed to moisture and friction. A two-month study confirmed calendula extract's effectiveness against skin microflora throughout a topical application period, which matters when skin is in a sensitive or compromised state.
+Calendula extract has also been studied for antimicrobial activity. A two-month study confirmed calendula extract's effectiveness against skin microflora throughout a topical application period.
 
 Era Organics Superbalm includes calendula oil in a balm that temporarily protects and helps relieve rashes, itch, and irritation on baby skin. A 59-patient study on a herbal calendula formulation confirmed both effectiveness and tolerability throughout the treatment period and two weeks beyond, supporting the ingredient's use for repeated daily application on delicate skin.
 
@@ -140,7 +140,7 @@ Era Organics Superbalm includes calendula oil in a balm that temporarily protect
 
 Calendula oil — pressed from the dried flowers of Calendula officinalis (pot marigold) — is a well-tolerated botanical that calms inflamed, irritated skin. Its flavonoids and triterpenoids have been studied for calming redness and are common in formulas for eczema-prone and atopic skin, while a light protective layer it forms over the skin surface slows moisture loss as skin recovers.
 
-Beyond moisturizing, calendula carries natural antimicrobial properties. A two-month study found Calendula officinalis extract maintained preservative effectiveness against skin microflora throughout the application period — a meaningful benefit anywhere friction and moisture create microbial exposure, like the diaper area or skin folds. A separate 59-patient study confirmed tolerability at daily application frequency across the full treatment window.
+Beyond moisturizing, calendula extract has been studied for antimicrobial activity. A two-month study found Calendula officinalis extract maintained preservative effectiveness against skin microflora throughout the application period in a cosmetic formula. A separate 59-patient study confirmed tolerability at daily application frequency across the full treatment window.
 
 Era Organics Superbalm includes calendula oil in a balm that temporarily protects and helps relieve itchy, irritated, eczema-prone baby skin. For dry, irritated, or eczema-prone skin, it's a gentle choice.
 

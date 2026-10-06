@@ -44,4 +44,4 @@ Safety data from a 157-patient aesthetic surgery cohort showed a surgical site i
 
 ## Disclaimer
 
-*The information on this page is provided for educational purposes only and is not medical advice. The Era Organics hypochlorous acid spray is sold as a cosmetic face and body mist and is not intended to diagnose, treat, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*The information on this page is provided for educational purposes only and is not medical advice. Era Organics offers its hypochlorous acid spray as a cosmetic face and body mist for the look and feel of skin. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*

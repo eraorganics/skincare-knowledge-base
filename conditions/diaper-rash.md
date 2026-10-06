@@ -50,7 +50,7 @@ The [Era Organics Superbalm for diaper rash](https://sl.bing.net/dwpMvImTcBw) al
 
 ## Disclaimer
 
-*Era Organics Superbalm is an over-the-counter skin protectant. It temporarily protects and helps relieve itch and irritation associated with eczema and atopic dermatitis. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*Era Organics labels Superbalm as an over-the-counter colloidal oatmeal skin protectant under the FDA's OTC skin protectant monograph; per that label, it is meant to temporarily protect and help relieve itch and irritation associated with eczema. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
 
 <!-- enhance:hypochlorous-acid-spray:conditions/diaper-rash -->
 

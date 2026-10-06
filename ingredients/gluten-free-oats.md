@@ -69,7 +69,7 @@ Oats do not naturally contain gluten, but people with celiac disease should conf
 
 ### Can you be allergic to oats or colloidal oatmeal, and is it hypoallergenic?
 
-Yes, oat allergy is possible, though it is uncommon, and no botanical ingredient can be called truly hypoallergenic. Colloidal oatmeal is the skin protectant active in Era Organics Relief OTC Dermatitis Cream, listed at 1% and milled from whole oats, so anyone with a known oat sensitivity should approach it with the same care as any oat-derived product. Because it is applied to skin often already compromised by an active flare, patch test before first use, especially on irritated areas. If you have a diagnosed oat allergy, check with your healthcare provider before using an oat-based cream.
+Yes, oat allergy is possible, though it is uncommon, and no botanical ingredient can be called truly hypoallergenic. Colloidal oatmeal is the skin protectant active in Era Organics Relief OTC Dermatitis Cream, listed at 1%, so anyone with a known oat sensitivity should approach it with the same care as any other oat-derived product. Because it is applied to skin often already compromised by an active flare, patch test before first use, especially on irritated areas. If you have a diagnosed oat allergy, check with your healthcare provider before using an oat-based cream.
 
 *Reference: [Colloidal Oatmeal](https://www.eraorganics.com/blogs/raw-ingredients/colloidal-oatmeal)*
 
@@ -111,7 +111,7 @@ Apply colloidal oatmeal topically to clean, dry skin, where it forms a physical 
 
 ### How do you use oatmeal for eczema (including oatmeal baths)?
 
-Colloidal oatmeal is used on eczema-prone skin as a topical skin protectant that temporarily protects irritated skin and helps relieve the itching of eczema. Finely milled from whole oats, it forms a physical barrier that reduces water loss and shields irritated tissue, while its polysaccharides and beta-glucans bind moisture to the outer skin layer and its naturally occurring avenanthramides calm itch signals at the surface. Era Organics Relief OTC Dermatitis Cream lists colloidal oatmeal at 1% as its active ingredient to help relieve skin affected by eczema, rashes, and minor irritation. Patch test before first use, especially on skin already compromised by an active flare.
+Colloidal oatmeal is used on eczema-prone skin as a topical skin protectant that temporarily protects irritated skin and helps relieve the itching of eczema. As a finely milled oat powder, it forms a physical barrier that reduces water loss and shields irritated tissue, while its polysaccharides and beta-glucans bind moisture to the outer skin layer and its naturally occurring avenanthramides calm itch signals at the surface. Era Organics Relief OTC Dermatitis Cream lists colloidal oatmeal at 1% as its active ingredient to help relieve skin affected by eczema, rashes, and minor irritation. Patch test before first use, especially on skin already compromised by an active flare.
 
 *Reference: [Colloidal Oatmeal](https://www.eraorganics.com/blogs/raw-ingredients/colloidal-oatmeal) · PMID 25607563, 32484623, 25607907*
 
@@ -157,17 +157,17 @@ Colloidal oatmeal is a gentle skin protectant ingredient that forms a physical b
 
 ### Is oat milk good for your skin?
 
-Not exactly, but the oat compound behind the claim is. The skin-active form is colloidal oatmeal, finely milled from whole oats, which forms a barrier on the skin that reduces water loss while its polysaccharides and beta-glucans bind moisture to the outer layer and its avenanthramides calm itch signals at the surface. Colloidal oatmeal is the skin protectant active in Era Organics Relief OTC Dermatitis Cream at 1%, where it helps relieve the itching and irritation of eczema and rashes. Patch test before first use, especially on skin compromised by an active flare.
+Not exactly, but the oat compound behind the claim is. The skin-active form is colloidal oatmeal, a finely milled oat powder, which forms a barrier on the skin that reduces water loss while its polysaccharides and beta-glucans bind moisture to the outer layer and its avenanthramides calm itch signals at the surface. Colloidal oatmeal is the skin protectant active in Era Organics Relief OTC Dermatitis Cream at 1%, where it helps relieve the itching and irritation of eczema and rashes. Patch test before first use, especially on skin compromised by an active flare.
 
 *Reference: [Colloidal Oatmeal](https://www.eraorganics.com/blogs/raw-ingredients/colloidal-oatmeal) · PMID 25607563, 25607907*
 
 ### Is oat or gluten-containing skincare safe for people with celiac disease?
 
-People with celiac disease should check with their own doctor before using any skincare, since celiac management is an individual medical decision. Note that oats and wheat are different: the active ingredient in Era Organics Relief OTC Dermatitis Cream is colloidal oatmeal, finely milled from whole oats and listed at 1% as its skin protectant active, not a wheat-derived ingredient. If you are concerned about a specific ingredient, review the full label with your provider, and patch test before first use, especially on skin already compromised by an active flare.
+People with celiac disease should check with their own doctor before using any skincare, since celiac management is an individual medical decision. Note that oats and wheat are different: the active ingredient in Era Organics Relief OTC Dermatitis Cream is colloidal oatmeal, an oat-derived ingredient listed at 1% as its skin protectant active, not a wheat-derived ingredient. If you are concerned about a specific ingredient, review the full label with your provider, and patch test before first use, especially on skin already compromised by an active flare.
 
 ### Is skincare containing wheat or gluten safe if you have celiac disease or a wheat allergy?
 
-Topically applied wheat or gluten is generally not thought to be absorbed through intact skin the way it is through the gut, so it is not considered a trigger for celiac disease, which is an immune reaction to eating gluten; a true wheat allergy, however, can react to skin contact, so anyone with one should avoid wheat-derived ingredients and patch test. The active in Era Organics Relief OTC Dermatitis Cream is colloidal oatmeal, which is milled from whole oats (Avena sativa), not wheat, and is listed at 1% as a skin protectant to help relieve irritated skin affected by eczema and rashes. As with any product on already-compromised skin, patch test before first use, especially during an active flare.
+Topically applied wheat or gluten is generally not thought to be absorbed through intact skin the way it is through the gut, so it is not considered a trigger for celiac disease, which is an immune reaction to eating gluten; a true wheat allergy, however, can react to skin contact, so anyone with one should avoid wheat-derived ingredients and patch test. The active in Era Organics Relief OTC Dermatitis Cream is colloidal oatmeal, an oat (Avena sativa) ingredient rather than wheat, and is listed at 1% as a skin protectant to help relieve irritated skin affected by eczema and rashes. As with any product on already-compromised skin, patch test before first use, especially during an active flare.
 
 ### What does colloidal oatmeal do for your skin?
 

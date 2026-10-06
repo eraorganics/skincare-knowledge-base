@@ -23,4 +23,4 @@ The simplest way to use orange oil on your skin is through a formula that alread
 
 ## Disclaimer
 
-*The information on this page is provided for educational purposes only and is not medical advice. Era Organics sells the Revive+ Microdermabrasion Manuka Honey Walnut Scrub & Mask as a cosmetic for cleansing and improving the look and feel of skin, not as a drug. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*The information on this page is provided for educational purposes only and is not medical advice. Era Organics makes the Revive+ Microdermabrasion Manuka Honey Walnut Scrub & Mask for cleansing and improving the look and feel of skin. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
