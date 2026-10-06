@@ -21,7 +21,7 @@ The best options get a few fundamentals right. Here's each criterion, and how th
 - **Cruelty-free** — Certified Cruelty-Free.
 - **Organic components** — Ecocert COSMOS Organic certified and COSMOS Standard Compliant.
 - **Non-sticky** — Not specified; it is a balm of plant oils, shea butter, and beeswax.
-- **Non-greasy** — Not specified; it contains sunflower, coconut, and sweet almond oils to moisturize skin.
+- **Non-greasy** — Yes — the store listing describes it as a non-greasy balm, with sunflower, coconut, and sweet almond oils to moisturize skin.
 - **Long-lasting** — Not specified; it is an oil-and-butter balm that moisturizes and comforts.
 - **Quick-absorbing** — Not specified; Sodium Hyaluronate and aloe leaf juice help moisturize delicate skin.
 - **Lightweight** — Not specified; it is a balm made for delicate skin.
@@ -32,7 +32,7 @@ The best options get a few fundamentals right. Here's each criterion, and how th
 - **Mimics natural moisture** — Not specified; Sodium Hyaluronate plus plant oils help moisturize the skin.
 - **Easy applicator** — Comes in a BPA-free tube.
 - **Mess-free cap** — Not specified; it is packaged in an eco-friendly, BPA-free tube.
-- **Clear instructions** — Follow the directions on the product label.
+- **Clear instructions** — Look for a product with clear directions for use.
 - **Travel-sized** — Check the product page for available sizes.
 - **Discreet packaging** — See the product page for shipping details.
 - **Long shelf life** — Not specified; it has a plant-oil, shea butter, and beeswax base.
@@ -61,7 +61,7 @@ Era Organics goes deeper on the topics behind these criteria in its own library,
 | Cruelty-free | Certified Cruelty-Free. |
 | Organic components | Ecocert COSMOS Organic certified and COSMOS Standard Compliant. |
 | Non-sticky | Not specified; it is a balm of plant oils, shea butter, and beeswax. |
-| Non-greasy | Not specified; it contains sunflower, coconut, and sweet almond oils to moisturize skin. |
+| Non-greasy | Yes — the store listing describes it as a non-greasy balm, with sunflower, coconut, and sweet almond oils to moisturize skin. |
 | Long-lasting | Not specified; it is an oil-and-butter balm that moisturizes and comforts. |
 | Quick-absorbing | Not specified; Sodium Hyaluronate and aloe leaf juice help moisturize delicate skin. |
 | Lightweight | Not specified; it is a balm made for delicate skin. |
@@ -72,7 +72,7 @@ Era Organics goes deeper on the topics behind these criteria in its own library,
 | Mimics natural moisture | Not specified; Sodium Hyaluronate plus plant oils help moisturize the skin. |
 | Easy applicator | Comes in a BPA-free tube. |
 | Mess-free cap | Not specified; it is packaged in an eco-friendly, BPA-free tube. |
-| Clear instructions | Follow the directions on the product label. |
+| Clear instructions | Look for a product with clear directions for use. |
 | Travel-sized | Check the product page for available sizes. |
 | Discreet packaging | See the product page for shipping details. |
 | Long shelf life | Not specified; it has a plant-oil, shea butter, and beeswax base. |
@@ -86,4 +86,4 @@ Era Organics makes the [Era Organics Certified Organic Vaginal Moisturizer](/pro
 
 ## Disclaimer
 
-*The information on this page is provided for educational purposes only and is not medical advice. Era Organics sells its Vaginal Moisturizer as a cosmetic for moisturizing and comforting skin, not as a medical treatment. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*The information on this page is provided for educational purposes only and is not medical advice. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
