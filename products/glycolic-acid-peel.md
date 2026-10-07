@@ -1,9 +1,9 @@
 # Era Organics Glycolic Acid Chemical Peel
 
 
-## Glycolic Acid Chemical Peel is an at-home exfoliating treatment that dissolves dead skin cells and stimulates collagen production through controlled acid exfoliation.
+## Glycolic Acid Chemical Peel is an at-home exfoliating treatment.
 
-Era Organics formulated this peel for fine lines, uneven texture, hyperpigmentation, and dullness. Glycolic acid is the smallest alpha hydroxy acid (AHA) molecule — its 76.05 g/mol molecular weight allows the deepest penetration of any AHA, reaching the dermal-epidermal junction where collagen synthesis occurs.
+Era Organics formulated this peel for fine lines, uneven texture, hyperpigmentation, and dullness. Glycolic acid is the smallest alpha hydroxy acid (AHA) molecule — its 76.05 g/mol molecular weight allows the deepest penetration of any AHA.
 
 
 ## The ingredients chosen
@@ -14,7 +14,7 @@ Glycolic acid (hydroxyacetic acid, C₂H₄O₃) is the smallest AHA with a mole
 
 **Mechanism:** Glycolic acid disrupts ionic bonds between corneocytes in the stratum corneum, causing controlled desquamation (shedding) of dead surface cells. At sufficient concentration and low pH, glycolic acid reaches fibroblasts in the dermis, stimulating procollagen synthesis and glycosaminoglycan (hyaluronic acid) production.
 
-**Concentration and pH:** Efficacy requires pH below 4.0 (optimal: 3.0-3.5). Below pH 3.0, free acid concentration increases dramatically but so does irritation. Era Organics calibrates pH and concentration to maximize free acid availability while maintaining tolerability for home use.
+**Concentration and pH:** Efficacy requires pH below 4.0 (optimal: 3.0-3.5). Below pH 3.0, free acid concentration increases dramatically but so does irritation.
 
 ### Lactic acid
 
@@ -24,7 +24,7 @@ Lactic acid is a larger AHA (90.08 g/mol) that provides surface exfoliation with
 
 ### Aloe vera
 
-Aloe vera delivers anti-inflammatory polysaccharides (acemannan) that counterbalance acid-induced irritation. Aloe vera reduces erythema (redness) and accelerates epithelial healing during the post-peel recovery window.
+Aloe vera delivers anti-inflammatory polysaccharides (acemannan) that counterbalance acid-induced irritation. Aloe vera may help reduce erythema (redness) during the post-peel recovery window.
 
 **Mechanism:** Acemannan inhibits prostaglandin E2 production, reducing the inflammatory cascade that chemical exfoliation triggers. The hydrating matrix maintains skin moisture during the controlled damage-and-repair process.
 

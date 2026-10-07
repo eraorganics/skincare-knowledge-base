@@ -30,11 +30,11 @@ Fresh oil (manufactured within 12 months) maintains stable terpene composition. 
 
 ## How Era Organics uses it
 
-Era Organics Tea Tree Cream combines tea tree oil at a concentration within the clinically effective range (1-5%) with moisturizing and anti-inflammatory base ingredients that counteract potential drying effects while maintaining antimicrobial delivery.
+Era Organics Tea Tree Cream combines tea tree oil with moisturizing base ingredients that may help counteract potential drying effects.
 
-Era Organics selects tea tree oil meeting ISO 4730 standards (minimum 30% terpinen-4-ol, maximum 15% cineole) to ensure therapeutic quality in every batch. The cream format provides extended skin contact time — superior to wash-off formulations that limit tea tree oil's 30-60 minute kill time for bacteria.
 
-The formulation targets acne-prone skin requiring antimicrobial treatment combined with the moisturizing support that benzoyl peroxide products fail to provide. The cream base includes ingredients that maintain barrier integrity alongside the exfoliation-free antibacterial mechanism.
+
+The formulation targets acne-prone skin with moisturizing support. The cream base includes ingredients that help maintain barrier integrity.
 
 
 ## FAQ

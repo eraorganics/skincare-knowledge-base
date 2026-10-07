@@ -1,6 +1,6 @@
 # Methylene Blue and Mitochondrial Health and Cellular Energy
 
-Methylene blue is a compound with a long history in laboratory science. In recent years, researchers have taken an interest in how it interacts with the parts of cells that produce energy. This page explains, at a research level, why that interest exists. It does not describe a benefit, and nothing here is a claim about any product. Era Organics offers its Activated Methylene Blue Drops as a supplement, and anyone considering them should talk with a qualified healthcare provider first.
+Methylene blue is a compound with a long history in laboratory science. In recent years, researchers have taken an interest in how it interacts with the parts of cells that produce energy. This page explains, at a research level, why that interest exists. It does not describe a benefit, and nothing here is a claim about any product. Era Organics offers its Activated Methylene Blue Drops, and anyone considering them should talk with a qualified healthcare provider first.
 
 ## Why mitochondria come up in this research
 
@@ -26,4 +26,4 @@ Methylene blue can act as an MAOI and carries a risk of serotonin syndrome when 
 
 ## Disclaimer
 
-*This product is sold as a supplement, and how it is used is up to the individual, best undertaken with the guidance of a qualified healthcare provider. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.*
+*How this product is used is up to the individual, best undertaken with the guidance of a qualified healthcare provider. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.*

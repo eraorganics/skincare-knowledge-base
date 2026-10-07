@@ -4,7 +4,7 @@ Avocado oil (pressed from the fruit of *Persea americana*) is a dense emollient 
 
 The fatty acid profile of avocado oil is dominated by oleic acid, a monounsaturated fat that mirrors the skin's own intercellular lipids. Oleic acid penetrates the outer layer of the skin (stratum corneum) and softens the tight, thickened texture that forms over dry, eczema-prone patches. Canola oil's unsaponifiable lipid fraction assisted the skin in supplying the damaged barrier with adequate lipids, reducing SLS-induced irritation in barrier-compromised skin (Lodén et al., British Journal of Dermatology, 1996); avocado oil contains a similar oleic-rich unsaponifiable lipid class, though it was not the oil tested in that study.
 
-Avocado oil's natural sterols, beta-sitosterol, campesterol, and stigmasterol, help comfort the skin and soften rough texture without occluding pores or leaving a heavy residue. Baby Superbalm also contains beeswax, a classic balm ingredient alongside plant oils. Together with oils like avocado oil, it gives the balm its rich texture for dry, eczema-prone skin.
+Avocado oil's natural sterols, beta-sitosterol, campesterol, and stigmasterol, help comfort the skin and soften rough texture without occluding pores or leaving a heavy residue. Baby Superbalm also contains beeswax, a classic balm ingredient alongside plant oils.
 
 Patch test the balm on the inside of the elbow before first full-body use, particularly for infants with known sensitivities.
 
@@ -16,7 +16,7 @@ Avocado oil (pressed from *Persea americana*) is a dense emollient that delivers
 
 The plant sterols naturally present in avocado oil — beta-sitosterol, campesterol, and stigmasterol — help comfort the skin and soften rough texture without clogging pores or leaving a heavy residue.
 
-Era Organics Superbalm includes avocado oil as one of several plant oils in its formula. The balm also contains beeswax, a traditional balm ingredient, giving it a rich texture for dry, eczema-prone skin. Patch test on the inside of the elbow before first full-body use, particularly for infants with known sensitivities.
+Era Organics Superbalm includes avocado oil as one of several plant oils in its formula. The balm also contains beeswax, a traditional balm ingredient. Patch test on the inside of the elbow before first full-body use, particularly for infants with known sensitivities.
 
 ### Is avocado oil safe for babies?
 

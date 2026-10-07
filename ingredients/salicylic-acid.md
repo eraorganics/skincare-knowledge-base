@@ -3,7 +3,7 @@
 
 Salicylic acid (2-hydroxybenzoic acid) is a beta hydroxy acid (BHA) with a molecular weight of 138.12 g/mol, derived originally from willow bark (Salix alba) and now produced synthetically for cosmetic use. Salicylic acid distinguishes itself from alpha hydroxy acids (AHAs) through its lipophilic (oil-soluble) character — the aromatic ring and hydroxyl group positioning create a molecule that dissolves in sebum and penetrates into oil-filled pores where AHAs cannot reach.
 
-Salicylic acid has been used medicinally since ancient Egypt (willow bark extracts) and received FDA monograph approval as an over-the-counter acne treatment at concentrations between 0.5% and 2%. The ingredient functions simultaneously as a keratolytic (dissolves dead skin), comedolytic (clears pore blockages), anti-inflammatory, and mild antimicrobial.
+Salicylic acid has been used medicinally since ancient Egypt (willow bark extracts). The ingredient functions simultaneously as a keratolytic (dissolves dead skin), comedolytic (clears pore blockages), anti-inflammatory, and mild antimicrobial.
 
 
 ## What the research says
@@ -19,7 +19,7 @@ Salicylic acid at 0.5-2% improved photodamage (fine wrinkles, roughness, dyspigm
 
 ## What to look for
 
-Concentration between 0.5% and 2% for daily leave-on products (serums, toners, moisturizers). The FDA OTC monograph permits up to 2% for acne treatment without prescription. Higher concentrations (20-30%) exist as professional chemical peels applied briefly and neutralized.
+Concentration between 0.5% and 2% for daily leave-on products (serums, toners, moisturizers). Higher concentrations (20-30%) exist as professional chemical peels applied briefly and neutralized.
 
 pH below 4.0 ensures salicylic acid remains in its un-ionized (active) form. At pH 4.0, approximately 85% exists as free acid capable of penetrating skin. Above pH 4.0, increasing proportions ionize into inactive salicylate that cannot penetrate the stratum corneum.
 
@@ -30,11 +30,11 @@ Formulation in lightweight vehicles (solutions, gels, serums) enhances pore pene
 
 ## How Era Organics uses it
 
-Era Organics BHA AHA Serum combines salicylic acid with complementary alpha hydroxy acids (glycolic acid, lactic acid) to deliver comprehensive chemical exfoliation addressing both surface texture (AHAs) and pore congestion (BHA) simultaneously.
+Era Organics BHA AHA Serum combines salicylic acid with complementary alpha hydroxy acids for chemical exfoliation.
 
-Era Organics formulates salicylic acid at an effective concentration within the 0.5-2% range at a pH optimized for free acid activity. The serum vehicle enhances follicular penetration — delivering salicylic acid directly into pores where it dissolves sebum plugs and reduces inflammation.
 
-The combination strategy targets multiple acne mechanisms: salicylic acid clears existing pore blockages and reduces inflammation, while AHAs accelerate surface cell turnover to prevent new dead skin accumulation over pore openings. The result addresses both the cause (blocked pores) and the consequence (surface congestion) of acne.
+
+
 
 
 ## FAQ
@@ -43,7 +43,7 @@ The combination strategy targets multiple acne mechanisms: salicylic acid clears
 Salicylic acid penetrates into pores through its oil-soluble structure, dissolves the keratin and sebum plugs that cause acne, reduces inflammation through COX enzyme inhibition, and exfoliates the skin surface by breaking intercellular bonds between dead cells.
 
 **Is salicylic acid good for blackheads?**
-Salicylic acid is the gold-standard ingredient for blackheads. The oil-soluble molecule enters the pore, dissolves the oxidized sebum plug (blackhead), and prevents reformation through regular use. No other OTC ingredient penetrates into pores as effectively.
+Salicylic acid is the gold-standard ingredient for blackheads. The oil-soluble molecule enters the pore, dissolves the oxidized sebum plug (blackhead), and prevents reformation through regular use.
 
 **How often should salicylic acid be used?**
 Daily use at 0.5-2% is appropriate for most acne-prone skin types. New users should start at every other day and increase to daily over 2 weeks. The self-neutralizing mechanism prevents over-exfoliation even with daily use.

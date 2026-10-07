@@ -6,7 +6,7 @@ What sunflower oil does for skin in clinical populations has been documented in 
 
 Sunflower oil skincare ingredient status rests on its fatty acid profile, not on fragrance or occlusivity alone. The oil's high linoleic acid concentration addresses the specific deficit seen in atopic and rough skin, where linoleic acid levels drop below normal. Era Organics pairs sunflower oil with coconut oil, shea butter, and hyaluronic acid in a single formula, broadening coverage across the barrier functions that skin-softening ingredients (emollients), moisture-sealing ingredients (occlusives), and moisture-drawing ingredient (humectant)s address separately.
 
-Sunflower seed oil shifts the skin microbiota in ways associated with improved barrier integrity in vulnerable pediatric populations (Fischer N et al., Journal of Global Health, 2021). For adults managing dry or sensitive skin daily, sunflower oil delivers stearic and palmitic acids together, mirroring the natural ceramide-adjacent lipids the barrier produces. The formula delivers these lipids within a beeswax and aloe vera base that buffers the skin from environmental moisture loss.
+Sunflower seed oil shifts the skin microbiota in ways associated with improved barrier integrity in vulnerable pediatric populations (Fischer N et al., Journal of Global Health, 2021). For adults managing dry or sensitive skin daily, sunflower oil delivers stearic and palmitic acids together, mirroring the natural ceramide-adjacent lipids the barrier produces. The formula delivers these lipids within a beeswax and aloe vera base that helps buffer the skin from environmental moisture loss.
 
 ## What is sunflower Oil in Skincare?
 
@@ -60,7 +60,7 @@ Sunflower oil addresses five skin concerns: dry skin, rough skin, barrier suppor
 
 **Sensitive skin:** Sunflower oil is a lightweight emollient that sits well on reactive, easily irritated skin. The oil's fatty acid composition avoids the heavy occlusion that triggers congestion in sensitive skin types, delivering moisture without blocking follicles. Patch testing before first use is the appropriate precaution for skin with known contact sensitivities.
 
-**Atopic dermatitis-prone skin:** Sunflower oil's anti-inflammatory fatty acids calm the inflammatory cycle associated with atopic dermatitis. Ozonated sunflower oil relieved atopic dermatitis-mediated skin damage through anti-inflammatory and antioxidant activity in an animal model (Kim S et al., Journal of Microbiology and Biotechnology, 2024). Preterm infant skin responds differently — sunflower seed oil application retarded postnatal skin barrier maturation in preterm neonates in a randomized controlled trial (Kanti V et al., Dermatology, 2014), so caution is warranted for premature newborn skin specifically.
+**Atopic dermatitis-prone skin:** Sunflower oil's anti-inflammatory fatty acids may help calm the inflammatory cycle associated with atopic dermatitis. Ozonated sunflower oil relieved atopic dermatitis-mediated skin damage through anti-inflammatory and antioxidant activity in an animal model (Kim S et al., Journal of Microbiology and Biotechnology, 2024). Preterm infant skin responds differently — sunflower seed oil application retarded postnatal skin barrier maturation in preterm neonates in a randomized controlled trial (Kanti V et al., Dermatology, 2014), so caution is warranted for premature newborn skin specifically.
 
 ## How is sunflower Oil Used in Era Organics Formulations?
 
@@ -70,27 +70,25 @@ Sunflower oil in skincare products appears in four distinct roles, emollient car
 
 **Linoleic acid source:** Linoleic acid is the primary polyunsaturated fatty acid in sunflower oil, constituting the majority of its fatty acid profile. Linoleic acid fills structural gaps in the intercellular lipid matrix, reducing moisture loss through the skin (transepidermal water loss) in barrier-compromised skin. Sunflower seed oil applied to preterm infant skin hydrated the skin without adverse effects in a randomized controlled trial (Caglar et al., Advances in Skin & Wound Care, 2020).
 
-**Barrier-repair lipid:** Sunflower oil's fatty acid composition, linoleic acid, oleic acid, and stearic acid, mirrors the lipid classes native to the skin barrier. Sunflower Oil's fatty acids slot into the intercellular matrix, rebuilding the cohesive layer that seals moisture inside the outer skin (epidermis). The formula targets this mechanism directly for users managing eczema, atopic dermatitis, and chronic dry skin.
+**Barrier-repair lipid:** Sunflower oil's fatty acid composition, linoleic acid, oleic acid, and stearic acid, mirrors the lipid classes native to the skin barrier. Sunflower Oil's fatty acids slot into the intercellular matrix, rebuilding the cohesive layer that seals moisture inside the outer skin (epidermis).
 
-**Skin-conditioning base:** Sunflower oil formulations soften rough skin texture by restoring surface lipids lost through washing or environmental exposure. Ozonated sunflower oil relieved atopic dermatitis-mediated skin damage through anti-inflammatory and antioxidant activity in an oxazolone-induced atopic dermatitis mouse model (Kim et al., Journal of Microbiology and Biotechnology, 2024). Era Organics pairs sunflower oil with aloe vera and cehami extract to extend this conditioning effect across the full formula.
+**Skin-conditioning base:** Sunflower oil formulations soften rough skin texture by restoring surface lipids lost through washing or environmental exposure. Ozonated sunflower oil relieved atopic dermatitis-mediated skin damage through anti-inflammatory and antioxidant activity in an oxazolone-induced atopic dermatitis mouse model (Kim et al., Journal of Microbiology and Biotechnology, 2024). Era Organics pairs sunflower oil with aloe vera and cehami extract.
 
 ## Sunflower Oil in Vaginal Moisturizer
 
-Sunflower oil is a primary emollient in the formula, chosen for its high concentration of linoleic acid, a fatty acid that reinforces the vulvar skin barrier and reduces moisture loss through the skin (transepidermal water loss) in dry, sensitive tissue. [Era Organics Vaginal Moisturizer with sunflower oil](/products/vaginal-moisturizer) pairs this barrier-active lipid with complementary ingredients from the INCI list, including shea butter, sweet almond oil, and hyaluronic acid, to address moisture loss at multiple skin layers.
+Sunflower oil is a primary emollient in the formula, chosen for its high concentration of linoleic acid, a fatty acid that reinforces the vulvar skin barrier and reduces moisture loss through the skin (transepidermal water loss) in dry, sensitive tissue. [Era Organics Vaginal Moisturizer with sunflower oil](/products/vaginal-moisturizer) pairs this barrier-active lipid with complementary ingredients from the INCI list, including shea butter, sweet almond oil, and hyaluronic acid, to help address moisture loss.
 
 The linoleic acid in sunflower oil is the structural reason sunflower oil performs in delicate skin zones. Where oleic-acid-dominant oils disrupts the outer skin layer (stratum corneum) in barrier-compromised skin, linoleic acid slots into the lamellar lipid structure and seals it. Vaginal and vulvar skin shares many barrier properties with facial skin, making the same lipid logic apply.
 
-Sunflower oil's soothing potential in inflamed or atopic-like skin is documented in peer-reviewed work. A polar sunflower seed oil at 1% concentration reduced in vivo irritation of sodium lauryl ether sulphate by 20%, while mineral oil at the same concentration had no measurable effect (Mukherjee et al., International Journal of Cosmetic Science, 2015). The vaginal moisturizer delivers sunflower oil at a cosmetic use level alongside beeswax and coconut oil, forming a protective occlusive layer over the barrier-repair lipids.
+Sunflower oil's soothing potential in inflamed or atopic-like skin is documented in peer-reviewed work. A polar sunflower seed oil at 1% concentration reduced in vivo irritation of sodium lauryl ether sulphate by 20%, while mineral oil at the same concentration had no measurable effect (Mukherjee et al., International Journal of Cosmetic Science, 2015). The vaginal moisturizer delivers sunflower oil at a cosmetic use level alongside beeswax and coconut oil, which can help form a protective layer over the barrier-repair lipids.
 
 Patch test the formula before first full application, particularly with sensitive or reactive vulvar skin.
 
 ## Sunflower Oil in Revive+ Face Scrub
 
-Sunflower oil in Era Organics Revive+ Face Scrub delivers its linoleic acid content directly to the skin during exfoliation, a moment when the barrier is most receptive to fatty acid absorption. The [Era Organics Revive+ Face Scrub with sunflower oil](/products/face-exfoliation-scrub) pairs mechanical exfoliation with lipid replenishment, so the skin surface loses dead cell buildup without stripping the moisture barrier beneath.
+Sunflower oil in Era Organics Revive+ Face Scrub delivers its linoleic acid content directly to the skin during exfoliation, a moment when the barrier is most receptive to fatty acid absorption. The [Era Organics Revive+ Face Scrub with sunflower oil](/products/face-exfoliation-scrub) pairs mechanical exfoliation with lipid replenishment, to help the skin surface lose dead cell buildup without stripping the moisture barrier beneath.
 
-Linoleic acid, the dominant fatty acid in sunflower oil, restores the ceramide precursors that a disrupted barrier needs to reseal. The scrub delivers this lipid alongside walnut shell as the physical exfoliant, meaning the skin receives barrier-rebuilding fatty acids at the same moment the surface is opened to absorption.
-
-A sunflower oil-based formulation produced a 65.6% improvement in itch in participants with atopic dermatitis at 4 weeks, compared with 43.8% in the vehicle group (Nadora D et al., Dermatitis, 2024). Rough, sensitive, or eczema-prone skin that needs exfoliation benefits from that anti-itch and barrier-softening combination built into a single step.
+Linoleic acid, the dominant fatty acid in sunflower oil, restores the ceramide precursors that a disrupted barrier needs to reseal. The scrub delivers this lipid alongside walnut shell as the physical exfoliant.
 
 ## Frequently Asked Questions
 
@@ -134,7 +132,7 @@ Sunflower oil is well-suited for skin, and its value comes down to one key fatty
 
 A pilot study found that sunflower seed oil applied twice daily for five weeks did not disrupt skin barrier function in newborns, and a randomized controlled trial of 115 neonates measured detailed skin barrier markers across sunflower oil, olive oil, and no-oil groups — one of the most comprehensive neonatal skin oil datasets available.
 
-Era Organics Superbalm uses cold-pressed sunflower oil as a primary carrier for exactly this reason. It pairs with Beeswax, which seals the surface to slow moisture evaporation, and Cocoa Butter, which adds emollient weight — locking in the barrier support sunflower oil delivers at the lipid level. If you're using Superbalm on a baby with an atopic eczema family history, patch test on the inside of the elbow first.
+Era Organics Superbalm uses sunflower oil for exactly this reason. It pairs with Beeswax, which seals the surface to slow moisture evaporation, and Cocoa Butter, which adds emollient weight — helping lock in the barrier support sunflower oil delivers at the lipid level. If you're using Superbalm on a baby with an atopic eczema family history, patch test on the inside of the elbow first.
 
 *Reference: [Sunflower Oil](https://www.eraorganics.com/blogs/raw-ingredients/sunflower-oil) · PMID 28070970, 26551528*
 
@@ -144,10 +142,10 @@ Sunflower oil is well-tolerated on skin and a strong choice for sensitive, barri
 
 Clinical evidence supports its safety: a pilot study in full-term neonates found that sunflower seed oil applied twice daily for five weeks did not impair skin barrier function. A separate randomized controlled trial in 115 neonates measured lipid lamellae profiles, TEWL, hydration, and skin pH across sunflower oil, olive oil, and no-oil groups — generating one of the most detailed neonatal skin barrier datasets available for topical oils.
 
-Era Organics Superbalm uses sunflower oil as a primary carrier, pairing it with Beeswax to seal the surface and slow moisture evaporation, and Cocoa Butter for additional emollient weight. For infants with a family history of atopic dermatitis, patch test Superbalm on the inside of the elbow before first full use.
+Era Organics Superbalm uses sunflower oil, pairing it with Beeswax to seal the surface and slow moisture evaporation, and Cocoa Butter for additional emollient weight. For infants with a family history of atopic dermatitis, patch test Superbalm on the inside of the elbow before first full use.
 
 *Reference: [Sunflower Oil](https://www.eraorganics.com/blogs/raw-ingredients/sunflower-oil) · PMID 28070970, 26551528*
 
 ## Disclaimer
 
-*The information on this page is provided for educational purposes only and is not medical advice. Era Organics Relief, Era Organics Superbalm, and Era Organics Diaper Rash Cream are over-the-counter skin protectants that work as described on their labels; other Era Organics products are cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*The information on this page is provided for educational purposes only and is not medical advice. Era Organics Relief, Era Organics Superbalm, and Era Organics Diaper Rash Cream are labeled as over-the-counter skin protectants; other Era Organics products are labeled as cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*

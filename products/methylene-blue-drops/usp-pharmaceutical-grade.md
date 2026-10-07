@@ -1,6 +1,6 @@
 # USP Pharmaceutical-Grade Methylene Blue
 
-When people search for a "methylene blue supplement," they quickly run into a term that matters more than the label on the bottle: grade. Methylene blue is sold at very different levels of purity, and the difference is not cosmetic. Era Organics Activated Methylene Blue Drops is made with USP-grade methylene blue, and this page explains what that means. The product is sold as a dietary supplement. How it is used is up to the individual, and any use is best under the guidance of a qualified healthcare provider.
+When people search for a "methylene blue supplement," they quickly run into a term that matters more than the label on the bottle: grade. Methylene blue is sold at very different levels of purity, and the difference is not cosmetic. Era Organics Activated Methylene Blue Drops is made with USP-grade methylene blue, and this page explains what that means.
 
 ## What "USP Pharmaceutical Grade" Means
 
@@ -8,7 +8,7 @@ USP stands for the United States Pharmacopeia, the body that sets published qual
 
 ## Why Grade and Purity Matter
 
-Methylene blue is also made in reagent and industrial grades. Those lower grades are produced for laboratory staining, textiles, and manufacturing, where the presence of leftover heavy metals or processing chemicals does not matter. They are not held to the same purity or contaminant limits. Grade is the single clearest signal of how clean a given batch actually is.
+Methylene blue is also made in reagent and industrial grades. Those lower grades are produced for laboratory staining, textiles, and manufacturing, where the presence of leftover heavy metals or processing chemicals does not matter. They are not held to the same purity or contaminant limits. Grade can help signal how clean a given batch actually is.
 
 ## Third-Party Testing, cGMP, and the Certificate of Analysis
 

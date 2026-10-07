@@ -30,11 +30,11 @@ Squalane listed within the first 5 ingredients indicates use as a primary emolli
 
 ## How Era Organics uses it
 
-Era Organics incorporates plant-derived squalane as a lightweight emollient in formulations requiring oil-phase moisturization without the heaviness or comedogenic risk of traditional plant oils. Squalane serves as the primary emollient in products targeting combination and sensitive skin types.
 
-Era Organics sources 100% plant-derived squalane (olive or sugarcane origin) with zero shark-derived content. The molecular distillation to pharmaceutical-grade purity ensures non-comedogenic performance suitable for acne-prone skin.
 
-Squalane functions within Era Organics formulations as both a standalone moisturizer and a carrier for oil-soluble active ingredients — the lightweight spreading and penetration-enhancing properties deliver vitamin E, essential oils, and fat-soluble antioxidants more evenly across the skin surface.
+
+
+
 
 
 ## FAQ

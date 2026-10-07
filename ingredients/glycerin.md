@@ -28,10 +28,6 @@ Glycerin combined with occlusive ingredients (ceramides, squalane, shea butter) 
 
 ## How Era Organics uses it
 
-Era Organics incorporates vegetable-derived glycerin across the majority of product formulations as a foundational humectant. Glycerin provides the primary moisture-binding function in Era Organics moisturizers, serums, and creams at concentrations between 5-15%.
-
-Era Organics pairs glycerin with occlusive lipid ingredients (ceramides, shea butter, plant oils) to create complete hydration systems that draw moisture into skin and prevent its escape. This combination strategy delivers superior long-term hydration compared to humectant-only or occlusive-only approaches.
-
 The ingredient also serves as a formulation aid — glycerin improves spreadability, enhances the skin feel of heavier creams, and stabilizes active ingredients sensitive to water activity changes.
 
 

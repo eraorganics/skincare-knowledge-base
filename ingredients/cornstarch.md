@@ -4,9 +4,9 @@ Cornstarch is a fine, plant-derived powder made from the endosperm of corn kerne
 
 The powder's formula pairs cornstarch with Arrowroot Powder and Kaolin Clay so that each ingredient addresses a different aspect of skin-surface management. Cornstarch contributes the bulk of the formula's absorbency. Arrowroot Powder adds slip, making the Baby Dusting Powder easy to spread without clumping.
 
-Kaolin Clay gently purifies the skin surface. Together, these three ingredients produce a finely milled, non-caking powder that stays distributed evenly across the skin and continues absorbing moisture throughout wear.
+Kaolin Clay gently purifies the skin surface. Together, these three ingredients produce a finely milled, non-caking powder that stays distributed evenly across the skin.
 
-Skin folds and the diaper area are prone to a condition called intertrigo, a skin irritation that develops where trapped moisture, heat, and friction combine (Janniger C et al., American Family Physician, 2005). Cornstarch in the Chafing Prevention Powder addresses the moisture component of that cycle by keeping the skin surface dry. A light dusting patted onto the diaper area or chafing spots at each diaper change lowers the moisture that drives friction-related irritation — without talc, parabens, synthetic dyes, or fragrance.
+Skin folds and the diaper area are prone to a condition called intertrigo, a skin irritation that develops where trapped moisture, heat, and friction combine (Janniger C et al., American Family Physician, 2005). A light dusting patted onto the diaper area or chafing spots at each diaper change can help lower the moisture that drives friction-related irritation — without talc, parabens, synthetic dyes, or fragrance.
 
 Cornstarch is a recognized talc alternative in baby powders, making it the functional foundation of the Organic Baby Powder's talc-free design. Babies and adults with sensitive or reactive skin who avoid talc get the same absorbent performance through a plant-sourced ingredient. Patch test a small area before first use, particularly for individuals with known sensitivities to corn-derived ingredients.
 

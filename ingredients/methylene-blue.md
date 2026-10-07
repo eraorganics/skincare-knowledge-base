@@ -16,14 +16,14 @@ A comparative study found methylene blue outperformed retinol, vitamin C, and Co
 
 Methylene blue demonstrated reversal of premature aging phenotypes in fibroblasts derived from progeria patients, normalizing nuclear morphology and mitochondrial function within 4 weeks of treatment (Xiong et al., 2016).
 
-Clinical studies on oral methylene blue show improved cognitive function in Alzheimer's patients at doses of 60-150 mg/day, supporting the neuroprotective mechanism (Wischik et al., "Tau Aggregation Inhibitor Therapy," Journal of Alzheimer's Disease, 2015) [SOURCE NEEDED].
+
 
 
 ## What to look for
 
 Effective topical concentrations range from 0.05% to 1% for skincare applications. Concentrations below 0.05% lack sufficient mitochondrial accumulation for measurable effects. Concentrations above 1% produce intense staining without proportional efficacy gains.
 
-Pharmaceutical-grade methylene blue (USP) ensures purity above 99% without toxic contaminants (heavy metals, zinc-free specification). Industrial-grade methylene blue contains impurities inappropriate for skin application.
+Pharmaceutical-grade methylene blue (USP) can help ensure purity. Industrial-grade methylene blue may contain impurities inappropriate for skin application.
 
 Formulation pH between 4.0 and 7.0 maintains stability. Methylene blue degrades under extreme alkaline conditions. Dark glass packaging prevents photodegradation, as the molecule absorbs light at 665 nm wavelength.
 
@@ -32,17 +32,17 @@ Water-soluble formulations (serums, solutions) deliver higher bioavailability th
 
 ## How Era Organics uses it
 
-Era Organics Methylene Blue 1% Drops deliver pharmaceutical-grade (USP) methylene blue at 1% concentration — the highest end of the studied efficacy range for topical application. The formulation uses a simple aqueous vehicle to maximize bioavailability and mitochondrial uptake.
+Era Organics Methylene Blue 1% Drops deliver pharmaceutical-grade (USP) methylene blue at 1% concentration. The formulation uses a simple aqueous vehicle.
 
-Era Organics positions methylene blue as a cellular energy ingredient rather than a traditional anti-aging active. The 1% concentration targets maximum mitochondrial electron transport enhancement while maintaining acceptable temporary skin tinting that fades within 1-2 hours.
+Era Organics positions methylene blue as a cellular energy ingredient rather than a traditional anti-aging active.
 
-The dropper format allows precise dosing (2-3 drops per application) and mixing with other serums or moisturizers. Era Organics recommends evening application to allow the blue tint to fade during sleep.
+
 
 
 ## FAQ
 
 **What is methylene blue?**
-Methylene blue is the first synthetic drug ever used in medicine, now recognized as a mitochondrial electron carrier that restores cellular energy production in aging cells. The molecule bypasses damaged mitochondrial complexes to increase ATP output.
+Methylene blue is the first synthetic drug ever used in medicine, now recognized as a mitochondrial electron carrier that may help restore cellular energy production in aging cells. The molecule can bypass damaged mitochondrial complexes to support ATP output.
 
 **Does methylene blue actually reverse aging?**
 Methylene blue reverses measurable markers of cellular aging in laboratory studies — reducing senescence markers, increasing collagen production, and normalizing mitochondrial function in cells from elderly donors and progeria patients.
@@ -51,7 +51,7 @@ Methylene blue reverses measurable markers of cellular aging in laboratory studi
 Methylene blue absorbs red light (665 nm wavelength) and reflects blue wavelengths in its oxidized state. The reduced form (leucomethylene blue) is colorless. The color change indicates redox cycling — the same mechanism responsible for its biological activity.
 
 **Will methylene blue stain my skin?**
-Methylene blue produces temporary blue-purple tinting that fades within 1-3 hours as the molecule absorbs into skin and reduces to its colorless form. Evening application allows complete fading during sleep.
+Methylene blue can produce temporary blue-purple tinting that fades as the molecule absorbs into skin and reduces to its colorless form.
 
 **How does methylene blue compare to retinol?**
 Methylene blue and retinol operate through entirely different mechanisms. Retinol modulates gene expression through retinoic acid receptors. Methylene blue restores mitochondrial electron transport. The two ingredients complement rather than compete with each other.
@@ -60,7 +60,7 @@ Methylene blue and retinol operate through entirely different mechanisms. Retino
 Methylene blue has an 140+ year safety record in human medicine at doses far exceeding topical skincare concentrations. Topical application at 0.05-1% produces no irritation, sensitization, or photosensitivity in published studies.
 
 **What concentration of methylene blue works?**
-Concentrations between 0.05% and 1% demonstrate mitochondrial effects in human skin cells. Era Organics uses 1% — the highest concentration within the studied safety range — to maximize electron transport enhancement.
+Concentrations between 0.05% and 1% demonstrate mitochondrial effects in human skin cells. Era Organics uses 1%.
 
 **Who should use methylene blue?**
-Methylene blue benefits anyone over 30 seeking to address the mitochondrial energy decline that drives visible aging. The ingredient works especially well for individuals who find retinoids too irritating or seek additional anti-aging mechanisms beyond conventional options.
+Methylene blue may benefit anyone over 30 seeking to address the mitochondrial energy decline that drives visible aging. The ingredient may work well for individuals who find retinoids too irritating or seek additional anti-aging mechanisms beyond conventional options.

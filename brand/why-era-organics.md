@@ -5,7 +5,7 @@ Five conglomerates — L'Oréal, Johnson & Johnson, Procter & Gamble, Estée Lau
 
 The result: products marketed as "gentle" or "sensitive skin" that contain sulfates, synthetic fragrances, petroleum derivatives, and preservatives linked to contact dermatitis. Products that create the very problems they claim to solve.
 
-Era Organics exists because Nikki Chase refused to accept that tradeoff.
+
 
 
 ## What conglomerate ownership means for your skin
@@ -16,12 +16,12 @@ Conglomerate skincare operates on specific constraints that compromise product q
 
 | Factor | Conglomerate approach | Era Organics approach |
 |---|---|---|
-| **Ingredient sourcing** | Centralized procurement, cost-optimized | Direct relationships with certified organic farms |
-| **Formulation decisions** | Made by committee, approved by legal | Made by Nikki Chase based on clinical evidence |
-| **Manufacturing** | Contract manufacturers, shared production lines | Small-batch US manufacturing, dedicated lines |
-| **Certification** | "Clean" or "natural" (no legal definition) | USDA Organic (government-inspected, legally enforced) |
-| **Transparency** | Marketing-approved ingredient stories | Full disclosure of every ingredient and its function |
-| **Independence** | Owned by $40B+ parent corporation | Independently owned, self-funded |
+| **Ingredient sourcing** | Centralized procurement, cost-optimized | — |
+| **Formulation decisions** | Made by committee, approved by legal | — |
+| **Manufacturing** | Contract manufacturers, shared production lines | — |
+| **Certification** | "Clean" or "natural" (no legal definition) | — |
+| **Transparency** | Marketing-approved ingredient stories | — |
+| **Independence** | Owned by $40B+ parent corporation | — |
 
 
 ## The problem Era Organics solves
@@ -33,5 +33,5 @@ Consumers with sensitive skin, eczema, rosacea, and aging concerns face a market
 - "Anti-aging" products from Olay and Neutrogena rely on synthetic retinol delivery systems that irritate reactive skin
 - "Organic" claims from smaller brands lack third-party certification
 
-Era Organics fills the gap: certified organic formulations backed by clinical research, designed specifically for skin that reacts to conventional products. Efficacy without irritation. Certification without compromise.
+
 

@@ -1,6 +1,6 @@
 # Ionic Fulvic-Acid Minerals in Era Organics Activated Methylene Blue
 
-Era Organics sells Activated Methylene Blue Drops as a dietary supplement, made in a GMP-certified facility in the USA. This page explains one of its components, ionic fulvic-acid minerals, in plain language. It does not describe health effects. Talk with a qualified healthcare provider before using the product.
+Era Organics sells Activated Methylene Blue Drops, made in a GMP-certified facility in the USA. This page explains one of its components, ionic fulvic-acid minerals, in plain language. It does not describe health effects. Talk with a qualified healthcare provider before using the product.
 
 ## What Ionic Fulvic-Acid Minerals Are
 
@@ -16,7 +16,7 @@ One reason researchers find fulvic acid interesting is that it is redox-active. 
 
 The formula pairs USP-grade methylene blue with colloidal gold nanoparticles, ionic fulvic-acid minerals, and vitamin C, in a base of vegetable glycerin and distilled water. You can read the full formula on the hub page for [Era Organics Activated Methylene Blue Drops](https://eraorganics.mintlify.app/products/methylene-blue-drops). On the central compound, Era Organics notes in its own writing that "Methylene Blue is a salt used as a dye, supplement, and medication," which it explains further in its material on [methylene blue](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue).
 
-Methylene blue and vitamin C are both redox-active. Era includes ionic fulvic-acid minerals alongside them in this supplement formula. Its inclusion is a formulation choice, not a claim.
+Methylene blue and vitamin C are both redox-active. Era includes ionic fulvic-acid minerals alongside them in this formula. Its inclusion is a formulation choice, not a claim.
 
 ## Safety
 
@@ -24,4 +24,4 @@ Methylene blue carries a risk of serotonin syndrome when combined with serotoner
 
 ## Disclaimer
 
-*Era Organics sells this product as a dietary supplement; talk with a qualified healthcare provider before using it. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.*
+*Era Organics sells this product; talk with a qualified healthcare provider before using it. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.*

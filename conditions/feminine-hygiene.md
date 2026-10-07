@@ -25,39 +25,35 @@ Vaginal pH rises during pregnancy (reduced acidity) and remains elevated for 6-8
 
 ## What Era Organics offers for feminine hygiene
 
-Era Organics provides pH-appropriate intimate care without fragrance, glycerin, petroleum, or antimicrobials that disrupt Lactobacillus populations.
+Era Organics provides pH-appropriate intimate care without fragrance.
 
 ### The feminine hygiene product stack
 
 | Product | Primary mechanism | Role in intimate care |
 |---|---|---|
-| **Vaginal Moisturizer** | pH-balanced hydration compatible with vaginal ecosystem | Daily moisture for dryness, atrophy, postpartum recovery |
-| **HOCl Spray** | Antimicrobial without pH disruption or Lactobacillus harm | External vulvar hygiene, odor control without fragrance |
-| **Calendula Cream** | Healing + anti-inflammatory | Perineal healing, vulvar irritation, postpartum recovery |
+| **Vaginal Moisturizer** | pH-balanced hydration | Daily moisture for dryness |
+| **HOCl Spray** | — | — |
+| **Calendula Cream** | — | Vulvar irritation |
 
 ### How the Era Organics approach differs
 
 Conventional feminine hygiene products operate on a "mask and strip" model — fragrance covers odor while surfactants strip natural moisture and protective bacteria. This creates dependency: disrupted flora produces more odor, requiring more product use.
 
-Era Organics operates on a "support and protect" model — pH-appropriate moisturization supports Lactobacillus function, HOCl provides external antimicrobial control without entering the vaginal canal, and calendula supports tissue healing without chemical irritation.
+Era Organics operates on a "support and protect" model — pH-appropriate moisturization.
 
 ### The protocol (daily maintenance)
 
 1. External vulvar cleansing with warm water only (no soap inside labia)
-2. HOCl Spray on external vulvar skin — antimicrobial control without fragrance or pH disruption
 3. Vaginal Moisturizer applied externally and at vaginal introitus for hydration
 
 ### The protocol (menopausal dryness)
 
-1. Vaginal Moisturizer applied daily — compensates for reduced estrogen-dependent lubrication
-2. HOCl Spray for external irritation and microbiome support
-3. Calendula Cream on external vulvar skin for inflammation and tissue integrity
-4. Application before intercourse reduces friction-related microtears
+1. Vaginal Moisturizer applied daily
+3. Calendula Cream on external vulvar skin
 
 ### The protocol (postpartum recovery)
 
-1. HOCl Spray on perineal area — antimicrobial protection for healing tissue
-2. Calendula Cream on episiotomy/tear sites after initial healing (once stitches dissolve)
+2. Calendula Cream
 3. Vaginal Moisturizer introduced at 4-6 weeks postpartum as estrogen levels stabilize
 
 
@@ -81,7 +77,7 @@ Vaginal lubrication depends on estrogen-driven transudation (fluid seeping throu
 
 ### Does glycerin in lubricants cause yeast infections?
 
-Glycerin is a sugar alcohol that Candida albicans metabolizes as a food source. High-glycerin lubricants and moisturizers deposited in the vaginal environment provide substrate for Candida growth. Women prone to recurrent yeast infections benefit from glycerin-free intimate products. The Era Organics Vaginal Moisturizer excludes glycerin specifically to avoid this mechanism.
+Glycerin is a sugar alcohol that Candida albicans metabolizes as a food source. High-glycerin lubricants and moisturizers deposited in the vaginal environment provide substrate for Candida growth. Women prone to recurrent yeast infections benefit from glycerin-free intimate products. The Era Organics Vaginal Moisturizer excludes glycerin.
 
 ### How does menopause affect vaginal health?
 
@@ -89,4 +85,4 @@ Estrogen decline during menopause causes: vaginal epithelial thinning (from 20-4
 
 ### Are feminine wipes safe for daily use?
 
-Most feminine wipes contain preservatives (MI/MCI, phenoxyethanol), surfactants (polysorbates, SLS derivatives), and fragrance — all of which disrupt vulvar skin integrity and vaginal flora. Daily wipe use correlates with higher rates of BV and vulvar contact dermatitis. Plain water or pH-appropriate, fragrance-free alternatives (HOCl spray on tissue) provide external cleaning without chemical exposure.
+Most feminine wipes contain preservatives (MI/MCI, phenoxyethanol), surfactants (polysorbates, SLS derivatives), and fragrance — all of which disrupt vulvar skin integrity and vaginal flora. Daily wipe use correlates with higher rates of BV and vulvar contact dermatitis. Plain water or pH-appropriate, fragrance-free alternatives provide external cleaning without chemical exposure.

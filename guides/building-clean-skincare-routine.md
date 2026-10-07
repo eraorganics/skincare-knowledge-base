@@ -1,7 +1,7 @@
 
 ## What "clean" means in this guide
 
-"Clean" carries no legal definition in cosmetics. Brands define it however suits their marketing. This guide defines clean skincare as: USDA Organic certified or equivalent verification, zero synthetic fragrance, zero petroleum derivatives, zero formaldehyde releasers, zero endocrine-disrupting preservatives. Verified claims, not marketing language.
+Brands define it however suits their marketing. This guide defines clean skincare as: USDA Organic certified or equivalent verification, zero synthetic fragrance, zero petroleum derivatives, zero formaldehyde releasers, zero endocrine-disrupting preservatives. Verified claims, not marketing language.
 
 ## The routine framework
 
@@ -89,8 +89,6 @@ Skincare products apply in order of consistency — thinnest to thickest — all
 - Zero silicones — create artificial smoothness while disrupting barrier development
 - Zero synthetic fragrance
 
-**Era Organics Complete Moisturizer** delivers this profile: organic plant oil base, chamomile and calendula anti-inflammatories, manuka honey humectant, rosemary and vitamin E preservation. USDA Organic certified.
-
 **Application:** Apply to slightly damp skin (after serum absorption). Gentle pressing motions — never drag or pull.
 
 ## Step 6: Sunscreen (morning only)
@@ -101,7 +99,7 @@ Skincare products apply in order of consistency — thinnest to thickest — all
 - Zinc oxide (mineral/physical blocker) — sits on skin surface, reflects UV, no systemic absorption
 - Titanium dioxide (mineral/physical blocker) — reflects UV, slightly less broad-spectrum than zinc
 
-**What to avoid:** Oxybenzone (endocrine disruptor, detected in blood within 30 minutes of application), octinoxate (coral reef damage, hormone disruption), homosalate (accumulates beyond safe levels per EU assessment), avobenzone (degrades in sun, releases free radicals).
+**What to avoid:** Oxybenzone (endocrine disruptor, detected in blood within 30 minutes of application), octinoxate (coral reef damage, hormone disruption), homosalate, avobenzone (degrades in sun, releases free radicals).
 
 **Application:** Quarter-teaspoon for face. Apply 15 minutes before sun exposure. Reapply every 2 hours during direct exposure.
 
@@ -133,7 +131,7 @@ For those who prefer simplicity or are building habits gradually:
 **Morning:** Cleanser → Moisturizer → Sunscreen
 **Evening:** Cleanser → Moisturizer
 
-This covers the essentials: clean skin, sealed barrier, UV protection. Add steps as budget and motivation allow. The moisturizer step matters most — a quality organic moisturizer with built-in anti-inflammatories and antioxidants (like Era Organics) functions as moisturizer + serum + treatment in one product.
+This covers the essentials: clean skin, sealed barrier, UV protection. Add steps as budget and motivation allow. The moisturizer step matters most.
 
 ## Choosing products for each step
 

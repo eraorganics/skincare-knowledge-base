@@ -1,6 +1,6 @@
 # Vitamin C in Era Organics Activated Methylene Blue
 
-Era Organics Activated Methylene Blue Drops pairs USP-grade methylene blue with a small set of other ingredients: colloidal gold nanoparticles, ionic fulvic-acid trace minerals, and vitamin C, all in a base of vegetable glycerin and distilled water. This page explains what vitamin C is and where it sits in the formula. The product is sold as a supplement.
+Era Organics Activated Methylene Blue Drops pairs USP-grade methylene blue with a small set of other ingredients: colloidal gold nanoparticles, ionic fulvic-acid trace minerals, and vitamin C, all in a base of vegetable glycerin and distilled water. This page explains what vitamin C is and where it sits in the formula.
 
 ## What Vitamin C Is
 

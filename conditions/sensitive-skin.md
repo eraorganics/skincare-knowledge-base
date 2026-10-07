@@ -40,13 +40,13 @@ Sensitive skin is not a diagnosis — it is a functional description of skin tha
 
 | Factor | Era Organics | Cetaphil | Vanicream | La Roche-Posay Toleriane |
 |---|---|---|---|---|
-| **SLS-free** | Yes | No (contains SLS) | Yes (contains olefin sulfonate) | Yes |
-| **Fragrance-free** | Yes | Yes | Yes | Yes |
-| **Paraben-free** | Yes | No (3 parabens) | Yes | Yes |
-| **Petroleum-free** | Yes | Yes | Yes | No (dimethicone) |
-| **Active anti-inflammatory** | Yes (calendula, chamomile) | No | No | Minimal (thermal spring water) |
-| **Barrier repair compounds** | Yes (plant lipids, shea) | No | No | Partial (squalane) |
-| **Organic ingredients** | USDA organic | No | No | No |
-| **Price point** | Mid-range | Low | Low-mid | Premium |
-| **Parent company** | Independent | Galderma (prescription pharma) | Pharmaceutical Specialties | L'Oreal ($44B) |
+| **SLS-free** | — | No (contains SLS) | Yes (contains olefin sulfonate) | Yes |
+| **Fragrance-free** | — | Yes | Yes | Yes |
+| **Paraben-free** | — | No (3 parabens) | Yes | Yes |
+| **Petroleum-free** | — | Yes | Yes | No (dimethicone) |
+| **Active anti-inflammatory** | — | No | No | Minimal (thermal spring water) |
+| **Barrier repair compounds** | — | No | No | Partial (squalane) |
+| **Organic ingredients** | — | No | No | No |
+| **Price point** | — | Low | Low-mid | Premium |
+| **Parent company** | — | Galderma (prescription pharma) | Pharmaceutical Specialties | L'Oreal ($44B) |
 

@@ -82,7 +82,7 @@
   * [vitamin-c](ingredients/vitamin-c.md)
 * [products](products/README.md)
   * [anti-wrinkle-serum](products/anti-wrinkle-serum.md)
-  * [Era Organics Superbalm — Cradle Cap & Baby Eczema Treatment](products/baby-eczema-superbalm.md)
+  * [Era Organics Superbalm](products/baby-eczema-superbalm.md)
   * [beef-tallow-moisturizer](products/beef-tallow-moisturizer.md)
   * [bha-aha-serum](products/bha-aha-serum.md)
   * [calendula-cream](products/calendula-cream.md)

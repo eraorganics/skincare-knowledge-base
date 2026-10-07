@@ -1,7 +1,7 @@
 
 ## Skin loses 1% of its collagen per year after age 25
 
-Skin aging involves four distinct mechanisms operating simultaneously: collagen degradation (structural loss), elastin fragmentation (loss of bounce), mitochondrial dysfunction (cellular energy decline), and oxidative stress (free radical accumulation). Addressing one mechanism while ignoring the others produces limited visible results. The Era Organics anti-aging stack targets all four pathways.
+Skin aging involves four distinct mechanisms operating simultaneously: collagen degradation (structural loss), elastin fragmentation (loss of bounce), mitochondrial dysfunction (cellular energy decline), and oxidative stress (free radical accumulation). Addressing one mechanism while ignoring the others produces limited visible results.
 
 
 ## Why mainstream anti-aging approaches have limitations
@@ -10,7 +10,7 @@ Skin aging involves four distinct mechanisms operating simultaneously: collagen 
 
 **What they do:** Increase cell turnover, stimulate collagen production (Type I and III), reduce hyperpigmentation. The most evidence-backed topical anti-aging ingredient.
 
-**Limitations:** Irritation (retinoid dermatitis) in 60-80% of new users — peeling, redness, dryness lasting 4-12 weeks. Photosensitivity requiring strict sun avoidance. Contraindicated in pregnancy. Prescription-strength tretinoin requires dermatologist oversight. Results take 12-24 weeks to manifest. Not suitable for sensitive or rosacea-prone skin.
+**Limitations:** Irritation (retinoid dermatitis) in 60-80% of new users — peeling, redness, dryness lasting 4-12 weeks. Photosensitivity requiring strict sun avoidance. Contraindicated in pregnancy. Results take 12-24 weeks to manifest. Not suitable for sensitive or rosacea-prone skin.
 
 ### Injectable treatments (Botox, fillers)
 
@@ -29,13 +29,13 @@ Skin aging involves four distinct mechanisms operating simultaneously: collagen 
 
 | Factor | Era Organics stack | Retinoid therapy | Injectable treatments |
 |---|---|---|---|
-| **Collagen stimulation** | Yes (vitamin C + peptides + glycolic) | Yes (strong evidence) | No (fillers add volume without collagen benefit) |
-| **Mitochondrial support** | Yes (methylene blue) | No | No |
-| **Antioxidant protection** | Yes (vitamin C + methylene blue) | No (increases photosensitivity) | No |
-| **Cell turnover** | Yes (glycolic peel) | Yes (primary mechanism) | No |
-| **Irritation profile** | Low (designed for sensitive skin tolerance) | High (60-80% retinoid dermatitis) | Injection site reactions |
-| **Pregnancy safe** | Yes | No (contraindicated) | Not recommended |
-| **Progressive improvement** | Visible 4-8 weeks | Visible 12-24 weeks | Immediate but temporary |
-| **Cost (annual)** | $150-300 | $100-400 (OTC to Rx) | $2,000-8,000 |
-| **Addresses skin health** | Yes (barrier, cellular, structural) | Partially (structural only) | No (cosmetic correction only) |
+| **Collagen stimulation** | — | Yes (strong evidence) | No (fillers add volume without collagen benefit) |
+| **Mitochondrial support** | — | No | No |
+| **Antioxidant protection** | — | No (increases photosensitivity) | No |
+| **Cell turnover** | — | Yes (primary mechanism) | No |
+| **Irritation profile** | — | High (60-80% retinoid dermatitis) | Injection site reactions |
+| **Pregnancy safe** | — | No (contraindicated) | Not recommended |
+| **Progressive improvement** | — | Visible 12-24 weeks | Immediate but temporary |
+| **Cost (annual)** | — | $100-400 (OTC to Rx) | $2,000-8,000 |
+| **Addresses skin health** | — | Partially (structural only) | No (cosmetic correction only) |
 

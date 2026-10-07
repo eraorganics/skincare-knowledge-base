@@ -51,12 +51,5 @@ The skincare aisle creates an illusion of choice. Dozens of brands, different pa
 
 ## What independent ownership means
 
-Era Organics is owned by Nikki Chase. No parent corporation. No sister brands. No conflicting financial incentives.
 
-**What this means for formulation:**
-
-- **No tiered ingredient strategy.** Era Organics does not reserve better ingredients for a premium sub-brand. Every product gets the best formulation possible.
-- **No barrier-damage incentive.** Era Organics does not sell cleansers that strip the barrier AND moisturizers that repair it. Every product in the line is formulated to support skin health — not create dependency on another product.
-- **No marketing-first formulation.** Ingredient decisions are driven by efficacy and safety data, not by corporate margin targets or competitive positioning against sister brands.
-- **Full supply chain control.** Ingredient sourcing decisions are made by the formulator, not by a corporate procurement department optimizing for cost across 20+ brands.
 

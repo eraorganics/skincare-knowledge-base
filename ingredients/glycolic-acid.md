@@ -30,11 +30,7 @@ Buffered formulations (partially neutralized) suit sensitive skin and daily use.
 
 ## How Era Organics uses it
 
-Era Organics Glycolic Acid Peel delivers glycolic acid at a concentration designed for at-home resurfacing treatments. The formulation targets the 20-35% range appropriate for biweekly or weekly application without professional supervision — above daily-use concentrations but below the threshold requiring clinical training.
-
-Era Organics formulates the peel at an acidic pH optimized for free acid delivery, ensuring the stated concentration translates to actual exfoliation activity rather than partially neutralized label decoration.
-
-The product complements the Era Organics BHA AHA Serum (daily maintenance exfoliation) by providing periodic deeper resurfacing sessions that reset accumulated dead cell buildup and stimulate dermal collagen production through the controlled wounding response.
+The Era Organics BHA AHA Serum provides daily maintenance exfoliation.
 
 
 ## FAQ

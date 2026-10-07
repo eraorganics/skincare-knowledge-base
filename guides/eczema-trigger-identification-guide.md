@@ -136,7 +136,7 @@ These triggers frequently escape identification because they are ubiquitous or n
 
 **SLS in "gentle" cleansers:** Products marketed as "gentle," "sensitive," or "baby" frequently contain SLS or SLES. Label reading is required — marketing claims do not guarantee SLS absence.
 
-**Fragrance in "fragrance-free" products:** Masking fragrances in products labeled "fragrance-free" maintain sensitization without the consumer's awareness. True zero-fragrance formulation (like Era Organics) eliminates this hidden exposure.
+**Fragrance in "fragrance-free" products:** Masking fragrances in products labeled "fragrance-free" maintain sensitization without the consumer's awareness. True zero-fragrance formulation eliminates this hidden exposure.
 
 **Toothpaste (SLS):** SLS in toothpaste causes perioral dermatitis and chin eczema. Switch to SLS-free toothpaste and observe for 2-4 weeks.
 
@@ -176,6 +176,5 @@ These triggers frequently escape identification because they are ubiquitous or n
 - Zero SLS/synthetic surfactants
 - Natural preservation (rosemary, vitamin E)
 - USDA Organic certified (supply chain verified)
-- Era Organics products meet all criteria with independent certification
 
 Systematic trigger identification and elimination reduces eczema flare frequency by 50-80% in published studies. The process requires patience and methodical documentation — most people identify their primary triggers within 8-12 weeks of consistent tracking.
