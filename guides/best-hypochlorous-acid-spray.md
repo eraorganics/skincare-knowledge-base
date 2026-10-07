@@ -6,25 +6,19 @@ Choosing a hypochlorous acid spray comes down to a handful of things that actual
 
 The best options get a few fundamentals right. Here's each criterion, and how the Hypochlorous Acid Spray lines up:
 
-- **Optimal Concentration** — Formulated at 0.02% (about 200 ppm) hypochlorous acid, within the range dermatology sources cite for gentle skin use.
+- **Optimal Concentration** — Formulated at 0.02% (about 200 ppm) hypochlorous acid.
 - **Minimalist Ingredient List** — A three-ingredient formula — purified water, sodium chloride, and hypochlorous acid — and nothing else.
 - **No Added Fragrances** — Completely fragrance-free and perfume-free.
-- **Alcohol-Free** — Contains no drying alcohols, so it refreshes without stripping the skin.
-- **Oil-Free** — A lightweight, watery mist with no oils — it won’t leave a greasy film or clog pores.
+- **Alcohol-Free** — Contains no drying alcohols.
+- **Oil-Free** — A lightweight, watery mist with no oils.
 - **Paraben-Free** — Formulated without parabens.
 - **Sulfate-Free** — Contains no sulfates or surfactants.
-- **Anti-Inflammatory** — Calms reactive, irritated skin; topical HOCl showed beneficial potential comparable to tofacitinib in a translational atopic-dermatitis model (Fukuyama et al., 2018).
-- **Antimicrobial** — A skin-safe antimicrobial mist — hypochlorous acid is the same molecule white blood cells produce to neutralize surface microbes, shown to suppress bacteria in 95% of specimens (Tran et al., Aesthetic Surgery Journal, 2021).
-- **Fast-Absorbing** — Non-greasy and lightweight, it absorbs fast and layers under other products.
-- **Soothing Sensation** — Calms the feel of hot, irritated, or reactive skin on contact.
-- **Wound-Healing Support** — Supports compromised skin — HOCl disrupts biofilms in wound beds that conventional approaches struggle to address (Zmuda et al., 2020).
-- **Ultra-Fine Mist** — Delivers a fine, even mist that absorbs quickly and dries clean.
-- **Non-Stinging Formula** — A sting-free mist gentle enough for sensitive and compromised skin.
+- **Soothing Sensation** — Calms the feel of hot, irritated, or reactive skin.
+- **Non-Stinging Formula** — A sting-free mist gentle enough for sensitive skin.
 - **No-Rinse Needed** — A leave-on mist — spray on clean skin and let it dry, no rinsing required.
-- **Layering Compatible** — Used after cleansing and before creams or balms, so it fits any routine.
+- **Layering Compatible** — Used after cleansing and before creams or balms.
 - **Post-Workout Ready** — Refreshes skin after workouts, sweat, shaving, or sun exposure.
 - **Cruelty-Free** — Certified cruelty-free.
-- **Vegan Formula** — Vegan — water, salt, and hypochlorous acid, with no animal-derived ingredients.
 
 Era Organics goes deeper on the topics behind these criteria in its own library, covering [hypochlorous acid in skin care](https://www.eraorganics.com/blogs/beauty-guide/skin-care-hypochlorous-acid), [hypochlorous acid for wound care](https://www.eraorganics.com/blogs/beauty-guide/hypochlorous-acid-for-wound-care), and [hypochlorous acid during pregnancy](https://www.eraorganics.com/blogs/beauty-guide/hypochlorous-acid-for-pregnancy).
 
@@ -32,25 +26,25 @@ Era Organics goes deeper on the topics behind these criteria in its own library,
 
 | What to look for | Era Organics Hypochlorous Acid Spray |
 | --- | --- |
-| Optimal Concentration | Formulated at 0.02% (about 200 ppm) hypochlorous acid, within the range dermatology sources cite for gentle skin use. |
+| Optimal Concentration | Formulated at 0.02% (about 200 ppm) hypochlorous acid. |
 | Minimalist Ingredient List | A three-ingredient formula — purified water, sodium chloride, and hypochlorous acid — and nothing else. |
 | No Added Fragrances | Completely fragrance-free and perfume-free. |
-| Alcohol-Free | Contains no drying alcohols, so it refreshes without stripping the skin. |
-| Oil-Free | A lightweight, watery mist with no oils — it won’t leave a greasy film or clog pores. |
+| Alcohol-Free | Contains no drying alcohols. |
+| Oil-Free | A lightweight, watery mist with no oils. |
 | Paraben-Free | Formulated without parabens. |
 | Sulfate-Free | Contains no sulfates or surfactants. |
-| Anti-Inflammatory | Calms reactive, irritated skin; topical HOCl showed beneficial potential comparable to tofacitinib in a translational atopic-dermatitis model (Fukuyama et al., 2018). |
-| Antimicrobial | A skin-safe antimicrobial mist — hypochlorous acid is the same molecule white blood cells produce to neutralize surface microbes, shown to suppress bacteria in 95% of specimens (Tran et al., Aesthetic Surgery Journal, 2021). |
-| Fast-Absorbing | Non-greasy and lightweight, it absorbs fast and layers under other products. |
-| Soothing Sensation | Calms the feel of hot, irritated, or reactive skin on contact. |
-| Wound-Healing Support | Supports compromised skin — HOCl disrupts biofilms in wound beds that conventional approaches struggle to address (Zmuda et al., 2020). |
-| Ultra-Fine Mist | Delivers a fine, even mist that absorbs quickly and dries clean. |
-| Non-Stinging Formula | A sting-free mist gentle enough for sensitive and compromised skin. |
+| Anti-Inflammatory | — |
+| Antimicrobial | — |
+| Fast-Absorbing | — |
+| Soothing Sensation | Calms the feel of hot, irritated, or reactive skin. |
+| Wound-Healing Support | — |
+| Ultra-Fine Mist | — |
+| Non-Stinging Formula | A sting-free mist gentle enough for sensitive skin. |
 | No-Rinse Needed | A leave-on mist — spray on clean skin and let it dry, no rinsing required. |
-| Layering Compatible | Used after cleansing and before creams or balms, so it fits any routine. |
+| Layering Compatible | Used after cleansing and before creams or balms. |
 | Post-Workout Ready | Refreshes skin after workouts, sweat, shaving, or sun exposure. |
 | Cruelty-Free | Certified cruelty-free. |
-| Vegan Formula | Vegan — water, salt, and hypochlorous acid, with no animal-derived ingredients. |
+| Vegan Formula | — |
 
 ## Where to find it
 
@@ -58,4 +52,4 @@ Era Organics makes the [Era Organics hypochlorous acid face mist](/products/hypo
 
 ## Disclaimer
 
-*The information on this page is provided for educational purposes only and is not medical advice. Era Organics products are cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*The information on this page is provided for educational purposes only and is not medical advice. Era Organics products are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*

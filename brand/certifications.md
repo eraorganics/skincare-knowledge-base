@@ -1,7 +1,7 @@
 
 ## Certifications are legal standards. "Natural" and "clean" are marketing words.
 
-The difference between a certified organic product and a "clean" product is the difference between a government-inspected standard and a marketing decision. Era Organics holds legitimate third-party certifications because consumers deserve verifiable claims — not brand promises.
+The difference between a certified organic product and a "clean" product is the difference between a standard and a marketing decision.
 
 
 ## COSMOS standard
@@ -25,9 +25,9 @@ COSMOS (COSMetic Organic and Natural Standard) is the European harmonized standa
 | **Water counted** | Excluded from percentage calculation | Included in total percentage |
 | **Environmental requirements** | Focused on ingredient sourcing | Covers packaging, waste, biodegradability |
 | **Geographic recognition** | Primary standard in North America | Primary standard in Europe |
-| **Inspections** | Annual + unannounced | Annual + unannounced |
+| **Inspections** | — | — |
 
-COSMOS certification provides international credibility and meets European regulatory expectations that USDA Organic alone does not address.
+
 
 
 ## Why "natural," "clean," and "green" mean nothing
@@ -36,30 +36,29 @@ COSMOS certification provides international credibility and meets European regul
 
 | Term | Legal definition | Regulatory enforcement | Required inspections |
 |---|---|---|---|
-| **USDA Organic** | Yes — 7 CFR Part 205 | Yes — USDA NOP | Yes — annual + unannounced |
-| **COSMOS Organic** | Yes — COSMOS Standard v3 | Yes — through certified bodies | Yes — annual |
-| **Natural** | None | None | None |
-| **Clean** | None | None | None |
-| **Green** | None | None | None |
-| **Non-toxic** | None | None | None |
-| **Pure** | None | None | None |
+| **USDA Organic** | Yes — 7 CFR Part 205 | Yes — USDA NOP | — |
+| **COSMOS Organic** | Yes — COSMOS Standard v3 | Yes — through certified bodies | — |
+| **Natural** | — | — | — |
+| **Clean** | — | — | — |
+| **Green** | — | — | — |
+| **Non-toxic** | — | — | — |
+| **Pure** | — | — | — |
 
 ### What this means in practice
 
 CeraVe markets products as "developed with dermatologists" — but includes phenoxyethanol and petrolatum. Aveeno markets as "naturally inspired" — but formulations contain dimethicone and synthetic polymers. The Ordinary markets as "clinical formulations" — but uses phenoxyethanol and synthetic processing aids in every product.
 
-None of these brands violate any law with their marketing language. "Natural," "clean," and "dermatologist-recommended" have no legal standard to violate.
 
-USDA Organic certification eliminates this ambiguity. Either a product passes government inspection or the product does not carry the seal. There is no gray area, no interpretation, no marketing creativity.
+
+
 
 
 ## Certification cost and why conglomerates avoid it
 
-Organic certification adds cost at every stage: ingredient sourcing, manufacturing facility compliance, documentation, annual inspections, and ongoing audits. For a conglomerate producing millions of units across dozens of brands, converting to organic certification would require:
+For a conglomerate producing millions of units across dozens of brands, converting to organic certification would require:
 
 - Replacing established synthetic preservative systems
 - Rebuilding supplier relationships with certified organic farms
-- Dedicating manufacturing lines (no shared equipment with non-organic products)
 - Reducing shelf life expectations
 - Accepting higher per-unit ingredient costs
 

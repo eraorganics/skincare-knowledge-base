@@ -8,9 +8,9 @@ Preservatives prevent microbial contamination that causes product spoilage and i
 | Preservative | Mechanism | Common products | Concern |
 |-------------|-----------|-----------------|---------|
 | Parabens (methyl, propyl, butyl) | Disrupts microbial cell membrane | 85% of conventional cosmetics | Endocrine disruption — mimics estrogen at measurable levels |
-| Phenoxyethanol | Disrupts cell membrane integrity | CeraVe, Cetaphil, many "paraben-free" lines | Neurotoxic to infants (FDA warning 2008), contact sensitizer |
+| Phenoxyethanol | Disrupts cell membrane integrity | CeraVe, Cetaphil, many "paraben-free" lines | Neurotoxic to infants, contact sensitizer |
 | DMDM hydantoin | Releases formaldehyde slowly | Suave, TRESemmé, Johnson's | Known carcinogen (formaldehyde is IARC Group 1) |
-| Methylisothiazolinone (MI) | Attacks thiol groups in microbes | Was in "sensitive skin" products until 2015 bans | Severe contact allergen — epidemic of allergic dermatitis led to EU ban in leave-on products |
+| Methylisothiazolinone (MI) | Attacks thiol groups in microbes | Was in "sensitive skin" products | Severe contact allergen |
 | Methylchloroisothiazolinone (MCI) | Same as MI, stronger | Rinse-off products | Same as MI, more potent sensitizer |
 | Imidazolidinyl urea | Formaldehyde releaser | Budget skincare, baby products | Formaldehyde release — classified carcinogen |
 | Quaternium-15 | Formaldehyde releaser | Conventional moisturizers | Most sensitizing formaldehyde releaser (ACD Society data) |
@@ -51,7 +51,7 @@ Preservatives prevent microbial contamination that causes product spoilage and i
 | Endocrine disruption | Parabens confirmed; phenoxyethanol suspected | None documented |
 | Carcinogenicity | Formaldehyde releasers: IARC Group 1 carcinogen | None documented |
 | Contact sensitization | MI/MCI: epidemic-level sensitization. Phenoxyethanol: documented sensitizer | Rare — isolated reports with specific botanical allergies |
-| Infant safety | FDA warning against phenoxyethanol in nursing products (2008) | Generally recognized as safe for infant exposure |
+| Infant safety | — | — |
 | Environmental persistence | Many bioaccumulate in waterways | Biodegradable |
 | Antibiotic resistance | Quaternary ammonium compounds promote resistance | Silver citrate: resistance possible at sub-lethal doses |
 
@@ -91,19 +91,19 @@ This combination approach passes standard challenge testing (USP 51, ISO 11930) 
 ## Frequently asked questions
 
 **Do natural preservatives pass standard challenge testing?**
-Yes — combination natural preservation systems pass USP 51 and ISO 11930 challenge tests when properly formulated. Single natural ingredients often fail. Multi-hurdle systems consistently pass. Era Organics products undergo standard challenge testing with their natural preservation system.
+Yes — combination natural preservation systems pass USP 51 and ISO 11930 challenge tests when properly formulated. Single natural ingredients often fail. Multi-hurdle systems consistently pass.
 
 **Why did the industry move from parabens to phenoxyethanol?**
-Consumer pressure against parabens (endocrine disruption concerns) drove reformulation. Phenoxyethanol became the default replacement — equally synthetic, similarly concerning (FDA infant warning, contact sensitization data), but without "paraben" in the name. The reformulation addressed marketing pressure, not safety science.
+Consumer pressure against parabens (endocrine disruption concerns) drove reformulation. Phenoxyethanol became the default replacement — equally synthetic, similarly concerning (contact sensitization data), but without "paraben" in the name. The reformulation addressed marketing pressure, not safety science.
 
 **Is phenoxyethanol safer than parabens?**
 Different risk profiles rather than better/worse. Parabens: endocrine disruption, accumulation in breast tissue. Phenoxyethanol: neurotoxicity in infants, contact sensitization, reproductive toxicity in animal models. Neither represents a clean safety profile for daily lifetime application.
 
 **What about formaldehyde releasers — are they still used?**
-DMDM hydantoin, imidazolidinyl urea, diazolidinyl urea, and quaternium-15 all release formaldehyde slowly during product life. Formaldehyde is IARC Group 1 (confirmed human carcinogen). These preservatives remain legal and common in budget skincare, shampoos, and baby products in the United States. The EU restricts but does not ban them.
+DMDM hydantoin, imidazolidinyl urea, diazolidinyl urea, and quaternium-15 all release formaldehyde slowly during product life. Formaldehyde is IARC Group 1 (confirmed human carcinogen).
 
 **How do I know if my product contains formaldehyde releasers?**
-Check ingredient lists for: DMDM hydantoin, imidazolidinyl urea, diazolidinyl urea, quaternium-15, 2-bromo-2-nitropropane-1,3-diol (bronopol), sodium hydroxymethylglycinate. All release formaldehyde. None list "formaldehyde" on the label.
+Check ingredient lists for: DMDM hydantoin, imidazolidinyl urea, diazolidinyl urea, quaternium-15, 2-bromo-2-nitropropane-1,3-diol (bronopol), sodium hydroxymethylglycinate. All release formaldehyde.
 
 **Does shorter shelf life mean the product is worse?**
 Shorter shelf life indicates preservation without synthetic chemicals — not inferior quality. Organic food expires faster than processed food for the same reason: absence of artificial preservatives. Purchase appropriate quantities and store properly. Product quality during its shelf life matches or exceeds synthetic-preserved alternatives.

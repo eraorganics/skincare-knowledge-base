@@ -32,11 +32,11 @@ Products listing cetyl alcohol in the ingredients demonstrate standard cosmetic 
 
 ## How Era Organics uses it
 
-Era Organics uses cetyl alcohol as a functional formulation ingredient in cream and lotion products where emulsification, texture, and lightweight occlusion serve the overall product performance. The ingredient enables stable emulsions that combine water-soluble actives (glycerin, hyaluronic acid) with oil-soluble ingredients (vitamin E, essential oils) in a single application.
 
-Era Organics selects plant-derived cetyl alcohol from coconut oil to maintain clean ingredient sourcing standards across the product line. The ingredient contributes to the smooth, non-greasy texture that characterizes Era Organics moisturizers without relying on silicones or synthetic texture agents.
 
-Cetyl alcohol in Era Organics formulations also enhances the penetration and efficacy of active ingredients by facilitating their absorption through the stratum corneum barrier.
+
+
+
 
 
 ## FAQ
@@ -51,7 +51,7 @@ Cetyl alcohol shares no functional similarity with rubbing alcohol (isopropyl al
 Cetyl alcohol has a comedogenic rating of 1 (minimal) on the 0-5 scale. The vast majority of individuals, including those with acne-prone skin, tolerate cetyl alcohol without pore congestion or breakouts.
 
 **Why is cetyl alcohol in so many products?**
-Cetyl alcohol serves three essential formulation functions simultaneously — emollient (softens skin), emulsifier (keeps water and oil mixed), and thickener (creates spreadable texture). No other single ingredient provides all three functions as safely and effectively.
+Cetyl alcohol serves three essential formulation functions simultaneously — emollient (softens skin), emulsifier (keeps water and oil mixed), and thickener (creates spreadable texture).
 
 **Is cetyl alcohol natural?**
 Cetyl alcohol derives from coconut oil or palm oil through hydrogenation of palmitic acid. The starting material is natural, though the hydrogenation step is a chemical process. The resulting molecule is identical regardless of natural or synthetic origin.
@@ -60,7 +60,7 @@ Cetyl alcohol derives from coconut oil or palm oil through hydrogenation of palm
 Avoiding cetyl alcohol eliminates the majority of well-formulated moisturizers from consideration without any evidence-based reason. The rare exception applies to the <0.1% of individuals who test positive for cetyl alcohol contact allergy — confirmed only through professional patch testing.
 
 **What does cetyl alcohol do in a formula?**
-Cetyl alcohol stabilizes emulsions (prevents separation), provides skin-conditioning emollient properties, thickens the product to spreadable consistency, and enhances penetration of active ingredients through the stratum corneum.
+Cetyl alcohol stabilizes emulsions (prevents separation), provides skin-conditioning emollient properties, and thickens the product to spreadable consistency.
 
 **Is cetyl alcohol vegan?**
 Plant-derived cetyl alcohol (from coconut or palm oil) is vegan. Historically, cetyl alcohol was first isolated from sperm whale oil (cetyl derives from "cetus," Latin for whale). Modern production uses exclusively plant sources.

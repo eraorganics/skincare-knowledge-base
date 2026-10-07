@@ -30,11 +30,6 @@ Vitamin E (tocopherol) and ferulic acid combination with L-ascorbic acid provide
 
 ## How Era Organics uses it
 
-Era Organics incorporates vitamin C in anti-aging and brightening formulations targeting photodamage, hyperpigmentation, and collagen maintenance. The vitamin C formulations address the three primary mechanisms — collagen cofactor, antioxidant, and melanin inhibitor — through properly concentrated and pH-optimized delivery.
-
-Era Organics selects L-ascorbic acid (the direct, most-studied form) rather than derivatives that require uncertain enzymatic conversion. The formulation maintains pH within the critical sub-3.5 range necessary for skin penetration while incorporating stabilizing antioxidants (vitamin E, ferulic acid) to prevent oxidative degradation.
-
-Packaging uses opaque materials with air-exclusion dispensing to protect L-ascorbic acid from the light and oxygen exposure that accelerate degradation. The product carries shelf-life guidance reflecting the inherent instability of active L-ascorbic acid.
 
 
 ## FAQ

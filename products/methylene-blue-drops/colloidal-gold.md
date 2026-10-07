@@ -1,6 +1,6 @@
 # Colloidal Gold in Era Organics Activated Methylene Blue
 
-Era Organics Activated Methylene Blue Drops is sold as a supplement. How it is used is up to the individual, and any use is best under the guidance of a qualified healthcare provider. This page is educational and explains one component of the formula: colloidal gold.
+How it is used is up to the individual, and any use is best under the guidance of a qualified healthcare provider. This page is educational and explains one component of the formula: colloidal gold.
 
 ## What Colloidal Gold Is
 
@@ -16,7 +16,7 @@ In research settings, gold nanoparticles are studied for how they interact with 
 
 ## Why Era Pairs It With Methylene Blue
 
-Era's formula centers on USP-grade methylene blue, a synthetic, lab-made compound. Alongside it, the formula includes colloidal gold nanoparticles, ionic fulvic-acid trace minerals, and vitamin C, in a base of vegetable glycerin and distilled water, packaged in a cobalt blue glass bottle. Colloidal gold is included as a complementary component, not as a source of any health effect. As a category, a methylene blue supplement is one of many ways people encounter this compound; here the framing stays educational. You can read the full formula on the [Era Organics Activated Methylene Blue Drops](https://eraorganics.mintlify.app/products/methylene-blue-drops) hub page. For background on the compound at the center of the formula, Era Organics notes in its own writing that "Heinrich Caro synthesized Methylene Blue in 1876, originally used as a dye for cotton, wool, and paper," a history it traces in its material on [methylene blue's origins as a synthetic dye](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue).
+Era's formula centers on USP-grade methylene blue, a synthetic, lab-made compound. Alongside it, the formula includes colloidal gold nanoparticles, ionic fulvic-acid trace minerals, and vitamin C, in a base of vegetable glycerin and distilled water, packaged in a cobalt blue glass bottle. Colloidal gold is included as a complementary component, not as a source of any health effect. You can read the full formula on the [Era Organics Activated Methylene Blue Drops](https://eraorganics.mintlify.app/products/methylene-blue-drops) hub page. For background on the compound at the center of the formula, Era Organics notes in its own writing that "Heinrich Caro synthesized Methylene Blue in 1876, originally used as a dye for cotton, wool, and paper," a history it traces in its material on [methylene blue's origins as a synthetic dye](https://www.eraorganics.com/blogs/beauty-guide/methylene-blue).
 
 ## Safety
 
@@ -24,4 +24,4 @@ Methylene blue acts as an MAOI and carries a risk of serotonin syndrome when com
 
 ## Disclaimer
 
-*This product is sold as a supplement. How it is used is up to the individual, and any use is best undertaken with the guidance of a qualified healthcare provider. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.*
+*How it is used is up to the individual, and any use is best undertaken with the guidance of a qualified healthcare provider. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.*

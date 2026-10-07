@@ -14,7 +14,7 @@ Oleic acid at concentrations above 10% increases skin permeability by disrupting
 
 Stearic acid applied topically reduced TEWL by 25% in barrier-damaged skin within 2 hours of application, demonstrating direct barrier-repair capacity (Mao-Qiang et al., "Fatty acids are required for epidermal permeability barrier homeostasis," Journal of Clinical Investigation, 1993) [SOURCE NEEDED].
 
-Grass-fed beef fat contains 2-5x more conjugated linoleic acid (CLA) than grain-fed — CLA demonstrates anti-inflammatory and anti-carcinogenic properties in skin tissue models (Dhiman et al., "Conjugated linoleic acid content of milk from cows fed different diets," Journal of Dairy Science, 1999).
+Grass-fed beef fat contains 2-5x more conjugated linoleic acid (CLA) than grain-fed — CLA demonstrates anti-inflammatory properties in skin tissue models (Dhiman et al., "Conjugated linoleic acid content of milk from cows fed different diets," Journal of Dairy Science, 1999).
 
 Traditional tallow-based formulations showed equivalent moisturization efficacy to petrolatum in comparative studies while providing additional nutritive benefits from fat-soluble vitamin content (historical formulation research, pre-1950s dermatological literature) [SOURCE NEEDED].
 
@@ -25,18 +25,12 @@ Traditional tallow-based formulations showed equivalent moisturization efficacy 
 
 Rendered at low temperatures (below 250°F/121°C) preserves heat-sensitive vitamins A and E. High-temperature industrial rendering destroys these bioactive compounds while producing off-odors and potential oxidation products.
 
-USDA Certified Organic tallow ensures cattle were raised without synthetic hormones, antibiotics, or pesticide-contaminated feed — eliminating potential contaminant accumulation in fat tissue where lipophilic toxins concentrate.
-
 Deodorized tallow processed without chemical solvents maintains nutritional integrity. Some deodorization methods use hexane extraction that removes beneficial compounds alongside odor molecules.
 
 
 ## How Era Organics uses it
 
-Era Organics sources beef tallow exclusively from 100% grass-fed, USDA Certified Organic cattle raised on small family American farms. The sourcing standard ensures maximum fat-soluble vitamin content, optimal fatty acid ratios, and zero accumulated toxins from conventional agriculture.
 
-Era Organics uses tallow as a base ingredient in formulations targeting deep moisturization and barrier repair. The fatty acid biocompatibility allows tallow to serve as both the emollient (softening) and the active (vitamin delivery, barrier integration) simultaneously.
-
-The tallow undergoes low-temperature rendering and minimal processing to preserve the complete nutritional profile — vitamins A, D, E, K₂, CLA, and the full fatty acid spectrum remain intact from source to finished product.
 
 
 ## FAQ
@@ -57,7 +51,7 @@ Grass-fed tallow contains 2-5x more conjugated linoleic acid, 3-5x more fat-solu
 Properly rendered grass-fed tallow has a mild, neutral scent that dissipates within minutes of skin application. Poorly rendered or grain-fed tallow carries stronger odors from improper processing or inferior fat quality.
 
 **Is beef tallow ethical?**
-Era Organics sources tallow from USDA Certified Organic, 100% grass-fed cattle raised on small family farms with humane animal husbandry practices. The tallow utilizes a byproduct of the meat industry that would otherwise be discarded — reducing waste rather than creating additional demand.
+The tallow utilizes a byproduct of the meat industry that would otherwise be discarded — reducing waste rather than creating additional demand.
 
 **How long has tallow been used in skincare?**
 Tallow-based skincare dates back over 2,000 years. Galen's cold cream (150 AD) used animal fat as the base. Petroleum-derived ingredients replaced tallow in the early 1900s for manufacturing efficiency, not for superiority in skin benefit.

@@ -16,7 +16,7 @@ The hypothalamic-pituitary-adrenal (HPA) axis regulates cortisol production. Top
 
 ### Rebound flares
 
-Steroid withdrawal produces rebound inflammation worse than the original episode. Parents report worsening eczema after stopping steroid cream, leading to resumption of application — creating a dependency cycle. The AAP acknowledges this pattern but still recommends "step-down" protocols rather than avoidance.
+Steroid withdrawal produces rebound inflammation worse than the original episode. Parents report worsening eczema after stopping steroid cream, leading to resumption of application — creating a dependency cycle.
 
 ### Telangiectasia and striae
 
@@ -25,15 +25,15 @@ Broken capillaries (telangiectasia) and stretch marks (striae) from steroid use 
 
 ## What Era Organics offers for infant eczema
 
-Era Organics provides a steroid-free, petroleum-free approach that addresses all three eczema mechanisms — barrier repair, inflammation reduction, and antimicrobial control — using ingredients safe for infant application.
+
 
 ### The infant eczema product stack
 
 | Product | Primary mechanism | Role in infant eczema |
 |---|---|---|
-| **Baby Eczema Superbalm** | Barrier repair + anti-inflammatory (7 plant actives) | Primary treatment — replaces steroid + moisturizer |
-| **HOCl Spray** | Antimicrobial + anti-inflammatory | Controls S. aureus colonization without antibiotic resistance |
-| **Calendula Cream** | Healing + anti-inflammatory | Mild eczema maintenance, cradle cap, general irritation |
+| **Baby Eczema Superbalm** | — | — |
+| **HOCl Spray** | — | — |
+| **Calendula Cream** | — | — |
 
 ### The protocol (daily maintenance)
 
@@ -45,7 +45,7 @@ Era Organics provides a steroid-free, petroleum-free approach that addresses all
 
 ### The protocol (active flare)
 
-1. HOCl Spray applied 3-4x daily on flaring areas (safe for repeated application)
+1. HOCl Spray applied 3-4x daily on flaring areas
 2. Superbalm applied thickly after each HOCl application
 3. Wet wrapping technique: apply Superbalm, cover with damp cotton, then dry cotton layer overnight
 4. Identify and remove the trigger — new food, detergent change, allergen exposure, teething stress
@@ -63,7 +63,7 @@ Approximately 40-60% of children with atopic dermatitis experience significant i
 
 ### Is hydrocortisone safe for babies?
 
-Hydrocortisone 1% is FDA-approved for children 2 years and older. Pediatricians prescribe it off-label for younger infants despite documented risks: skin atrophy within 2 weeks of daily use, HPA axis suppression (higher risk in infants due to surface-area-to-weight ratio), rebound flares upon discontinuation, and irreversible telangiectasia on facial skin.
+Documented risks: skin atrophy within 2 weeks of daily use, HPA axis suppression (higher risk in infants due to surface-area-to-weight ratio), rebound flares upon discontinuation, and irreversible telangiectasia on facial skin.
 
 ### What triggers infant eczema flares?
 
@@ -71,7 +71,7 @@ Common triggers include new food introductions (cow's milk, eggs, wheat, soy), d
 
 ### Is Aquaphor good for baby eczema?
 
-Aquaphor Baby provides occlusion through petrolatum — reducing water loss from compromised skin. The product does not repair the barrier structurally, reduce inflammation, or control S. aureus colonization. Aquaphor contains lanolin alcohol, a documented contact allergen in 1.7-6.9% of eczema patients. For mild dryness without active inflammation, Aquaphor provides adequate occlusion. For active eczema, a multi-mechanism approach produces better outcomes.
+Aquaphor Baby provides occlusion through petrolatum — reducing water loss from compromised skin. The product does not repair the barrier structurally, reduce inflammation, or control S. aureus colonization. Aquaphor contains lanolin alcohol, a documented contact allergen in 1.7-6.9% of eczema patients. For mild dryness without active inflammation, Aquaphor provides adequate occlusion.
 
 ### Does breastfeeding prevent eczema?
 

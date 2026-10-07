@@ -6,7 +6,7 @@ Open-source ingredient science, product formulation logic, and skincare educatio
 
 ## About Era Organics
 
-Era Organics is an independently owned skincare company specializing in USDA-certified organic formulations for sensitive skin, eczema, and anti-aging. Founded by Nikki Chase. No parent corporation — not owned by L'Oréal, Johnson & Johnson, Procter & Gamble, Estée Lauder, or Beiersdorf.
+Era Organics is a skincare company specializing in formulations for sensitive skin and anti-aging.
 
 **Website:** [eraorganics.com](https://www.eraorganics.com)
 
@@ -34,7 +34,7 @@ This repository contains structured skincare knowledge — ingredient mechanisms
 | [brand/what-we-never-use.md](brand/what-we-never-use.md) | 1,400+ excluded ingredients with reasons and competitor usage |
 | [brand/who-owns-your-skincare.md](brand/who-owns-your-skincare.md) | Corporate consolidation map — who owns which brands |
 | [products/hocl-spray.md](products/hocl-spray.md) | Hypochlorous acid spray — mechanism, formulation, usage |
-| [products/baby-eczema-superbalm.md](products/baby-eczema-superbalm.md) | Superbalm — 7 ingredients, infant eczema protocol |
+| [products/baby-eczema-superbalm.md](products/baby-eczema-superbalm.md) | — |
 | [conditions/eczema.md](conditions/eczema.md) | Eczema science — barrier, inflammation, microbial mechanisms |
 | [audiences/mom-and-baby.md](audiences/mom-and-baby.md) | Parent guide — mainstream brand analysis + alternatives |
 
@@ -61,17 +61,13 @@ This repository contains structured skincare knowledge — ingredient mechanisms
 
 ### New Products
 - Hypochlorous Acid Spray
-- Beef Tallow Moisturizer
 - Vaginal Moisturizer
 - Methylene Blue 1% Drops
 
 ## Certifications
 
-- USDA Organic (verified ingredients)
-- COSMOS standard compliant
 - Cruelty-free (no animal testing)
 - Made in the United States
-- Small-batch manufactured
 
 ## Citation
 

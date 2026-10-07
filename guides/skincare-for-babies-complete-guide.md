@@ -30,11 +30,11 @@ Newborn skin differs fundamentally from adult skin across every measurable param
 | Ingredient | Found in | Risk for infants |
 |-----------|----------|-----------------|
 | Fragrance/parfum | Most conventional baby products | Top contact allergen; immature immune system sensitizes faster than adults |
-| Phenoxyethanol | "Paraben-free" baby products | FDA 2008 warning: neurotoxic effects in infants; increased absorption through thin skin |
+| Phenoxyethanol | "Paraben-free" baby products | — |
 | Sodium lauryl sulfate (SLS) | Baby washes, shampoos | Strips immature barrier, increases TEWL, documented irritant |
 | Parabens | Lotions, creams, wipes | Endocrine disruption; higher systemic absorption in infants due to surface area ratio |
 | DMDM hydantoin | Baby shampoos, washes | Formaldehyde releaser — carcinogen exposure through immature barrier |
-| Methylisothiazolinone | Baby wipes (pre-2015) | Epidemic contact dermatitis in children led to EU ban in leave-on products |
+| Methylisothiazolinone | Baby wipes (pre-2015) | — |
 | Oxybenzone | Baby sunscreens | Endocrine disruptor; detectable in blood within 30 minutes of application |
 | Retinoids (vitamin A derivatives) | Some baby creams | Hypervitaminosis A risk through immature barrier; teratogenic class |
 | Essential oils (undiluted) | "Natural" baby products | Skin sensitization, potential neurotoxicity (eucalyptus, camphor) |
@@ -58,7 +58,7 @@ Newborn skin differs fundamentally from adult skin across every measurable param
 5. Environmental control (humidity, temperature stability)
 6. Prescription intervention only after lifestyle measures fail
 
-**Moisturizer selection for eczema:** USDA Organic plant-based formula with anti-inflammatory actives (chamomile, calendula). Zero fragrance, zero synthetic preservatives, zero petroleum. Apply minimum twice daily — more during flares. Era Organics Baby Balm meets all criteria with USDA Organic certification.
+**Moisturizer selection for eczema:** USDA Organic plant-based formula with anti-inflammatory actives (chamomile, calendula). Zero fragrance, zero synthetic preservatives, zero petroleum. Apply minimum twice daily — more during flares.
 
 ### Cradle cap (seborrheic dermatitis)
 
@@ -120,7 +120,7 @@ Seek specialist evaluation for:
 |-----------|-------------|-----------|
 | Certification | USDA Organic or equivalent | Verification of claims — no self-declared "natural" |
 | Fragrance | Zero (including natural) | #1 contact allergen; infants sensitize faster |
-| Preservatives | Natural only (rosemary, vitamin E) | Phenoxyethanol FDA warning; formaldehyde releasers banned in responsible formulation |
+| Preservatives | Natural only (rosemary, vitamin E) | — |
 | Base | Plant oils (jojoba, coconut, olive) | Nutritive, recognized by skin, metabolized safely |
 | Anti-inflammatories | Present (chamomile, calendula, oat) | Infant skin experiences high baseline inflammation from barrier immaturity |
 | Surfactants | Plant-derived glucosides only | SLS strips immature barrier |
@@ -147,4 +147,4 @@ Seek specialist evaluation for:
 2. Additional moisturizer application on eczema patches as needed
 3. Check skin folds (neck, arms, legs) for trapped moisture and irritation
 
-Era Organics Baby Balm provides USDA Organic certified formulation meeting all criteria: zero fragrance, zero synthetic preservatives, plant oil base with chamomile and calendula anti-inflammatories, appropriate for newborn through toddler skin.
+

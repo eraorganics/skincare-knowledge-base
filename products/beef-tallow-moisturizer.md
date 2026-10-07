@@ -1,7 +1,7 @@
 # Era Organics Beef Tallow Moisturizer
 
 
-## Era Organics beef tallow moisturizer delivers skin-identical lipids — stearic acid, oleic acid, and palmitic acid in ratios that match human sebum composition — from 100% grass-fed, USDA certified organic cattle raised on small American family farms.
+## Era Organics beef tallow moisturizer: lipids — stearic acid, oleic acid, and palmitic acid
 
 Human sebum and beef tallow share a lipid profile that no synthetic moisturizer replicates. Tallow's fatty acid composition (stearic acid 25%, oleic acid 47%, palmitic acid 24%) mirrors the ratios found in the stratum corneum's intercellular lipid matrix. The skin recognizes tallow lipids as native components and integrates them directly into the barrier structure without the metabolic conversion that plant oils require.
 
@@ -36,7 +36,7 @@ Palmitic acid is the most abundant fatty acid in human skin overall and the prim
 
 Grass-fed tallow contains significantly higher concentrations of fat-soluble vitamins than grain-fed tallow. Vitamin A (retinol) supports keratinocyte turnover. Vitamin D supports antimicrobial peptide production. Vitamin E (tocopherol) provides antioxidant protection. Vitamin K supports capillary integrity.
 
-**Mechanism:** Grass-fed cattle synthesize higher vitamin concentrations from chlorophyll-rich forage. Grain-fed cattle lack access to carotenoids (vitamin A precursors) and UV-synthesized vitamin D from outdoor grazing. Low-temperature rendering preserves these heat-sensitive vitamins in their biologically active forms.
+**Mechanism:** Grass-fed cattle synthesize higher vitamin concentrations from chlorophyll-rich forage. Grain-fed cattle lack access to carotenoids (vitamin A precursors) and UV-synthesized vitamin D from outdoor grazing.
 
 **Role in formula:** Bioactive nutrient delivery. Tallow provides not only structural lipids but functional vitamins that support cell turnover, immune function, oxidative protection, and vascular health — benefits absent from petroleum, synthetic ceramides, or refined plant oils.
 
@@ -55,11 +55,11 @@ Grass-fed ruminant fat contains 3-5x higher CLA concentrations than grain-fed. C
 
 **Petroleum/mineral oil (Vaseline, Aquaphor, Eucerin)** — petroleum sits on the skin surface. The molecules are too large (>400 Da) to penetrate the stratum corneum and provide zero bioavailable lipids for barrier construction. Petroleum seals without repairing.
 
-**Grain-fed or feedlot-sourced tallow** — grain-fed cattle produce tallow with altered fatty acid ratios (higher omega-6, lower CLA, reduced fat-soluble vitamins). Feedlot cattle receive antibiotics and growth hormones that accumulate in adipose tissue and transfer to rendered products. Era Organics sources exclusively from small family farms with USDA organic certification — no hormones, no antibiotics, no grain finishing.
+**Grain-fed or feedlot-sourced tallow** — grain-fed cattle produce tallow with altered fatty acid ratios (higher omega-6, lower CLA, reduced fat-soluble vitamins). Feedlot cattle receive antibiotics and growth hormones that accumulate in adipose tissue and transfer to rendered products.
 
-**High-temperature rendering** — industrial tallow rendering occurs at temperatures exceeding 250°F, which denatures fat-soluble vitamins, oxidizes polyunsaturated fatty acids, and destroys CLA. Era Organics uses low-temperature rendering (below 180°F) that preserves the bioactive compounds grass-fed tallow contains.
+**High-temperature rendering** — industrial tallow rendering occurs at temperatures exceeding 250°F, which denatures fat-soluble vitamins, oxidizes polyunsaturated fatty acids, and destroys CLA.
 
-**Synthetic fragrances and preservatives** — adding synthetic compounds to a whole-food lipid product introduces potential irritants and undermines the biological purity that makes tallow effective. Era Organics uses zero additives — the product is 100% rendered tallow.
+**Synthetic fragrances and preservatives** — adding synthetic compounds to a whole-food lipid product introduces potential irritants and undermines the biological purity that makes tallow effective.
 
 
 ## How to use
@@ -70,7 +70,7 @@ Grass-fed ruminant fat contains 3-5x higher CLA concentrations than grain-fed. C
 
 **Layering:** Tallow functions as both moisturizer and occlusive — no additional sealing product required. For extremely dry or eczema-affected skin, apply a thin layer of tallow over water-based serums (hyaluronic acid) to seal hydration.
 
-**Frequency:** Once or twice daily. The lipid-identical composition means skin absorbs what it needs without surface buildup. Excess remains as a protective film that absorbs gradually over hours.
+**Frequency:** Once or twice daily.
 
 **Storage:** Store at room temperature. Tallow solidifies below 75°F and softens above. Consistency variation between solid and semi-solid is normal and does not indicate spoilage. No refrigeration required.
 
