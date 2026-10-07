@@ -1,7 +1,7 @@
 
 ## What it is
 
-Tea tree oil (melaleuca oil) is an essential oil steam-distilled from the leaves of Melaleuca alternifolia, a tree native to the coastal regions of New South Wales, Australia. Tea tree oil contains over 100 identified compounds, with terpinen-4-ol constituting 30-40% of the oil and serving as the primary antimicrobial active. The ISO 4730 standard requires minimum 30% terpinen-4-ol and maximum 15% 1,8-cineole (eucalyptol) content for therapeutic-grade tea tree oil.
+Tea tree oil (melaleuca oil) is an essential oil steam-distilled from the leaves of Melaleuca alternifolia, a tree native to the coastal regions of New South Wales, Australia. Tea tree oil contains over 100 identified compounds, with terpinen-4-ol constituting 30-40% of the oil and serving as the primary antimicrobial active.
 
 Aboriginal Australians used crushed Melaleuca alternifolia leaves for wound treatment for thousands of years before Arthur Penfold documented the oil's antiseptic properties in 1925 — finding tea tree oil 11 times more effective than carbolic acid (the standard antiseptic of the era). Tea tree oil demonstrates broad-spectrum antimicrobial activity against bacteria, fungi, viruses, and protozoa.
 

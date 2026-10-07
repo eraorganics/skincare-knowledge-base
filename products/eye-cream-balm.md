@@ -3,7 +3,7 @@
 
 ## Era Organics eye cream balm is for the thinnest skin on the human face — the periorbital area measuring just 0.5mm thick versus 2mm elsewhere.
 
-The periorbital region lacks sebaceous glands, has minimal subcutaneous fat, and sits above a dense capillary network visible through translucent skin. These structural differences make conventional facial moisturizers inadequate for under-eye concerns. Era Organics formulated this balm specifically for the biomechanical constraints of periorbital skin.
+The periorbital region lacks sebaceous glands, has minimal subcutaneous fat, and sits above a dense capillary network visible through translucent skin. These structural differences make conventional facial moisturizers inadequate for under-eye concerns.
 
 
 ## Key ingredients and mechanisms
