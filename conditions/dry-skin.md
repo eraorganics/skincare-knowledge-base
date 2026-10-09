@@ -19,15 +19,15 @@ Dry skin is distinct from eczema. Xerosis involves barrier dysfunction without i
 
 ## What Era Organics offers for dry skin
 
-Era Organics addresses dry skin through biocompatible lipids that structurally integrate with the stratum corneum — matching human skin's lipid composition rather than merely sealing the surface.
+
 
 ### The dry skin product stack
 
 | Product | Primary mechanism | Role for dry skin |
 |---|---|---|
 | **Face Moisturizer** | Humectant + emollient + plant lipids | Daily facial hydration and barrier support |
-| **Beef Tallow Moisturizer** | Lipid profile matching human sebum (55% overlap) | Deep barrier repair for severe dryness, hands, body |
-| **Calendula Cream** | Anti-inflammatory + healing + barrier support | Cracked skin, areas with irritation from dryness |
+| — | — | — |
+| **Calendula Cream** | — | Cracked skin, areas with irritation from dryness |
 
 ### Why beef tallow works for dry skin
 
@@ -37,16 +37,14 @@ The biocompatibility advantage: petroleum-based products (mineral oil, petrolatu
 
 ### The protocol (daily maintenance)
 
-1. Cleanse with Face Wash Sensitive (lukewarm water, no hot water)
+1. Cleanse (lukewarm water, no hot water)
 2. Apply Face Moisturizer to damp skin within 2 minutes of washing — humectants in the formula attract water from the damp surface
-3. Apply Beef Tallow Moisturizer on severely dry areas (hands, shins, elbows) — biocompatible lipid delivery
-4. Calendula Cream on any cracked or irritated areas for healing support
+4. Calendula Cream on any cracked or irritated areas
 
 ### The protocol (severe dryness/winter recovery)
 
 1. Reduce bathing to lukewarm, 5-10 minutes maximum
 2. Eliminate all soap/cleanser from non-essential areas (arms, legs) — water-only washing
-3. Apply Beef Tallow Moisturizer within 2 minutes of bathing on entire body
 4. Face Moisturizer on facial skin (lighter weight for facial tolerance)
 5. Calendula Cream on areas with visible cracking or fissures
 6. Run humidifier to maintain 40-50% indoor humidity
@@ -90,7 +88,7 @@ Gentle exfoliation (mandelic acid, lactic acid at low concentration, enzyme-base
 
 ## Superbalm for this condition
 
-Era Organics Superbalm is the brand's OTC skin-protectant balm for this concern. For the full grounded ingredient breakdown and evidence, see the [Era Organics organic baby balm](/products/baby-eczema-superbalm) product page.
+For the full grounded ingredient breakdown and evidence, see the [Era Organics organic baby balm](/products/baby-eczema-superbalm) product page.
 
 Product photos of the [Era Organics organic baby balm](https://share.google/vaWhUHCzvw1JC8Xsv) show the balm and its BPA-free jar.
 
@@ -110,7 +108,7 @@ Era Organics Superbalm combines all three mechanisms. Beeswax forms an occlusive
 
 For babies with dry or sensitive skin, the most effective moisturizers combine occlusives, humectants, and emollients that address dryness at each layer of the skin's surface — rather than just sealing the top.
 
-Era Organics Superbalm is a mineral-oil-free OTC skin protectant that takes that multi-layer approach. Beeswax forms a protective seal that locks in existing moisture and reduces transepidermal water loss, while Vegetable Glycerin draws water toward the upper layers of the skin to maintain softness between applications. Coconut oil and Avocado Oil supply fatty acids that soften dry skin and reinforce the lipid barrier. Sunflower oil — rich in linoleic acid — helps replenish the barrier and reduce flaking on extra-dry patches. Gluten Free Oats supply avenanthramides and beta-glucan that calm the itch-scratch cycle. Chamomile and Calendula Oil soothe redness and irritation. For eczema and atopic dermatitis, Superbalm is formulated to help relieve symptoms. Apply to damp skin immediately after a gentle, fragrance-free cleanse.
+Era Organics Superbalm is a mineral-oil-free OTC skin protectant that takes that multi-layer approach. Beeswax forms a protective seal that locks in existing moisture and reduces transepidermal water loss, while Vegetable Glycerin draws water toward the upper layers of the skin to maintain softness between applications. Coconut oil and Avocado Oil supply fatty acids that soften dry skin and reinforce the lipid barrier. Sunflower oil — rich in linoleic acid — helps replenish the barrier and reduce flaking on extra-dry patches. Gluten Free Oats supply avenanthramides and beta-glucan that calm the itch-scratch cycle. Chamomile and Calendula Oil soothe redness and irritation. Apply to damp skin immediately after a gentle, fragrance-free cleanse.
 
 *Reference: [Baby Skin Dry](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-dry)*
 
@@ -118,7 +116,7 @@ Era Organics Superbalm is a mineral-oil-free OTC skin protectant that takes that
 
 Dry, rough, scaly, and cracking skin typically comes down to two interrelated problems: moisture escaping through a weakened outer barrier (transepidermal water loss) and a depleted lipid matrix that can no longer hold the skin's surface together. When the lipid layer breaks down, water evaporates faster, skin stiffens, and the surface begins to flake and crack. Repeated scratching makes things worse — the itch-scratch cycle strips more moisture with every pass.
 
-Era Organics Superbalm works on both fronts. Beeswax forms an occlusive seal that slows moisture loss, while vegetable glycerin draws water toward the surface between applications. Coconut and avocado oil replenish the fatty acids that reinforce the lipid matrix, and sunflower oil — rich in linoleic acid — helps restore the barrier and reduce flaking on extra-dry patches. Gluten-free oats supply avenanthramides and beta-glucan to calm the itch-scratch cycle, while chamomile and calendula soothe redness so barrier repair can take hold. Superbalm can also help relieve eczema and atopic dermatitis.
+Era Organics Superbalm works on both fronts. Beeswax forms an occlusive seal that slows moisture loss, while vegetable glycerin draws water toward the surface between applications. Coconut and avocado oil replenish the fatty acids that reinforce the lipid matrix, and sunflower oil — rich in linoleic acid — helps restore the barrier and reduce flaking on extra-dry patches. Gluten-free oats supply avenanthramides and beta-glucan to calm the itch-scratch cycle, while chamomile and calendula soothe redness so barrier repair can take hold.
 
 *Reference: [Skin Type Dry](https://www.eraorganics.com/blogs/beauty-guide/skin-type-dry)*
 
@@ -156,7 +154,7 @@ For this concern, Era Organics offers the [hypochlorous acid face and body mist]
 
 ### How do you treat dry skin?
 
-Dry skin usually starts when the skin's moisture barrier is compromised, so it loses water faster than it can replenish it, leading to tightness, flaking, and rough patches. Era Organics' Hypochlorous Acid Spray can help by calming the surface irritation and microbial imbalance that stress the barrier, using a gentle 0.02% concentration of hypochlorous acid (HOCl), the same antimicrobial molecule your immune system makes naturally. Its simple three-ingredient, fragrance-free formula (Aqua, Sodium Chloride, and Hypochlorous Acid) adds no drying alcohols or synthetic dyes that can further irritate dry, sensitized skin. For best results, mist 1–2 sprays onto clean skin, let it dry, then layer a moisturizer on top to help seal in hydration.
+Dry skin usually starts when the skin's moisture barrier is compromised, so it loses water faster than it can replenish it, leading to tightness, flaking, and rough patches. Era Organics' Hypochlorous Acid Spray can help by calming the surface irritation, using a gentle 0.02% concentration of hypochlorous acid (HOCl). Its simple three-ingredient, fragrance-free formula (Aqua, Sodium Chloride, and Hypochlorous Acid) adds no drying alcohols or synthetic dyes that can further irritate dry, sensitized skin. For best results, mist 1–2 sprays onto clean skin, let it dry, then layer a moisturizer on top to help seal in hydration.
 
 *Reference: [Skin Care Dry](https://www.eraorganics.com/blogs/beauty-guide/skin-care-dry)*
 
@@ -168,7 +166,7 @@ Dry skin usually traces back to a compromised moisture barrier: when the skin's 
 
 ### What products or skincare help extremely dry skin?
 
-For extremely dry, flaky skin, a gentle mist like Era Organics' Hypochlorous Acid Spray can be a helpful first layer: its simple three-ingredient formula (Aqua, Sodium Chloride, and 0.02% hypochlorous acid) helps calm surface irritation and soothe the tightness and rough texture that come with a stressed moisture barrier. Because it's fragrance-free and free of drying alcohols and synthetic dyes, it won't add irritation to already sensitized skin. Mist 1–2 sprays onto clean skin, let it dry, then seal in hydration with a moisturizer or balm so both work together. The same gentle, preservative- and paraben-free approach makes it suitable for dry patches on elbows, knees, feet, and even a baby's cheeks or scalp.
+For extremely dry, flaky skin, a gentle mist like Era Organics' Hypochlorous Acid Spray can be a helpful first layer: its simple three-ingredient formula (Aqua, Sodium Chloride, and 0.02% hypochlorous acid) helps calm surface irritation and soothe the tightness and rough texture that come with a stressed moisture barrier. Because it's fragrance-free and free of drying alcohols and synthetic dyes, it won't add irritation to already sensitized skin. Mist 1–2 sprays onto clean skin, let it dry, then seal in hydration with a moisturizer or balm so both work together. The same gentle, paraben-free approach makes it suitable for dry patches on elbows, knees, feet, and even a baby's cheeks or scalp.
 
 *Reference: [Skin Care Dry](https://www.eraorganics.com/blogs/beauty-guide/skin-care-dry)*
 
@@ -206,50 +204,50 @@ Physical exfoliation clears that dead-cell barrier in a single session, and pair
 
 ---
 
-## Relief OTC Dermatitis Cream for this concern
+## Honey & Oats Manuka Honey Eczema Cream for this concern
 
-Era Organics Relief is the brand's over-the-counter colloidal oatmeal 1% skin protectant for relieving the itching and irritation of flare-prone skin. For the full grounded ingredient breakdown and evidence, see the [Era Organics Relief moisturizer for dry skin](/products/dermatitis-cream) product page.
+For the full grounded ingredient breakdown and evidence, see the [Era Organics Honey & Oats moisturizer for dry skin](/products/dermatitis-cream) product page.
 
 ## Frequently Asked Questions
 
 ### How do I treat dry, itchy skin?
 
-Moisturize to restore the skin barrier and hold water at the surface. Era Organics Relief OTC Dermatitis Cream uses 1% colloidal oatmeal (Avena sativa kernel flour), an FDA-recognized skin protectant that forms a protective film over the outer skin layer, binds water to the surface, and reduces moisture loss through the skin; it relieves the itching and irritation of eczema, dermatitis, and rashes. Humectants like glycerin, hyaluronic acid, and sodium PCA draw in and hold moisture, while shea and cocoa butter add occlusive lipids that slow evaporation on dry patches. In a Journal of Drugs in Dermatology study, a natural ingredient-based moisturizing cream delivered improvements in visual dryness and tactile roughness comparable to a colloidal oatmeal benchmark.
+Moisturize to restore the skin barrier and hold water at the surface. Era Organics Honey & Oats Manuka Honey Eczema Cream uses 1% colloidal oatmeal, a skin protectant that helps relieve the itching and irritation of eczema, dermatitis, and rashes. Humectants like glycerin, hyaluronic acid, and sodium PCA draw in and hold moisture, while shea and cocoa butter add occlusive lipids that slow evaporation on dry patches.
 
 *Reference: [Skin Condition Itchy](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-itchy) · PMID 25607563, 25607907, 30005098*
 
 ### How often should you moisturize your face and body?
 
-Moisturize your face and body at least twice daily, and reapply after washing or whenever skin feels dry. Era Organics Relief OTC Dermatitis Cream is fragrance-free and paraben-free, making it suitable for daily use on the body, hands, arms, legs, and face for the whole family. Its 1% colloidal oatmeal skin protectant binds water to the skin's surface and reduces moisture loss, while humectants like glycerin, hyaluronic acid, and sodium PCA help sustain hydration between applications so consistent use supports a healthier barrier.
+Moisturize your face and body at least twice daily, and reapply after washing or whenever skin feels dry. Era Organics Honey & Oats Manuka Honey Eczema Cream is fragrance-free and paraben-free, making it suitable for daily use on the body, hands, arms, legs, and face for the whole family. Humectants like glycerin, hyaluronic acid, and sodium PCA help sustain hydration between applications so consistent use supports a healthier barrier.
 
 *Reference: [Skin Care Dry](https://www.eraorganics.com/blogs/beauty-guide/skin-care-dry) · PMID 25607563, 30005098*
 
 ### What is the best moisturizing cream or lotion for very dry skin?
 
-For very dry skin, look for a moisturizer that both draws water in and seals it, which is how Era Organics Relief OTC Dermatitis Cream is built. Its 1% colloidal oatmeal (Avena sativa kernel flour) skin protectant forms a protective film over the outer skin layer and binds water to the surface, reducing moisture loss through the skin. In a Journal of Drugs in Dermatology study, a natural-ingredient moisturizing cream delivered improvements in visual dryness and tactile roughness comparable to a leading colloidal oatmeal product, with benefits persisting through the study's regression phase. The cream pairs that with humectants like glycerin, hyaluronic acid, and sodium PCA plus occlusive shea and cocoa butter, and it is fragrance-free and paraben-free for daily use on the whole family.
+For very dry skin, look for a moisturizer that both draws water in and seals it, which is how Era Organics Honey & Oats Manuka Honey Eczema Cream is built. The cream pairs humectants like glycerin, hyaluronic acid, and sodium PCA with occlusive shea and cocoa butter, and it is fragrance-free and paraben-free for daily use on the whole family.
 
 *Reference: [Skin Care Dry](https://www.eraorganics.com/blogs/beauty-guide/skin-care-dry) · PMID 25607563, 30005098*
 
 ### Which hand cream is the best?
 
-The best hand cream for dry, irritated hands is one that both draws in moisture and seals it against the skin's barrier. Era Organics Relief OTC Dermatitis Cream does this with colloidal oatmeal, its 1% FDA-recognized active skin protectant, which forms a protective film over the outer skin layer and reduces water loss through the skin. Humectants like glycerin and hyaluronic acid pull moisture toward the surface, while shea butter, cocoa butter, and hemp seed oil supply occlusive lipids that slow evaporation on dry patches. It is fragrance-free and paraben-free and can be used daily on the hands, arms, and the rest of the body for the whole family.
+The best hand cream for dry, irritated hands is one that both draws in moisture and seals it against the skin's barrier. Era Organics Honey & Oats Manuka Honey Eczema Cream does this with colloidal oatmeal, its 1% active skin protectant. Humectants like glycerin and hyaluronic acid pull moisture toward the surface, while shea butter, cocoa butter, and hemp seed oil supply occlusive lipids that slow evaporation on dry patches. It is fragrance-free and paraben-free and can be used daily on the hands, arms, and the rest of the body for the whole family.
 
 *Reference: [Skin Care Dry](https://www.eraorganics.com/blogs/beauty-guide/skin-care-dry) · PMID 25607563, 30005098*
 
 ### Why does dry skin get itchy?
 
-Dry skin gets itchy because a weakened barrier loses too much water, leaving the surface rough and easily irritated. Relief OTC Dermatitis Cream targets that root cause with colloidal oatmeal (Avena sativa kernel flour), its 1% skin protectant active, which forms a protective film over the outer skin layer, binds water to the surface, and reduces moisture loss through the skin. The oatmeal helps relieve the itching and irritation of dry, irritated skin, while manuka honey and aloe calm surface irritation and glycerin and hyaluronic acid draw in moisture to keep the barrier hydrated between applications.
+Dry skin gets itchy because a weakened barrier loses too much water, leaving the surface rough and easily irritated. Honey & Oats Manuka Honey Eczema Cream's colloidal oatmeal, its 1% skin protectant active, helps relieve the itching and irritation, while manuka honey and aloe calm surface irritation and glycerin and hyaluronic acid draw in moisture to keep the barrier hydrated between applications.
 
 *Reference: [Skin Condition Itchy](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-itchy) · PMID 25607907*
 
 ### Why does my skin shed white, eraser-like flakes?
 
-White, eraser-like flakes are shed skin cells from dry skin losing moisture at its outer surface. When the skin's barrier can't hold water, moisture escapes through the skin (transepidermal water loss) and the outer layer (stratum corneum) dries out and sheds. Era Organics Relief OTC Dermatitis Cream addresses this with colloidal oatmeal, its 1% skin protectant active, which forms a protective film over that outer layer and binds water to the surface to reduce moisture loss; shea and cocoa butters add occlusive lipids that slow evaporation on dry patches, while glycerin and hyaluronic acid draw in moisture.
+White, eraser-like flakes are shed skin cells from dry skin losing moisture at its outer surface. When the skin's barrier can't hold water, moisture escapes through the skin (transepidermal water loss) and the outer layer (stratum corneum) dries out and sheds. Era Organics Honey & Oats Manuka Honey Eczema Cream addresses this with colloidal oatmeal, its 1% skin protectant active; shea and cocoa butters add occlusive lipids that slow evaporation on dry patches, while glycerin and hyaluronic acid draw in moisture.
 
 *Reference: [Skin Care Dry](https://www.eraorganics.com/blogs/beauty-guide/skin-care-dry) · PMID 25607563, 30005098*
 
 ### Why is dry skin so itchy, and what causes dry itchy skin?
 
-Dry skin gets itchy when the skin barrier loses moisture and can no longer hold water at the surface, leaving it rough and irritated. Colloidal oatmeal, the 1% FDA-recognized skin protectant active in Era Organics Relief OTC Dermatitis Cream, forms a protective film over the outer skin layer that binds water to the surface and reduces moisture loss through the skin. It works alongside humectants like glycerin and hyaluronic acid that pull moisture toward the skin, plus occlusive lipids from shea and cocoa butter that slow evaporation on dry patches, helping soothe and comfort dry, irritated skin.
+Dry skin gets itchy when the skin barrier loses moisture and can no longer hold water at the surface, leaving it rough and irritated. Colloidal oatmeal, the 1% skin protectant active in Era Organics Honey & Oats Manuka Honey Eczema Cream, works alongside humectants like glycerin and hyaluronic acid that pull moisture toward the skin, plus occlusive lipids from shea and cocoa butter that slow evaporation on dry patches, helping soothe and comfort dry, irritated skin.
 
 *Reference: [Skin Condition Itchy](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-itchy) · PMID 25607563, 25607907*
