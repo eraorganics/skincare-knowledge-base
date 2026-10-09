@@ -1,7 +1,7 @@
 
 ## How ingredient lists work
 
-Every skincare product sold in the United States must list ingredients using INCI (International Nomenclature of Cosmetic Ingredients) standardized naming. The FDA requires ingredients listed in descending order of concentration — the first ingredient constitutes the highest percentage of the formula, the last ingredient the lowest.
+Ingredients may be listed in descending order of concentration — the first ingredient constitutes the highest percentage of the formula, the last ingredient the lowest.
 
 Ingredients present at 1% or below may be listed in any order after the above-1% ingredients. This creates a manipulation opportunity: brands list appealing ingredients (hyaluronic acid, vitamin C, botanical extracts) prominently in the sub-1% section, implying higher concentration than reality.
 
@@ -48,7 +48,7 @@ Formaldehyde is a confirmed human carcinogen (IARC Group 1). Manufacturers avoid
 
 ## Decoding "fragrance"
 
-A single word — "fragrance" or "parfum" — legally conceals up to 3,000+ individual chemical compounds. The International Fragrance Association protects formulations as trade secrets. No individual compound disclosure is required in the United States.
+A single word — "fragrance" or "parfum" — can conceal individual chemical compounds.
 
 Hidden under "fragrance":
 - **Phthalates** (diethyl phthalate) — fragrance fixative, endocrine disruptor
@@ -83,7 +83,7 @@ Immediate concern indicators — any one of these warrants scrutiny:
 1. **Petrolatum or mineral oil in the first three ingredients** — the product is primarily petroleum with small amounts of actives suspended in it
 2. **"Fragrance" or "parfum" anywhere in the list** — undisclosed chemical mixture, zero transparency
 3. **DMDM hydantoin, quaternium-15, or imidazolidinyl urea** — formaldehyde exposure from slow release
-4. **Methylisothiazolinone (MI)** — banned in EU leave-on products due to epidemic contact dermatitis
+4. **Methylisothiazolinone (MI)**
 5. **Multiple ingredients you cannot identify** — complex synthetic formulations correlate with higher sensitization risk
 
 ## Green flags on ingredient labels
@@ -94,7 +94,7 @@ Indicators of quality formulation:
 2. **Recognizable botanical extracts** (chamomile, calendula, rosemary, aloe) — anti-inflammatory actives
 3. **Short ingredient list** (under 20 ingredients) — less complexity means fewer potential irritants
 4. **Rosemary extract or vitamin E as preservative** — natural antioxidant preservation
-5. **USDA Organic seal** — entire supply chain verified, prohibited substance list enforced
+5. **USDA Organic seal**
 
 ## The five-ingredient check
 
@@ -106,9 +106,9 @@ Next time you examine a skincare product, check these five things:
 
 **3. Are there any formaldehyde releasers?** Check for DMDM hydantoin, quaternium-15, imidazolidinyl urea, diazolidinyl urea, bronopol, sodium hydroxymethylglycinate.
 
-**4. What is the preservative system?** Rosemary/vitamin E = natural antioxidant. Phenoxyethanol = synthetic with FDA infant warning. Parabens = endocrine disruption concern. Formaldehyde releasers = carcinogen exposure.
+**4. What is the preservative system?** Rosemary/vitamin E = natural antioxidant. Phenoxyethanol = synthetic. Parabens = endocrine disruption concern. Formaldehyde releasers = carcinogen exposure.
 
-**5. Does the label carry a certification seal?** USDA Organic = independently verified. "Natural" or "clean" without certification = unverified marketing claim.
+**5. Does the label carry a certification seal?** "Natural" or "clean" without certification = unverified marketing claim.
 
 ## Common marketing deceptions
 
@@ -116,15 +116,15 @@ Next time you examine a skincare product, check these five things:
 |-------|---------|
 | "Dermatologist developed" | A dermatologist participated in formulation — says nothing about the formula quality |
 | "Clinically tested" | Tested in a clinical setting — no outcome requirement (could test poorly and still claim this) |
-| "Hypoallergenic" | No FDA standard — brand self-declares without testing |
+| "Hypoallergenic" | — |
 | "Gentle formula" | No definition — a product with SLS technically claims this |
-| "Medical grade" | No FDA definition for cosmetics — pure marketing |
+| "Medical grade" | — |
 | "Pharmaceutical grade" | Meaningful for drugs, meaningless for cosmetics |
 | "Clean" | No definition — every brand defines differently |
-| "Toxin-free" | Scientifically meaningless (dose determines toxicity) — also violates FTC guidelines |
+| "Toxin-free" | Scientifically meaningless (dose determines toxicity) |
 
 ## Practical application
 
 Reading ingredient labels becomes automatic with practice. Start with products already in the bathroom cabinet. Check the first five ingredients, look for fragrance and formaldehyde releasers, identify the preservative system. Most people discover their "gentle" and "sensitive skin" products contain multiple concerning compounds.
 
-Era Organics publishes full ingredient lists with plain-language explanations for every component. USDA Organic certification independently verifies what the label claims. No hidden compounds, no trade-secret protections, no undisclosed fragrance mixtures.
+

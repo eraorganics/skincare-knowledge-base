@@ -1,7 +1,7 @@
 
 ## Why certification matters
 
-"Organic," "natural," and "clean" appear on product labels without verification. Certification transforms marketing claims into legally binding commitments enforced by independent auditors. A certified product submits to annual inspection, supply chain documentation, prohibited substance testing, and certificate revocation for non-compliance.
+"Organic," "natural," and "clean" appear on product labels without verification. A certified product may submit to annual inspection, supply chain documentation, prohibited substance testing, and certificate revocation for non-compliance.
 
 An uncertified product answers only to its own marketing department.
 
@@ -12,19 +12,14 @@ An uncertified product answers only to its own marketing department.
 **Requirements for "USDA Organic" seal:**
 - 95% or more of ingredients (excluding water and salt) must be certified organic
 - Remaining 5% must come from the National List of allowed substances
-- Over 900 synthetic chemicals explicitly prohibited
-- Complete chain-of-custody documentation for every ingredient
 - Annual physical facility inspection by USDA-accredited certifying agent
 - Unannounced inspections permitted
-- Soil-to-shelf traceability required
 
 **Requirements for "Made with Organic Ingredients":**
-- 70-94% organic ingredients
-- Cannot display USDA Organic seal
 - Must identify certifying agent on label
 - Same prohibited substance restrictions on the non-organic portion
 
-**Enforcement:** Federal penalties for fraudulent organic claims. Certificate revocation. USDA maintains the Organic Integrity Database for public verification.
+**Enforcement:** USDA maintains the Organic Integrity Database for public verification.
 
 **Verification:** Search ams.usda.gov/integrity-database — enter brand or company name. Certified operations appear with certificate details.
 
@@ -102,23 +97,23 @@ An uncertified product answers only to its own marketing department.
 | Synthetic fragrance banned | Yes | Yes | Yes | Yes | Yes |
 | Synthetic preservatives banned | Yes | Limited exceptions | Limited exceptions | Yes | Limited exceptions |
 | Annual inspection | Yes | Yes | Yes | Yes | Yes |
-| Supply chain documentation | Complete | Complete | Complete | Required | Complete |
+| Supply chain documentation | — | Complete | Complete | Required | Complete |
 | Public verification database | Yes | Yes | Yes | Yes | Yes |
-| Legal enforcement | Federal (USDA) | Civil (contract) | Civil (contract) | Civil (NSF) | Civil (contract) |
+| Legal enforcement | — | — | — | — | — |
 | Geographic strength | North America | Europe/Global | Europe/Global | North America | UK/Ireland |
 
 ## Meaningful vs marketing certifications
 
 | Certification/claim | Meaningful? | Why |
 |--------------------|-------------|-----|
-| USDA Organic | Yes | Federal enforcement, annual inspection, complete supply chain verification |
+| USDA Organic | Yes | Annual inspection |
 | COSMOS Organic | Yes | Rigorous standard, annual audit, prohibited substance list |
 | NSF/ANSI 305 | Yes | Purpose-built for personal care, annual audit |
 | EWG Verified | Moderate | Desk review of ingredient lists against EWG database — no facility inspection |
 | Leaping Bunny | Narrow | Verifies no animal testing only — says nothing about ingredient quality |
-| "Natural" (no seal) | No | Zero legal definition, zero verification, zero enforcement |
+| "Natural" (no seal) | No | — |
 | "Clean" (no seal) | No | Brand self-defines — Sephora "Clean" allows phenoxyethanol and synthetic fragrance |
-| "Non-toxic" | No | Scientifically meaningless (dose determines toxicity) — FTC has flagged this claim |
+| "Non-toxic" | No | — |
 | "Chemical-free" | No | Impossible claim (water is a chemical) — signals marketing ignorance |
 | "Dermatologist approved" | No | Requires one dermatologist's agreement — no standard, no testing protocol |
 | "Organic" (without seal) | Risky | Without certification seal and certifier name, claim is unverified |
@@ -127,7 +122,7 @@ An uncertified product answers only to its own marketing department.
 
 **Step 1:** Look for a certification seal on the product packaging (USDA Organic seal, COSMOS logo, NSF mark). No seal = no certification.
 
-**Step 2:** Check the certifying agent name. USDA requires the certifying agent listed on certified products. Look for names like: QAI, Oregon Tilth, CCOF, OneCert, SCS Global Services.
+**Step 2:** Check the certifying agent name. Look for names like: QAI, Oregon Tilth, CCOF, OneCert, SCS Global Services.
 
 **Step 3:** Search the relevant database:
 - USDA: ams.usda.gov/integrity-database
@@ -137,11 +132,11 @@ An uncertified product answers only to its own marketing department.
 
 **Step 4:** Cross-reference the certificate scope. A company may hold organic certification for one product but not others. Verify the specific product — not just the brand.
 
-**Step 5:** Check certificate expiration. Organic certification requires annual renewal. Expired certificates indicate lapsed compliance.
+**Step 5:** Check certificate expiration. Expired certificates indicate lapsed compliance.
 
 ## Common deceptions
 
-**"Made with organic ingredients" displayed prominently — actual organic content is 72%.** Legal under USDA rules (70% threshold) but deliberately implies higher organic content. Cannot display USDA Organic seal.
+**"Made with organic ingredients" displayed prominently — actual organic content is 72%.** May imply higher organic content.
 
 **Organic certification held for one product, implied for entire line.** Brand displays organic imagery and language across all marketing while only one SKU actually holds certification.
 
@@ -153,11 +148,4 @@ An uncertified product answers only to its own marketing department.
 
 ## Era Organics certification status
 
-Era Organics holds USDA Organic certification across its product line. The certification covers:
-- Finished products (not just individual ingredients)
-- Manufacturing facility
-- Supply chain documentation for all ingredients
-- Annual inspection by USDA-accredited certifying agent
-- Public verification through USDA Organic Integrity Database
 
-This represents the highest level of organic certification available in the United States — verifying claims that other brands make without proof.

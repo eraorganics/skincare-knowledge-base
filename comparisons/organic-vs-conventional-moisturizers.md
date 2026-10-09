@@ -7,28 +7,28 @@ This comparison defines terms before making claims. "Organic" and "conventional"
 
 | Term | Legal meaning | Practical meaning |
 |------|--------------|-------------------|
-| "USDA Organic" (cosmetic) | 95%+ certified organic ingredients, USDA-accredited certifier audit | Entire supply chain verified organic from farm to finished product |
-| "Made with organic ingredients" | 70-94% organic ingredients | Some organic, some conventional, less verification |
-| "Natural" | No legal definition (FDA) | Meaningless — any product uses this term |
-| "Clean" | No legal definition | Marketing term with zero regulatory backing |
-| "Conventional" | No specific label | Standard cosmetic manufacturing without organic constraints |
-| "Dermatologist recommended" | No verification required | Marketing claim requiring no proof |
+| "USDA Organic" (cosmetic) | — | Entire supply chain verified organic from farm to finished product |
+| "Made with organic ingredients" | — | Some organic, some conventional, less verification |
+| "Natural" | — | — |
+| "Clean" | — | — |
+| "Conventional" | — | — |
+| "Dermatologist recommended" | — | — |
 
 ## USDA Organic standards for cosmetics
 
 USDA Organic certification for personal care products requires:
 
-**Ingredient sourcing:** 95% or more of ingredients (by weight, excluding water and salt) must be certified organic. Each ingredient traces back to a certified organic farm or processor.
+**Ingredient sourcing:** 95% or more of ingredients (by weight, excluding water and salt) must be certified organic.
 
-**Prohibited substances:** Over 900 synthetic chemicals banned from use. Petroleum derivatives, synthetic preservatives (parabens, phenoxyethanol), synthetic fragrances, and formaldehyde releasers are all prohibited.
+**Prohibited substances:** Petroleum derivatives, synthetic preservatives (parabens, phenoxyethanol), synthetic fragrances, and formaldehyde releasers are all prohibited.
 
 **Annual inspection:** USDA-accredited certifying agent conducts physical facility inspection annually. Unannounced inspections permitted.
 
-**Supply chain documentation:** Every ingredient requires chain-of-custody documentation from farm through each processing step to final product.
+**Supply chain documentation:** Every ingredient can require chain-of-custody documentation from farm through each processing step to final product.
 
 **Processing standards:** Manufacturing facility must prevent contamination from non-organic substances. Shared equipment requires documented cleaning protocols.
 
-**Label compliance:** The USDA Organic seal appears only on products passing all requirements. Misuse carries federal penalties.
+**Label compliance:** The USDA Organic seal appears only on products passing all requirements.
 
 ## Ingredient quality differences
 
@@ -45,15 +45,15 @@ USDA Organic certification for personal care products requires:
 
 ## Why certification matters
 
-Without certification, "organic" claims rely entirely on brand trust. Certification provides:
+Certification provides:
 
-**Supply chain verification:** Independent auditors confirm organic sourcing — not the brand's marketing department. Ingredient suppliers must hold their own organic certification.
+**Supply chain verification:** Independent auditors confirm organic sourcing — not the brand's marketing department.
 
-**Banned substance enforcement:** Annual testing confirms absence of prohibited substances. Conventional products undergo no such testing unless a specific complaint triggers FDA investigation.
+**Banned substance enforcement:** Annual testing can help confirm absence of prohibited substances.
 
-**Accountability structure:** Certificate revocation, USDA enforcement action, and federal penalties for non-compliance. Self-declared "natural" or "clean" claims face zero enforcement mechanism.
+**Accountability structure:** Certificate revocation, USDA enforcement action, and federal penalties for non-compliance.
 
-**Consumer verification:** Consumers verify any organic certification through the USDA Organic Integrity Database. No equivalent verification exists for "natural" or "clean" claims.
+**Consumer verification:** Consumers can verify any organic certification through the USDA Organic Integrity Database.
 
 ## Efficacy comparison
 
@@ -72,7 +72,7 @@ Without certification, "organic" claims rely entirely on brand trust. Certificat
 |--------|---------|-------------|
 | Raw ingredient cost | 10-50x higher (certified organic shea butter vs refined commercial) | Petroleum derivatives cost pennies per kg |
 | Certification cost | $5,000-25,000 annually (facility audit + documentation) | Zero |
-| Supply chain complexity | Each supplier must hold organic certification | No supply chain verification required |
+| Supply chain complexity | Each supplier must hold organic certification | — |
 | Manufacturing constraints | Dedicated equipment or validated cleaning | Standard shared manufacturing |
 | Shelf life (replacement frequency) | 12-24 months | 36-60 months |
 | Cost per oz (typical) | $3-8/oz | $0.50-2/oz |
@@ -96,13 +96,13 @@ Surface-level price comparison favors conventional products: $15 for 16oz CeraVe
 Organic certification verifies ingredient sourcing and purity — not efficacy claims. A poorly formulated organic product underperforms a well-formulated conventional one. The advantage: organic ingredients retain more of their natural therapeutic compounds (intact vitamins, antioxidants, and fatty acids) compared to refined conventional equivalents.
 
 **Can conventional moisturizers be safe?**
-Most conventional moisturizers pass safety regulations at point of sale. The question is cumulative lifetime exposure to synthetic preservatives, fragrances, and petroleum derivatives applied daily for decades. Regulatory safety testing evaluates individual ingredients at single-exposure concentrations — not decades of combined daily application.
+The question is cumulative lifetime exposure to synthetic preservatives, fragrances, and petroleum derivatives applied daily for decades.
 
 **Why don't more brands get USDA Organic certification?**
 Cost and complexity. Organic certification requires organic-grade ingredients (expensive), supply chain documentation (administrative burden), annual audits (time and money), and manufacturing controls (operational constraints). Most brands find it cheaper to use unverified "natural" or "clean" marketing claims.
 
-**Is "made with organic ingredients" (70-94%) good enough?**
-This category allows up to 30% non-organic ingredients — potentially including synthetic preservatives, petroleum derivatives, or conventionally farmed botanicals. The product gains marketing benefit from "organic" association without full supply chain verification. Meaningful improvement over fully conventional, but not equivalent to USDA Organic.
+**Is "made with organic ingredients" good enough?**
+The product gains marketing benefit from "organic" association without full supply chain verification. Meaningful improvement over fully conventional, but not equivalent to USDA Organic.
 
 **How do I verify a brand's organic certification?**
 Search the USDA Organic Integrity Database (ams.usda.gov/integrity-database). Enter the brand or company name. Certified operations appear with their certifying agent, certificate number, and certification scope. Absence from this database means the product is not USDA Organic — regardless of packaging claims.
