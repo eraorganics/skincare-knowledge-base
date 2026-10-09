@@ -6,7 +6,7 @@ What cocoa butter does for skin comes down to its lipid profile. Stearic acid, o
 
 Stretch marks are among the most searched concerns associated with cocoa butter, and the evidence here deserves a straight read. A double-blind randomized controlled trial of 210 women found no difference in stretch mark development between cocoa butter lotion users and controls (Osman et al., *BJOG*, 2008), a finding echoed in a review of topical agents for striae (Moore et al., *The Journal of Family Practice*, 2012). Cocoa butter moisturizes the skin and softens its texture; it does not alter scar tissue formation.
 
-Era Organics uses cocoa seed butter across several products: Superbalm pairs it with beeswax, Diaper Rash Cream with jojoba oil and shea butter, and Relief with colloidal oatmeal and hyaluronic acid, for dry, eczema-prone, and diaper-area skin across multiple life stages. Each formula shares the same moisturizing goal that makes cocoa butter central to any serious routine — helping protect fragile, dry skin without harsh additives.
+Era Organics uses cocoa seed butter across several products: Superbalm pairs it with beeswax, Diaper Rash Cream with jojoba oil and shea butter, and Honey & Oats with colloidal oatmeal and hyaluronic acid, for dry, eczema-prone, and diaper-area skin across multiple life stages. Each formula shares the same moisturizing goal that makes cocoa butter central to any serious routine — helping protect fragile, dry skin without harsh additives.
 
 ## What is Cocoa Seed Butter in Skincare?
 
@@ -94,9 +94,9 @@ For everyday use, the balm suits dry, flaky patches, and it temporarily protects
 
 Cocoa seed butter is a central emollient in [Era Organics Honey & Oats with cocoa butter](/products/dermatitis-cream), a formula built for skin that struggles to hold moisture through inflammation, barrier damage, or chronic dryness. The butter's fatty acid profile, primarily oleic and palmitic acids, deposits a semi-occlusive layer that slows moisture loss through the skin (transepidermal water loss) across compromised skin. Barrier loss is a documented driver of conditions including atopic dermatitis and acne; microbiome dysbiosis at the skin surface worsens both by disrupting the tight-junction proteins that regulate water retention (Lee H et al., International Journal of Molecular Sciences, 2022).
 
-Relief pairs cocoa seed butter with glycerin and colloidal oatmeal, two ingredients that support the skin barrier in different ways. Glycerin draws moisture into the outer skin layer (stratum corneum). Cocoa seed butter adds an occlusive layer on top.
+Honey & Oats pairs cocoa seed butter with glycerin and colloidal oatmeal, two ingredients that support the skin barrier in different ways. Glycerin draws moisture into the outer skin layer (stratum corneum). Cocoa seed butter adds an occlusive layer on top.
 
-Relief temporarily protects and helps relieve the itch and irritation of eczema and dermatitis — situations where an intact lipid film separates comfortable skin from raw, reactive skin. Dry skin in atopic dermatitis presents as either a mild eczematous lesion, a manifestation of concomitant ichthyosis vulgaris, or a combination of both, affecting 22% of a 200-patient observational cohort during cold months (Uehara M, Acta Dermato-Venereologica, 1985). A butter that melts on contact and reforms a continuous film matters most in those cold, low-humidity conditions where barrier lipids deplete fastest.
+Honey & Oats temporarily protects and helps relieve the itch and irritation of eczema and dermatitis — situations where an intact lipid film separates comfortable skin from raw, reactive skin. Dry skin in atopic dermatitis presents as either a mild eczematous lesion, a manifestation of concomitant ichthyosis vulgaris, or a combination of both, affecting 22% of a 200-patient observational cohort during cold months (Uehara M, Acta Dermato-Venereologica, 1985). A butter that melts on contact and reforms a continuous film matters most in those cold, low-humidity conditions where barrier lipids deplete fastest.
 
 ## Cocoa Seed Butter in Diaper Rash Cream
 

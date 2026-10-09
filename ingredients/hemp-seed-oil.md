@@ -20,7 +20,7 @@ Yes. Hemp seed oil is a plant-pressed oil, and Era Organics Honey & Oats Manuka 
 
 ### Can military members and security-clearance holders use hemp skincare products?
 
-Era Organics Honey & Oats Manuka Honey Eczema Cream uses hemp seed oil, which is pressed from hemp seeds for its fatty acids, not for any psychoactive compound. The oil delivers linoleic acid and gamma-linolenic acid to the skin barrier, and it absorbs without heavy residue because its fatty acid profile mirrors the skin's own intercellular lipids. In Relief, hemp seed oil is paired with colloidal oatmeal 1%, the active skin protectant, which forms a protective film that relieves the itching and irritation of eczema and dermatitis. For questions about specific military or security-clearance policies, check your branch's or agency's current guidance, and patch test before first use if you have a known sensitivity to Cannabis Sativa botanicals.
+Era Organics Honey & Oats Manuka Honey Eczema Cream uses hemp seed oil, which is pressed from hemp seeds for its fatty acids, not for any psychoactive compound. The oil delivers linoleic acid and gamma-linolenic acid to the skin barrier, and it absorbs without heavy residue because its fatty acid profile mirrors the skin's own intercellular lipids. In Honey & Oats, hemp seed oil is paired with colloidal oatmeal 1%, the active skin protectant, which forms a protective film that relieves the itching and irritation of eczema and dermatitis. For questions about specific military or security-clearance policies, check your branch's or agency's current guidance, and patch test before first use if you have a known sensitivity to Cannabis Sativa botanicals.
 
 ### Can topical hemp seed oil products make you test positive on a drug test?
 

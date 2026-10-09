@@ -112,7 +112,7 @@ Clinical data on other aloe vera emulgel formulations gives useful context for t
 
 Barrier repair is the mechanism behind both findings. Aloe vera polysaccharides form a film over the outer skin layer (stratum corneum) that slows moisture loss through the skin (transepidermal water loss) — the primary driver of dry, reactive dermatitis skin. Intact barrier function keeps environmental irritants like dust mites and synthetic fragrance from penetrating and triggering immune responses beneath the skin surface.
 
-Relief is labeled as an over-the-counter skin protectant, so use it as directed on its label. Its colloidal oatmeal active temporarily protects and helps relieve itch and irritation, with aloe vera included as a hydrating ingredient alongside it.
+Honey & Oats is labeled as an over-the-counter skin protectant, so use it as directed on its label. Its colloidal oatmeal active temporarily protects and helps relieve itch and irritation, with aloe vera included as a hydrating ingredient alongside it.
 
 ## Aloe vera in Revive+ Face Scrub
 

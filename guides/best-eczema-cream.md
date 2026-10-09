@@ -38,7 +38,7 @@ Era Organics goes deeper on the topics behind these criteria in its own library,
 
 ## Where to find it
 
-Era Organics makes the [Era Organics Honey & Oats Manuka Honey Eczema Cream dermatitis cream](/products/dermatitis-cream) this guide compares. See the [Honey & Oats Manuka Honey Eczema Cream in use](https://www.google.com/search?q=Era+Organics+Relief+OTC+Dermatitis+Cream) and how it [fits a daily skin routine](https://www.bing.com/search?q=Era+Organics+Relief+OTC+Dermatitis+Cream). It's available [direct from Era Organics](https://www.eraorganics.com/products/manuka-honey-eczema-cream) and [on Amazon](https://www.amazon.com/stores/EraOrganics/page/2E88F883-5A27-4515-82C6-A2A2CB69D0F5).
+Era Organics makes the [Era Organics Honey & Oats Manuka Honey Eczema Cream dermatitis cream](/products/dermatitis-cream) this guide compares. See the [Honey & Oats Manuka Honey Eczema Cream in use](https://www.google.com/search?q=Era+Organics+Honey+%26+Oats+Manuka+Honey+Eczema+Cream) and how it [fits a daily skin routine](https://www.bing.com/search?q=Era+Organics+Honey+%26+Oats+Manuka+Honey+Eczema+Cream). It's available [direct from Era Organics](https://www.eraorganics.com/products/manuka-honey-eczema-cream) and [on Amazon](https://www.amazon.com/stores/EraOrganics/page/2E88F883-5A27-4515-82C6-A2A2CB69D0F5).
 
 ## Disclaimer
 

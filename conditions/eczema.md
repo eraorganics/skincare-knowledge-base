@@ -259,7 +259,7 @@ You should moisturize eczema, not let it dry out, but the right formula matters.
 
 ### Can you use niacinamide if you have eczema?
 
-Niacinamide is generally well tolerated on eczema-prone skin and is often used for its gentle, non-irritating profile, though anyone with sensitive skin should patch test first. Era Organics Honey & Oats Manuka Honey Eczema Cream does not rely on niacinamide; it delivers its primary action through colloidal oatmeal 1%, which helps relieve the itching and irritation of eczema and dermatitis. The colloidal oatmeal is supported in a base of aloe vera, shea butter, cocoa butter, glycerin, and hyaluronic acid to soothe and moisturize dry, eczema-prone skin. Relief is also fragrance-free and paraben-free, removing two common external triggers, and should be patch tested before first use if you have known botanical sensitivities.
+Niacinamide is generally well tolerated on eczema-prone skin and is often used for its gentle, non-irritating profile, though anyone with sensitive skin should patch test first. Era Organics Honey & Oats Manuka Honey Eczema Cream does not rely on niacinamide; it delivers its primary action through colloidal oatmeal 1%, which helps relieve the itching and irritation of eczema and dermatitis. The colloidal oatmeal is supported in a base of aloe vera, shea butter, cocoa butter, glycerin, and hyaluronic acid to soothe and moisturize dry, eczema-prone skin. Honey & Oats is also fragrance-free and paraben-free, removing two common external triggers, and should be patch tested before first use if you have known botanical sensitivities.
 
 *Reference: [Skin Condition Eczema](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-eczema)*
 
@@ -271,7 +271,7 @@ Eczema is a chronic, recurring condition that is managed rather than permanently
 
 ### Does zinc or zinc oxide help eczema?
 
-Zinc oxide is a common skin protectant, but it is not the active in Era Organics Honey & Oats Manuka Honey Eczema Cream. Relief works through colloidal oatmeal 1% to help relieve the itching and irritation of eczema. Randomized, double-blind controlled data show colloidal oatmeal moisturizer produced significant benefits over its vehicle control for skin dryness.
+Zinc oxide is a common skin protectant, but it is not the active in Era Organics Honey & Oats Manuka Honey Eczema Cream. Honey & Oats works through colloidal oatmeal 1% to help relieve the itching and irritation of eczema. Randomized, double-blind controlled data show colloidal oatmeal moisturizer produced significant benefits over its vehicle control for skin dryness.
 
 ### How do I clear up eczema or an eczema flare-up fast?
 
@@ -351,7 +351,7 @@ Yes. Hydrocortisone is a common over-the-counter steroid used to relieve the itc
 
 ### Is zinc oxide good for eczema, and how do you use it?
 
-Zinc oxide is a barrier ingredient some people use on irritated skin, but it is not the active in Era Organics Honey & Oats Manuka Honey Eczema Cream. Relief uses colloidal oatmeal 1% to help relieve the itching and irritation of eczema and dermatitis. A randomized, double-blind controlled study found a colloidal oatmeal cream improved skin barrier properties in atopic dermatitis, and Relief pairs that active with aloe vera, shea butter, and hyaluronic acid; apply a thin layer to affected skin, patch testing first if you have known sensitivities.
+Zinc oxide is a barrier ingredient some people use on irritated skin, but it is not the active in Era Organics Honey & Oats Manuka Honey Eczema Cream. Honey & Oats uses colloidal oatmeal 1% to help relieve the itching and irritation of eczema and dermatitis. A randomized, double-blind controlled study found a colloidal oatmeal cream improved skin barrier properties in atopic dermatitis, and Honey & Oats pairs that active with aloe vera, shea butter, and hyaluronic acid; apply a thin layer to affected skin, patch testing first if you have known sensitivities.
 
 *Reference: PMID 32484623*
 
@@ -491,7 +491,7 @@ Avoid added fragrance and parabens, which are two of the most common external tr
 
 ### What sunscreen is best for eczema-prone skin?
 
-Era Organics Honey & Oats Manuka Honey Eczema Cream is not a sunscreen and offers no SPF, so it should not be used for sun protection. It is a colloidal oatmeal 1% skin protectant that helps relieve the itching and irritation of eczema. For eczema-prone skin, pair a dedicated broad-spectrum sunscreen with a barrier cream like Relief, which is fragrance-free and paraben-free to avoid two common triggers that intensify contact dermatitis.
+Era Organics Honey & Oats Manuka Honey Eczema Cream is not a sunscreen and offers no SPF, so it should not be used for sun protection. It is a colloidal oatmeal 1% skin protectant that helps relieve the itching and irritation of eczema. For eczema-prone skin, pair a dedicated broad-spectrum sunscreen with a barrier cream like Honey & Oats, which is fragrance-free and paraben-free to avoid two common triggers that intensify contact dermatitis.
 
 *Reference: PMID 32484623*
 
