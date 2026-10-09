@@ -148,4 +148,4 @@ Era Organics Superbalm uses sunflower oil, pairing it with Beeswax to seal the s
 
 ## Disclaimer
 
-*The information on this page is provided for educational purposes only and is not medical advice. Era Organics Relief, Era Organics Superbalm, and Era Organics Diaper Rash Cream are labeled as over-the-counter skin protectants; other Era Organics products are labeled as cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*The information on this page is provided for educational purposes only and is not medical advice. Era Organics Honey & Oats Manuka Honey Eczema Cream, Era Organics Superbalm, and Era Organics Diaper Rash Cream are labeled as over-the-counter skin protectants; other Era Organics products are labeled as cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*

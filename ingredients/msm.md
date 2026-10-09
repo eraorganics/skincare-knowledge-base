@@ -4,37 +4,37 @@ MSM (methylsulfonylmethane) is an organic sulfur compound that calms surface inf
 
 Inflamed, eczema-prone skin loses its flexibility and develops a rough, scaly texture as compromised cells lose their normal sulfur-dependent protein bonds. MSM helps restore pliability to those hardened surface cells by supporting keratin structure, which can ease the cracking and flaking that make itchy skin feel worse. Softer, more intact surface tissue can better resist further irritant penetration. Atopic dermatitis is a prevalent inflammatory skin condition impacting both children and adults globally, with a prevalence of 15–30% (Chaudhary F et al., Journal of Biotechnology and Biomedicine, 2024).
 
-MSM pairs in the OTC Dermatitis Moisturizer alongside colloidal oatmeal 1%, aloe vera, shea butter, and the other key actives, while the colloidal oatmeal 1% temporarily protects and helps relieve itch and irritation. Era Organics Dermatitis Cream brings MSM into a fragrance-free, paraben-free, sulfate-free, steroid-free formula. Patch test before first use, particularly on highly reactive skin.
+MSM pairs in the Honey & Oats Manuka Honey Eczema Cream alongside colloidal oatmeal 1%, aloe vera, shea butter, and the other key actives, while the colloidal oatmeal 1% temporarily protects and helps relieve itch and irritation. Era Organics Honey & Oats Manuka Honey Eczema Cream brings MSM into a fragrance-free, paraben-free, sulfate-free, steroid-free formula. Patch test before first use, particularly on highly reactive skin.
 
 ## Frequently Asked Questions
 
 ### Can MSM be absorbed through the skin?
 
-Yes. MSM (methylsulfonylmethane) is an organic sulfur compound that is absorbed into the outer layers of the skin, where it delivers bioavailable sulfur directly to that tissue. Because sulfur is a structural component of keratin, the protein that forms the skin's protective surface, MSM supports keratin structure and helps softens tight, rough surface cells. In Era Organics Relief OTC Dermatitis Cream, MSM works alongside colloidal oatmeal 1% and other key ingredients, while the oatmeal temporarily protects and helps relieve the itching and irritation of eczema and dermatitis.
+Yes. MSM (methylsulfonylmethane) is an organic sulfur compound that is absorbed into the outer layers of the skin, where it delivers bioavailable sulfur directly to that tissue. Because sulfur is a structural component of keratin, the protein that forms the skin's protective surface, MSM supports keratin structure and helps softens tight, rough surface cells. In Era Organics Honey & Oats Manuka Honey Eczema Cream, MSM works alongside colloidal oatmeal 1% and other key ingredients, while the oatmeal temporarily protects and helps relieve the itching and irritation of eczema and dermatitis.
 
 *Reference: [Msm Benefits](https://www.eraorganics.com/blogs/raw-ingredients/msm-benefits)*
 
 ### Does MSM lighten skin?
 
-MSM is not a skin-lightening ingredient. MSM (methylsulfonylmethane), one of the ingredients in Era Organics Relief OTC Dermatitis Cream, is an organic sulfur compound known for calming surface inflammation and softening the outer layers of skin by supporting keratin, the protein that forms the skin's protective surface. On rough, eczema-prone skin the ingredient helps restore pliability to hardened surface cells, easing the cracking and flaking that make itchy skin feel worse. It supports skin that feels less tight and more resilient rather than changing its color.
+MSM is not a skin-lightening ingredient. MSM (methylsulfonylmethane), one of the ingredients in Era Organics Honey & Oats Manuka Honey Eczema Cream, is an organic sulfur compound known for calming surface inflammation and softening the outer layers of skin by supporting keratin, the protein that forms the skin's protective surface. On rough, eczema-prone skin the ingredient helps restore pliability to hardened surface cells, easing the cracking and flaking that make itchy skin feel worse. It supports skin that feels less tight and more resilient rather than changing its color.
 
 *Reference: [Msm Benefits](https://www.eraorganics.com/blogs/raw-ingredients/msm-benefits)*
 
 ### What does MSM do for the body, joints, and inflammation?
 
-MSM (methylsulfonylmethane) is an organic sulfur compound best known here for what it does at the skin's surface: it calms surface inflammation and softens the outer layers of the skin. Sulfur is a structural part of keratin, the protein that forms the skin's protective surface, and MSM delivers bioavailable sulfur to that tissue, so skin feels less tight, less reactive, and more resilient. On eczema-prone skin that has turned rough and scaly, MSM supports keratin structure to help restore pliability, which can ease the cracking and flaking that make itchy skin feel worse. In Era Organics Relief OTC Dermatitis Cream, MSM works alongside colloidal oatmeal 1% (the OTC skin protectant that temporarily protects and helps relieve the itching and irritation of eczema and dermatitis), aloe vera, and shea butter in a fragrance-free, paraben-free formula.
+MSM (methylsulfonylmethane) is an organic sulfur compound best known here for what it does at the skin's surface: it calms surface inflammation and softens the outer layers of the skin. Sulfur is a structural part of keratin, the protein that forms the skin's protective surface, and MSM delivers bioavailable sulfur to that tissue, so skin feels less tight, less reactive, and more resilient. On eczema-prone skin that has turned rough and scaly, MSM supports keratin structure to help restore pliability, which can ease the cracking and flaking that make itchy skin feel worse. In Era Organics Honey & Oats Manuka Honey Eczema Cream, MSM works alongside colloidal oatmeal 1% (the OTC skin protectant that temporarily protects and helps relieve the itching and irritation of eczema and dermatitis), aloe vera, and shea butter in a fragrance-free, paraben-free formula.
 
 *Reference: [Msm Benefits](https://www.eraorganics.com/blogs/raw-ingredients/msm-benefits)*
 
 ### What does MSM do for your skin in skincare?
 
-MSM (methylsulfonylmethane) is an organic sulfur compound that helps calm surface inflammation and soften the outer layers of the skin. Sulfur is a structural part of keratin, the protein that forms the skin's protective surface, and MSM delivers bioavailable sulfur to that tissue so skin feels less tight, less reactive, and more resilient. On eczema-prone skin, which loses flexibility and turns rough and scaly, MSM supports keratin structure to help restore pliability and ease the cracking and flaking that make itchy skin feel worse. In Era Organics Relief OTC Dermatitis Cream, MSM pairs with colloidal oatmeal 1%, aloe vera, and shea butter in a fragrance-free, paraben-free, sulfate-free formula that temporarily protects and helps relieve the itching and irritation of eczema and dermatitis.
+MSM (methylsulfonylmethane) is an organic sulfur compound that helps calm surface inflammation and soften the outer layers of the skin. Sulfur is a structural part of keratin, the protein that forms the skin's protective surface, and MSM delivers bioavailable sulfur to that tissue so skin feels less tight, less reactive, and more resilient. On eczema-prone skin, which loses flexibility and turns rough and scaly, MSM supports keratin structure to help restore pliability and ease the cracking and flaking that make itchy skin feel worse. In Era Organics Honey & Oats Manuka Honey Eczema Cream, MSM pairs with colloidal oatmeal 1%, aloe vera, and shea butter in a fragrance-free, paraben-free, sulfate-free formula that temporarily protects and helps relieve the itching and irritation of eczema and dermatitis.
 
 *Reference: [Msm Benefits](https://www.eraorganics.com/blogs/raw-ingredients/msm-benefits)*
 
 ## Related
 
-- **Full product:** [Era Organics Relief cream with MSM](/products/dermatitis-cream)
+- **Full product:** [Era Organics Honey & Oats cream with MSM](/products/dermatitis-cream)
 
 **Related concerns:**
 
@@ -52,4 +52,4 @@ MSM (methylsulfonylmethane) is an organic sulfur compound that helps calm surfac
 
 ## Disclaimer
 
-*Era Organics Relief OTC Dermatitis Cream is an over-the-counter skin protectant. It temporarily protects and helps relieve the itching and irritation of eczema, dermatitis and rashes as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*Era Organics Honey & Oats Manuka Honey Eczema Cream is an over-the-counter skin protectant. It temporarily protects and helps relieve the itching and irritation of eczema, dermatitis and rashes as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*

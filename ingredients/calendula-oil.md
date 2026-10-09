@@ -148,4 +148,4 @@ Era Organics Superbalm includes calendula oil in a balm that temporarily protect
 
 ## Disclaimer
 
-*This page explains skincare ingredients and does not replace advice from your healthcare provider. Era Organics Relief, Era Organics Superbalm, and Era Organics Diaper Rash Cream are over-the-counter skin protectants; use them as directed on their labels. Era Organics Talc-Free Baby Powder is made to help absorb moisture and keep delicate skin feeling dry and comfortable. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*This page explains skincare ingredients and does not replace advice from your healthcare provider. Era Organics Honey & Oats Manuka Honey Eczema Cream, Era Organics Superbalm, and Era Organics Diaper Rash Cream are over-the-counter skin protectants; use them as directed on their labels. Era Organics Talc-Free Baby Powder is made to help absorb moisture and keep delicate skin feeling dry and comfortable. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
