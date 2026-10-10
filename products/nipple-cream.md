@@ -8,7 +8,7 @@ Era Organics formulated this cream using organic plant compounds.
 
 ## Ingredients chosen and their mechanisms
 
-### Calendula extract (Calendula officinalis)
+### Calendula (Calendula officinalis)
 
 Calendula contains triterpenoid saponins, flavonoids, and carotenoids.
 
@@ -16,9 +16,7 @@ Calendula contains triterpenoid saponins, flavonoids, and carotenoids.
 
 **Role in formula:** Primary active.
 
-### Organic olive oil (Olea europaea)
 
-Extra virgin olive oil provides oleic acid (72%), squalene, polyphenols (oleocanthal, hydroxytyrosol), and vitamin E.
 
 
 
@@ -32,17 +30,13 @@ Beeswax forms a semi-occlusive, breathable barrier.
 
 **Role in formula:** Protective barrier and formula structure.
 
-### Organic coconut oil (Cocos nucifera)
-
-Virgin coconut oil provides lauric acid (47%) — the same medium-chain fatty acid that constitutes 6.2% of human breast milk fat.
 
 
 
 
 
-### Shea butter (Vitellaria paradoxa)
 
-Shea butter contains allantoin, cinnamic acid esters, and vitamins A, E, and F. Shea butter is edible and used in food preparation across West Africa.
+
 
 
 

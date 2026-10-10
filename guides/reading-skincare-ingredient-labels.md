@@ -12,7 +12,7 @@ Ingredients present at 1% or below may be listed in any order after the above-1%
 | First 5 ingredients | 50-80% of formula | These ARE the product — everything else is secondary |
 | Ingredients 6-10 | 10-30% of formula | Supporting cast — meaningful but not dominant |
 | Ingredients 11-20 | 1-10% of formula | Active ingredients often sit here (many actives work at 0.5-5%) |
-| After preservatives appear | Below 1% | Preservatives work at 0.5-1%, so anything listed after them is below 1% |
+| After preservatives appear | — | — |
 | Last 5 ingredients | Trace amounts | Often marketing ingredients — present for label appeal, not skin benefit |
 
 ## Identifying petroleum derivatives
@@ -114,13 +114,13 @@ Next time you examine a skincare product, check these five things:
 
 | Claim | Reality |
 |-------|---------|
-| "Dermatologist developed" | A dermatologist participated in formulation — says nothing about the formula quality |
-| "Clinically tested" | Tested in a clinical setting — no outcome requirement (could test poorly and still claim this) |
+| "Dermatologist developed" | — |
+| "Clinically tested" | — |
 | "Hypoallergenic" | — |
-| "Gentle formula" | No definition — a product with SLS technically claims this |
+| "Gentle formula" | — |
 | "Medical grade" | — |
-| "Pharmaceutical grade" | Meaningful for drugs, meaningless for cosmetics |
-| "Clean" | No definition — every brand defines differently |
+| "Pharmaceutical grade" | — |
+| "Clean" | — |
 | "Toxin-free" | Scientifically meaningless (dose determines toxicity) |
 
 ## Practical application

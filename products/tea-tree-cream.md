@@ -18,42 +18,11 @@ Tea tree oil contains terpinen-4-ol (minimum 30% of total composition) — the p
 
 ### 2. Aloe vera (Aloe barbadensis)
 
-Aloe vera gel contains acemannan — a polysaccharide with anti-inflammatory and wound-healing properties. Aloe also delivers salicylic acid naturally (a beta-hydroxy acid) at concentrations sufficient for mild keratolytic activity.
+Aloe vera gel contains acemannan — a polysaccharide with anti-inflammatory properties.
 
-**Mechanism:** Acemannan stimulates macrophage activity and increases fibroblast proliferation. Natural salicylic acid content provides mild exfoliation of the follicular lining. Aloe's water content (99.5%) delivers hydration without lipid addition.
+**Mechanism:** Acemannan stimulates macrophage activity and increases fibroblast proliferation. Aloe's water content (99.5%) delivers hydration without lipid addition.
 
-**Role in Tea Tree Cream:** Hydration and mild chemical exfoliation.
-
-### 3. Vitamin E (tocopherol)
-
-Vitamin E is a lipid-soluble antioxidant that integrates into cell membranes to prevent lipid peroxidation.
-
-**Mechanism:** Tocopherol scavenges free radicals generated during the inflammatory cascade of acne. Lipid peroxidation of sebum creates oxidized squalene — a known comedogenic trigger.
-
-**Role in Tea Tree Cream:** —
-
-### 4. Jojoba oil (Simmondsia chinensis)
-
-Jojoba oil is technically a liquid wax ester — structurally identical to human sebum. Jojoba does not clog pores (comedogenicity rating: 2/5).
-
-**Mechanism:** Jojoba wax esters mimic the composition of human sebum.
-
-**Role in Tea Tree Cream:** —
-
-### 5. Green tea extract (Camellia sinensis)
-
-Green tea contains epigallocatechin-3-gallate (EGCG) — a polyphenol with documented anti-androgenic and sebum-reducing activity.
-
-**Mechanism:** EGCG inhibits 5-alpha-reductase — the enzyme that converts testosterone to dihydrotestosterone (DHT). DHT is the primary hormonal driver of sebaceous gland hyperactivity. EGCG also reduces sebocyte lipogenesis directly, decreasing sebum production independent of hormonal pathways. Additional anti-inflammatory activity suppresses interleukin-1 and NF-κB.
-
-**Role in Tea Tree Cream:** —
-
-### 6. Witch hazel (alcohol-free extract)
-
-**Mechanism:** Hamamelitannin (the primary active in witch hazel) constricts dilated pores, reduces surface sebum, and provides mild astringent action. Without alcohol, the astringent effect occurs without lipid stripping or barrier disruption. Witch hazel also demonstrates anti-inflammatory activity through prostaglandin suppression.
-
-**Role in Tea Tree Cream:** —
-
+**Role in Tea Tree Cream:** Hydration.
 
 ## What Era Organics deliberately avoided
 

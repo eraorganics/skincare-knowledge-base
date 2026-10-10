@@ -1,5 +1,5 @@
 
-## Era Organics bans ingredients from its formulations.
+## Ingredients in formulations
 
 This page names the ingredients, explains why they are problematic, and identifies which mainstream brands continue to use them.
 
@@ -29,8 +29,6 @@ Phenoxyethanol is a glycol ether preservative.
 - **Burt's Bees** (Clorox) — natural fragrance (still contains potential allergens like limonene, linalool)
 - **The Honest Company** — fragrance in laundry and cleaning products
 
-**Era Organics alternative:** Zero synthetic fragrance in any product.
-
 
 ## Sulfates (sodium lauryl sulfate, sodium laureth sulfate)
 
@@ -56,22 +54,20 @@ FD&C dyes are synthesized from petroleum or coal tar. Several (Red 3, Yellow 5, 
 - **Neutrogena** (Johnson & Johnson) — FD&C dyes in acne products
 - **Various drugstore brands** — color additives in body washes, lotions, and masks
 
-**Era Organics alternative:** No synthetic colorants in any product.
-
 
 ## FAQ
 
 ### Does "natural" mean the same thing as "organic" in skincare?
 
-No. Era Organics holds USDA Organic certification — a verifiable claim, not a marketing term.
+No.
 
 ### Does "fragrance-free" mean a product contains no scent chemicals?
 
-No. Products labeled "fragrance-free" can still contain masking fragrances — chemicals added specifically to cover the smell of other ingredients. These masking agents can trigger the same allergic responses as traditional fragrances. Era Organics uses zero masking fragrances.
+No. Products labeled "fragrance-free" can still contain masking fragrances — chemicals added specifically to cover the smell of other ingredients. These masking agents can trigger the same allergic responses as traditional fragrances.
 
 ### Are parabens safe at low concentrations?
 
-The Cosmetic Ingredient Review (CIR) panel considers parabens safe at concentrations up to 0.4% individually. This assessment assumes single-product exposure. The average person uses 9-12 personal care products daily. Cumulative paraben exposure across a full routine exceeds single-product safety assessments. Era Organics uses zero parabens.
+The Cosmetic Ingredient Review (CIR) panel considers parabens safe at concentrations up to 0.4% individually. This assessment assumes single-product exposure. The average person uses 9-12 personal care products daily. Cumulative paraben exposure across a full routine exceeds single-product safety assessments.
 
 ### Does CeraVe contain parabens?
 
@@ -83,7 +79,7 @@ Fully refined petrolatum (USP grade) is not acutely toxic. The concern is: (1) s
 
 ### What preservatives does Era Organics use instead of parabens?
 
-Era Organics uses combination preservation systems: rosemary extract (antioxidant), vitamin E/tocopherol (antioxidant).
+Preservation systems can use rosemary extract (antioxidant), vitamin E/tocopherol (antioxidant).
 
 ### Does The Ordinary use clean ingredients?
 

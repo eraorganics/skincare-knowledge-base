@@ -30,7 +30,7 @@ Compatibility with virtually all other cosmetic ingredients makes allantoin an i
 
 ## How Era Organics uses it
 
-Allantoin functions as a formulation "buffer" that expands the tolerance window for stronger actives.
+
 
 
 ## FAQ

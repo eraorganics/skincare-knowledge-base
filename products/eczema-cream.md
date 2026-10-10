@@ -1,7 +1,7 @@
 # Era Organics Eczema Cream
 
 
-## Era Organics Eczema Cream is a plant-based cream without steroids.
+## Era Organics Eczema Cream is a cream without steroids.
 
 
 
@@ -40,14 +40,6 @@ Cocoa seed butter (Theobroma cacao) provides stearic acid (33%), oleic acid (35%
 
 **Role in Eczema Cream:** Occlusive moisture seal.
 
-### 5. Frankincense (Boswellia serrata)
-
-Frankincense resin contains boswellic acids — pentacyclic triterpenes with documented anti-inflammatory activity through a unique mechanism distinct from NSAIDs and steroids.
-
-**Mechanism:** Boswellic acids inhibit 5-lipoxygenase (5-LOX), blocking leukotriene synthesis. Leukotrienes are inflammatory mediators particularly active in atopic dermatitis — they increase vascular permeability, recruit inflammatory cells, and amplify itch signaling. Boswellic acids also inhibit human leukocyte elastase (HLE), preventing enzymatic degradation of skin structural proteins during inflammation.
-
-
-
 ### 6. Shea butter
 
 Shea butter (Vitellaria paradoxa) contains cinnamic acid esters — compounds with documented anti-inflammatory activity. Shea also delivers vitamins A, E, and F (essential fatty acids) in bioavailable form.
@@ -65,16 +57,16 @@ Shea butter (Vitellaria paradoxa) contains cinnamic acid esters — compounds wi
 | **Synthetic ceramides** | Marketing claims about "barrier repair" | Synthetic ceramides supplement one component of the barrier |
 | **Hydrocortisone** | Fast inflammation relief | Causes skin thinning with repeated use. Rebound flares upon discontinuation. |
 | **Dimethicone (silicone)** | Creates "smooth" feel on skin surface | Synthetic polymer that coats skin without delivering active compounds. Creates illusion of hydration through surface occlusion |
-| **Phenoxyethanol** | Preservative | — |
+| — | Preservative | — |
 | **Synthetic fragrance** | Consumer preference | Contact allergen in 10-15% of eczema patients. Triggers flares in sensitized individuals |
 | **SLS/SLES** | Emulsification and cleansing | Strips remaining lipid barrier. Increases TEWL. Documented eczema trigger |
 
 **Brands that rely on what Era Organics excluded:**
 
-- **CeraVe Eczema Soothing Creamy Oil** (L'Oréal) — mineral oil as primary ingredient, dimethicone, phenoxyethanol
-- **Aveeno Eczema Therapy** (Johnson & Johnson) — petrolatum, dimethicone, phenoxyethanol
+- **CeraVe Eczema Soothing Creamy Oil** (L'Oréal) — mineral oil as primary ingredient, dimethicone
+- **Aveeno Eczema Therapy** (Johnson & Johnson) — petrolatum, dimethicone
 - **Vanicream Moisturizing Ointment** (Pharmaceutical Specialties) — petrolatum, cetearyl alcohol, propylene glycol
-- **Eucerin Eczema Relief** (Beiersdorf) — mineral oil, dimethicone, synthetic ceramide, phenoxyethanol
+- **Eucerin Eczema Relief** (Beiersdorf) — mineral oil, dimethicone, synthetic ceramide
 
 
 ## How to use Eczema Cream

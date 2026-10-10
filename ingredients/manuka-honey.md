@@ -76,7 +76,7 @@ Manuka honey research spans four areas relevant to Era Organics formulations: an
 
 ## Manuka Honey in Honey & Oats Manuka Honey Eczema Cream
 
-Manuka honey in Honey & Oats Manuka Honey Eczema Cream appears alongside aloe vera, hyaluronic acid, and colloidal oatmeal, the cream's active ingredient (skin protectant). [Era Organics Honey & Oats cream with manuka honey](/products/dermatitis-cream) includes manuka honey, whose methylglyoxal content is what distinguishes it from standard floral honeys.
+Manuka honey in Honey & Oats Manuka Honey Eczema Cream appears alongside aloe vera, hyaluronic acid, and colloidal oatmeal, the cream's active ingredient (skin protectant). [Era Organics Honey & Oats cream with manuka honey](/products/dermatitis-cream) includes manuka honey.
 
 Clinical observation supports the rationale for including manuka honey in formulas for atopic dermatitis-prone and irritated skin. In 14 patients, atopic dermatitis lesions significantly improved following manuka honey treatment compared with pre-treatment control lesions (Alangari et al., Immunity, Inflammation and Disease, 2017). A separate clinical report found that a barrier cream containing manuka honey lowered itching (pruritus) complaints associated with intertrigo and improved patient comfort (Woodward, British Journal of Nursing, 2019).
 
@@ -104,7 +104,7 @@ Yes. Manuka honey is a moisture-drawing humectant from the New Zealand tea tree 
 
 ### Does manuka honey really have antibacterial properties?
 
-Yes. Manuka honey, derived from the New Zealand tea tree (Leptospermum scoparium) plant, carries a natural concentration of phenolics and flavonoids that distinguishes it from standard honey varieties and underlies its antimicrobial and moisture-drawing properties. In Era Organics Honey & Oats Manuka Honey Eczema Cream, manuka honey draws water into compromised skin through its high osmolarity, creating a moisture-retaining layer that helps soften dry, flaking patches, while its phenolics and flavonoids help reduce oxidative stress at the skin surface. It works alongside colloidal oatmeal, aloe vera, and glycerin to soothe and support irritated skin.
+Yes. Manuka honey, derived from the New Zealand tea tree (Leptospermum scoparium) plant, carries a natural concentration of phenolics and flavonoids that distinguishes it from standard honey varieties and underlies its antimicrobial and moisture-drawing properties. In Era Organics Honey & Oats Manuka Honey Eczema Cream, manuka honey draws water into compromised skin through its high osmolarity, creating a moisture-retaining layer that helps soften dry, flaking patches. It works alongside colloidal oatmeal, aloe vera, and glycerin to soothe and support irritated skin.
 
 *Reference: PMID 23966819*
 
@@ -122,7 +122,7 @@ Some early evidence suggests manuka honey may help eczema-prone skin. In one stu
 
 ### What is the difference between manuka honey and raw or organic honey?
 
-The main difference is potency: manuka honey comes specifically from the nectar of the New Zealand tea tree (Leptospermum scoparium) and carries a higher natural concentration of phenolics and flavonoids than standard raw or organic honey varieties. These are plant-derived antioxidant compounds that help reduce oxidative stress at the skin surface, whereas ordinary honeys vary widely by floral source and generally lack that concentrated profile. Era Organics Honey & Oats Manuka Honey Eczema Cream uses manuka honey for this reason, pairing its moisture-drawing (humectant) action with colloidal oatmeal, aloe vera, and glycerin to soften dry, flaking patches and support irritated skin.
+The main difference is potency: manuka honey comes specifically from the nectar of the New Zealand tea tree (Leptospermum scoparium) and carries a higher natural concentration of phenolics and flavonoids than standard raw or organic honey varieties. These are plant-derived antioxidant compounds that help reduce oxidative stress at the skin surface, whereas ordinary honeys vary widely by floral source and generally lack that concentrated profile. Era Organics Honey & Oats Manuka Honey Eczema Cream uses manuka honey, pairing its moisture-drawing (humectant) action with colloidal oatmeal, aloe vera, and glycerin to soften dry, flaking patches and support irritated skin.
 
 *Reference: PMID 23966819*
 
@@ -170,7 +170,7 @@ Patch test before first use. Apply a small amount of Era Organics Honey & Oats M
 
 ### How do you use honey as a face mask or cleanser, and how long can you leave it on skin?
 
-Raw or Manuka honey works as a face mask because it is a humectant, meaning it draws water molecules to the skin's surface through its high osmolarity and creates a moisture-retaining layer that softens dry, flaking patches. That same moisture-drawing action is why Era Organics Honey & Oats Manuka Honey Eczema Cream includes Manuka honey, sourced from the nectar of the New Zealand tea tree plant, for compromised, easily irritated skin. In the cream it is paired with colloidal oatmeal, aloe vera, and glycerin so the formula supports both surface moisture retention and the underlying dryness that sustains itch cycles. If you are sensitive to bee-derived ingredients, patch test a small area first before using any honey-based product.
+Raw or Manuka honey works as a face mask because it is a humectant, meaning it draws water molecules to the skin's surface through its high osmolarity and creates a moisture-retaining layer that softens dry, flaking patches. That same moisture-drawing action is why Era Organics Honey & Oats Manuka Honey Eczema Cream includes Manuka honey for compromised, easily irritated skin. In the cream it is paired with colloidal oatmeal, aloe vera, and glycerin so the formula supports both surface moisture retention and the underlying dryness that sustains itch cycles. If you are sensitive to bee-derived ingredients, patch test a small area first before using any honey-based product.
 
 ### How do you use honey on your face and skin?
 
@@ -248,7 +248,7 @@ Honey resists bacterial growth largely because of its high sugar content, which 
 
 ### Why is honey considered a key ingredient in skincare?
 
-Honey is valued in skincare because it is a humectant, meaning it draws water molecules to the skin's surface and creates a moisture-retaining layer that softens dry, flaking patches. Era Organics Honey & Oats Manuka Honey Eczema Cream uses manuka honey, a bioactive variety from the New Zealand tea tree plant, chosen for its high osmolarity that pulls moisture into compromised skin. Its natural concentration of phenolics and flavonoids, plant-derived antioxidants, sets it apart from standard honey and helps reduce oxidative stress at the skin surface, a factor tied to itch and redness. In the cream it is paired with colloidal oatmeal, aloe vera, and glycerin so the formula helps relieve the itching and irritation of eczema and dermatitis while addressing the underlying dryness that sustains itch cycles.
+Honey is valued in skincare because it is a humectant, meaning it draws water molecules to the skin's surface and creates a moisture-retaining layer that softens dry, flaking patches. Era Organics Honey & Oats Manuka Honey Eczema Cream uses manuka honey. Its natural concentration of phenolics and flavonoids, plant-derived antioxidants, sets it apart from standard honey and helps reduce oxidative stress at the skin surface, a factor tied to itch and redness. In the cream it is paired with colloidal oatmeal, aloe vera, and glycerin so the formula helps relieve the itching and irritation of eczema and dermatitis while addressing the underlying dryness that sustains itch cycles.
 
 ## Disclaimer
 

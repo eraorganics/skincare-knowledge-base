@@ -18,9 +18,9 @@ Decyl glucoside is a non-ionic surfactant derived from coconut-derived fatty alc
 
 ### Coco-glucoside
 
-Coco-glucoside is a non-ionic surfactant derived from coconut oil and fruit sugar. Slightly larger micelle formation than decyl glucoside provides complementary cleansing at a different particle size range.
+Coco-glucoside is a non-ionic surfactant derived from coconut oil and fruit sugar.
 
-**Mechanism:** Coco-glucoside forms larger micelles than decyl glucoside, enabling removal of heavier residues (mineral sunscreen, thick moisturizer films) that smaller micelles cannot fully encapsulate.
+**Mechanism:** Coco-glucoside forms larger micelles than decyl glucoside.
 
 ### Aloe vera (inner leaf gel)
 
@@ -50,8 +50,6 @@ Glycerin draws water from the dermis and atmosphere into the stratum corneum.
 **Sodium laureth sulfate (SLES)** — the "gentler" sulfate still extracts structural lipids and disrupts the lamellar lipid organization that maintains barrier function. SLES is less immediately irritating than SLS but causes cumulative barrier degradation with repeated daily use.
 
 **Synthetic fragrance** — fragrance is the single most common cause of allergic contact dermatitis from cosmetic products. Adding fragrance to a cleanser designed for compromised skin introduces unnecessary allergen exposure during the step when the barrier is most permeable (active surfactant contact).
-
-**Essential oils** — some "natural" cleansers replace synthetic fragrance with essential oils (tea tree, lavender, peppermint). Essential oils contain terpenes and other compounds that are known skin sensitizers. "Natural" does not mean non-irritating.
 
 **Phenoxyethanol at high concentrations** — this preservative triggers contact dermatitis in eczema-compromised skin when used above 0.5%. CeraVe uses phenoxyethanol; individuals with active eczema report stinging and flushing.
 

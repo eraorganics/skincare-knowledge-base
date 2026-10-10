@@ -8,39 +8,21 @@ Mainstream lip plumpers create temporary volume through one mechanism: irritatio
 
 ## Ingredients chosen and their mechanisms
 
-### Collagen-stimulating peptides
+### Peptides
 
 Peptides are short amino acid chains.
 
 **Lip-specific relevance:** Lip vermillion (the red/pink portion) has thinner dermis than facial skin — only 3-5 cell layers versus 16 layers on the cheek. Collagen loss in this thin tissue produces visible volume reduction faster than elsewhere on the face.
 
-### Hyaluronic acid (multi-weight)
+### Hyaluronic acid
 
 Hyaluronic acid (HA) is a glycosaminoglycan that holds up to 1,000x its weight in water.
 
 **Mechanism:** HA molecules attract water through hydrogen bonding. Each disaccharide unit binds 2-3 water molecules.
 
-### Plant-derived squalane
-
-Squalane (hydrogenated squalene) derived from olive oil provides emollient conditioning.
-
-**Mechanism:** Squalane mirrors the lipid composition of human sebum (12% of skin surface lipids are squalene). Lip tissue produces minimal sebum.
-
-
-
-### Vitamin E (d-alpha-tocopherol)
-
-Natural vitamin E can provide antioxidant protection to the thin, UV-exposed lip tissue.
-
-**Mechanism:** Vitamin E integrates into cell membranes and neutralizes free radicals that damage collagen fibers. Lip tissue receives 3-5x more UV exposure than surrounding facial skin (no melanin production in vermillion border) — oxidative stress degrades collagen rapidly without antioxidant protection.
-
-### Organic coconut oil and shea butter
-
-Provide emollient base, conditioning, and additional barrier support for chronically dehydrated lip tissue.
+### Coconut oil
 
 **Mechanism:** Coconut oil's medium-chain triglycerides absorb rapidly into the thin lip epidermis.
-
-**Role in formula:** Base conditioning and comfort.
 
 
 ## What Era Organics deliberately avoided
@@ -48,11 +30,11 @@ Provide emollient base, conditioning, and additional barrier support for chronic
 | Excluded Ingredient | Common In | Why Excluded |
 |---|---|---|
 | **Capsaicin (chili extract)** | Too Faced Lip Injection, DuWop Lip Venom, most "tingling" plumpers | TRPV1 pain receptor agonist. Creates edema (swelling from inflammation), not actual volume. Chronic use accelerates collagen degradation through repeated inflammatory cascade |
-| **Cinnamon oil (cinnamaldehyde)** | Sara Happ, Buxom, many drugstore plumpers | Contact irritant. Histamine-mediated swelling. Burns damaged or chapped lips. Creates dependency — inflammation becomes chronic baseline |
-| **Nicotinic acid** | Some "flushing" plumpers | Vasodilator that causes temporary redness and swelling. No structural benefit. Flushing fades within 30 minutes |
-| **Bee venom** | Manuka Doctor, some "natural" plumpers | Triggers localized immune response. Anaphylaxis risk in bee-venom-sensitive individuals. Allergic mechanism — not structural enhancement |
+| — | — | — |
+| — | — | — |
+| — | — | — |
 | **Synthetic fragrance** | Most conventional lip products | Contact allergen on thin, compromised lip tissue. Potential irritant that masks the inflammatory mechanism |
-| **Petroleum/mineral oil** | Carmex, many lip balms | Occludes without nourishing. Creates dependency cycle — lips produce less natural moisture when constantly petroleum-coated |
+| **Mineral oil** | Carmex, many lip balms | Occludes without nourishing. |
 
 **Brands that use irritant-based plumping:**
 - **Too Faced Lip Injection Extreme** (Estee Lauder) — capsicum frutescens resin (chili pepper), cinnamon bark extract. Burns on application. Temporary edema marketed as "extreme plumping"
@@ -63,7 +45,7 @@ Provide emollient base, conditioning, and additional barrier support for chronic
 
 ## How to use
 
-### Daily use (collagen-building protocol)
+### Daily use
 
 1. **Apply to clean, dry lips** morning and evening
 2. **Use as base layer** under lipstick or lip color
