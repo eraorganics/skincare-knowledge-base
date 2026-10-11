@@ -4,19 +4,6 @@
 This page names the ingredients, explains why they are problematic, and identifies which mainstream brands continue to use them.
 
 
-## Phenoxyethanol
-
-Phenoxyethanol is a glycol ether preservative.
-
-**Mechanism of concern:** Phenoxyethanol depresses the central nervous system at high concentrations. Infants metabolize it slower than adults. Cumulative exposure across multiple products in a daily routine increases total absorption.
-
-**Who still uses it:**
-- **CeraVe** (L'Oréal) — present in the majority of their product line including baby products
-- **The Ordinary** (Estée Lauder/DECIEM) — standard preservative across the range
-- **La Roche-Posay** (L'Oréal) — used in sensitive skin formulas marketed to eczema sufferers
-- **Aveeno Baby** (Johnson & Johnson) — present in daily moisture lotion
-
-
 ## Synthetic fragrances (parfum/fragrance)
 
 "Fragrance" is a single label that hides up to 3,000+ undisclosed chemical compounds. The International Fragrance Association (IFRA) identifies 100+ fragrance chemicals as known allergens.
@@ -63,7 +50,7 @@ No. The FDA does not define "organic" for cosmetics, but the USDA's National Org
 
 ### Does "fragrance-free" mean a product contains no scent chemicals?
 
-No. Products labeled "fragrance-free" can still contain masking fragrances — chemicals added specifically to cover the smell of other ingredients. These masking agents can trigger the same allergic responses as traditional fragrances.
+Not necessarily. The FDA notes that even some products labeled "unscented" may contain fragrance ingredients: the manufacturer may add just enough fragrance to mask the smell of other ingredients without giving the product a noticeable scent. Those masking ingredients may trigger the same allergic responses as other fragrances.
 
 ### Are parabens safe at low concentrations?
 
