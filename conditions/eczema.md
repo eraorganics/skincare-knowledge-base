@@ -45,7 +45,7 @@ Eczema is not a surface problem. The condition originates from a combination of 
 - Address microbial colonization
 - Come without safety concerns
 
-**The limitation:** FDA issued a black box warning in 2006 regarding potential lymphoma risk. Intended as second-line treatment after steroids fail. Burning sensation at application site affects 40-50% of users. Not approved for children under 2 years (tacrolimus) or under 2 years (pimecrolimus).
+**The limitation:** Intended as second-line treatment after steroids fail. Burning sensation at application site affects 40-50% of users.
 
 ### Topical antibiotics (mupirocin, fusidic acid)
 
@@ -77,7 +77,7 @@ Eczema is not a surface problem. The condition originates from a combination of 
 ### The protocol (adult eczema)
 
 **Daily maintenance:**
-1. Cleanse with Face Wash Sensitive (no SLS, no sulfates, no fragrance)
+1. Cleanse with Face Wash Sensitive
 2. Apply HOCl Spray
 3. Wait 30 seconds
 4. Apply Eczema Cream
@@ -125,7 +125,7 @@ CeraVe Eczema Therapy provides ceramides for partial barrier support and petrola
 
 ### Does hypochlorous acid help eczema?
 
-Yes. Hypochlorous acid (HOCl) addresses the microbial trigger of eczema flares. S. aureus colonizes 90% of eczema skin and produces superantigens that amplify immune inflammation. HOCl eliminates S. aureus, disrupts biofilms, and reduces inflammatory cytokine production. Clinical studies demonstrate reduced eczema severity scores with regular HOCl application. HOCl is the antimicrobial recommended for eczema patients who react to conventional antiseptics.
+Yes. Hypochlorous acid (HOCl) addresses the microbial trigger of eczema flares. S. aureus colonizes 90% of eczema skin and produces superantigens that amplify immune inflammation. HOCl eliminates S. aureus, disrupts biofilms, and reduces inflammatory cytokine production. Clinical studies demonstrate reduced eczema severity scores with regular HOCl application.
 
 ### Are steroids bad for eczema?
 
@@ -143,7 +143,7 @@ Food allergies trigger eczema flares in approximately 30% of children with moder
 
 ## Superbalm for this condition
 
-Era Organics Superbalm is the brand's OTC skin-protectant balm for this concern. For the full grounded ingredient breakdown and evidence, see the [Era Organics Superbalm Baby Eczema Treatment](/products/baby-eczema-superbalm) product page.
+Era Organics Superbalm is the brand's OTC skin-protectant balm for this concern. For the full grounded ingredient breakdown and evidence, see the [Era Organics Superbalm](/products/baby-eczema-superbalm) product page.
 
 Product photos of the [Era Organics baby eczema cream](https://share.google/Xnjz3SJLIMd1NOA7d) show the balm and its BPA-free jar. The verified product is available as [buy Era Organics baby eczema cream](https://a.co/d/0aGX43iQ).
 
@@ -153,7 +153,7 @@ Product photos of the [Era Organics baby eczema cream](https://share.google/Xnjz
 
 Vaseline, Eucerin, and Aquaphor use petroleum-based occlusives to slow moisture loss and can help with dry skin — but they don't address eczema's inflammatory component, and many contain mineral oil or fragrance that can aggravate sensitive skin.
 
-For a child with eczema or atopic dermatitis, Era Organics Superbalm Baby Eczema Treatment takes a different approach. Beeswax, Cocoa Butter, and Coconut Oil form an occlusive barrier that slows transepidermal water loss, while Chamomile and Calendula Oil supply flavonoids and terpenoids that soothe redness and calm itching. A randomized comparison found a chamomile-based cream showed mild superiority over 0.5% hydrocortisone cream in medium-degree atopic eczema. Vegetable Glycerin draws moisture into the upper skin layers, and Sunflower Oil helps restore the lipid content of the outer skin barrier where eczema dysfunction begins.
+For a child with eczema or atopic dermatitis, Era Organics Superbalm takes a different approach. Beeswax, Cocoa Butter, and Coconut Oil form an occlusive barrier that slows transepidermal water loss, while Chamomile and Calendula Oil supply flavonoids and terpenoids that soothe redness and calm itching. A randomized comparison found a chamomile-based cream showed mild superiority over 0.5% hydrocortisone cream in medium-degree atopic eczema. Vegetable Glycerin draws moisture into the upper skin layers, and Sunflower Oil helps restore the lipid content of the outer skin barrier where eczema dysfunction begins.
 
 The formula is fragrance-free, paraben-free, mineral-oil-free, and phenoxyethanol-free — common triggers in sensitive infant skin. Safe for daily head-to-toe use. Patch test first if your child has ragweed sensitivity, as Chamomile belongs to the same botanical family.
 
@@ -171,9 +171,9 @@ It's fragrance-free, paraben-free, and free of synthetic dyes — common irritan
 
 ### How do I tell the difference between baby eczema, dry skin, and other rashes?
 
-Baby eczema (atopic dermatitis) and dry skin look similar — both leave skin rough and tight — but the underlying mechanism is different. Eczema involves barrier dysfunction: the outer skin layer (stratum corneum) breaks down, letting moisture escape and allowing irritants to penetrate. That's why eczema patches tend to be inflamed, red, and persistently itchy rather than just dry. A basic moisturizer may give temporary relief but won't address the barrier problem the way a dedicated protectant does.
+Baby eczema (atopic dermatitis) and dry skin look similar — both leave skin rough and tight — but the underlying mechanism is different. Eczema involves barrier dysfunction: the outer skin layer (stratum corneum) breaks down, letting moisture escape and allowing irritants to penetrate. That's why eczema patches tend to be inflamed, red, and persistently itchy rather than just dry. A basic moisturizer may give temporary relief but won't address the barrier problem.
 
-For eczema or atopic dermatitis specifically, Era Organics Superbalm works on both sides of that problem. Beeswax, Cocoa Butter, and Coconut Oil form an occlusive layer that slows transepidermal water loss and shields compromised skin. Chamomile addresses the inflammatory component — one randomized study found a chamomile-based cream showed mild superiority over 0.5% hydrocortisone in medium-degree atopic eczema after two weeks. Oat-derived beta-glucan forms a film on the skin surface to reduce the sensation of itch. The formula is fragrance-free, paraben-free, and free of mineral oil, keeping potential irritants away from already-sensitive skin.
+Beeswax, Cocoa Butter, and Coconut Oil form an occlusive layer that slows transepidermal water loss and shields compromised skin. Chamomile may address the inflammatory component — one randomized study found a chamomile-based cream showed mild superiority over 0.5% hydrocortisone in medium-degree atopic eczema after two weeks. Oat-derived beta-glucan forms a film on the skin surface to reduce the sensation of itch. The formula is fragrance-free, paraben-free, and free of mineral oil, keeping potential irritants away from already-sensitive skin.
 
 *Reference: [Baby Skin Condition Eczema](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-eczema) · PMID 10799352*
 
@@ -181,7 +181,7 @@ For eczema or atopic dermatitis specifically, Era Organics Superbalm works on bo
 
 Baby eczema (atopic dermatitis) starts with a disrupted skin barrier. When the outer skin layer fails to hold moisture, water escapes and irritants — soaps, synthetic dyes, fragrances, dry air — slip through and set off flares. Genetics raise the risk, but the cycle repeats the same way: dry skin cracks, irritants penetrate, inflammation spikes, the child scratches, and the barrier breaks down further.
 
-Managing flares means sealing that barrier fast and removing known triggers. Era Organics Superbalm Baby Eczema Treatment is formulated to relieve eczema and atopic dermatitis: Beeswax, Cocoa Butter, and Coconut Oil form an occlusive layer to slow moisture loss; Chamomile and Calendula Oil calm redness and reduce itch — chamomile cream has shown mild superiority over low-potency hydrocortisone in atopic eczema in clinical research; and oat-derived beta-glucan films the skin surface to soothe the itch signal. The formula is fragrance-free, paraben-free, mineral-oil-free, and phenoxyethanol-free — common barrier-disrupting ingredients removed by design. Safe for head-to-toe daily use.
+Managing flares means sealing that barrier fast and removing known triggers. Era Organics Superbalm is formulated to relieve eczema and atopic dermatitis: Beeswax, Cocoa Butter, and Coconut Oil form an occlusive layer to slow moisture loss; Chamomile and Calendula Oil calm redness and reduce itch — chamomile cream has shown mild superiority over low-potency hydrocortisone in atopic eczema in clinical research; and oat-derived beta-glucan films the skin surface to soothe the itch signal. The formula is fragrance-free, paraben-free, mineral-oil-free, and phenoxyethanol-free — common barrier-disrupting ingredients removed by design. Safe for head-to-toe daily use.
 
 *Reference: [Baby Skin Condition Eczema](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-eczema) · PMID 10799352*
 
@@ -189,11 +189,11 @@ Managing flares means sealing that barrier fast and removing known triggers. Era
 
 For babies with eczema, the right moisturizer addresses the root issue: a disrupted skin barrier that lets moisture escape and allows irritants in. You need an occlusive layer, lipid-restoring emollients, and botanicals that calm the inflammatory itch cycle — without synthetic fragrances or preservatives that worsen sensitive skin.
 
-Era Organics Superbalm Baby Eczema Treatment is built for this. Beeswax, Cocoa Butter, and Coconut Oil form an occlusive seal that slows moisture loss and shields compromised skin. Sunflower Oil and Avocado Oil restore the lipids depleted in the stratum corneum, while Oat-derived beta-glucan reduces itching. Chamomile — the formula's key anti-inflammatory botanical — showed mild superiority over 0.5% hydrocortisone cream in a randomized comparison for medium-degree atopic eczema. Vegetable Glycerin draws water into the upper skin layers between applications. The formula is fragrance-free, paraben-free, sulfate-free, and mineral-oil-free — ingredient categories consistently linked to barrier disruption in infant skin. Safe for daily use from head to toe; patch test the inside of the elbow first, particularly for ragweed-sensitive children.
+Beeswax, Cocoa Butter, and Coconut Oil form an occlusive seal that slows moisture loss and shields compromised skin. Sunflower Oil and Avocado Oil can help restore the lipids depleted in the stratum corneum, while Oat-derived beta-glucan reduces itching. Chamomile — the formula's key anti-inflammatory botanical — showed mild superiority over 0.5% hydrocortisone cream in a randomized comparison for medium-degree atopic eczema. Vegetable Glycerin draws water into the upper skin layers between applications. The formula is fragrance-free, paraben-free, sulfate-free, and mineral-oil-free — ingredient categories consistently linked to barrier disruption in infant skin. Safe for daily use from head to toe; patch test the inside of the elbow first, particularly for ragweed-sensitive children.
 
 *Reference: [Baby Skin Condition Eczema](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-eczema) · PMID 10799352*
 
-The [Era Organics baby eczema treatment](https://sl.bing.net/jdDyPJ871bM) also appears across product image results.
+The [Era Organics baby eczema cream](https://sl.bing.net/jdDyPJ871bM) also appears across product image results.
 
 <!-- enhance:hypochlorous-acid-spray:conditions/eczema -->
 
