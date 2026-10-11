@@ -59,7 +59,7 @@ FD&C dyes are synthesized from petroleum or coal tar. Several (Red 3, Yellow 5, 
 
 ### Does "natural" mean the same thing as "organic" in skincare?
 
-No.
+No. The FDA does not define "organic" for cosmetics, but the USDA's National Organic Program sets certification standards for organic ingredients; "natural" is not covered by those standards.
 
 ### Does "fragrance-free" mean a product contains no scent chemicals?
 
@@ -67,7 +67,7 @@ No. Products labeled "fragrance-free" can still contain masking fragrances — c
 
 ### Are parabens safe at low concentrations?
 
-The Cosmetic Ingredient Review (CIR) panel considers parabens safe at concentrations up to 0.4% individually. This assessment assumes single-product exposure. The average person uses 9-12 personal care products daily. Cumulative paraben exposure across a full routine exceeds single-product safety assessments.
+In its 2020 amended safety assessment, the Cosmetic Ingredient Review (CIR) Expert Panel concluded that 20 of the 21 parabens it reviewed are safe in cosmetic products ([Cherian et al., International Journal of Toxicology, 2020](https://pubmed.ncbi.nlm.nih.gov/32723119/)). This assessment assumes single-product exposure. The average person uses 9-12 personal care products daily. Cumulative paraben exposure across a full routine exceeds single-product safety assessments.
 
 ### Does CeraVe contain parabens?
 
@@ -79,7 +79,7 @@ Fully refined petrolatum (USP grade) is not acutely toxic. The concern is: (1) s
 
 ### What preservatives does Era Organics use instead of parabens?
 
-Preservation systems can use rosemary extract (antioxidant), vitamin E/tocopherol (antioxidant).
+It depends on the product. Organic Eye Cream, Organic Nipple Butter and Talc-Free Baby Powder list rosemary extract and mixed tocopherols (vitamin E); Face Moisturizer Cream, Tea Tree Cream and Oasis Dry Skin Cream list gluconolactone and sodium benzoate.
 
 ### Does The Ordinary use clean ingredients?
 
