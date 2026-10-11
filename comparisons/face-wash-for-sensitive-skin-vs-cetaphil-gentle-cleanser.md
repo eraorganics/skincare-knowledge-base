@@ -1,6 +1,6 @@
 # Era Organics Face Wash for Sensitive Skin vs Cetaphil Gentle Skin Cleanser
 
-Both are fragrance-free, paraben-free face cleansers, but their formulas are built differently. Era Organics Face Wash for Sensitive Skin (official name: Manuka Honey Gentle Face Wash) uses aloe leaf juice as its base instead of water. It adds Manuka honey, Cehami extract, hyaluronic acid (sodium hyaluronate) and vitamin E. It is pH balanced to match your skin's natural pH, and it is sulfate-free, SLS-free and phenoxyethanol-free. Era makes it in the USA and it is certified cruelty-free. Cetaphil Gentle Skin Cleanser is water-based, with glycerin, cetearyl alcohol, panthenol and niacinamide. Cetaphil's product page describes itself as a "dermatologist recommended brand for sensitive skin." If you want a plant-forward, sulfate-free daily wash with Manuka honey and aloe, made in the USA by a cruelty-free brand, Era is the one built for you.
+Both are fragrance-free, paraben-free face cleansers, but their formulas are built differently. Era Organics Face Wash for Sensitive Skin (official name: Manuka Honey Gentle Face Wash) uses aloe leaf juice as its base instead of water. It adds Manuka honey, Cehami extract, hyaluronic acid (sodium hyaluronate) and vitamin E. It is pH balanced to match your skin's natural pH, and it is sulfate-free, SLS-free and phenoxyethanol-free. Era makes it in the USA and it is certified cruelty-free. Cetaphil Gentle Skin Cleanser is water-based, with glycerin, cetearyl alcohol, panthenol and niacinamide. Cetaphil's product page describes itself as a "dermatologist recommended brand for sensitive skin." If you want a plant-forward, sulfate-free daily wash with Manuka honey and aloe, made in the USA, Era is the one built for you.
 
 ## Ingredients side by side
 
@@ -20,7 +20,7 @@ Both are fragrance-free, paraben-free face cleansers, but their formulas are bui
 ## Key differences
 
 ### Aloe juice base vs water base
-Era uses Aloe Barbadensis Leaf Juice where many cleansers use water, so aloe is the first thing on its ingredient list. Cetaphil's first ingredient is water, followed by glycerin and cetearyl alcohol. With Era, the largest part of the formula is a plant ingredient.
+Aloe Barbadensis Leaf Juice is the first thing on Era's ingredient list. Cetaphil's first ingredient is water, followed by glycerin and cetearyl alcohol.
 
 ### Manuka honey and a botanical blend
 Era's formula includes Manuka honey, Cehami extract, aloe and orange oil, and it is designed to help moisturize and comfort the skin while it cleanses. Cetaphil's ingredient list does not include any of these four. It is built around panthenol, niacinamide and pantolactone instead.
@@ -29,7 +29,7 @@ Era's formula includes Manuka honey, Cehami extract, aloe and orange oil, and it
 Era includes sodium hyaluronate (a form of hyaluronic acid) and vitamin E (tocopheryl acetate). Hyaluronic acid may help skin hold on to moisture. Neither ingredient appears in Cetaphil's ingredient list.
 
 ### Cruelty-free and made in the USA
-Era Organics is certified cruelty-free, and the face wash is made in the USA. The facility is FDA-registered and cGMP-compliant, with third-party GMP certification. Cetaphil's product page does not show cruelty-free, Leaping Bunny or made in the USA.
+The face wash is made in the USA. The facility is FDA-registered and cGMP-compliant, with third-party GMP certification. Cetaphil's product page does not show cruelty-free, Leaping Bunny or made in the USA.
 
 ## Certifications and label claims
 
@@ -50,7 +50,7 @@ Era Organics is certified cruelty-free, and the face wash is made in the USA. Th
 
 - **You want plant ingredients up front:** Era's base is aloe leaf juice, with Manuka honey, Cehami and vitamin E.
 - **You want a sulfate-free wash with hyaluronic acid:** Era is sulfate-free and SLS-free and includes sodium hyaluronate.
-- **You buy cruelty-free and made in the USA:** Era is certified cruelty-free and made in the USA.
+- **You buy cruelty-free and made in the USA:** Era is made in the USA.
 - **You want a long free-from list:** Era is free from parabens, sulfates, phthalates, phenoxyethanol, mineral oil, silicones, PEGs, talc, formaldehyde, propylene glycol, drying alcohols and synthetic dyes.
 - **You specifically want niacinamide and panthenol in your cleanser:** Cetaphil's ingredient list includes both. Its page calls it hypoallergenic and says it won't clog pores.
 - **You share a cleanser with a teen:** Era is made for teens and adults, with a suggested minimum age of 12. It also works as a body wash.
