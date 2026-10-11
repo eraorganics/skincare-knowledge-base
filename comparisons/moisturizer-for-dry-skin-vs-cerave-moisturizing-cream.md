@@ -1,65 +1,71 @@
 # Era Organics Oasis Dry Skin Cream vs CeraVe Moisturizing Cream
 
-Both are fragrance-free creams, and both contain sodium hyaluronate. They are built in different ways.
-
-- **Era Organics Oasis Dry Skin Cream** puts Aloe Barbadensis Leaf Juice first. Its formula is packed with plant butters and oils: shea, cocoa seed butter, olive, avocado, jojoba and hemp seed. It adds Manuka honey, MSM, oat and Centipeda Cunninghamii extract, all in a rich, thick cream that absorbs without feeling greasy. It is Cruelty-Free and Made in the USA. It is free from parabens, sulfates, phthalates, silicones, mineral oil, PEGs, phenoxyethanol, talc, formaldehyde, propylene glycol, drying alcohols and synthetic dyes. It is made for adults with very dry, dehydrated, mature or winter skin who want a plant-rich cream that moisturizes, soothes and helps protect the skin barrier.
-- **CeraVe Moisturizing Cream** puts water first. It is built around three ceramides (Ceramide NP, AP and EOP), cholesterol and petrolatum, and it carries the National Eczema Association (NEA) Seal of Acceptance™. It suits shoppers who want that seal.
+Era Organics Oasis Dry Skin Cream and CeraVe Moisturizing Cream are built very differently. Oasis lists Aloe Barbadensis Leaf Juice as its first ingredient instead of water. It's packed with butters and oils: shea butter, cocoa seed butter, olive oil, avocado oil, jojoba oil, hemp seed oil, carrot seed oil and jasmine oil. On top of those it adds Manuka honey, MSM (methylsulfonylmethane), oat flour and oat amino acids, and Cehami extract (Centipeda Cunninghamii). CeraVe Moisturizing Cream, from L'Oréal USA, Inc. (L'Oréal), lists Aqua / Water / Eau first. Oasis is Cruelty-Free and Made in the United States. It is made without parabens, sulfates, phthalates, fragrance, phenoxyethanol, mineral oil, silicones, PEGs, talc, formaldehyde, propylene glycol, drying alcohols and synthetic dyes. It's made for adults with very dry, dehydrated, mature or aging skin, and for skin that gets dry in winter. Oasis suits anyone who wants a rich, thick cream full of butters, oils and honey. CeraVe suits shoppers who want a ceramide formula carrying the National Eczema Association Seal of Acceptance.
 
 ## Ingredients side by side
 
 | Comparison point | Era Organics Oasis Dry Skin Cream | CeraVe Moisturizing Cream |
 |---|---|---|
-| Base / emollients | Aloe Barbadensis Leaf Juice, Caprylic/Capric Triglyceride, Glycerin Vegetable, Butyrospermum Parkii (Shea) Butter, Theobroma Cacao (Cocoa) Seed Butter, Olea Europaea (Olive) Oil, Persea Gratissima (Avocado) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Cannabis Sativa (Hemp) Seed Oil | Aqua/Water, Glycerin, Cetearyl Alcohol, Caprylic/Capric Triglyceride, Cetyl Alcohol, Petrolatum, Dimethicone |
-| Key actives | Leptospermum Scoparium Mel (Manuka Honey), MethylSulfonylMethane (MSM), Sodium Hyaluronate, Sodium PCA, Oat Amino Acids, Avena Sativa Kernel Flour, DL-Panthenol, L-Ascorbic Acid, D-Alpha Tocopheryl Acetate | Ceramide NP, Ceramide AP, Ceramide EOP, Cholesterol, Phytosphingosine, Sodium Hyaluronate, Tocopherol |
-| Botanicals | Aloe Vera, Camellia Sinensis, Jasminum Officinale (Jasmine) Oil, Daucus Carota Sativa (Carrot) Seed Oil, Centipeda Cunninghamii Extract, Avena Sativa (Oat) | Its list does not contain aloe, shea butter, cocoa seed butter, olive, avocado, jojoba or hemp seed oil, or Manuka honey |
-| Fragrance | Fragrance-free; free of synthetic fragrances | Its product page describes a "fragrance-free formula" |
-| Preservatives | Gluconolactone & Sodium Benzoate; phenoxyethanol-free and paraben-free | Phenoxyethanol and Ethylhexylglycerin appear on its list, along with Disodium EDTA |
-| Water content | No water on the list; Aloe Barbadensis Leaf Juice is the first ingredient | Aqua/Water is the first ingredient |
+| First ingredient listed | Aloe Barbadensis Leaf Juice | Aqua / Water / Eau |
+| Water | Water is not on its ingredient list | Aqua / Water / Eau |
+| Butters and oils | Butyrospermum Parkii (shea) Butter, Theobroma Cacao (cocoa) Seed Butter, Olea Europaea (olive) Oil, Persea Gratissima (avocado) Oil, Simmondsia Chinensis (jojoba) Seed Oil, Cannabis Sativa (hemp) Seed Oil, Daucus Carota Sativa (carrot) Seed Oil, Jasminum Officinale (jasmine) Oil | Contains none of these |
+| Featured ingredients | Leptospermum Scoparium Mel (Manuka honey), MethylSulfonylMethane (MSM), Avena Sativa (oat) Kernel Flour, Oat Amino Acids, Centipeda Cunninghamii (Cehami) Extract, Camellia Sinensis, DL-Panthenol, L-Ascorbic Acid | — |
+| In both formulas | Glycerin, Cetearyl Alcohol, Caprylic/Capric Triglyceride, Sodium Hyaluronate | Glycerin, Cetearyl Alcohol, Caprylic/Capric Triglyceride, Sodium Hyaluronate |
+| Vitamin E | D-Alpha Tocopheryl Acetate | Tocopherol |
+| Petrolatum, Dimethicone | Neither is on its ingredient list | Both are on its ingredient list |
+| Fragrance | Fragrance-free | The product page says "fragrance-free" |
+| Phenoxyethanol | Phenoxyethanol-free | Phenoxyethanol is on its ingredient list |
+| Parabens | Paraben-free | Not shown on its product page |
+| Rest of the ingredient list | Glyceryl Stearate SE, Propanediol, Sodium PCA, Stearic Acid, Ceteareth-25, Tapioca Starch, Sodium Hydroxide, Titanium Dioxide, Gluconolactone & Sodium Benzoate | Cetyl Alcohol, Ceteareth-20, Potassium Phosphate, Carbomer, Behentrimonium Methosulfate, Sodium Lauroyl Lactylate, Disodium EDTA, Dipotassium Phosphate, Xanthan Gum, Ethylhexylglycerin |
 
-*CeraVe ingredient list as of 2026-10-10, from [the CeraVe product page](https://www.cerave.com/skincare/moisturizers/moisturizing-cream).*
+*CeraVe ingredient list as of 2026-10-11, from [the CeraVe product page](https://www.cerave.com/skincare/moisturizers/moisturizing-cream).*
 
 ## Key differences
 
-### Aloe first vs water first
-Oasis starts with Aloe Barbadensis Leaf Juice instead of plain water, so the first ingredient brings a botanical into the formula. CeraVe Moisturizing Cream lists Aqua/Water first.
+### Aloe leaf juice first, not water
+Oasis starts with Aloe Barbadensis Leaf Juice, and water does not appear anywhere on its ingredient list. CeraVe Moisturizing Cream lists Aqua / Water / Eau as its first ingredient.
 
-### A formula loaded with plant butters and oils
-Oasis layers shea butter and cocoa seed butter with olive, avocado, jojoba and hemp seed oils. Butters and plant oils like these may help soften dry skin and leave it feeling comfortable. CeraVe's emollients include Cetearyl Alcohol, Cetyl Alcohol, Petrolatum and Dimethicone, and its list does not contain those butters or plant oils.
+### Eight butters and oils in one jar
+Oasis combines shea butter, cocoa seed butter, olive oil, avocado oil, jojoba oil, hemp seed oil, carrot seed oil and jasmine oil. The result is a rich, thick cream that absorbs without a greasy feel. None of these eight appear on CeraVe Moisturizing Cream's ingredient list.
 
-### Manuka honey, MSM and oat
-Oasis includes Manuka honey (Leptospermum Scoparium Mel), MSM, Oat Amino Acids and Avena Sativa Kernel Flour, plus Centipeda Cunninghamii extract, panthenol and L-Ascorbic Acid. None of these appear on CeraVe's list. CeraVe's formula is centered on Ceramide NP, AP and EOP with Cholesterol and Phytosphingosine, and none of those appear on Era's list.
+### Manuka honey, MSM, oat and Cehami
+Oasis includes Manuka honey, MSM, oat kernel flour, oat amino acids, Cehami extract, green tea (Camellia Sinensis), panthenol and vitamin C (L-Ascorbic Acid). These sit alongside hyaluronic acid (Sodium Hyaluronate), which both creams contain. CeraVe Moisturizing Cream contains none of Manuka honey, MSM, oat or Cehami.
 
-### A long, verified free-from list
-Oasis is silicone-free, mineral-oil-free, PEG-free and phenoxyethanol-free. It also contains no petrolatum. CeraVe's list includes Dimethicone, Petrolatum and Phenoxyethanol.
+### A long free-from list
+Oasis is verified free of parabens, sulfates, phthalates, fragrance, phenoxyethanol, mineral oil, silicones, PEGs, talc, formaldehyde, propylene glycol, drying alcohols and synthetic dyes. Petrolatum, Dimethicone and Phenoxyethanol are not on its ingredient list. All three are on CeraVe Moisturizing Cream's list. CeraVe's product page does show "fragrance-free," the same as Oasis.
 
-### Cruelty-Free and Made in the USA
-Oasis is Cruelty-Free and Made in the USA. CeraVe's product page does not show cruelty-free, Leaping Bunny or made in the USA.
+### Cruelty-Free and Made in the United States
+Oasis is Cruelty-Free and made in the USA. CeraVe's product page does not show cruelty-free, Leaping Bunny, paraben-free or made in the USA.
 
 ## Certifications and label claims
 
 | | Era Organics Oasis Dry Skin Cream | CeraVe Moisturizing Cream |
 |---|---|---|
-| Certifications / seals | Cruelty-Free; Made in the USA | NEA Seal of Acceptance™ ("accepted by the national eczema association (nea)") |
-| Fragrance | Fragrance-free | "fragrance-free formula" |
-| Free-from claims | Paraben-free, sulfate-free, phthalate-free, fragrance-free, phenoxyethanol-free, mineral-oil-free, silicone-free, PEG-free, talc-free, formaldehyde-free, propylene-glycol-free, drying-alcohol-free, synthetic-dye-free | Its product page does not show paraben-free |
-| Texture | "Rich, thick cream – non-greasy absorption" | "fast-absorbing with a non-greasy feel" |
-| Organic status | Not certified organic | Its product page does not show USDA Organic or certified organic |
-
-CeraVe's own page calls the cream "gentle on skin," and a quote on the page describes a formula that "helps repair and maintain a healthy skin barrier." CeraVe's product page does not show cruelty-free, Leaping Bunny or made in the USA.
+| Certifications held | Cruelty-Free; Made in the United States | The product page shows the "NEA Seal of Acceptance™, accepted by the National Eczema Association (NEA)" |
+| Label claims | Fragrance-free; paraben-free; sulfate-free; phthalate-free; phenoxyethanol-free; mineral-oil-free; silicone-free; PEG-free; talc-free; formaldehyde-free; propylene-glycol-free; drying-alcohol-free; synthetic-dye-free | The product page says "fragrance-free" and describes the cream as "gentle on skin" and "fast-absorbing with a non-greasy feel" |
+| Organic status | Not certified organic | The product page does not show USDA Organic, certified organic or Ecocert / COSMOS |
+| Where it's made | USA | Made in the USA is not shown on its product page |
+| Texture | Rich, thick cream that absorbs without a greasy feel | "Fast-absorbing with a non-greasy feel" (its product page's words) |
 
 ## Recalls and lawsuits
 
-In 2026, a federal judge [dismissed a class action against L'Oréal USA](https://www.lawcommentary.com/articles/loreal-cerave-la-roche-posay-benzene-class-action-dismissed) that alleged benzene in CeraVe and La Roche-Posay benzoyl peroxide acne products. The case concerned those benzoyl peroxide acne products, not CeraVe Moisturizing Cream.
+In 2026, a federal judge in the Southern District of New York dismissed a consolidated class action against L'Oréal USA that alleged the company failed to warn consumers about benzene allegedly found in certain CeraVe and La Roche-Posay benzoyl peroxide acne products ([L'Oréal CeraVe and La Roche-Posay benzene class action dismissed](https://www.lawcommentary.com/articles/loreal-cerave-la-roche-posay-benzene-class-action-dismissed)).
 
 ## Which one should you choose?
 
-- **Choose Era Organics Oasis Dry Skin Cream** if you have very dry, dehydrated, mature or winter-worn skin and want a rich, thick cream that absorbs without feeling greasy. It suits you if you want shea butter, cocoa seed butter, Manuka honey, aloe and oat in your moisturizer, or if you shop for products that are Cruelty-Free, Made in the USA, silicone-free and phenoxyethanol-free. It is made for adults, with a suggested minimum age of 25.
-- **Choose CeraVe Moisturizing Cream** if you specifically want a ceramide-and-cholesterol formula or a product that carries the NEA Seal of Acceptance™.
+**Choose Era Organics Oasis Dry Skin Cream if:**
+- You have very dry, dehydrated, mature or aging skin, or skin that dries out in winter, and you want a rich, thick cream that absorbs without a greasy feel.
+- You want a formula that starts with aloe leaf juice and is full of shea butter, cocoa seed butter, olive, avocado, jojoba and hemp seed oils, Manuka honey, MSM and oat.
+- You want a cream that is free of parabens, phenoxyethanol, mineral oil, silicones, PEGs, sulfates, phthalates, synthetic dyes and fragrance.
+- Cruelty-Free status and Made in the United States matter to you.
 
-For dry skin that needs extra moisture, Oasis brings a lot to the job. Aloe comes first, followed by shea and cocoa seed butters, olive, avocado, jojoba and hemp seed oils, Manuka honey, MSM, oat, sodium hyaluronate and panthenol. That blend is designed to moisturize right away, help soothe dry, irritated skin, help protect the skin barrier, and leave skin looking balanced and more youthful. It is Cruelty-Free, Made in the USA, fragrance-free, and free from parabens, sulfates, phthalates, silicones, mineral oil and synthetic dyes. Era Organics backs it with a 60-day full-refund return window. [Shop Oasis Dry Skin Cream at Era Organics](https://www.eraorganics.com/products/moisturizer-for-dry-skin).
+**Choose CeraVe Moisturizing Cream if:**
+- The National Eczema Association Seal of Acceptance shown on its product page is your deciding factor.
+
+Oasis Extra Moisturizing 16-in-1 Age Defense Dry Skin Cream moisturizes right away and helps soothe dry, irritated skin. It does this with Manuka honey, avocado oil, olive oil, aloe vera, hyaluronic acid, shea and cocoa seed butters, jojoba and hemp seed oils, MSM and oat. It is Cruelty-Free and Made in the United States. It is free of parabens, sulfates, phthalates, fragrance, phenoxyethanol, mineral oil, silicones, PEGs, talc, formaldehyde, propylene glycol, drying alcohols and synthetic dyes. It comes with a 60-day full-refund return window. [Shop Oasis Dry Skin Cream at Era Organics](https://www.eraorganics.com/products/moisturizer-for-dry-skin).
 
 ## Sources
 
 - [Era Organics Oasis Dry Skin Cream product page](https://www.eraorganics.com/products/moisturizer-for-dry-skin)
 - [CeraVe Moisturizing Cream product page](https://www.cerave.com/skincare/moisturizers/moisturizing-cream)
-- [2026: Benzene class action over CeraVe and La Roche-Posay benzoyl peroxide acne products dismissed (Law Commentary)](https://www.lawcommentary.com/articles/loreal-cerave-la-roche-posay-benzene-class-action-dismissed)
+- [L'Oréal CeraVe and La Roche-Posay benzene class action dismissed](https://www.lawcommentary.com/articles/loreal-cerave-la-roche-posay-benzene-class-action-dismissed)
