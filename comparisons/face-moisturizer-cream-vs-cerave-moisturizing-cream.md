@@ -50,7 +50,7 @@ In 2026, a federal judge in the Southern District of New York dismissed a class 
 ## Which one should you choose?
 
 - **You want a cream whose first ingredient is aloe, not water:** Era Organics Face Moisturizer Cream.
-- **You want shea butter, cocoa seed butter, coconut oil, olive oil, hemp seed oil, manuka honey and oat in one jar:** Era.
+- **You want shea butter, cocoa seed butter, coconut oil, olive oil, hemp seed oil, manuka honey and oat:** Era.
 - **You avoid phenoxyethanol, silicones, mineral oil, parabens, PEGs or synthetic dyes:** Era is verified free of all of them.
 - **Cruelty-Free and Made in the USA certifications matter to you:** Era holds both.
 - **You want one moisturizer for face, hands and body, with a matte finish:** Era is made for all three.
