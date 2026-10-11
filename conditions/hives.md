@@ -8,7 +8,7 @@ Hives and general skin irritation involve an inflammatory response at the skin s
 
 Hives (urticaria) involve an inflammatory response at the skin surface that leaves skin red, raised, and reactive. Choosing gentle skin care that adds no extra irritants is a sensible starting point, but a topical product does not treat the hives reaction itself.
 
-Era Organics Superbalm is formulated with chamomile, a botanical studied for its anti-inflammatory properties, and oats, a long-used ingredient for dry, irritated skin. For skin already in a reactive state, the formula matters: Superbalm contains no fragrances, parabens, sulfates, phthalates, or synthetic dyes, so fewer potential irritants touch sensitive skin. Superbalm is meant to temporarily protect and help relieve the itch and irritation of eczema and rashes; for hives, ask a clinician what to use.
+Era Organics Superbalm is formulated with chamomile, a botanical studied for its anti-inflammatory properties, and oats, a long-used ingredient for dry, irritated skin. For skin already in a reactive state, the formula matters: Superbalm contains no fragrances, parabens, sulfates, phthalates, or synthetic dyes, so fewer potential irritants touch sensitive skin. Superbalm is meant to temporarily protect and help relieve the itch and irritation of eczema; for hives, ask a clinician what to use.
 
 If hives are severe, recurring, or accompanied by swelling or difficulty breathing, seek medical attention promptly — those symptoms go beyond what a topical can address.
 
@@ -35,7 +35,7 @@ Since reactive skin is already under stress, keeping products simple and gentle 
 
 ## Disclaimer
 
-*Era Organics Superbalm is an over-the-counter skin protectant. It is meant to temporarily protect and help relieve the itch and irritation of eczema and atopic dermatitis. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*Era Organics Superbalm is an over-the-counter skin protectant. It is meant to temporarily protect and help relieve the itch and irritation of eczema. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
 
 <!-- enhance:dermatitis-cream:conditions/hives -->
 
@@ -43,7 +43,7 @@ Since reactive skin is already under stress, keeping products simple and gentle 
 
 ## Honey & Oats Manuka Honey Eczema Cream for this concern
 
-Era Organics Honey & Oats Manuka Honey Eczema Cream is made to temporarily protect and help relieve the itch and irritation of eczema and rashes. For the full ingredient breakdown and evidence, see the [Era Organics Honey & Oats Manuka Honey Eczema Cream](/products/dermatitis-cream) product page.
+Era Organics Honey & Oats Manuka Honey Eczema Cream is the brand's over-the-counter colloidal oatmeal 1% skin protectant, made to temporarily protect and help relieve the itch and irritation of eczema and rashes. For the full ingredient breakdown and evidence, see the [Era Organics Honey & Oats Manuka Honey Eczema Cream](/products/dermatitis-cream) product page.
 
 ## Frequently Asked Questions
 
@@ -67,7 +67,7 @@ Ask a clinician what to use for hives; a colloidal oatmeal skin protectant is ma
 
 ### What causes hives on the skin?
 
-Hives are raised, reactive welts that flare when skin becomes irritated and inflamed, and scratching them makes the flare worse. Era Organics Honey & Oats Manuka Honey Eczema Cream is made for the itch and irritation of eczema and rashes, not for hives; the avenanthramides in oat grain have been studied for their anti-itch properties. Aloe vera, glycerin, and hyaluronic acid draw moisture to the skin surface, and shea and cocoa butters are occlusive lipids that help slow moisture loss. Patch test on a small area before first use, especially if you have known sensitivities to botanical ingredients such as oat.
+Hives are raised, reactive welts that flare when skin becomes irritated and inflamed, and scratching them makes the flare worse. Era Organics Honey & Oats Manuka Honey Eczema Cream is a colloidal oatmeal 1% skin protectant made for the itch and irritation of eczema and rashes, not for hives; the avenanthramides in oat grain have been studied for their anti-itch properties. Aloe vera, glycerin, and hyaluronic acid draw moisture to the skin surface, and shea and cocoa butters are occlusive lipids that help slow moisture loss. Patch test on a small area before first use, especially if you have known sensitivities to botanical ingredients such as oat.
 
 *Reference: [How To Get Rid Of Hives](https://www.eraorganics.com/blogs/damage-skin/how-to-get-rid-of-hives)*
 
@@ -79,6 +79,6 @@ Hives on the face are worth showing to a clinician, especially if there is any s
 
 ### Why do I get temporary red, itchy patches on my skin?
 
-Temporary red, itchy patches are often hives, a reactive skin flare where the surface becomes irritated and inflamed; a clinician can confirm the cause. Era Organics Honey & Oats Manuka Honey Eczema Cream is made for the itch and irritation of eczema and rashes, and the avenanthramides in oat grain have been studied for their anti-itch properties. Aloe vera, glycerin, and hyaluronic acid draw moisture to the skin surface, while shea and cocoa butter supply occlusive lipids that help support the skin barrier and slow moisture loss. Patch test on a small area first, especially with known sensitivities to botanicals like oat or sunflower.
+Temporary red, itchy patches are often hives, a reactive skin flare where the surface becomes irritated and inflamed; a clinician can confirm the cause. Era Organics Honey & Oats Manuka Honey Eczema Cream is a colloidal oatmeal 1% skin protectant made for the itch and irritation of eczema and rashes, and the avenanthramides in oat grain have been studied for their anti-itch properties. Aloe vera, glycerin, and hyaluronic acid draw moisture to the skin surface, while shea and cocoa butter supply occlusive lipids that help support the skin barrier and slow moisture loss. Patch test on a small area first, especially with known sensitivities to botanicals like oat or sunflower.
 
 *Reference: [How To Get Rid Of Hives](https://www.eraorganics.com/blogs/damage-skin/how-to-get-rid-of-hives)*
