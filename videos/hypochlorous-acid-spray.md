@@ -149,7 +149,7 @@ See the full [Era Organics Hypochlorous Acid Spray](/products/hypochlorous-acid-
     "name": "A disinfecting spray for your body that your skin already understands. Hypochlorous acid helps refresh",
     "description": "A disinfecting spray for your body that your skin already understands. Hypochlorous acid helps refresh",
     "url": "https://www.tiktok.com/@eraorganics/video/7649365190701567245",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ocB9IidHJi4cMABgBUiaohAD82kgYTQHEIivV~tplv-tiktokx-origin.image?dr=9636&x-expires=1791378000&x-signature=jr%2BraOI38QF3SU%2FWfwhyeeIoi4Q%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ocB9IidHJi4cMABgBUiaohAD82kgYTQHEIivV~tplv-tiktokx-origin.image?dr=9636&x-expires=1791982800&x-signature=fqcCvBikDh5COB%2BhIYkB0y9Ups4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
   },
   {
     "@context": "https://schema.org",
@@ -165,7 +165,7 @@ See the full [Era Organics Hypochlorous Acid Spray](/products/hypochlorous-acid-
     "name": "POV: you bought HOCl for one thing and now you use it for EVERYTHING. Post-workout skin? Spray it. Feeling",
     "description": "POV: you bought HOCl for one thing and now you use it for EVERYTHING. Post-workout skin? Spray it. Feeling",
     "url": "https://www.tiktok.com/@eraorganics/video/7688037868945575181",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oILYCGiWJEBypzCCLtTwfQik1xIiAnVBpqdLZA~tplv-tiktokx-origin.image?dr=9636&x-expires=1791378000&x-signature=qYtXjQ3I8KGI6tVzUkQm0yRSYBI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oILYCGiWJEBypzCCLtTwfQik1xIiAnVBpqdLZA~tplv-tiktokx-origin.image?dr=9636&x-expires=1791982800&x-signature=qlZG5n6puFquDNslxwDH%2FpF9PdQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
   }
 ]
 ```

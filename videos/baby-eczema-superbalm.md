@@ -149,7 +149,7 @@ See the full [Era Organics Superbalm](/products/baby-eczema-superbalm) product p
     "name": "Love seeing our products help with cradle cap!",
     "description": "I thought that this was baby acne on her face and ears, but it was cradle cap. It was all over her scalp.",
     "url": "https://www.tiktok.com/@eraorganics/video/7261066120030031150",
-    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oMHEbxBWi8TMABS4rkeFRCgM0DIJbDXnQIfTTg~tplv-tiktokx-dmt-logom:tos-useast5-i-0068-tx/48cfbd7dc33949a1ae0876131f5c58dc.image?dr=9634&x-expires=1791378000&x-signature=GwGuq3LXo4RZK8V5z4Tj8mH9dp4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oMHEbxBWi8TMABS4rkeFRCgM0DIJbDXnQIfTTg~tplv-tiktokx-dmt-logom:tos-useast5-i-0068-tx/48cfbd7dc33949a1ae0876131f5c58dc.image?dr=9634&x-expires=1791982800&x-signature=ezp2rGMqTypF2o0qn0t25WCGAd4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
   },
   {
     "@context": "https://schema.org",
@@ -173,7 +173,7 @@ See the full [Era Organics Superbalm](/products/baby-eczema-superbalm) product p
     "name": "Real moms, real results. If your baby struggles with eczema, this gentle balm is changing everything for",
     "description": "Real moms, real results. If your baby struggles with eczema, this gentle balm is changing everything for",
     "url": "https://www.tiktok.com/@eraorganics/video/7562172634071338271",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oARiVH6CshBIPB9WiFPs1ayWT7IARAEPyAIXG~tplv-tiktokx-dmt-logom:tos-useast8-i-0068-tx2/oYAI59AyeAQglfPzAGGj8fJc7IQULRAFCOAgeH.image?dr=9634&x-expires=1791378000&x-signature=8u8Z5apDbmmro%2BCUcGhmIH9Ctj8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oARiVH6CshBIPB9WiFPs1ayWT7IARAEPyAIXG~tplv-tiktokx-dmt-logom:tos-useast8-i-0068-tx2/oYAI59AyeAQglfPzAGGj8fJc7IQULRAFCOAgeH.image?dr=9634&x-expires=1791982800&x-signature=75onZLfY3WQWUgI7L0YDylbtoCQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
   },
   {
     "@context": "https://schema.org",
@@ -197,7 +197,7 @@ See the full [Era Organics Superbalm](/products/baby-eczema-superbalm) product p
     "name": "Five years, one product they keep coming back to. This sweet review is from a mom who has used our Super Balm",
     "description": "This sweet review is from a mom who has used our Super Balm on her son for cradle cap, eczema, itchiness",
     "url": "https://www.tiktok.com/@eraorganics/video/7673560317007318303",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/okU7QafDUEeGWlpJh9hhBeOf9JcApEXAFAAFIA~tplv-tiktokx-origin.image?dr=9636&x-expires=1791378000&x-signature=3atHJvNyeBoFMuVq7KYxz4Ec15Y%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/okU7QafDUEeGWlpJh9hhBeOf9JcApEXAFAAFIA~tplv-tiktokx-origin.image?dr=9636&x-expires=1791982800&x-signature=HHKCY0uupymvwSy0M5pg4gE1gcU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
   },
   {
     "@context": "https://schema.org",
@@ -205,7 +205,7 @@ See the full [Era Organics Superbalm](/products/baby-eczema-superbalm) product p
     "name": "Gentle care starts at the scalp Cradle cap is common—but with the right steps, you can help prevent it or",
     "description": "Tips for prevention: Gently wash baby's scalp daily with a mild baby shampoo Use a soft brush to loosen dry",
     "url": "https://www.tiktok.com/@eraorganics/video/7683606351985003790",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-v-85c255-tx/okCQfpf2ExJgkwQEthHM8H2D7DJWAA0AAY9VIf~tplv-tiktokx-origin.image?dr=9636&x-expires=1791378000&x-signature=l%2FeTCUq2M%2FfbfUfbD0TxVDo0xkY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-v-85c255-tx/okCQfpf2ExJgkwQEthHM8H2D7DJWAA0AAY9VIf~tplv-tiktokx-origin.image?dr=9636&x-expires=1791982800&x-signature=Wbtzgss%2FSyCaYRbk4Iz77H4c%2FhE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
   }
 ]
 ```
