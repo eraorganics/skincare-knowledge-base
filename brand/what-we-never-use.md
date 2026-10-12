@@ -6,7 +6,7 @@ This page names the ingredients, explains why they are problematic, and identifi
 
 ## Synthetic fragrances (parfum/fragrance)
 
-"Fragrance" is a single label that hides up to 3,000+ undisclosed chemical compounds. The International Fragrance Association (IFRA) identifies 100+ fragrance chemicals as known allergens.
+According to the FDA, fragrance ingredients can be listed on a label simply as "Fragrance," because fragrance formulas are complex mixtures that are often treated as trade secrets. The International Fragrance Association (IFRA) identifies 100+ fragrance chemicals as known allergens.
 
 **Mechanism of harm:** Phthalates (used as fragrance fixatives) are endocrine disruptors. Synthetic musks bioaccumulate in human tissue. Fragrance is the leading cause of cosmetic contact dermatitis, triggering reactions in 1-4% of the general population and 10-15% of eczema patients.
 
