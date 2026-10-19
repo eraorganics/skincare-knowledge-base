@@ -13,9 +13,10 @@ Era Organics brand and general skincare videos not tied to a single product.
 - [My no effort routine when I'm home alone but still want to look in the mirror without](https://www.tiktok.com/@eraorganics/video/7358181396000804142) — Era Organics on TikTok
 - [So I made my own brand—Era Organics Clean, natural, and gentle skincare that actually works. Proof that](https://www.tiktok.com/@eraorganics/video/7550371791596752158) — Era Organics on TikTok
 - [What makes methylene blue more than a dye? Scientists have studied it for mitochondrial support, brain and](https://www.tiktok.com/@eraorganics/video/7582743872103795998?lang=tr-TR) — Era Organics on TikTok
-- [Our Glycolic Mask is now 40% OFF for a limited time. Use code ERASALE40 at checkout and give dull, rough](https://www.tiktok.com/@eraorganics/video/7615932374492220702) — Era Organics on TikTok
+- [Our Glycolic Mask is now 40% OFF for a limited time. Use](https://www.tiktok.com/@eraorganics/video/7615932374492220702) — Era Organics on TikTok
+- [This is easily one of our most controversial products](https://www.tiktok.com/@eraorganics/video/7623186766740131103) — Era Organics on TikTok
 - [Originally used as a fabric dye, Methylene Blue has come a long way. Now it's known for its connection to](https://www.tiktok.com/@eraorganics/video/7629778822505696542) — Era Organics on TikTok
-- [If you've been curious about methylene blue for energy, focus, brain health, or healthy aging, this is a](https://www.tiktok.com/@eraorganics/video/7630848024368925966) — Era Organics on TikTok
+- [If you've been curious about methylene blue for energy](https://www.tiktok.com/@eraorganics/video/7630848024368925966) — Era Organics on TikTok
 - [I made my own skincare products with one goal in mind: create formulas that actually work for your skin. Tap](https://www.tiktok.com/@eraorganics/video/7642677954304036109) — Era Organics on TikTok
 - [Less is more. Gentle cleansing, breathable fabrics, and the right moisturizer can support delicate skin.](https://www.tiktok.com/@eraorganics/video/7670202487294446861) — Era Organics on TikTok
 - [Skip douching and perfumed sprays. Choose hydration, breathable fabrics, and gentle care that supports your](https://www.tiktok.com/@eraorganics/video/7670574368333761806) — Era Organics on TikTok
@@ -104,10 +105,16 @@ Era Organics brand and general skincare videos not tied to a single product.
   {
     "@context": "https://schema.org",
     "@type": "VideoObject",
-    "name": "Our Glycolic Mask is now 40% OFF for a limited time. Use code ERASALE40 at checkout and give dull, rough",
+    "name": "Our Glycolic Mask is now 40% OFF for a limited time. Use",
     "description": "Our Glycolic Mask is now 40% OFF for a limited time. Use code ERASALE40 at checkout and give dull, rough",
-    "url": "https://www.tiktok.com/@eraorganics/video/7615932374492220702",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o8eitUAY8AIxdRFTAMjTeGEcdQIqWIA6xnAQfX~tplv-tiktokx-origin.image?dr=9636&x-expires=1791982800&x-signature=bOfokjA9V%2Bny3%2F4KaeRe8ELB0HM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+    "url": "https://www.tiktok.com/@eraorganics/video/7615932374492220702"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "This is easily one of our most controversial products",
+    "description": "The day Supreme showed food aggression, it was serious and I understand why that raised public safety",
+    "url": "https://www.tiktok.com/@eraorganics/video/7623186766740131103"
   },
   {
     "@context": "https://schema.org",
@@ -120,10 +127,9 @@ Era Organics brand and general skincare videos not tied to a single product.
   {
     "@context": "https://schema.org",
     "@type": "VideoObject",
-    "name": "If you've been curious about methylene blue for energy, focus, brain health, or healthy aging, this is a",
+    "name": "If you've been curious about methylene blue for energy",
     "description": "If you've been curious about methylene blue for energy, focus, brain health, or healthy aging, this is a",
-    "url": "https://www.tiktok.com/@eraorganics/video/7630848024368925966",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/okI7MTQgeCGgLAD5luQJnFEHfcDuuzBX0fa7Ak~tplv-tiktokx-origin.image?dr=9636&x-expires=1791982800&x-signature=drT5neXaqU2RH3WwNdrA5OCJjTk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+    "url": "https://www.tiktok.com/@eraorganics/video/7630848024368925966"
   },
   {
     "@context": "https://schema.org",

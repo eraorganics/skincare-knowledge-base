@@ -13,6 +13,7 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
 - [You've tried 27 "miracle" products and your skin still hates you It's time for a skincare reset @EraOrganics](https://www.tiktok.com/@eraorganics/video/7571551694211894558) — Era Organics on TikTok
 - [So many vaginal health myths. Let's clear them up.](https://www.tiktok.com/@eraorganics/video/7652836598018575630) — Era Organics on TikTok
 - [Better vaginal health starts with simple habits.](https://www.tiktok.com/@eraorganics/video/7653098452288572685) — Era Organics on TikTok
+- [Yes, vaginal pH balance matters more than most people](https://www.tiktok.com/@eraorganics/video/7656422647235955982) — Era Organics on TikTok
 - [Dryness and sensitivity can change with age, hormones, postpartum, and menopause. Delicate skin deserves care](https://www.tiktok.com/@eraorganics/video/7670997146639830286) — Era Organics on TikTok
 
 ## Structured data (for search engines & AI)
@@ -80,6 +81,13 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
     "description": "A food-grade feminine moisturizer is essential for those seeking comfort and balance in their intimate care",
     "url": "https://www.tiktok.com/@eraorganics/video/7653098452288572685",
     "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oAg9CfN1DDpqFZlwjqEiUfIUNBSQNytgm7BoSE~tplv-tiktokx-origin.image?dr=9636&x-expires=1784120400&x-signature=8q1mFPOJgq4SZJn%2F2g1u9shGGB4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "Yes, vaginal pH balance matters more than most people",
+    "description": "TikTok video from Era Organics (@eraorganics): \"Yes, vaginal pH balance matters more than most people think.",
+    "url": "https://www.tiktok.com/@eraorganics/video/7656422647235955982"
   },
   {
     "@context": "https://schema.org",
