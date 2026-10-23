@@ -22,7 +22,7 @@ One note: chamomile belongs to the Asteraceae plant family, so those with ragwee
 
 ### Is chamomile safe for babies and children?
 
-Chamomile's active compounds — apigenin and bisabolol — have been studied for calming irritated skin and redness, and the main known caution for children is ragweed sensitivity, covered below. Chamomile is one of the ingredients in Era Organics Superbalm, a baby balm that temporarily protects and helps relieve itch and irritation from eczema and atopic dermatitis.
+Chamomile's active compounds — apigenin and bisabolol — have been studied for calming irritated skin and redness, and the main known caution for children is ragweed sensitivity, covered below. Chamomile is one of the ingredients in Era Organics Superbalm, a baby balm that temporarily protects and helps relieve itch and irritation from eczema.
 
 A double-blind clinical trial found chamomile accelerates the drying of weeping wound tissue, a finding of interest for eczema-prone skin where a broken, oozing barrier tends to worsen flares. In laboratory research, chamomile also activates the KEAP1/NRF2 antioxidative pathway in skin cells, a pathway relevant to the friction, moisture, and diaper-area irritants that baby skin faces daily.
 
@@ -55,4 +55,4 @@ One caveat: chamomile belongs to the Asteraceae (ragweed) family and can act as 
 
 ## Disclaimer
 
-*Era Organics Superbalm is an over-the-counter skin protectant. It temporarily protects and helps relieve itch and irritation due to eczema and atopic dermatitis. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*Era Organics Superbalm is an over-the-counter skin protectant. It temporarily protects and helps relieve itch and irritation due to eczema. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
