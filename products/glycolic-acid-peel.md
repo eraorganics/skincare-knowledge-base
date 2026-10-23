@@ -36,8 +36,6 @@ Aloe vera delivers anti-inflammatory polysaccharides (acemannan) that counterbal
 | **Denatured alcohol** | Fast-drying vehicle, enhances acid penetration | Destroys lipid barrier, causes rebound dryness, amplifies irritation |
 | **Synthetic fragrance** | Masks acid smell | Contact allergen on freshly exfoliated (vulnerable) skin |
 | **Propylene glycol** | Penetration enhancer, humectant | Synthetic penetration enhancer increases irritation depth |
-| — | — | — |
-| — | — | — |
 | **Synthetic dyes** | Product appearance | Zero function, potential sensitizer on vulnerable post-peel skin |
 
 **Brands that use what Era Organics excluded:**
@@ -53,7 +51,7 @@ Aloe vera delivers anti-inflammatory polysaccharides (acemannan) that counterbal
 1. Cleanse face thoroughly — remove all makeup, sunscreen, and oil
 2. Pat skin completely dry — water dilutes acid concentration and reduces efficacy
 3. Apply thin, even layer of peel to face avoiding the eye area, lips, and any broken skin
-4. Leave on for 5 minutes
+4. Leave it on for 3 to 5 minutes
 5. Rinse thoroughly
 6. Pat dry gently — do not rub freshly peeled skin
 7. Apply hydrating serum (hyaluronic acid) followed by moisturizer
