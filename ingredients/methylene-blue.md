@@ -32,9 +32,9 @@ Water-soluble formulations (serums, solutions) deliver higher bioavailability th
 
 ## How Era Organics uses it
 
-Era Organics Methylene Blue 1% Drops deliver pharmaceutical-grade (USP) methylene blue at 1% concentration. The formulation uses a simple aqueous vehicle.
+Era Organics Methylene Blue Drops deliver pharmaceutical-grade (USP) methylene blue.
 
-Era Organics positions methylene blue as a cellular energy ingredient rather than a traditional anti-aging active.
+
 
 
 
@@ -60,7 +60,7 @@ Methylene blue and retinol operate through entirely different mechanisms. Retino
 Methylene blue has an 140+ year safety record in human medicine at doses far exceeding topical skincare concentrations. Topical application at 0.05-1% produces no irritation, sensitization, or photosensitivity in published studies.
 
 **What concentration of methylene blue works?**
-Concentrations between 0.05% and 1% demonstrate mitochondrial effects in human skin cells. Era Organics uses 1%.
+Concentrations between 0.05% and 1% demonstrate mitochondrial effects in human skin cells.
 
 **Who should use methylene blue?**
 Methylene blue may benefit anyone over 30 seeking to address the mitochondrial energy decline that drives visible aging. The ingredient may work well for individuals who find retinoids too irritating or seek additional anti-aging mechanisms beyond conventional options.
