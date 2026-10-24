@@ -33,14 +33,10 @@ Era Organics goes deeper on the topics behind these criteria in its own library,
 | Aloe Vera | Made with organic Aloe (Aloe Barbadensis) oil to help soothe red, irritated skin. |
 | Thick Consistency | Organic beeswax, cocoa butter, and shea butter give a dense, stay-in-place barrier texture. |
 | Fragrance-Free | Made with no added fragrance — confirmed against the full ingredient list. |
-| Hypoallergenic Formula | — |
 | Easy Application | Smooth balm texture spreads onto clean, dry skin at each diaper change — no applicator needed. |
-| Fast-Acting | — |
 | Parabens | Formulated with no parabens — confirmed against the full ingredient list. |
 | Phthalates | Formulated with no phthalates — confirmed against the full ingredient list. |
 | Strong Perfumes | No perfumes or added fragrance of any kind — nothing scented near irritated skin. |
-| No Hormone Disruptors | — |
-| No Harsh Preservatives | — |
 | Sulfate Free | Formulated with no sulfates — confirmed against the full ingredient list. |
 | SLS Free | Contains no sodium lauryl sulfate or any other sulfate surfactant. |
 | No Hidden Toxins | A full-disclosure label with no fragrance, dyes, or mineral oil. |
