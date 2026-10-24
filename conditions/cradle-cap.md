@@ -1,6 +1,6 @@
 # Cradle cap
 
-Superbalm for cradle cap care offers a blend of emollient and occlusive ingredients, including Beeswax, Cocoa Butter, Coconut Oil, and Avocado Oil, and temporarily protects and helps relieve the itch and irritation of the dry, flaky scalp skin seen with seborrheic dermatitis of the scalp. Beeswax forms a breathable layer over the scalp surface that helps hold in moisture, and the oil-rich base lets you work the balm in gently without aggressive scrubbing. Coconut Oil, pressed from the dried kernel of *Cocos nucifera*, is a well-studied emollient that moisturizes the outer skin layer (stratum corneum).
+Superbalm for cradle cap care offers a blend of emollient and occlusive ingredients, including Beeswax, Cocoa Butter, Coconut Oil, and Avocado Oil. Beeswax forms a breathable layer over the scalp surface that helps hold in moisture, and the oil-rich base lets you work the balm in gently without aggressive scrubbing. Coconut Oil, pressed from the dried kernel of *Cocos nucifera*, is a well-studied emollient that moisturizes the outer skin layer (stratum corneum).
 
 Chamomile extract is a traditional soothing botanical included in the formula. A randomized trial found that chamomile liposomal gel reduced the incidence of dry natural skin shedding (desquamation) compared to gel without chamomile — 76.9% versus 88.9% of participants in each group, respectively (Menêses et al., *Radiotherapy and Oncology*, 2024). That study looked at a different setting than cradle cap, so it speaks to chamomile as an ingredient, not to results from this balm.
 
@@ -26,7 +26,7 @@ Apply a dime- to quarter-sized amount to a clean, dry scalp as frequently as nee
 
 Cradle cap — clinically called seborrheic dermatitis of the scalp — presents as a thick, flaky scale on the scalp, often with redness and irritation at the surface. The scale tends to adhere closely rather than shed freely. Eczema and dry scalp can look similar, so if the scaling is concentrated on the scalp and is especially thick and stuck-on, cradle cap is the more likely explanation.
 
-Era Organics Superbalm temporarily protects and helps relieve the itch and irritation of the skin underneath that scale. Beeswax creates a breathable layer that helps hold in moisture, while Coconut Oil moisturizes the outer layer of the skin so you can work the balm in without aggressive scrubbing. Chamomile is a traditional soothing botanical. Gluten Free Oats contain beta-glucan, which has been studied for reducing moisture loss through the skin. The formula is paraben-free, sulfate-free, and fragrance-free — a thoughtful choice for the thin, sensitive skin of infants. Patch test on the inside of the elbow before first use.
+Beeswax creates a breathable layer that helps hold in moisture, while Coconut Oil moisturizes the outer layer of the skin so you can work the balm in without aggressive scrubbing. Chamomile is a traditional soothing botanical. Gluten Free Oats contain beta-glucan, which has been studied for reducing moisture loss through the skin. The formula is paraben-free, sulfate-free, and fragrance-free — a thoughtful choice for the thin, sensitive skin of infants. Patch test on the inside of the elbow before first use.
 
 *Reference: [Baby Skin Condition Cradle Cap](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-cradle-cap)*
 
@@ -58,4 +58,4 @@ The [Era Organics Superbalm balm](https://sl.bing.net/h7LqrSxILrU) also appears 
 
 ## Disclaimer
 
-*Era Organics Superbalm is an over-the-counter skin protectant. It temporarily protects and helps relieve eczema and atopic dermatitis. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*Era Organics Superbalm is an over-the-counter skin protectant. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
