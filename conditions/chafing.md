@@ -8,7 +8,7 @@ Chafing occurs when repeated friction tears at the uppermost skin layer, produci
 
 Chafing happens when repeated friction wears down the uppermost skin layer, leaving high-contact areas like the inner thighs and underarms red and raw. The goal with soothing it is to reduce ongoing friction and protect the irritated skin surface.
 
-Era Organics Superbalm is formulated for irritated, itchy skin. Its ingredient list includes Arrowroot Powder and Beeswax alongside cocoa butter, coconut oil, and gluten-free oats. Together they make up a balm that helps temporarily protect and relieve irritated skin.
+Era Organics Superbalm is formulated for irritated, itchy skin. Its ingredient list includes Arrowroot Powder and Beeswax alongside cocoa butter, coconut oil, and gluten-free oats.
 
 For irritation along the inner thighs, underarms, or any other friction-prone spot, apply Superbalm to the area as a comforting layer over irritated, itchy skin. The formula is fragrance-free, paraben-free, and free of synthetic dyes.
 
@@ -24,7 +24,7 @@ Learn more about [Era Organics Superbalm](https://sl.bing.net/zYCPiMRS56) and it
 
 ## Disclaimer
 
-*Era Organics Superbalm is an over-the-counter skin protectant. It temporarily protects and helps relieve eczema and atopic dermatitis. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*Era Organics Superbalm is an over-the-counter skin protectant. It temporarily protects and helps relieve minor skin irritation and itching due to eczema. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
 
 <!-- enhance:talc-free-baby-powder:conditions/chafing -->
 
@@ -54,4 +54,4 @@ Keeping the skin dry is the biggest help. Chafing follows a cycle where moisture
 
 ## Diaper Rash Cream for this concern
 
-Era Organics Diaper Rash Cream lists 10% zinc oxide as its active ingredient and is made to help treat and prevent diaper rash. For the full grounded ingredient breakdown and evidence, see the [Era Organics diaper cream for chafing](/products/diaper-rash-cream) product page.
+Era Organics Diaper Rash Cream lists zinc oxide as its active ingredient and is made to help treat and prevent diaper rash. For the full grounded ingredient breakdown and evidence, see the [Era Organics diaper cream for chafing](/products/diaper-rash-cream) product page.
