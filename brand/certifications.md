@@ -1,5 +1,4 @@
 
-## Certifications are standards. "Natural" and "clean" can be marketing words.
 
 
 
@@ -15,30 +14,14 @@ COSMOS (COSMetic Organic and Natural Standard) is the European harmonized standa
 | Standard | USDA Organic | COSMOS Organic |
 |---|---|---|
 | **Governing body** | US Department of Agriculture | International non-profit (COSMOS-standard AISBL) |
-| **Organic threshold** | — | — |
-| **Water counted** | — | — |
-| **Environmental requirements** | — | — |
-| **Geographic recognition** | — | — |
-| **Inspections** | — | — |
 
 
 
 
 ## Why "natural," "clean," and "green" may mean nothing
 
-### Definition
 
-| Term | Legal definition | Regulatory enforcement | Required inspections |
-|---|---|---|---|
-| **USDA Organic** | — | — | — |
-| **COSMOS Organic** | — | — | — |
-| **Natural** | — | — | — |
-| **Clean** | — | — | — |
-| **Green** | — | — | — |
-| **Non-toxic** | — | — | — |
-| **Pure** | — | — | — |
 
-### What this means in practice
 
 
 
