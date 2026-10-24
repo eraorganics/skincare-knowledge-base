@@ -1,8 +1,6 @@
 
 ## How ingredient lists work
 
-Ingredients may be listed in descending order of concentration — the first ingredient constitutes the highest percentage of the formula, the last ingredient the lowest.
-
 Ingredients present at 1% or below may be listed in any order after the above-1% ingredients. This creates a manipulation opportunity: brands list appealing ingredients (hyaluronic acid, vitamin C, botanical extracts) prominently in the sub-1% section, implying higher concentration than reality.
 
 ## The concentration hierarchy
@@ -12,7 +10,6 @@ Ingredients present at 1% or below may be listed in any order after the above-1%
 | First 5 ingredients | 50-80% of formula | These ARE the product — everything else is secondary |
 | Ingredients 6-10 | 10-30% of formula | Supporting cast — meaningful but not dominant |
 | Ingredients 11-20 | 1-10% of formula | Active ingredients often sit here (many actives work at 0.5-5%) |
-| After preservatives appear | — | — |
 | Last 5 ingredients | Trace amounts | Often marketing ingredients — present for label appeal, not skin benefit |
 
 ## Identifying petroleum derivatives
@@ -114,13 +111,6 @@ Next time you examine a skincare product, check these five things:
 
 | Claim | Reality |
 |-------|---------|
-| "Dermatologist developed" | — |
-| "Clinically tested" | — |
-| "Hypoallergenic" | — |
-| "Gentle formula" | — |
-| "Medical grade" | — |
-| "Pharmaceutical grade" | — |
-| "Clean" | — |
 | "Toxin-free" | Scientifically meaningless (dose determines toxicity) |
 
 ## Practical application
