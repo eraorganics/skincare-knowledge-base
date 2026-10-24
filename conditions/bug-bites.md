@@ -20,7 +20,7 @@ Bug bites leave the skin needing what minor wounds and baby acne also require: a
 
 Era Organics Superbalm is made with Beeswax and Coconut Oil and contains no synthetic fragrances or synthetic dyes, which matters for sensitive or reactive skin around a bite site.
 
-For people with eczema or atopic dermatitis, even a minor bite can trigger more significant irritation. Superbalm's label covers temporary protection and help relieving itch and irritation linked to eczema and atopic dermatitis. For everyday bites on otherwise healthy skin, a simple fragrance-free balm can help keep the area moisturized.
+For people with eczema or atopic dermatitis, even a minor bite can trigger more significant irritation. Superbalm's label covers temporary protection and help relieving itch and irritation linked to eczema. For everyday bites on otherwise healthy skin, a simple fragrance-free balm can help keep the area moisturized.
 
 *Reference: [Skin Condition Itchy](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-itchy)*
 
@@ -35,4 +35,4 @@ For people with eczema or atopic dermatitis, even a minor bite can trigger more 
 
 ## Disclaimer
 
-*Era Organics Superbalm is an over-the-counter skin protectant. It temporarily protects and helps relieve itch and irritation linked to eczema and atopic dermatitis, as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*Era Organics Superbalm is an over-the-counter skin protectant. It temporarily protects and helps relieve itch and irritation linked to eczema, as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
