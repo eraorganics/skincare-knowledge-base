@@ -30,7 +30,7 @@ Formulation in lightweight vehicles (solutions, gels, serums) enhances pore pene
 
 ## How Era Organics uses it
 
-Era Organics BHA AHA Serum combines salicylic acid with complementary alpha hydroxy acids for chemical exfoliation.
+Era Organics BHA AHA Serum is for chemical exfoliation.
 
 
 
