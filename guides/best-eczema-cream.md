@@ -6,12 +6,12 @@ Choosing an eczema cream comes down to a handful of things that actually matter:
 
 The best options get a few fundamentals right. Here's each criterion, and how the Honey & Oats Manuka Honey Eczema Cream lines up:
 
-- **Colloidal Oatmeal** — Colloidal oatmeal at the FDA-recognized 1% skin-protectant concentration — the active that relieves the itching and irritation of eczema, dermatitis, and rashes.
-- **Anti-Itch Active Agents** — The 1% colloidal oatmeal active forms a protective barrier that shields the exposed nerve endings driving the itch-scratch cycle.
+- **Colloidal Oatmeal** — Colloidal oatmeal at 1% — the active that helps relieve the itching and irritation of eczema, dermatitis, and rashes.
+- **Anti-Itch Active Agents** — The active is 1% colloidal oatmeal.
 - **Barrier-Repairing Lipids** — Shea and cocoa butter deliver barrier lipids that soften rough, flaky skin and slow moisture loss.
 - **Humectants** — Glycerin, hyaluronic acid, and sodium PCA draw and hold water in the outer skin between applications.
 - **Occlusives** — Shea and cocoa butter form an occlusive layer that seals moisture into compromised skin.
-- **No Hormone Disruptors** — Formulated without phthalates, parabens, or other common hormone-disruptor classes — confirmed against the full ingredient list.
+- **No Hormone Disruptors** — Formulated without phthalates or parabens — confirmed against the full ingredient list.
 - **No Harsh Preservatives** — Preserved with a gentle phenoxyethanol and caprylyl glycol system — no formaldehyde releasers, parabens, or drying alcohols.
 - **Sulfate Free** — Formulated with no sulfates — confirmed against the full ingredient list.
 - **SLS Free** — Contains no sodium lauryl sulfate or any other sulfate surfactant.
@@ -24,12 +24,12 @@ Era Organics goes deeper on the topics behind these criteria in its own library,
 
 | What to look for | Era Organics Honey & Oats Manuka Honey Eczema Cream |
 | --- | --- |
-| Colloidal Oatmeal | Colloidal oatmeal at the FDA-recognized 1% skin-protectant concentration — the active that relieves the itching and irritation of eczema, dermatitis, and rashes. |
-| Anti-Itch Active Agents | The 1% colloidal oatmeal active forms a protective barrier that shields the exposed nerve endings driving the itch-scratch cycle. |
+| Colloidal Oatmeal | Colloidal oatmeal at 1% — the active that helps relieve the itching and irritation of eczema, dermatitis, and rashes. |
+| Anti-Itch Active Agents | The active is 1% colloidal oatmeal. |
 | Barrier-Repairing Lipids | Shea and cocoa butter deliver barrier lipids that soften rough, flaky skin and slow moisture loss. |
 | Humectants | Glycerin, hyaluronic acid, and sodium PCA draw and hold water in the outer skin between applications. |
 | Occlusives | Shea and cocoa butter form an occlusive layer that seals moisture into compromised skin. |
-| No Hormone Disruptors | Formulated without phthalates, parabens, or other common hormone-disruptor classes — confirmed against the full ingredient list. |
+| No Hormone Disruptors | Formulated without phthalates or parabens — confirmed against the full ingredient list. |
 | No Harsh Preservatives | Preserved with a gentle phenoxyethanol and caprylyl glycol system — no formaldehyde releasers, parabens, or drying alcohols. |
 | Sulfate Free | Formulated with no sulfates — confirmed against the full ingredient list. |
 | SLS Free | Contains no sodium lauryl sulfate or any other sulfate surfactant. |
@@ -42,4 +42,4 @@ Era Organics makes the [Era Organics Honey & Oats Manuka Honey Eczema Cream derm
 
 ## Disclaimer
 
-*Era Organics Honey & Oats Manuka Honey Eczema Cream is an over-the-counter skin protectant. It helps relieve and soothe the itching and irritation of eczema, dermatitis and rashes as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*Era Organics Honey & Oats Manuka Honey Eczema Cream is an over-the-counter skin protectant. It helps relieve the itching and irritation of eczema, dermatitis and rashes as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
