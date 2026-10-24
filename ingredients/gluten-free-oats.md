@@ -37,7 +37,7 @@ Era Organics Superbalm lists gluten free oats among its ingredients — a detail
 
 ## Disclaimer
 
-*Era Organics Superbalm is an over-the-counter skin protectant. It temporarily protects and helps relieve the itch and irritation of eczema and atopic dermatitis as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*Era Organics Superbalm is an over-the-counter skin protectant. It temporarily protects and helps relieve minor skin irritation and itching due to eczema as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
 
 <!-- enhance:dermatitis-cream:ingredients/gluten-free-oats -->
 
