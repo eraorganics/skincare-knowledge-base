@@ -6,24 +6,20 @@ Choosing a diaper rash cream comes down to a handful of things that actually mat
 
 The best options get a few fundamentals right. Here's each criterion, and how the Diaper Rash Cream lines up:
 
-- **Zinc Oxide** — 10% zinc oxide — the FDA-recognized skin-protectant active that helps treat and prevent diaper rash and seals out wetness.
-- **Petroleum Jelly** — form a gentle, breathable barrier with organic botanicals and zinc oxide
+- **Zinc Oxide** — 10% zinc oxide helps treat and prevent diaper rash and seals out wetness.
+- **Petroleum Jelly** — form a gentle barrier with organic botanicals and zinc oxide
 - **Calendula** — Contains organic Calendula (Calendula Officinalis) oil to calm and comfort rash-prone skin.
-- **Aloe Vera** — Made with organic Aloe (Aloe Barbadensis) oil to soothe red, irritated skin.
+- **Aloe Vera** — Made with organic Aloe (Aloe Barbadensis) oil to help soothe red, irritated skin.
 - **Thick Consistency** — Organic beeswax, cocoa butter, and shea butter give a dense, stay-in-place barrier texture.
 - **Fragrance-Free** — Made with no added fragrance — confirmed against the full ingredient list.
-- **Hypoallergenic Formula** — Gentle, plant based formula
 - **Easy Application** — Smooth balm texture spreads onto clean, dry skin at each diaper change — no applicator needed.
-- **Fast-Acting** — Instantly helps soothe and calm itchy, red, irritated skin.
 - **Parabens** — Formulated with no parabens — confirmed against the full ingredient list.
 - **Phthalates** — Formulated with no phthalates — confirmed against the full ingredient list.
 - **Strong Perfumes** — No perfumes or added fragrance of any kind — nothing scented near irritated skin.
-- **No Hormone Disruptors** — No phthalates, parabens, or other common hormone-disruptor classes — confirmed against the full ingredient list.
-- **No Harsh Preservatives** — A self-stable, all-organic oil and beeswax base — no phenoxyethanol, parabens, or formaldehyde releasers.
 - **Sulfate Free** — Formulated with no sulfates — confirmed against the full ingredient list.
 - **SLS Free** — Contains no sodium lauryl sulfate or any other sulfate surfactant.
-- **No Hidden Toxins** — Every ingredient is a named organic oil, butter, or wax — a full-disclosure label with no fragrance, dyes, or mineral oil.
-- **No Cheap Fillers** — No mineral oil, silicones, or PEG fillers — the base is organic plant oils and butters.
+- **No Hidden Toxins** — A full-disclosure label with no fragrance, dyes, or mineral oil.
+- **No Cheap Fillers** — No mineral oil, silicones, or PEG fillers.
 
 Era Organics goes deeper on the topics behind these criteria in its own library, covering [diaper rash](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-diaper-rash).
 
@@ -31,24 +27,24 @@ Era Organics goes deeper on the topics behind these criteria in its own library,
 
 | What to look for | Era Organics Diaper Rash Cream |
 | --- | --- |
-| Zinc Oxide | 10% zinc oxide — the FDA-recognized skin-protectant active that helps treat and prevent diaper rash and seals out wetness. |
-| Petroleum Jelly | form a gentle, breathable barrier with organic botanicals and zinc oxide |
+| Zinc Oxide | 10% zinc oxide helps treat and prevent diaper rash and seals out wetness. |
+| Petroleum Jelly | form a gentle barrier with organic botanicals and zinc oxide |
 | Calendula | Contains organic Calendula (Calendula Officinalis) oil to calm and comfort rash-prone skin. |
-| Aloe Vera | Made with organic Aloe (Aloe Barbadensis) oil to soothe red, irritated skin. |
+| Aloe Vera | Made with organic Aloe (Aloe Barbadensis) oil to help soothe red, irritated skin. |
 | Thick Consistency | Organic beeswax, cocoa butter, and shea butter give a dense, stay-in-place barrier texture. |
 | Fragrance-Free | Made with no added fragrance — confirmed against the full ingredient list. |
-| Hypoallergenic Formula | Gentle, plant based formula |
+| Hypoallergenic Formula | — |
 | Easy Application | Smooth balm texture spreads onto clean, dry skin at each diaper change — no applicator needed. |
-| Fast-Acting | Instantly helps soothe and calm itchy, red, irritated skin. |
+| Fast-Acting | — |
 | Parabens | Formulated with no parabens — confirmed against the full ingredient list. |
 | Phthalates | Formulated with no phthalates — confirmed against the full ingredient list. |
 | Strong Perfumes | No perfumes or added fragrance of any kind — nothing scented near irritated skin. |
-| No Hormone Disruptors | No phthalates, parabens, or other common hormone-disruptor classes — confirmed against the full ingredient list. |
-| No Harsh Preservatives | A self-stable, all-organic oil and beeswax base — no phenoxyethanol, parabens, or formaldehyde releasers. |
+| No Hormone Disruptors | — |
+| No Harsh Preservatives | — |
 | Sulfate Free | Formulated with no sulfates — confirmed against the full ingredient list. |
 | SLS Free | Contains no sodium lauryl sulfate or any other sulfate surfactant. |
-| No Hidden Toxins | Every ingredient is a named organic oil, butter, or wax — a full-disclosure label with no fragrance, dyes, or mineral oil. |
-| No Cheap Fillers | No mineral oil, silicones, or PEG fillers — the base is organic plant oils and butters. |
+| No Hidden Toxins | A full-disclosure label with no fragrance, dyes, or mineral oil. |
+| No Cheap Fillers | No mineral oil, silicones, or PEG fillers. |
 
 ## Where to find it
 
