@@ -45,7 +45,7 @@ Eczema is not a surface problem. The condition originates from a combination of 
 - Address microbial colonization
 - Come without safety concerns
 
-**The limitation:** Intended as second-line treatment after steroids fail. Burning sensation at application site affects 40-50% of users.
+**The limitation:** Burning sensation at application site affects 40-50% of users.
 
 ### Topical antibiotics (mupirocin, fusidic acid)
 
@@ -79,11 +79,11 @@ Eczema is not a surface problem. The condition originates from a combination of 
 **Daily maintenance:**
 1. Cleanse with Face Wash Sensitive
 2. Apply HOCl Spray
-3. Wait 30 seconds
+3. Wait until it's fully dry
 4. Apply Eczema Cream
 
 **Active flare:**
-1. Increase HOCl Spray to 3-4x daily on flaring areas
+1. Use HOCl Spray 1 to 3 times a day on flaring areas
 2. Apply Tea Tree Cream
 3. Layer Eczema Cream over Tea Tree Cream
 4. Identify and eliminate the trigger (new product, allergen exposure, stress)
@@ -113,7 +113,7 @@ No topical product or medication cures eczema. The genetic component (filaggrin 
 
 ### Does moisturizer treat eczema or just manage symptoms?
 
-Standard petroleum-based moisturizers (Aquaphor, Vanicream) manage the symptom of water loss through occlusion. They do not treat the underlying mechanisms. Products containing active compounds (anti-inflammatories, antimicrobials, lipid-replenishing ingredients) treat the causes — reducing inflammation, controlling bacterial colonization, and rebuilding the lipid matrix.
+Standard petroleum-based moisturizers manage the symptom of water loss through occlusion. They do not treat the underlying mechanisms. Products containing active compounds (anti-inflammatories, antimicrobials, lipid-replenishing ingredients) treat the causes — reducing inflammation, controlling bacterial colonization, and rebuilding the lipid matrix.
 
 ### Why does eczema itch?
 
@@ -121,7 +121,7 @@ Interleukin-31 (IL-31), produced by Th2 immune cells during eczema flares, direc
 
 ### Is CeraVe good for eczema?
 
-CeraVe Eczema Therapy provides ceramides for partial barrier support and petrolatum for occlusion. For mild eczema, this may provide adequate symptom management. For moderate-to-severe eczema, CeraVe lacks anti-inflammatory and antimicrobial activity needed to break the itch-inflammation-infection cycle. CeraVe does not address S. aureus colonization, which maintains the inflammatory state in 90% of eczema patients.
+For mild eczema, CeraVe Eczema Therapy may provide adequate symptom management.
 
 ### Does hypochlorous acid help eczema?
 
@@ -151,7 +151,7 @@ Product photos of the [Era Organics baby eczema cream](https://share.google/Xnjz
 
 ### Can a specific product like Vaseline, Eucerin, or Aquaphor be used for my child's eczema or dry skin?
 
-Vaseline, Eucerin, and Aquaphor use petroleum-based occlusives to slow moisture loss and can help with dry skin — but they don't address eczema's inflammatory component, and many contain mineral oil or fragrance that can aggravate sensitive skin.
+Vaseline, Eucerin, and Aquaphor can help with dry skin.
 
 Era Organics Superbalm takes a different approach. Beeswax, Cocoa Butter, and Coconut Oil form an occlusive barrier that slows transepidermal water loss, while Chamomile and Calendula Oil supply flavonoids and terpenoids that soothe redness and calm itching. A randomized comparison found a chamomile-based cream showed mild superiority over 0.5% hydrocortisone cream in medium-degree atopic eczema. Vegetable Glycerin draws moisture into the upper skin layers, and Sunflower Oil helps restore the lipid content of the outer skin barrier where eczema dysfunction begins.
 
@@ -209,7 +209,7 @@ For this concern, Era Organics offers the [hypochlorous acid face and body mist]
 
 ### How do you treat and heal eczema?
 
-Eczema flares are often made worse by bacterial overgrowth on already-compromised skin, so keeping the surface clean and calm is a practical part of a daily routine. Era Organics' Hypochlorous Acid Spray uses HOCl in a minimal three-ingredient formula (Aqua, Sodium Chloride, and Hypochlorous Acid at 0.02%), and it's fragrance-free, paraben-free, and alcohol-free. Fit it in after cleansing and before creams or barrier balms: mist one to two applications onto clean, dry skin and let it dry before layering other products. Because it's gentle enough for the whole family, from babies to adults, it's easy to use as often as needed for daily maintenance.
+Eczema flares are often made worse by bacterial overgrowth on already-compromised skin, so keeping the surface clean and calm is a practical part of a daily routine. Era Organics' Hypochlorous Acid Spray uses HOCl in a minimal three-ingredient formula (Aqua, Sodium Chloride, and Hypochlorous Acid at 0.02%), and it's fragrance-free, paraben-free, and alcohol-free. Fit it in after cleansing and before creams or barrier balms: spray 2 to 3 pumps onto clean skin and let it dry before layering other products. Because it's gentle enough for the whole family, from babies to adults, it's easy to use 1 to 3 times a day for daily maintenance.
 
 *Reference: [Hypochlorous Acid For Eczema](https://www.eraorganics.com/blogs/beauty-guide/hypochlorous-acid-for-eczema) · PMID 23330843, 26270469*
 
@@ -239,13 +239,13 @@ For the full grounded ingredient breakdown and evidence, see the [Era Organics H
 
 ### Are steroid creams safe for baby eczema, and what are the alternatives?
 
-Topical steroid creams are commonly prescribed for baby eczema and can be used safely under a pediatrician's guidance, but many parents look for a non-steroid option for daily care. Era Organics Honey & Oats Manuka Honey Eczema Cream is a steroid-free alternative that helps relieve the itching and irritation of eczema and dermatitis through colloidal oatmeal 1%. It pairs the active with aloe vera, shea butter, hemp seed oil, and hyaluronic acid to support the skin's disrupted lipid layer, and it is fragrance-free and paraben-free to avoid two common triggers. Patch test on a small area before first use, especially with known sensitivities to Asteraceae-family botanicals.
+Topical steroid creams are commonly prescribed for baby eczema and can be used safely under a pediatrician's guidance, but many parents look for a non-steroid option for daily care. Era Organics Honey & Oats Manuka Honey Eczema Cream is a steroid-free alternative that helps relieve the itching and irritation of eczema and dermatitis through colloidal oatmeal 1%. It pairs the active with aloe vera, shea butter, and hyaluronic acid, and it is fragrance-free and paraben-free to avoid two common triggers. Patch test on a small area before first use, especially with known sensitivities to Asteraceae-family botanicals.
 
 *Reference: [Baby Skin Condition Eczema](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-eczema) · PMID 32484623*
 
 ### Can diet changes cure eczema?
 
-No. Diet changes do not cure eczema, and no food or eating plan can eliminate the condition. For some people, avoiding a confirmed trigger food may reduce how often flares happen, but managing eczema still relies on skin-directed care that addresses the itch and the disrupted skin barrier. Era Organics Honey & Oats Manuka Honey Eczema Cream works at that level: its colloidal oatmeal 1% skin protectant helps relieve the itching and irritation of eczema, while ingredients like hemp seed oil supply linoleic acid to support the lipid layer disrupted in eczema flares.
+No. Diet changes do not cure eczema, and no food or eating plan can eliminate the condition. For some people, avoiding a confirmed trigger food may reduce how often flares happen, but managing eczema still relies on skin-directed care that addresses the itch and the disrupted skin barrier. Era Organics Honey & Oats Manuka Honey Eczema Cream works at that level: its colloidal oatmeal 1% skin protectant helps relieve the itching and irritation of eczema.
 
 ### Can eczema be cured or go away permanently?
 
@@ -275,13 +275,13 @@ Zinc oxide is a common skin protectant, but it is not the active in Era Organics
 
 ### How do I clear up eczema or an eczema flare-up fast?
 
-Focus on protecting the skin barrier and calming the itch-scratch cycle that drives a flare. Era Organics Honey & Oats Manuka Honey Eczema Cream helps relieve the itching and irritation of eczema through colloidal oatmeal 1%. It suspends that active in aloe vera, shea butter, cocoa butter, glycerin, and hyaluronic acid, while manuka honey and hemp seed oil help soothe the surface and support the lipid layer disrupted during flares. It is fragrance-free and paraben-free, removing two common triggers that intensify irritation; patch test a small area first, especially with sensitivities to Asteraceae botanicals like sunflower.
+Focus on protecting the skin barrier and calming the itch-scratch cycle that drives a flare. Era Organics Honey & Oats Manuka Honey Eczema Cream helps relieve the itching and irritation of eczema through colloidal oatmeal 1%. It suspends that active in aloe vera, shea butter, cocoa butter, glycerin, and hyaluronic acid. It is fragrance-free and paraben-free, removing two common triggers that intensify irritation; patch test a small area first, especially with sensitivities to Asteraceae botanicals like sunflower.
 
 *Reference: [Skin Condition Eczema](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-eczema) · PMID 32484623*
 
 ### How do I stop eczema itching?
 
-Relieve the itch by putting a protective barrier over the skin and breaking the itch-scratch cycle. Era Organics Honey & Oats Manuka Honey Eczema Cream does this with colloidal oatmeal 1%. Its base of aloe vera, shea butter, glycerin, and hyaluronic acid adds moisture, while manuka honey and hemp seed oil help soothe irritation and support the skin's lipid layer. It is fragrance-free and paraben-free, removing two common triggers that intensify eczema.
+Relieve the itch by putting a protective barrier over the skin and breaking the itch-scratch cycle. Era Organics Honey & Oats Manuka Honey Eczema Cream does this with colloidal oatmeal 1%. Its base of aloe vera, shea butter, glycerin, and hyaluronic acid adds moisture. It is fragrance-free and paraben-free, removing two common triggers that intensify eczema.
 
 *Reference: [Skin Condition Eczema](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-eczema) · PMID 32484623*
 
@@ -297,7 +297,7 @@ Keep a simple log that records where each flare appears, how itchy or rough the 
 
 ### How do I treat eczema on my feet?
 
-Keep the skin on your feet moisturized and protected, and use an OTC skin protectant to relieve the itching and irritation. Era Organics Honey & Oats Manuka Honey Eczema Cream does this with colloidal oatmeal 1%. A randomized, double-blind controlled study found a colloidal oatmeal cream improved skin barrier properties in atopic dermatitis, and the cream pairs the active with shea butter, cocoa butter, and hemp seed oil to soften the tight, cracked feel of severely dry skin. It is fragrance-free and paraben-free; patch test a small area first, especially if you react to Asteraceae-family botanicals.
+Keep the skin on your feet moisturized and protected, and use an OTC skin protectant to relieve the itching and irritation. Era Organics Honey & Oats Manuka Honey Eczema Cream does this with colloidal oatmeal 1%. A randomized, double-blind controlled study found a colloidal oatmeal cream improved skin barrier properties in atopic dermatitis, and the cream pairs the active with shea butter and cocoa butter to soften the tight, cracked feel of severely dry skin. It is fragrance-free and paraben-free; patch test a small area first, especially if you react to Asteraceae-family botanicals.
 
 *Reference: [Skin Condition Eczema](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-eczema) · PMID 32484623*
 
@@ -313,13 +313,13 @@ Era Organics Honey & Oats Manuka Honey Eczema Cream is not made to fix skin disc
 
 ### How do you manage eczema that keeps coming back?
 
-Managing recurring eczema centers on consistent barrier support between and during flares. Era Organics Honey & Oats Manuka Honey Eczema Cream helps relieve the itching and irritation of eczema through colloidal oatmeal 1%. In one study, a colloidal oatmeal moisturizer improved visual dryness and tactile roughness that persisted through the regression phase, when skin tends to relapse. Between the active, hemp seed oil's linoleic acid supports the disrupted lipid layer, while manuka honey and shea and cocoa butter help soothe and soften eczema-prone skin.
+Managing recurring eczema centers on consistent barrier support between and during flares. Era Organics Honey & Oats Manuka Honey Eczema Cream helps relieve the itching and irritation of eczema through colloidal oatmeal 1%. In one study, a colloidal oatmeal moisturizer improved visual dryness and tactile roughness that persisted through the regression phase, when skin tends to relapse. Manuka honey and shea and cocoa butter help soothe and soften eczema-prone skin.
 
 *Reference: [Skin Condition Eczema](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-eczema) · PMID 32484623*
 
 ### How do you treat eczema on your hands, including dyshidrotic or oozing flare-ups?
 
-Treat hand eczema, including dyshidrotic or oozing flare-ups, by keeping the skin barrier protected and moisturized while avoiding known irritants. Era Organics Honey & Oats Manuka Honey Eczema Cream uses colloidal oatmeal 1% to help relieve the itching and irritation of eczema. The formula pairs the active with hemp seed oil, which supplies linoleic acid to support the lipid layer disrupted in eczema flares, and manuka honey to draw moisture in and calm surface irritation. It is fragrance-free and paraben-free, removing two common external triggers that can intensify contact dermatitis alongside eczema; patch test a small area first if you have known sensitivities.
+Treat hand eczema, including dyshidrotic or oozing flare-ups, by keeping the skin barrier protected and moisturized while avoiding known irritants. Era Organics Honey & Oats Manuka Honey Eczema Cream uses colloidal oatmeal 1% to help relieve the itching and irritation of eczema. The formula pairs the active with manuka honey to draw moisture in and calm surface irritation. It is fragrance-free and paraben-free, removing two common external triggers that can intensify contact dermatitis alongside eczema; patch test a small area first if you have known sensitivities.
 
 *Reference: [Skin Condition Dyshidrotic Eczema](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-dyshidrotic-eczema) · PMID 32484623*
 
@@ -385,7 +385,7 @@ Eczema can flare suddenly when the skin meets an external irritant, and two of t
 
 ### What clears up eczema fast?
 
-There is no instant cure for eczema, but the itching and irritation can be relieved while the skin barrier recovers. Era Organics Honey & Oats Manuka Honey Eczema Cream works through colloidal oatmeal 1%. Its moisturizing base of aloe vera, shea butter, cocoa butter, glycerin, and hyaluronic acid soothes dryness, while hemp seed oil supplies linoleic acid to support the lipid layer disrupted during flares. It is fragrance-free and paraben-free, removing two common triggers that can intensify irritation.
+There is no instant cure for eczema, but the itching and irritation can be relieved while the skin barrier recovers. Era Organics Honey & Oats Manuka Honey Eczema Cream works through colloidal oatmeal 1%. Its moisturizing base of aloe vera, shea butter, cocoa butter, glycerin, and hyaluronic acid soothes dryness. It is fragrance-free and paraben-free, removing two common triggers that can intensify irritation.
 
 *Reference: [Skin Condition Eczema](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-eczema) · PMID 32484623*
 
@@ -425,7 +425,7 @@ The 3-minute rule means applying moisturizer within three minutes of bathing, wh
 
 ### What is the best cream for eczema?
 
-The best eczema cream is one built around a skin protectant that both relieves the itching and irritation of eczema and restores moisture to the barrier. Era Organics Honey & Oats Manuka Honey Eczema Cream uses colloidal oatmeal 1%. The active is suspended in aloe vera, shea butter, cocoa butter, glycerin, and hyaluronic acid, while manuka honey draws in moisture and hemp seed oil supplies linoleic acid to support the lipid layer disrupted in flares. Since it is fragrance-free and paraben-free, it also removes two common triggers that intensify irritation.
+The best eczema cream is one built around a skin protectant that both relieves the itching and irritation of eczema and restores moisture to the barrier. Era Organics Honey & Oats Manuka Honey Eczema Cream uses colloidal oatmeal 1%. The active is suspended in aloe vera, shea butter, cocoa butter, glycerin, and hyaluronic acid, while manuka honey draws in moisture. Since it is fragrance-free and paraben-free, it also removes two common triggers that intensify irritation.
 
 *Reference: [Skin Condition Eczema](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-eczema) · PMID 32484623*
 
@@ -461,13 +461,13 @@ Prescription treatment for eczema is a decision for your doctor, and the options
 
 ### What natural moisturizers, oils, and creams actually help eczema?
 
-Era Organics Honey & Oats Manuka Honey Eczema Cream is built around colloidal oatmeal 1%, a skin protectant that helps relieve the itching and irritation of eczema. Alongside it, the formula pairs plant emollients that soothe dry, cracked skin: aloe vera, shea butter, cocoa butter, glycerin, hyaluronic acid, and hemp seed oil, whose linoleic acid supports the skin's lipid layer. Manuka honey draws moisture into the skin as a natural humectant while helping calm surface irritation. The cream is fragrance-free and paraben-free, removing two common triggers that can worsen dermatitis.
+Era Organics Honey & Oats Manuka Honey Eczema Cream is built around colloidal oatmeal 1%, a skin protectant that helps relieve the itching and irritation of eczema. Alongside it, the formula pairs plant emollients that soothe dry, cracked skin: aloe vera, shea butter, cocoa butter, glycerin, and hyaluronic acid. Manuka honey draws moisture into the skin as a natural humectant while helping calm surface irritation. The cream is fragrance-free and paraben-free, removing two common triggers that can worsen dermatitis.
 
 *Reference: [Skin Condition Eczema](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-eczema) · PMID 32484623, 34409356*
 
 ### What oil helps with eczema?
 
-Hemp seed oil is a helpful choice for eczema-prone skin. It supplies linoleic acid, a fatty acid that supports the skin's lipid layer, which is disrupted during eczema flares. Era Organics Honey & Oats Manuka Honey Eczema Cream pairs hemp seed oil and carrot seed oil with emollients like shea butter and cocoa butter to soften cracked, tight skin, while its active colloidal oatmeal 1% skin protectant relieves the itching and irritation of eczema.
+Era Organics Honey & Oats Manuka Honey Eczema Cream pairs carrot seed oil with emollients like shea butter and cocoa butter to soften cracked, tight skin, while its active colloidal oatmeal 1% skin protectant relieves the itching and irritation of eczema.
 
 *Reference: [Skin Condition Eczema](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-eczema) · PMID 32484623*
 
