@@ -1,10 +1,10 @@
 # Atopic dermatitis
 
-Superbalm temporarily protects and helps relieve the dryness, itch, and irritation of atopic dermatitis with skin-softening ingredients (emollients) and skin-calming botanicals. Chamomile, Calendula Oil, Sunflower Oil, Avocado Oil, and Beeswax each relate to a different part of compromised skin — the loss of surface lipids, surface irritation, and the breakdown of the outer barrier that allows moisture to escape and irritants to enter. Era Organics Superbalm Healing Ointment Baby Eczema Cream brings these ingredients together in a USDA Organic, fragrance-free, paraben-free ointment.
+Chamomile, Calendula Oil, Sunflower Oil, Avocado Oil, and Beeswax each relate to a different part of compromised skin — the loss of surface lipids, surface irritation, and the breakdown of the outer barrier that allows moisture to escape and irritants to enter. Era Organics Superbalm Healing Ointment Baby Eczema Cream brings these ingredients together in a USDA Organic, fragrance-free, paraben-free ointment.
 
 Chamomile's role in atopic skin has been studied in clinical research. A half-side comparison study found that a chamomile-based cream showed mild superiority over 0.5% hydrocortisone cream in patients with medium-degree atopic eczema after a two-week treatment period (Patzelt-Wenczler et al., European Journal of Medical Research, 2000). Superbalm includes Chamomile alongside Calendula Oil, Sunflower Oil, and Gluten Free Oats, ingredients chosen to soothe and soften dry, rough skin and help protect it against moisture loss through the skin (transepidermal water loss).
 
-Beeswax and Cocoa Butter are the occlusive base of the balm, ingredients that help seal in moisture and protect barrier-compromised skin from environmental irritants. Coconut Oil and Avocado Oil supply fatty acids known to soften dry skin. Vegetable Glycerin is a humectant that helps draw water into the upper layers of the skin, which atopic skin tends to lose. Together, these ingredients help Superbalm temporarily protect and help relieve the dryness, itch, and irritation of atopic dermatitis.
+Beeswax and Cocoa Butter are the occlusive base of the balm, ingredients that help seal in moisture and protect barrier-compromised skin from environmental irritants. Coconut Oil and Avocado Oil supply fatty acids known to soften dry skin. Vegetable Glycerin is a humectant that helps draw water into the upper layers of the skin, which atopic skin tends to lose.
 
 Superbalm is free from fragrances, parabens, sulfates, phthalates, synthetic dyes, mineral oil, and propylene glycol, common ingredient categories that can bother sensitized skin. Patch test the balm on the inside of the elbow before first use, particularly for users with known ragweed or Asteraceae family sensitivities, as Chamomile belongs to that botanical family.
 
@@ -24,13 +24,13 @@ Superbalm is fragrance-free, paraben-free, and mineral-oil-free, leaving out ing
 
 Baby eczema and food sensitivities often share a common root: a compromised skin barrier. In atopic dermatitis, the outer layer of skin loses its surface lipids and breaks down structurally, allowing moisture to escape and irritants to penetrate more easily. That same barrier weakness is why babies with eczema frequently react to environmental triggers of all kinds.
 
-Supporting the barrier with regular moisturizing is a widely recommended part of caring for eczema-prone skin. Era Organics Superbalm temporarily protects and helps relieve the dryness, itch, and irritation of atopic dermatitis. Beeswax and Cocoa Butter help seal moisture in; Vegetable Glycerin helps draw water into the upper skin layers; Sunflower, Avocado, and Coconut Oils supply fatty acids. Chamomile has been studied in atopic eczema, showing mild superiority over 0.5% hydrocortisone cream in a half-side comparison study. The formula is fragrance-free and paraben-free.
+Supporting the barrier with regular moisturizing is a widely recommended part of caring for eczema-prone skin. Beeswax and Cocoa Butter help seal moisture in; Vegetable Glycerin helps draw water into the upper skin layers; Sunflower, Avocado, and Coconut Oils supply fatty acids. Chamomile has been studied in atopic eczema, showing mild superiority over 0.5% hydrocortisone cream in a half-side comparison study. The formula is fragrance-free and paraben-free.
 
 *Reference: [Skin Condition Atopic Dermatitis](https://www.eraorganics.com/blogs/beauty-guide/skin-condition-atopic-dermatitis) · PMID 10799352*
 
 ## Related
 
-- **Full product:** [Era Organics Superbalm for atopic dermatitis](/products/baby-eczema-superbalm)
+- **Full product:** [Era Organics Superbalm](/products/baby-eczema-superbalm)
 
 **Key ingredients:**
 
@@ -53,7 +53,7 @@ Supporting the barrier with regular moisturizing is a widely recommended part of
 
 ## Disclaimer
 
-*Era Organics Superbalm is an over-the-counter skin protectant. It temporarily protects and helps relieve the dryness, itch, and irritation of eczema and atopic dermatitis. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*Era Organics Superbalm is an over-the-counter skin protectant. It temporarily protects and helps relieve minor skin irritation and itching due to eczema. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
 
 <!-- enhance:hypochlorous-acid-spray:conditions/atopic-dermatitis -->
 
