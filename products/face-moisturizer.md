@@ -16,7 +16,7 @@ Aloe vera gel consists of 99.5% water with polysaccharides (acemannan), amino ac
 
 **Role in Face Moisturizer:** Primary humectant. Helps attract and retain water in the epidermis.
 
-### 3. Shea butter (Vitellaria paradoxa)
+### 2. Shea butter (Vitellaria paradoxa)
 
 Shea butter delivers cinnamic acid esters (anti-inflammatory), triterpenes (lupeol, amyrin), and a fatty acid profile dominated by oleic (46%) and stearic (43%) acids.
 
@@ -24,7 +24,7 @@ Shea butter delivers cinnamic acid esters (anti-inflammatory), triterpenes (lupe
 
 **Role in Face Moisturizer:** Barrier reinforcement. Can help strengthen the barrier.
 
-### 4. Cocoa butter (Theobroma cacao)
+### 3. Cocoa butter (Theobroma cacao)
 
 Cocoa butter provides saturated fatty acids (stearic 33%, palmitic 25%) and polyphenolic antioxidants (flavanols, catechins, epicatechins).
 
@@ -32,7 +32,7 @@ Cocoa butter provides saturated fatty acids (stearic 33%, palmitic 25%) and poly
 
 **Role in Face Moisturizer:** Occlusive seal. Helps prevent transepidermal water loss (TEWL).
 
-### 6. Vitamin E (tocopherol)
+### 4. Vitamin E (tocopherol)
 
 Vitamin E is the skin's primary lipid-soluble antioxidant — naturally present in sebum and the stratum corneum lipid matrix.
 
