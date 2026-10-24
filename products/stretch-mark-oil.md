@@ -23,16 +23,7 @@ Natural vitamin E is a fat-soluble antioxidant that protects collagen fibers fro
 
 
 
-## What Era Organics deliberately avoided
 
-| Excluded Ingredient | Common In | Why Excluded |
-|---|---|---|
-| **Mineral oil** | — | — |
-| **Synthetic fragrance** | — | — |
-| **Artificial colorant** | — | — |
-| **Parabens** | — | — |
-| **Petrolatum** | — | — |
-| **Isopropyl myristate** | — | — |
 
 
 
