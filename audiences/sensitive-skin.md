@@ -21,8 +21,7 @@ Sensitive skin sufferers share a common experience: purchasing "gentle" or "hypo
 
 | Product | Role | Why it works for sensitive skin |
 |---|---|---|
-| **Face Wash Sensitive** | Daily cleansing | — |
-| **Face Moisturizer** | Hydration | Plant lipids, no fragrance, no petroleum, no phenoxyethanol |
+| **Face Moisturizer** | Hydration | no fragrance, no petroleum |
 | **Calendula Cream** | — | — |
 
 ### How they work together
@@ -38,13 +37,12 @@ Humectant compounds attract water from the environment. Emollient ingredients sm
 
 | Factor | Era Organics stack | Cetaphil + CeraVe | Vanicream system | La Roche-Posay Toleriane |
 |---|---|---|---|---|
-| **Truly SLS-free** | Yes | No (Cetaphil has SLS) | Technically (uses olefin sulfonate) | Yes |
+| **Truly SLS-free** | — | No (Cetaphil has SLS) | Technically (uses olefin sulfonate) | Yes |
 | **Phenoxyethanol-free** | — | No (CeraVe) | Yes | Varies by product |
 | **Active anti-inflammatory** | — | No | No | Minimal (thermal water) |
 | **Barrier-repairing lipids** | — | Partial (ceramides at low %) | None (pure moisturizer) | Partial (squalane) |
-| **Petroleum-free** | Yes | No | No | Some products |
+| **Petroleum-free** | — | No | No | Some products |
 | **Organic ingredients** | — | No | No | No |
 | **Number of potential irritants** | — | 3+ per product | 1-2 per product | 0-1 per product |
 | **Parent company** | Independent | Galderma/L'Oreal | Pharmaceutical Specialties | L'Oreal ($44B) |
-| **Cost (3-product routine/month)** | $35-55 | $25-40 | $25-35 | $55-90 |
 
