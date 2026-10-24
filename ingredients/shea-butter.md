@@ -22,7 +22,7 @@ Shea butter works on skin as a lipid-rich emollient that deposits a occlusive ba
 
 The shea butter skin barrier function extends beyond simple occlusion. The shea butter mechanism centres on unsaponifiable lipids in Butyrospermum parkii that bind directly to keratinocyte membranes, softening dead skin cells (corneocytes) and reducing the microcracking that characterises dry and chapped skin. A shea butter-containing barrier-restoring cream significantly preserved skin hydration and regulated the epidermal barrier in human subjects (Mohanan et al., International Journal of Cosmetic Science, 2025).
 
-In a clinical acceptability trial recruiting 34 patients with atopic dermatitis, 74% reported "very good" or "good" outcomes with a lipid complex cream containing shea butter (Hon et al., Hong Kong Medical Journal, 2015). Those numbers reflect the degree to which shea butter for skin barrier repair registers with real patients, delivering results in controlled measurements and in everyday use.
+In a clinical acceptability trial recruiting 34 patients with atopic dermatitis, 74% reported "very good" or "good" outcomes with a lipid complex cream containing shea butter (Hon et al., Hong Kong Medical Journal, 2015). Those numbers reflect the degree to which shea butter for skin barrier repair registers with real patients.
 
 ## What Does the Evidence Say About Shea Butter for Skin?
 
@@ -38,7 +38,7 @@ Ethnomedicinal documentation broadens the shea butter research record beyond con
 
 Yes, shea butter is safe for topical use across a wide range of skin types, including dry, sensitive, eczema-prone, and compromised skin. A shea butter-based nanostructured lipid carrier formulation maintained stability over 28 days in testing, with researchers characterizing shea butter as a safe carrier system for topical delivery (Kim M et al., Pharmaceutics, 2020). Shea butter skin types span from infants to adults: a shea butter emollient in diapers protected diapered skin and reduced skin redness (erythema) with no adverse effects reported (O'Connor R et al., Pediatric Dermatology, 2025, industry-funded).
 
-The shea butter tree nut question is the most common safety concern for new users. Shea butter is derived from the nut of *Vitellaria paradoxa*, but the allergy proteins found in tree nuts are not present in the refined lipid fraction of shea butter — the fatty acids and unsaponifiables that reach the skin carry no measurable allergenic proteins. Major dermatology and allergy bodies, including the American College of Allergy, Asthma, and Immunology, do not classify shea butter as a tree nut allergen under standard nut-allergy protocols. Patch testing before first use remains the standard precaution for any new topical ingredient, particularly on reactive or atopic skin.
+The shea butter tree nut question is the most common safety concern for new users. Shea butter is derived from the nut of *Vitellaria paradoxa*, but the allergy proteins found in tree nuts are not present in the refined lipid fraction of shea butter — the fatty acids and unsaponifiables that reach the skin carry no measurable allergenic proteins. Patch testing before first use remains the standard precaution for any new topical ingredient, particularly on reactive or atopic skin.
 
 Oily and acne-prone skin types warrant a note. Shea butter's high oleic acid content makes it a rich occlusive emollient, a good match for dry, cracked, or chafed skin but a heavier feel on already-oily areas.
 
@@ -96,7 +96,7 @@ Chafing and diaper rash share the same pathophysiology as contact dermatitis, me
 
 The diaper zone concentrates moisture, friction, and waste-derived irritants against already-thin skin. Shea butter's stearic acid and oleic acid fill intercellular lipid gaps in the outer skin layer (stratum corneum), reducing moisture loss through the skin (transepidermal water loss) at the site.
 
-A botanical anti-inflammatory moisturizer produced a highly statistically significant improvement (P < 0.001) in investigator-assessed skin redness (erythema), dryness, and overall skin appearance after 2 weeks of use, with a 79% reduction in itching recorded across participants (Draelos, Journal of Cosmetic Dermatology, 2016). Shea butter's unsaponifiable fraction, rich in triterpene alcohols, is the lipid class responsible for that anti-inflammatory action on irritated skin.
+A botanical anti-inflammatory moisturizer produced a highly statistically significant improvement (P < 0.001) in investigator-assessed skin redness (erythema), dryness, and overall skin appearance after 2 weeks of use, with a 79% reduction in itching recorded across participants (Draelos, Journal of Cosmetic Dermatology, 2016).
 
 Consistent barrier coverage matters more than any single application.
 
@@ -126,4 +126,4 @@ Shea butter (Butyrospermum Parkii) comes from the nut of the African shea tree, 
 
 ## Disclaimer
 
-*The information on this page is provided for educational purposes only and is not medical advice. Era Organics Honey & Oats Manuka Honey Eczema Cream, Era Organics Superbalm, and Era Organics Diaper Rash Cream are over-the-counter skin protectants; other Era Organics products are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*The information on this page is provided for educational purposes only and is not medical advice. Some Era Organics products are over-the-counter skin protectants; other Era Organics products are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
