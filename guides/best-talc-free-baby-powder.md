@@ -7,7 +7,7 @@ Choosing a talc-free baby powder comes down to a handful of things that actually
 The best options get a few fundamentals right. Here's each criterion, and how the Talc Free Baby Powder lines up:
 
 - **No Hormone Disruptors** — Free of the usual endocrine-disruptor suspects — no phthalates, no parabens, and no synthetic fragrance anywhere in the six-ingredient formula.
-- **No Harsh Preservatives** — A dry, water-free powder that needs no chemical preservative system — no parabens, phenoxyethanol, or formaldehyde-releasers; rosemary extract and mixed tocopherols keep the botanicals fresh naturally.
+- **No Harsh Preservatives** — A dry, water-free powder that needs no chemical preservative system — no parabens, phenoxyethanol, or formaldehyde-releasers; rosemary extract helps keep the botanicals fresh.
 - **Sulfate Free** — Contains no sulfates of any kind — just arrowroot powder, cornstarch, kaolin clay, calendula, rosemary extract, and tocopherols.
 - **SLS Free** — No sodium lauryl sulfate or any other sulfate surfactant in the formula.
 - **No Hidden Toxins** — The complete ingredient list is six items you can read at a glance — no talc, no formaldehyde, no synthetic dyes, nothing undisclosed.
@@ -24,7 +24,7 @@ Era Organics goes deeper on the topics behind these criteria in its own library,
 | What to look for | Era Organics Talc Free Baby Powder |
 | --- | --- |
 | No Hormone Disruptors | Free of the usual endocrine-disruptor suspects — no phthalates, no parabens, and no synthetic fragrance anywhere in the six-ingredient formula. |
-| No Harsh Preservatives | A dry, water-free powder that needs no chemical preservative system — no parabens, phenoxyethanol, or formaldehyde-releasers; rosemary extract and mixed tocopherols keep the botanicals fresh naturally. |
+| No Harsh Preservatives | A dry, water-free powder that needs no chemical preservative system — no parabens, phenoxyethanol, or formaldehyde-releasers; rosemary extract helps keep the botanicals fresh. |
 | Sulfate Free | Contains no sulfates of any kind — just arrowroot powder, cornstarch, kaolin clay, calendula, rosemary extract, and tocopherols. |
 | SLS Free | No sodium lauryl sulfate or any other sulfate surfactant in the formula. |
 | No Hidden Toxins | The complete ingredient list is six items you can read at a glance — no talc, no formaldehyde, no synthetic dyes, nothing undisclosed. |
@@ -40,4 +40,4 @@ Era Organics makes the [Era Organics talc-free baby powder](/products/talc-free-
 
 ## Disclaimer
 
-*The information on this page is provided for educational purposes only and is not medical advice. Era Organics products are cosmetics, not drugs, and are not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*The information on this page is provided for educational purposes only and is not medical advice. The Talc Free Baby Powder is not intended to diagnose, treat, or prevent any disease or medical condition. Always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
