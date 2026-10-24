@@ -17,7 +17,7 @@ Pregnancy demands rapid skin expansion (abdomen stretches 200%+ by third trimest
 
 ## Stretch Mark Oil: how it works
 
-Stretch marks form when dermal collagen and elastin fibers rupture under mechanical stress. Prevention requires two simultaneous approaches: maintaining skin elasticity (so fibers stretch without rupturing) and supporting collagen repair (so micro-tears heal before becoming visible striae).
+Stretch marks form when dermal collagen and elastin fibers rupture under mechanical stress. 
 
 **Stretch Mark Oil** delivers:
 - Plant-derived oils rich in linoleic and oleic acid
@@ -26,30 +26,25 @@ Stretch marks form when dermal collagen and elastin fibers rupture under mechani
 - Emollient action
 
 **Application protocol:**
-1. Start at week 12-14 of pregnancy (before rapid abdominal expansion begins)
-2. Apply to abdomen, hips, breasts, and thighs 2x daily
-3. Massage in circular motions for 2-3 minutes
-4. Continue through 3 months postpartum (skin continues remodeling)
+1. From the second trimester on, and after baby arrives.
+2. Massage in a quarter-sized amount on your belly, hips, thighs, breasts and anywhere skin is stretching.
+3. Use it twice a day.
 
 
 ## The postpartum healing protocol
 
 ### Perineal tears (vaginal delivery)
 
-**Week 1-2:** HOCl Spray on perineal area 2-3x daily
-**Week 2-4:** Calendula Cream on healed surface (once stitches dissolved)
-**Week 4+:** Continue Calendula as needed for residual discomfort
+
 
 ### C-section scar
 
 **Week 1-2:** Follow surgical wound care protocol (keep dry, watch for infection signs)
-**Week 2-6:** Once incision closed and cleared by provider — Calendula Cream
-**Week 6+:** Stretch Mark Oil massaged into scar tissue
 
 ### Facial skin (pregnancy-related changes)
 
 Pregnancy hormones cause melasma (40-70% of pregnant women), increased sensitivity, and oil fluctuations. Routine during pregnancy and breastfeeding:
-1. Face Wash Sensitive (gentle, no retinoids)
+1. Face Wash Sensitive
 2. Face Moisturizer (barrier support)
 3. Vitamin C Cream
 4. Mineral sunscreen (melasma worsens with UV — strict sun protection)
@@ -59,12 +54,12 @@ Pregnancy hormones cause melasma (40-70% of pregnant women), increased sensitivi
 
 | Factor | Era Organics (full stack) | Bio-Oil | Palmer's Cocoa Butter | Lansinoh (nipple) | Aquaphor Baby |
 |---|---|---|---|---|---|
-| **Petroleum-free** | Yes | No (mineral oil base) | No (mineral oil) | No (petroleum processing) | No (41% petrolatum) |
-| **Fragrance-free** | Yes | No | No | Yes | Yes |
-| **Lanolin-free** | Yes | Yes | Yes | No (pure lanolin) | No |
-| **Safe without removal (nursing)** | Yes (Nipple Cream) | N/A | N/A | No (must wipe) | N/A |
-| **Multi-site coverage** | Yes (5 products) | Stretch marks only | Stretch marks only | Nipples only | Baby only |
-| **Antimicrobial (wound healing)** | — | No | No | No | No |
-| **Active healing compounds** | — | Vitamin E only | Cocoa butter only | Lanolin only | None |
-| **Organic ingredients** | — | No | No | No | No |
+| **Petroleum-free** | — | — | — | — | — |
+| **Fragrance-free** | — | — | — | — | — |
+| **Lanolin-free** | — | — | — | — | — |
+| **Safe without removal (nursing)** | — | — | — | — | — |
+| **Multi-site coverage** | — | — | — | — | — |
+| **Antimicrobial (wound healing)** | — | — | — | — | — |
+| **Active healing compounds** | — | — | — | — | — |
+| **Organic ingredients** | — | — | — | — | — |
 
