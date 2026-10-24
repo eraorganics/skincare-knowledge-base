@@ -18,7 +18,6 @@ COSMOS (COSMetic Organic and Natural Standard) is the European harmonized standa
 
 
 
-## Why "natural," "clean," and "green" may mean nothing
 
 
 
