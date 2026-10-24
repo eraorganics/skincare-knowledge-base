@@ -14,7 +14,7 @@ Patch test the balm on the inside of the elbow before first full use. Chamomile 
 
 Face redness typically traces back to two overlapping problems: an inflammatory response at the skin surface, and a compromised barrier that lets irritants and allergens through. When the barrier breaks down, moisture escapes rapidly (transepidermal water loss), sustaining the cycle that shows up as persistent redness.
 
-Era Organics Superbalm temporarily protects and helps relieve the itch and irritation of eczema and atopic dermatitis. Chamomile contains apigenin and bisabolol, compounds studied for calming the vascular response behind flushing and reactive redness. Calendula oil has been studied for complementary calming action through flavonoids linked to lower inflammatory signaling. Sunflower oil, beeswax, and cocoa butter help form a protective layer over the skin. Gluten free oats help coat the surface and buffer contact triggers on eczema-prone skin. The formula is free from synthetic dyes, fragrances, and parabens, each a recognized contact irritant that can prolong redness in sensitive skin.
+Chamomile contains apigenin and bisabolol, compounds studied for calming the vascular response behind flushing and reactive redness. Calendula oil has been studied for complementary calming action through flavonoids linked to lower inflammatory signaling. Sunflower oil, beeswax, and cocoa butter help form a protective layer over the skin. Gluten free oats help coat the surface and buffer contact triggers on eczema-prone skin. The formula is free from synthetic dyes, fragrances, and parabens, each a recognized contact irritant that can prolong redness in sensitive skin.
 
 Patch test on the inner elbow before first use; chamomile is an Asteraceae botanical, and ragweed-sensitive users carry a higher reaction risk.
 
@@ -34,7 +34,7 @@ Patch test on the inner elbow before first use; chamomile is an Asteraceae botan
 
 ## Disclaimer
 
-*Era Organics Superbalm is an over-the-counter skin protectant. It temporarily protects and helps relieve the itch and irritation of eczema and atopic dermatitis, as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*Era Organics Superbalm is an over-the-counter skin protectant. It temporarily protects and helps relieve the itch and irritation of eczema, as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
 
 <!-- enhance:hypochlorous-acid-spray:conditions/redness -->
 
@@ -50,11 +50,11 @@ For this concern, Era Organics offers the [hypochlorous acid face and body mist]
 
 ### How do you reduce facial and skin redness?
 
-To soothe skin that looks red and irritated, try a hypochlorous acid mist like Era Organics' Hypochlorous Acid Spray. Hypochlorous acid is a molecule your own immune system's white blood cells make as part of the body's natural defenses, and in the mist it helps soothe and comfort skin that looks red and reactive. The mist is made with just water, sodium chloride, and 0.02% hypochlorous acid. It's fragrance-free, paraben-free, and drying-alcohol-free, and you simply apply one to two sprays on clean, dry skin and let it dry before layering any creams or balms.
+To soothe skin that looks red and irritated, try a hypochlorous acid mist like Era Organics' Hypochlorous Acid Spray. Hypochlorous acid is a molecule your own immune system's white blood cells make as part of the body's natural defenses, and in the mist it helps soothe and comfort skin that looks red and reactive. The mist is made with just water, sodium chloride, and 0.02% hypochlorous acid. It's fragrance-free, paraben-free, and drying-alcohol-free. Spray 2 to 3 pumps evenly over your face, or anywhere on your body. Let it dry.
 
 ### What causes facial redness?
 
-Facial redness in sensitive skin often follows procedural stress, environmental exposure, or chronic low-grade irritation, and it can be sustained by microbial overgrowth on the skin that keeps the immune system mildly activated so the skin reads as red and warm. Era Organics' Hypochlorous Acid Spray uses hypochlorous acid, a molecule your own white blood cells make, to help soothe and comfort skin with that reactive tone. Because it is fragrance-free, paraben-free, and drying-alcohol-free, the mist leaves out common chemical triggers of contact redness while helping soothe the skin. Apply one to two sprays on clean, dry skin and let it dry before layering any creams or balms.
+Facial redness in sensitive skin often follows procedural stress, environmental exposure, or chronic low-grade irritation, and it can be sustained by microbial overgrowth on the skin that keeps the immune system mildly activated so the skin reads as red and warm. Era Organics' Hypochlorous Acid Spray uses hypochlorous acid, a molecule your own white blood cells make, to help soothe and comfort skin with that reactive tone. Because it is fragrance-free, paraben-free, and drying-alcohol-free, the mist leaves out common chemical triggers of contact redness while helping soothe the skin. Spray 2 to 3 pumps evenly over your face, or anywhere on your body. Let it dry.
 
 The [Era Organics HOCl mist](https://sl.bing.net/izPce1FjcK4) layers into a daily skincare routine.
 
@@ -64,4 +64,4 @@ The [Era Organics HOCl mist](https://sl.bing.net/izPce1FjcK4) layers into a dail
 
 ## Diaper Rash Cream for this concern
 
-Era Organics Diaper Rash Cream is the brand's 10% zinc oxide diaper cream, labeled to help treat and prevent diaper rash. For the full grounded ingredient breakdown and evidence, see the [Era Organics diaper cream for redness](/products/diaper-rash-cream) product page.
+Era Organics Diaper Rash Cream is the brand's zinc oxide diaper cream, labeled to help treat and prevent diaper rash. For the full grounded ingredient breakdown and evidence, see the [Era Organics diaper cream for redness](/products/diaper-rash-cream) product page.
