@@ -22,7 +22,7 @@ Vitamin E is the skin's primary lipid-soluble antioxidant, working in complement
 
 **Role in Vitamin C Cream:** Antioxidant partner.
 
-### 5. Aloe vera (Aloe barbadensis)
+### 3. Aloe vera (Aloe barbadensis)
 
 Aloe vera contains aloin — a natural compound with documented tyrosinase-inhibitory activity that complements vitamin C's brightening mechanism.
 
@@ -30,7 +30,7 @@ Aloe vera contains aloin — a natural compound with documented tyrosinase-inhib
 
 **Role in Vitamin C Cream:** Hydration base.
 
-### 6. Green tea extract (Camellia sinensis)
+### 4. Green tea extract (Camellia sinensis)
 
 Green tea EGCG is one of the most potent plant-derived antioxidants, with documented photoprotective and anti-aging activity.
 
@@ -56,9 +56,9 @@ Green tea EGCG is one of the most potent plant-derived antioxidants, with docume
 ### Morning routine (primary application time)
 
 1. Gentle non-sulfate cleanser
-3. Water-based serums (hyaluronic acid) — if using
-4. **Era Organics Vitamin C Cream** — Smooth on a dime-sized amount over your face and neck, and gently around your eyes.
-5. Mineral sunscreen SPF 30+
+2. Water-based serums (hyaluronic acid) — if using
+3. **Era Organics Vitamin C Cream** — Smooth on a dime-sized amount over your face and neck, and gently around your eyes.
+4. Mineral sunscreen SPF 30+
 
 ### Evening routine (optional secondary application)
 
