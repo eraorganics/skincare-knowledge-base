@@ -64,15 +64,7 @@ Eczema is not a surface problem. The condition originates from a combination of 
 
 
 
-### The eczema product stack
 
-| Product | Primary Mechanism | Best For |
-|---|---|---|
-| **HOCl Spray** | — | — |
-| **Baby Eczema Superbalm** | — | — |
-| **Eczema Cream** | — | — |
-| **Tea Tree Cream** | — | — |
-| **Face Wash Sensitive** | — | — |
 
 ### The protocol (adult eczema)
 
