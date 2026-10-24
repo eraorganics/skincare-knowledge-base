@@ -88,7 +88,7 @@ Stretch mark prevention is one area where cocoa butter's reputation outruns its 
 
 Separate cell-based research does point to barrier-level activity. In HaCaT keratinocyte cultures, cocoa butter-based nanostructured lipid carriers increased cell proliferation to 127% and wound repopulation to 65% compared with standard emulsions of the same butter (Costa et al., AAPS PharmSciTech, 2026). That finding reflects isolated cell behavior, not a clinical skin outcome, and Superbalm is not a nanocarrier formulation — the relevance is mechanistic, not direct.
 
-For everyday use, the balm suits dry, flaky patches, and it temporarily protects and helps relieve the itch and irritation of eczema, dermatitis, and rashes. Patch test before first use on reactive or eczema-prone skin.
+For everyday use, the balm suits dry, flaky patches. Patch test before first use on reactive or eczema-prone skin.
 
 ## Cocoa Seed Butter in Honey & Oats Manuka Honey Eczema Cream
 
@@ -152,7 +152,7 @@ Its high concentration of stearic and oleic fatty acids closely mirrors the lipi
 
 One caveat worth knowing: anyone with known tree-nut or seed allergies should patch test on the inside of the elbow before first use.
 
-Era Organics Superbalm combines cocoa seed butter with beeswax in a balm that also contains calendula oil and chamomile, for fragile, dry skin exposed to wind and cold. Superbalm temporarily protects and helps relieve the itch and irritation of eczema and atopic dermatitis, and its smooth, gliding texture means no friction-heavy rubbing on sensitive skin.
+Era Organics Superbalm combines cocoa seed butter with beeswax in a balm that also contains calendula oil and chamomile, for fragile, dry skin exposed to wind and cold. Superbalm's smooth, gliding texture means no friction-heavy rubbing on sensitive skin.
 
 ## Disclaimer
 
