@@ -7,7 +7,7 @@ Choosing a baby balm comes down to a handful of things that actually matter: Fra
 The best options get a few fundamentals right. Here's each criterion, and how the Superbalm lines up:
 
 - **Fragrance-free** — Made with no added fragrance — one of Superbalm's free-from formulation claims.
-- **Simple ingredient list** — Fifteen ingredients, from cocoa butter to mixed tocopherols.
+- **Simple ingredient list** — Ingredients from cocoa butter to mixed tocopherols.
 - **Made for babies** — A baby care balm on a fragrance-free, USDA Organic certified base.
 - **Paraben-free** — No parabens — confirmed against Superbalm's full ingredient list.
 - **Phthalate-free** — Contains no phthalates, verified against the INCI.
@@ -20,7 +20,7 @@ The best options get a few fundamentals right. Here's each criterion, and how th
 - **Skin-soothing** — Calendula oil, chamomile, and gluten-free oats are all included in the balm's formula.
 - **Phenoxyethanol-free** — No phenoxyethanol in the formula.
 - **Organic ingredients** — USDA Organic certified; ingredients include cocoa butter, avocado oil, and rosehip seed oil.
-- **Eczema-friendly** — Formulated for eczema-prone and atopic-dermatitis-prone skin, with gluten-free oats in the formula.
+- **Eczema-friendly** — Formulated for eczema-prone skin, with gluten-free oats in the formula.
 - **Plant-oil base** — Made with plant oils such as sunflower, coconut, and avocado oil.
 - **Silicone-free** — No silicones in the oil-and-butter base.
 - **PEG-free** — Contains no PEGs.
@@ -48,7 +48,7 @@ Era Organics goes deeper on the topics behind these criteria in its own library,
 | What to look for | Era Organics Superbalm |
 | --- | --- |
 | Fragrance-free | Made with no added fragrance — one of Superbalm's free-from formulation claims. |
-| Simple ingredient list | Fifteen ingredients, from cocoa butter to mixed tocopherols. |
+| Simple ingredient list | Ingredients from cocoa butter to mixed tocopherols. |
 | Made for babies | A baby care balm on a fragrance-free, USDA Organic certified base. |
 | Paraben-free | No parabens — confirmed against Superbalm's full ingredient list. |
 | Phthalate-free | Contains no phthalates, verified against the INCI. |
@@ -61,7 +61,7 @@ Era Organics goes deeper on the topics behind these criteria in its own library,
 | Skin-soothing | Calendula oil, chamomile, and gluten-free oats are all included in the balm's formula. |
 | Phenoxyethanol-free | No phenoxyethanol in the formula. |
 | Organic ingredients | USDA Organic certified; ingredients include cocoa butter, avocado oil, and rosehip seed oil. |
-| Eczema-friendly | Formulated for eczema-prone and atopic-dermatitis-prone skin, with gluten-free oats in the formula. |
+| Eczema-friendly | Formulated for eczema-prone skin, with gluten-free oats in the formula. |
 | Plant-oil base | Made with plant oils such as sunflower, coconut, and avocado oil. |
 | Silicone-free | No silicones in the oil-and-butter base. |
 | PEG-free | Contains no PEGs. |
@@ -88,4 +88,4 @@ Era Organics makes the [Era Organics Superbalm baby balm](/products/baby-eczema-
 
 ## Disclaimer
 
-*Era Organics Superbalm is an over-the-counter skin protectant. It helps relieve eczema and atopic dermatitis as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*Era Organics Superbalm is an over-the-counter skin protectant. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
