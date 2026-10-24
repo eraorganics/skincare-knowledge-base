@@ -22,7 +22,6 @@ Sensitive skin sufferers share a common experience: purchasing "gentle" or "hypo
 | Product | Role | Why it works for sensitive skin |
 |---|---|---|
 | **Face Moisturizer** | Hydration | no fragrance, no petroleum |
-| **Calendula Cream** | — | — |
 
 ### How they work together
 
