@@ -1,6 +1,6 @@
 # Rashes
 
-Superbalm for rashes pairs plant-derived skin-softening ingredients (emollients) with soothing botanicals to temporarily protect and help relieve the itch and irritation of rashes, which often involve compromised barrier function and surface irritation. Beeswax forms a breathable occlusive layer over irritated skin, slowing moisture loss through the skin (transepidermal water loss). Calendula Oil and Chamomile, both present in Era Organics Superbalm, contain flavonoids and terpenoids that have been studied for their effects on cutaneous inflammation. Rash-prone skin generally benefits from consistent, gentle daily care that keeps the barrier protected and moisturized.
+Superbalm for rashes pairs plant-derived skin-softening ingredients (emollients) with soothing botanicals. Beeswax forms a breathable occlusive layer over irritated skin, slowing moisture loss through the skin (transepidermal water loss). Calendula Oil and Chamomile, both present in Era Organics Superbalm, contain flavonoids and terpenoids that have been studied for their effects on cutaneous inflammation. Rash-prone skin generally benefits from consistent, gentle daily care that keeps the barrier protected and moisturized.
 
 Sunflower Oil is rich in linoleic acid, which has been studied for supporting the lipid-depleted skin barrier common in rash-prone skin. A barrier weakened by friction, moisture, or irritant exposure loses its ability to exclude environmental triggers, which deepens the inflammatory cycle. Linoleic acid is a precursor to the ceramides that hold the outer skin layer (stratum corneum) together.
 
@@ -12,7 +12,7 @@ Gluten Free Oats deliver colloidal oat compounds that bind to keratin and form a
 
 Baby rashes often signal one of two things: a skin barrier that's letting irritants through, or surface inflammation from contact with a trigger. Rashes linked to barrier breakdown tend to look dry, flaky, and thickened around the edges; those driven by irritant exposure usually present as concentrated redness and bumping where skin meets friction or moisture. Rashes that keep spreading, worsen with moisture exposure, or return in the same spots are worth raising with your pediatrician.
 
-For eczema and atopic dermatitis, Era Organics Superbalm temporarily protects the skin and helps relieve the itch and irritation. Beeswax forms a breathable occlusive layer that slows moisture loss. Sunflower Oil supplies linoleic acid, a lipid found in the outer skin layer. Calendula and Chamomile are soothing botanicals. Colloidal oat compounds bind to skin and form a thin protective film. The formula contains no synthetic dyes, fragrances, or parabens — common aggravators on sensitive baby skin.
+Beeswax forms a breathable occlusive layer that slows moisture loss. Sunflower Oil supplies linoleic acid, a lipid found in the outer skin layer. Calendula and Chamomile are soothing botanicals. Colloidal oat compounds bind to skin and form a thin protective film. The formula contains no synthetic dyes, fragrances, or parabens — common aggravators on sensitive baby skin.
 
 *Reference: [Baby Skin Condition Baby Rash](https://www.eraorganics.com/blogs/beauty-guide/baby-skin-condition-baby-rash)*
 
@@ -20,7 +20,7 @@ For eczema and atopic dermatitis, Era Organics Superbalm temporarily protects th
 
 Drool rash forms when constant saliva exposure — especially during teething — breaks down the skin barrier around the mouth, leaving it red, chafed, and sensitive. The priority is to protect the area from ongoing moisture and keep the skin comfortable.
 
-Era Organics Superbalm temporarily protects the skin and helps relieve the irritation of rashes. Beeswax creates a breathable occlusive layer that shields irritated skin from ongoing moisture exposure and slows water loss. Calendula oil and chamomile contain flavonoids and terpenoids that have been studied for soothing skin. Sunflower oil's linoleic acid helps replenish the skin lipids that friction and moisture tend to break down. Colloidal oat compounds bind to the skin surface to form a thin protective film, while cocoa butter and avocado oil soften any rough or flaky texture that develops around the rash. Vegetable glycerin helps keep skin hydrated rather than dry and taut.
+Beeswax creates a breathable occlusive layer that shields irritated skin from ongoing moisture exposure and slows water loss. Calendula oil and chamomile contain flavonoids and terpenoids that have been studied for soothing skin. Sunflower oil's linoleic acid helps replenish the skin lipids that friction and moisture tend to break down. Colloidal oat compounds bind to the skin surface to form a thin protective film, while cocoa butter and avocado oil soften any rough or flaky texture that develops around the rash. Vegetable glycerin helps keep skin hydrated rather than dry and taut.
 
 Apply a dime-sized amount to clean, dry skin around the mouth. Superbalm is fragrance-free, paraben-free, and free from synthetic dyes — common aggravators for sensitive baby skin.
 
@@ -42,7 +42,7 @@ Apply a dime-sized amount to clean, dry skin around the mouth. Superbalm is frag
 
 ## Disclaimer
 
-*Era Organics Superbalm is an over-the-counter skin protectant. It temporarily protects and helps relieve the itch and irritation of eczema and atopic dermatitis. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*Era Organics Superbalm is an over-the-counter skin protectant. It temporarily protects and helps relieve the itch and irritation of eczema. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
 
 <!-- enhance:hypochlorous-acid-spray:conditions/rashes -->
 
