@@ -33,7 +33,6 @@ Stretch marks form when dermal collagen and elastin fibers rupture under mechani
 
 ## The postpartum healing protocol
 
-### Perineal tears (vaginal delivery)
 
 
 
@@ -50,16 +49,5 @@ Pregnancy hormones cause melasma (40-70% of pregnant women), increased sensitivi
 4. Mineral sunscreen (melasma worsens with UV — strict sun protection)
 
 
-## Comparison table
 
-| Factor | Era Organics (full stack) | Bio-Oil | Palmer's Cocoa Butter | Lansinoh (nipple) | Aquaphor Baby |
-|---|---|---|---|---|---|
-| **Petroleum-free** | — | — | — | — | — |
-| **Fragrance-free** | — | — | — | — | — |
-| **Lanolin-free** | — | — | — | — | — |
-| **Safe without removal (nursing)** | — | — | — | — | — |
-| **Multi-site coverage** | — | — | — | — | — |
-| **Antimicrobial (wound healing)** | — | — | — | — | — |
-| **Active healing compounds** | — | — | — | — | — |
-| **Organic ingredients** | — | — | — | — | — |
 
