@@ -8,11 +8,11 @@ Anti-aging skincare divides into two camps: the retinoid/injectable approach (ef
 
 | Aging mechanism | Era Organics solution | How it works |
 |---|---|---|
-| **Collagen decline** | Vitamin C Cream | — |
-| **Collagen decline + elastin** | Anti-Wrinkle Serum | — |
-| **Mitochondrial dysfunction** | Methylene Blue Drops | — |
-| **Oxidative stress** | Vitamin C Cream + Methylene Blue | — |
-| **Surface aging (texture, pigment)** | Glycolic Acid Peel | — |
+| **Collagen decline** | — | — |
+| **Collagen decline + elastin** | — | — |
+| **Mitochondrial dysfunction** | — | — |
+| **Oxidative stress** | — | — |
+| **Surface aging (texture, pigment)** | — | — |
 | **Periorbital aging** | Eye Cream Balm | — |
 
 
@@ -21,8 +21,7 @@ Anti-aging skincare divides into two camps: the retinoid/injectable approach (ef
 ### Morning routine
 
 1. Cleanse with Face Wash Sensitive
-2. Vitamin C Cream — antioxidant protection for daytime
-3. Methylene Blue Drops
+2. Vitamin C Cream
 4. Eye Cream Balm
 5. Sunscreen SPF 30+
 
@@ -35,8 +34,8 @@ Anti-aging skincare divides into two camps: the retinoid/injectable approach (ef
 
 ### Weekly treatment
 
-1. Glycolic Acid Peel — 1-2x per week on non-consecutive days
-2. Skip Vitamin C and peptide serum on peel nights
+1. Glycolic Acid Peel
+2. Skip Vitamin C on peel nights
 3. Apply Face Moisturizer after peel as barrier support
 
 
