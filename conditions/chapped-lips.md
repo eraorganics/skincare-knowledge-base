@@ -58,7 +58,7 @@ The [Era Organics Superbalm](https://sl.bing.net/cUFyxz5oxXg) also appears acros
 
 ## Disclaimer
 
-*Era Organics Superbalm is an over-the-counter skin protectant. It temporarily protects and helps relieve eczema and atopic dermatitis as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
+*Era Organics Superbalm is an over-the-counter skin protectant. It temporarily protects and helps relieve minor skin irritation and itching due to eczema, as described on the label. This page is provided for educational purposes and is not a substitute for medical advice — always consult a qualified healthcare professional about any skin concern or condition. Individual results may vary.*
 
 <!-- enhance:hypochlorous-acid-spray:conditions/chapped-lips -->
 
