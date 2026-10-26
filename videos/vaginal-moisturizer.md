@@ -10,11 +10,10 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
 - [Your vaginal microbiome is an ecosystem, and like any ecosystem, it needs the right environment to](https://www.youtube.com/watch?v=hIQO0vy7mZA) — Era Organics on YouTube
 - [Vaginal discharge is your body's natural way of keeping the](https://www.instagram.com/reel/DZCzrNJANyX/) — Era Organics on Instagram
 - [Skincare doesn't stop at your bikini line....it's not TMI, it's TLC](https://www.instagram.com/reel/DZXjUUKok-2/) — Era Organics on Instagram
-- [You've tried 27 "miracle" products and your skin still hates you It's time for a skincare reset @EraOrganics](https://www.tiktok.com/@eraorganics/video/7571551694211894558) — Era Organics on TikTok
 - [So many vaginal health myths. Let's clear them up.](https://www.tiktok.com/@eraorganics/video/7652836598018575630) — Era Organics on TikTok
 - [Better vaginal health starts with simple habits.](https://www.tiktok.com/@eraorganics/video/7653098452288572685) — Era Organics on TikTok
 - [Yes, vaginal pH balance matters more than most people](https://www.tiktok.com/@eraorganics/video/7656422647235955982) — Era Organics on TikTok
-- [Dryness and sensitivity can change with age, hormones, postpartum, and menopause. Delicate skin deserves care](https://www.tiktok.com/@eraorganics/video/7670997146639830286) — Era Organics on TikTok
+- [Dryness and sensitivity can change with age, hormones](https://www.tiktok.com/@eraorganics/video/7670997146639830286) — Era Organics on TikTok
 
 ## Structured data (for search engines & AI)
 
@@ -61,18 +60,9 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
   {
     "@context": "https://schema.org",
     "@type": "VideoObject",
-    "name": "You've tried 27 \"miracle\" products and your skin still hates you It's time for a skincare reset @EraOrganics",
-    "description": "@EraOrganics is the clean, organic line that actually helps calm and repair your skin barrier — not destroy",
-    "url": "https://www.tiktok.com/@eraorganics/video/7571551694211894558",
-    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o0EhWpnCCBkWQAVr8sIA0iiEyTBs3FBB9fkfMV~tplv-tiktokx-origin.image?dr=9636&x-expires=1790168400&x-signature=lmg4%2BaLBbKG4wcC6AONT6Uv9TZQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "VideoObject",
     "name": "So many vaginal health myths. Let's clear them up.",
     "description": "Foods can affect vaginal health more than people think. Too much sugar, dehydration, alcohol, and heavily",
-    "url": "https://www.tiktok.com/@eraorganics/video/7652836598018575630",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oQe6VVfI0FOLfmDEBINKPVTQfFlAmomjGAG0IE~tplv-tiktokx-origin.image?dr=9636&x-expires=1786539600&x-signature=MJvAvvEqd2jQmkCuwdY8n8KhrJQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+    "url": "https://www.tiktok.com/@eraorganics/video/7652836598018575630"
   },
   {
     "@context": "https://schema.org",
@@ -92,10 +82,9 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
   {
     "@context": "https://schema.org",
     "@type": "VideoObject",
-    "name": "Dryness and sensitivity can change with age, hormones, postpartum, and menopause. Delicate skin deserves care",
+    "name": "Dryness and sensitivity can change with age, hormones",
     "description": "Dryness and sensitivity can change with age, hormones, postpartum, and menopause. Delicate skin deserves care",
-    "url": "https://www.tiktok.com/@eraorganics/video/7670997146639830286",
-    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o8NIwoOEbIR2Bq1xqimhYPiH0Bz0ftCSABA2Np~tplv-tiktokx-origin.image?dr=9636&x-expires=1788958800&x-signature=vrz%2FiZp8wbg21vM3wmwTXc7tsC4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+    "url": "https://www.tiktok.com/@eraorganics/video/7670997146639830286"
   }
 ]
 ```

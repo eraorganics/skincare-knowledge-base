@@ -15,16 +15,17 @@ See the full [Era Organics Superbalm](/products/baby-eczema-superbalm) product p
 - [Gentle care starts at the scalp Cradle cap is common—but with the right steps, you can help](https://www.youtube.com/watch?v=H078vZqC3CY) — Era Organics on YouTube
 - [How do you get rid of cradle cap?](https://www.youtube.com/watch?v=KWxR69F_8kY) — Era Organics on YouTube
 - [Natural & Organic Skincare on Instagram: "your babies](https://www.instagram.com/reel/C4tNuOhu9aR/) — Era Organics on Instagram
-- [Era Organics Super Balm Let's see if](https://www.instagram.com/reel/DFk6Fl4JoNW/) — Era Organics on Instagram
+- [Era Organics Super Balm Let's see if this super balm is really](https://www.instagram.com/reel/DFk6Fl4JoNW/) — Era Organics on Instagram
 - [Anyone else playing skincare roulette with their babies? I](https://www.instagram.com/reel/DSTLpgmkgyd/) — Era Organics on Instagram
 - [Baby skincare that actually makes my life easier From messy](https://www.instagram.com/reel/DYzwDtjqoFf/) — Era Organics on Instagram
 - [Love seeing our products help with cradle cap!](https://www.tiktok.com/@eraorganics/video/7261066120030031150) — Era Organics on TikTok
 - [Gentle care starts at the scalp Cradle cap is common—but with the right steps, you can help prevent it or](https://www.tiktok.com/@eraorganics/video/7515163308392008990) — Era Organics on TikTok
 - [Cradle cap? Not in our house. This is your sign to try Calendula Cream + Superbalm from @eraorganics Soothes.](https://www.tiktok.com/@eraorganics/video/7516989074461199646) — Era Organics on TikTok
-- [Real moms, real results. If your baby struggles with eczema, this gentle balm is changing everything for](https://www.tiktok.com/@eraorganics/video/7562172634071338271) — Era Organics on TikTok
+- [3 days in and the rash is still there? Let's talk Diaper rash shoul](https://www.tiktok.com/@eraorganics/video/7529924546132987167) — Era Organics on TikTok
+- [It's more than just irritation—diaper rash *hurts*. Plastic diapers tr](https://www.tiktok.com/@eraorganics/video/7530695001014029599) — Era Organics on TikTok
+- [Real moms, real results. If your baby struggles with](https://www.tiktok.com/@eraorganics/video/7562172634071338271) — Era Organics on TikTok
 - [I almost used steroids… until Superbalm. Baby eczema is HARD. Finding something gentle that actually helps?](https://www.tiktok.com/@eraorganics/video/7585014984514587934) — Era Organics on TikTok
-- [If cradle cap keeps coming back, start here. These 5 steps can help stop it from forming and keep your baby's](https://www.tiktok.com/@eraorganics/video/7626103223409003807) — Era Organics on TikTok
-- [Five years, one product they keep coming back to. This sweet review is from a mom who has used our Super Balm](https://www.tiktok.com/@eraorganics/video/7673560317007318303) — Era Organics on TikTok
+- [Super Balm: A Mom's 5-Year Review for Baby Eczema &](https://www.tiktok.com/@eraorganics/video/7673560317007318303) — Era Organics on TikTok
 - [Gentle care starts at the scalp Cradle cap is common](https://www.tiktok.com/@eraorganics/video/7683606351985003790) — Era Organics on TikTok
 
 ## Structured data (for search engines & AI)
@@ -116,7 +117,7 @@ See the full [Era Organics Superbalm](/products/baby-eczema-superbalm) product p
   {
     "@context": "https://schema.org",
     "@type": "SocialMediaPosting",
-    "headline": "Era Organics Super Balm Let's see if",
+    "headline": "Era Organics Super Balm Let's see if this super balm is really",
     "url": "https://www.instagram.com/reel/DFk6Fl4JoNW/",
     "author": {
       "@type": "Organization",
@@ -169,10 +170,23 @@ See the full [Era Organics Superbalm](/products/baby-eczema-superbalm) product p
   {
     "@context": "https://schema.org",
     "@type": "VideoObject",
-    "name": "Real moms, real results. If your baby struggles with eczema, this gentle balm is changing everything for",
+    "name": "3 days in and the rash is still there? Let's talk Diaper rash shoul",
+    "description": "3 days in and the rash is still there? Let's talk Diaper rash should start to clear with the right care. If",
+    "url": "https://www.tiktok.com/@eraorganics/video/7529924546132987167"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "It's more than just irritation—diaper rash *hurts*. Plastic diapers tr",
+    "description": "It's more than just irritation—diaper rash *hurts*. Plastic diapers trap moisture and cause friction, leading",
+    "url": "https://www.tiktok.com/@eraorganics/video/7530695001014029599"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "Real moms, real results. If your baby struggles with",
     "description": "Real moms, real results. If your baby struggles with eczema, this gentle balm is changing everything for",
-    "url": "https://www.tiktok.com/@eraorganics/video/7562172634071338271",
-    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oARiVH6CshBIPB9WiFPs1ayWT7IARAEPyAIXG~tplv-tiktokx-dmt-logom:tos-useast8-i-0068-tx2/oYAI59AyeAQglfPzAGGj8fJc7IQULRAFCOAgeH.image?dr=9634&x-expires=1791982800&x-signature=75onZLfY3WQWUgI7L0YDylbtoCQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+    "url": "https://www.tiktok.com/@eraorganics/video/7562172634071338271"
   },
   {
     "@context": "https://schema.org",
@@ -185,18 +199,9 @@ See the full [Era Organics Superbalm](/products/baby-eczema-superbalm) product p
   {
     "@context": "https://schema.org",
     "@type": "VideoObject",
-    "name": "If cradle cap keeps coming back, start here. These 5 steps can help stop it from forming and keep your baby's",
-    "description": "Three gentle techniques to try: 1) The Gentle Rock - Position: Keep baby in the same side-lying alignment",
-    "url": "https://www.tiktok.com/@eraorganics/video/7626103223409003807",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/ooy1DflEEEbVIIXO0ApAFCmVEwRVAA4fDESAYJ~tplv-tiktokx-dmt-logom:tos-useast8-i-0068-tx2/o4EREUQqoGfVAIDJCAfgF4AVAyIvQAdDEV1puE.image?dr=9634&x-expires=1789563600&x-signature=j5Mo3lOhKFYhtyJ%2FbUGKGz9a8GY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "VideoObject",
-    "name": "Five years, one product they keep coming back to. This sweet review is from a mom who has used our Super Balm",
+    "name": "Super Balm: A Mom's 5-Year Review for Baby Eczema &",
     "description": "This sweet review is from a mom who has used our Super Balm on her son for cradle cap, eczema, itchiness",
-    "url": "https://www.tiktok.com/@eraorganics/video/7673560317007318303",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/okU7QafDUEeGWlpJh9hhBeOf9JcApEXAFAAFIA~tplv-tiktokx-origin.image?dr=9636&x-expires=1791982800&x-signature=HHKCY0uupymvwSy0M5pg4gE1gcU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8"
+    "url": "https://www.tiktok.com/@eraorganics/video/7673560317007318303"
   },
   {
     "@context": "https://schema.org",
