@@ -148,7 +148,7 @@ See the full [Era Organics Superbalm](/products/baby-eczema-superbalm) product p
     "@context": "https://schema.org",
     "@type": "VideoObject",
     "name": "Love seeing our products help with cradle cap!",
-    "description": "Love seeing our products help with cradle cap! These products helped clear it up in less than a week. Run.",
+    "description": "I thought that this was baby acne on her face and ears, but it was cradle cap. It was all over her scalp.",
     "url": "https://www.tiktok.com/@eraorganics/video/7261066120030031150"
   },
   {
