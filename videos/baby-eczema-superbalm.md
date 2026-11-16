@@ -26,7 +26,7 @@ See the full [Era Organics Superbalm](/products/baby-eczema-superbalm) product p
 - [Real moms, real results. If your baby struggles with](https://www.tiktok.com/@eraorganics/video/7562172634071338271) — Era Organics on TikTok
 - [I almost used steroids… until Superbalm. Baby eczema is HARD. Finding something gentle that actually helps?](https://www.tiktok.com/@eraorganics/video/7585014984514587934) — Era Organics on TikTok
 - [Super Balm: A Mom's 5-Year Review for Baby Eczema &](https://www.tiktok.com/@eraorganics/video/7673560317007318303) — Era Organics on TikTok
-- [Gentle care starts at the scalp Cradle cap is common](https://www.tiktok.com/@eraorganics/video/7683606351985003790) — Era Organics on TikTok
+- [Gentle care starts at the scalp Cradle cap is common—but with](https://www.tiktok.com/@eraorganics/video/7683606351985003790) — Era Organics on TikTok
 
 ## Structured data (for search engines & AI)
 
@@ -206,7 +206,7 @@ See the full [Era Organics Superbalm](/products/baby-eczema-superbalm) product p
   {
     "@context": "https://schema.org",
     "@type": "VideoObject",
-    "name": "Gentle care starts at the scalp Cradle cap is common",
+    "name": "Gentle care starts at the scalp Cradle cap is common—but with",
     "description": "Tips for prevention: Gently wash baby's scalp daily with a mild baby shampoo Use a soft brush to loosen dry",
     "url": "https://www.tiktok.com/@eraorganics/video/7683606351985003790"
   }

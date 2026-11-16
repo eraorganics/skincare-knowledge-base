@@ -15,10 +15,10 @@ Era Organics brand and general skincare videos not tied to a single product.
 - [You've tried 27 "miracle" products and your skin still hates](https://www.tiktok.com/@eraorganics/video/7571551694211894558) — Era Organics on TikTok
 - [What makes methylene blue more than a dye? Scientists have](https://www.tiktok.com/@eraorganics/video/7582743872103795998?lang=tr-TR) — Era Organics on TikTok
 - [Our Glycolic Mask is now 40% OFF for a limited time. Use](https://www.tiktok.com/@eraorganics/video/7615932374492220702) — Era Organics on TikTok
-- [This is easily one of our most controversial products](https://www.tiktok.com/@eraorganics/video/7623186766740131103) — Era Organics on TikTok
 - [Originally used as a fabric dye, Methylene Blue has come a long way. Now it's known for its connection to](https://www.tiktok.com/@eraorganics/video/7629778822505696542) — Era Organics on TikTok
 - [If you've been curious about methylene blue for energy](https://www.tiktok.com/@eraorganics/video/7630848024368925966) — Era Organics on TikTok
 - [New Packaging for Era Organics Baby Powder](https://www.tiktok.com/@eraorganics/video/7631667388001340703) — Era Organics on TikTok
+- [Post workout. Post shave. Post sun. Even for odor and everyday](https://www.tiktok.com/@eraorganics/video/7633817486290472223) — Era Organics on TikTok
 - [I made my own skincare products with one goal in mind: create formulas that actually work for your skin. Tap](https://www.tiktok.com/@eraorganics/video/7642677954304036109) — Era Organics on TikTok
 - [Less is more. Gentle cleansing, breathable fabrics, and the right](https://www.tiktok.com/@eraorganics/video/7670202487294446861) — Era Organics on TikTok
 - [Skip douching and perfumed sprays. Choose hydration, breathable fabrics, and gentle care that supports your](https://www.tiktok.com/@eraorganics/video/7670574368333761806) — Era Organics on TikTok
@@ -120,13 +120,6 @@ Era Organics brand and general skincare videos not tied to a single product.
   {
     "@context": "https://schema.org",
     "@type": "VideoObject",
-    "name": "This is easily one of our most controversial products",
-    "description": "The day Supreme showed food aggression, it was serious and I understand why that raised public safety",
-    "url": "https://www.tiktok.com/@eraorganics/video/7623186766740131103"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "VideoObject",
     "name": "Originally used as a fabric dye, Methylene Blue has come a long way. Now it's known for its connection to",
     "description": "Originally used as a fabric dye, Methylene Blue has come a long way. Now it's known for its connection to",
     "url": "https://www.tiktok.com/@eraorganics/video/7629778822505696542",
@@ -145,6 +138,13 @@ Era Organics brand and general skincare videos not tied to a single product.
     "name": "New Packaging for Era Organics Baby Powder",
     "description": "Takeaway The factory process for baby milk powder brings together careful quality control, precise",
     "url": "https://www.tiktok.com/@eraorganics/video/7631667388001340703"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "Post workout. Post shave. Post sun. Even for odor and everyday",
+    "description": "NOW Sports L-Arginine 1000mg is used to support nitric oxide production, healthy blood flow, stronger muscle",
+    "url": "https://www.tiktok.com/@eraorganics/video/7633817486290472223"
   },
   {
     "@context": "https://schema.org",

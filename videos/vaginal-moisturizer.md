@@ -10,6 +10,7 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
 - [Your vaginal microbiome is an ecosystem, and like any ecosystem, it needs the right environment to](https://www.youtube.com/watch?v=hIQO0vy7mZA) — Era Organics on YouTube
 - [Vaginal discharge is your body's natural way of keeping the](https://www.instagram.com/reel/DZCzrNJANyX/) — Era Organics on Instagram
 - [Skincare doesn't stop at your bikini line....it's not TMI, it's TLC](https://www.instagram.com/reel/DZXjUUKok-2/) — Era Organics on Instagram
+- [This is easily one of our most controversial products Methylene](https://www.tiktok.com/@eraorganics/video/7623186766740131103) — Era Organics on TikTok
 - [So many vaginal health myths. Let's clear them up.](https://www.tiktok.com/@eraorganics/video/7652836598018575630) — Era Organics on TikTok
 - [Better vaginal health starts with simple habits.](https://www.tiktok.com/@eraorganics/video/7653098452288572685) — Era Organics on TikTok
 - [Yes, vaginal pH balance matters more than most people](https://www.tiktok.com/@eraorganics/video/7656422647235955982) — Era Organics on TikTok
@@ -56,6 +57,13 @@ See the full [Era Organics Vaginal Moisturizer](/products/vaginal-moisturizer) p
       "@type": "Organization",
       "name": "Era Organics"
     }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "This is easily one of our most controversial products Methylene",
+    "description": "Harmony Balm is formulated to offer a solution for these concerns, providing extended hydration. Its key",
+    "url": "https://www.tiktok.com/@eraorganics/video/7623186766740131103"
   },
   {
     "@context": "https://schema.org",

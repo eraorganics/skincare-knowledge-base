@@ -14,12 +14,12 @@ See the full [Era Organics Hypochlorous Acid Spray](/products/hypochlorous-acid-
 - [Try the viral spray for yourself and see why everyone's](https://www.instagram.com/reel/DXz2Q93gHpp/) — Era Organics on Instagram
 - [The face mist that's earned a permanent spot in your bag](https://www.instagram.com/reel/DZFjL4LuV18/) — Era Organics on Instagram
 - [Acne and Milia be gone .](https://www.tiktok.com/@eraorganics/video/6960072936267058438) — Era Organics on TikTok
-- [Bacne and chips? Yep, there's a connection. Diets high in](https://www.tiktok.com/@eraorganics/video/7522471048252624159) — Era Organics on TikTok
+- [Bacne and chips? Yep, there's a connection. Diets high in sugar](https://www.tiktok.com/@eraorganics/video/7522471048252624159) — Era Organics on TikTok
 - [Hypochlorous acid great for most skin… But not for: Deep cuts or broken skin Allergic reactions If your derm](https://www.tiktok.com/@eraorganics/video/7535938799923203359) — Era Organics on TikTok
 - [If your skincare doesn't have HOCL, you're missing out Era Organics' Hypochlorous Acid Spray = clear, calm](https://www.tiktok.com/@eraorganics/video/7550859380128763166) — Era Organics on TikTok
 - [If cradle cap keeps coming back, start here. These 5 steps can](https://www.tiktok.com/@eraorganics/video/7626103223409003807) — Era Organics on TikTok
 - [The cleansers I use depending on the day. Sometimes I just need a basic cleanser and sometimes I need](https://www.tiktok.com/@eraorganics/video/7628708038496537886) — Era Organics on TikTok
-- [If your skin deals with eczema or rosacea flare-ups, hypochlorous acid is a gentle spray step worth keeping](https://www.tiktok.com/@eraorganics/video/7641560978638884109) — Era Organics on TikTok
+- [Benefits of Hypochlorous Acid for Eczema and Rosacea](https://www.tiktok.com/@eraorganics/video/7641560978638884109) — Era Organics on TikTok
 - [A disinfecting spray for your body that your skin already](https://www.tiktok.com/@eraorganics/video/7649365190701567245) — Era Organics on TikTok
 - [Healthy pH. Healthy flora. Better balance.](https://www.tiktok.com/@eraorganics/video/7650660891981073678) — Era Organics on TikTok
 - [POV: you bought HOCl for one thing and now you use it](https://www.tiktok.com/@eraorganics/video/7688037868945575181) — Era Organics on TikTok
@@ -100,14 +100,14 @@ See the full [Era Organics Hypochlorous Acid Spray](/products/hypochlorous-acid-
     "@context": "https://schema.org",
     "@type": "VideoObject",
     "name": "Acne and Milia be gone .",
-    "description": "Acne and Milia be gone .",
+    "description": "118 Likes, TikTok video from Era Organics (@eraorganics): \"Acne and Milia be gone .",
     "url": "https://www.tiktok.com/@eraorganics/video/6960072936267058438"
   },
   {
     "@context": "https://schema.org",
     "@type": "VideoObject",
-    "name": "Bacne and chips? Yep, there's a connection. Diets high in",
-    "description": "Diets high in sugar, dairy, and processed food can make breakouts worse by triggering excess oil +",
+    "name": "Bacne and chips? Yep, there's a connection. Diets high in sugar",
+    "description": "Bacne and chips? Yep, there's a connection. Diets high in sugar, dairy, and processed food can make breakouts",
     "url": "https://www.tiktok.com/@eraorganics/video/7522471048252624159"
   },
   {
@@ -144,10 +144,9 @@ See the full [Era Organics Hypochlorous Acid Spray](/products/hypochlorous-acid-
   {
     "@context": "https://schema.org",
     "@type": "VideoObject",
-    "name": "If your skin deals with eczema or rosacea flare-ups, hypochlorous acid is a gentle spray step worth keeping",
+    "name": "Benefits of Hypochlorous Acid for Eczema and Rosacea",
     "description": "Incorporating hypochlorous acid into your skincare routine can provide significant relief by helping to",
-    "url": "https://www.tiktok.com/@eraorganics/video/7641560978638884109",
-    "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/os6mgvHCX2dBiMUBVEgBaM3AUz3I4bPBiRK1x~tplv-tiktokx-origin.image?dr=9636&x-expires=1790773200&x-signature=Fh8cuxgH6vde3CR6ARizQ5glzQM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+    "url": "https://www.tiktok.com/@eraorganics/video/7641560978638884109"
   },
   {
     "@context": "https://schema.org",
@@ -168,7 +167,7 @@ See the full [Era Organics Hypochlorous Acid Spray](/products/hypochlorous-acid-
     "@context": "https://schema.org",
     "@type": "VideoObject",
     "name": "POV: you bought HOCl for one thing and now you use it",
-    "description": "HOCl is basically the \"keep this in your bag at all times\" product. Gentle, simple, and ridiculously",
+    "description": "POV: you bought HOCl for one thing and now you use it for EVERYTHING. Post-workout skin? Spray it. Feeling",
     "url": "https://www.tiktok.com/@eraorganics/video/7688037868945575181"
   }
 ]
