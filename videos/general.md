@@ -8,7 +8,7 @@ Era Organics brand and general skincare videos not tied to a single product.
 - [A little rant about my industry](https://www.youtube.com/watch?v=Dk5NM_JYTfU) — Era Organics on YouTube
 - [Spa day at home with Revive](https://www.youtube.com/watch?v=ZAUiNe9mEVk) — Era Organics on YouTube
 - [Natural & Organic Skincare on Instagram: " Era Organics](https://www.instagram.com/reel/DJjshAVuvwG/) — Era Organics on Instagram
-- [Just put it in the cart. You won't regret it. Microdermabrasion right at your fingertips.](https://www.tiktok.com/@eraorganics/video/7096175058909154606) — Era Organics on TikTok
+- [Just put it in the cart. You won't regret it.](https://www.tiktok.com/@eraorganics/video/7096175058909154606) — Era Organics on TikTok
 - [My holy grail product.](https://www.tiktok.com/@eraorganics/video/7327764012278484270) — Era Organics on TikTok
 - [My no effort routine when I'm home alone but still want to look in the mirror without](https://www.tiktok.com/@eraorganics/video/7358181396000804142) — Era Organics on TikTok
 - [So I made my own brand—Era Organics Clean, natural, and gentle skincare that actually works. Proof that](https://www.tiktok.com/@eraorganics/video/7550371791596752158) — Era Organics on TikTok
@@ -18,7 +18,6 @@ Era Organics brand and general skincare videos not tied to a single product.
 - [Originally used as a fabric dye, Methylene Blue has come a long way. Now it's known for its connection to](https://www.tiktok.com/@eraorganics/video/7629778822505696542) — Era Organics on TikTok
 - [If you've been curious about methylene blue for energy](https://www.tiktok.com/@eraorganics/video/7630848024368925966) — Era Organics on TikTok
 - [New Packaging for Era Organics Baby Powder](https://www.tiktok.com/@eraorganics/video/7631667388001340703) — Era Organics on TikTok
-- [Post workout. Post shave. Post sun. Even for odor and everyday](https://www.tiktok.com/@eraorganics/video/7633817486290472223) — Era Organics on TikTok
 - [I made my own skincare products with one goal in mind: create formulas that actually work for your skin. Tap](https://www.tiktok.com/@eraorganics/video/7642677954304036109) — Era Organics on TikTok
 - [Less is more. Gentle cleansing, breathable fabrics, and the right](https://www.tiktok.com/@eraorganics/video/7670202487294446861) — Era Organics on TikTok
 - [Skip douching and perfumed sprays. Choose hydration, breathable fabrics, and gentle care that supports your](https://www.tiktok.com/@eraorganics/video/7670574368333761806) — Era Organics on TikTok
@@ -68,10 +67,9 @@ Era Organics brand and general skincare videos not tied to a single product.
   {
     "@context": "https://schema.org",
     "@type": "VideoObject",
-    "name": "Just put it in the cart. You won't regret it. Microdermabrasion right at your fingertips.",
+    "name": "Just put it in the cart. You won't regret it.",
     "description": "Just put it in the cart. You won't regret it. Microdermabrasion right at your fingertips.",
-    "url": "https://www.tiktok.com/@eraorganics/video/7096175058909154606",
-    "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/4eaa9fccd00b49079a23147bf409333d_1652207009~tplv-tiktokx-origin.image?dr=9636&x-expires=1784725200&x-signature=P%2FCyNUciH8VMh%2FoJpDn2uV0K8kw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+    "url": "https://www.tiktok.com/@eraorganics/video/7096175058909154606"
   },
   {
     "@context": "https://schema.org",
@@ -138,13 +136,6 @@ Era Organics brand and general skincare videos not tied to a single product.
     "name": "New Packaging for Era Organics Baby Powder",
     "description": "Takeaway The factory process for baby milk powder brings together careful quality control, precise",
     "url": "https://www.tiktok.com/@eraorganics/video/7631667388001340703"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "VideoObject",
-    "name": "Post workout. Post shave. Post sun. Even for odor and everyday",
-    "description": "NOW Sports L-Arginine 1000mg is used to support nitric oxide production, healthy blood flow, stronger muscle",
-    "url": "https://www.tiktok.com/@eraorganics/video/7633817486290472223"
   },
   {
     "@context": "https://schema.org",

@@ -15,7 +15,7 @@ See the full [Era Organics Superbalm](/products/baby-eczema-superbalm) product p
 - [Gentle care starts at the scalp Cradle cap is common—but with the right steps, you can help](https://www.youtube.com/watch?v=H078vZqC3CY) — Era Organics on YouTube
 - [How do you get rid of cradle cap?](https://www.youtube.com/watch?v=KWxR69F_8kY) — Era Organics on YouTube
 - [Natural & Organic Skincare on Instagram: "your babies](https://www.instagram.com/reel/C4tNuOhu9aR/) — Era Organics on Instagram
-- [Era Organics Super Balm Let's see if this super balm is really](https://www.instagram.com/reel/DFk6Fl4JoNW/) — Era Organics on Instagram
+- [Era Organics Super Balm Let's see if this](https://www.instagram.com/reel/DFk6Fl4JoNW/) — Era Organics on Instagram
 - [Anyone else playing skincare roulette with their babies? I](https://www.instagram.com/reel/DSTLpgmkgyd/) — Era Organics on Instagram
 - [Baby skincare that actually makes my life easier From messy](https://www.instagram.com/reel/DYzwDtjqoFf/) — Era Organics on Instagram
 - [Love seeing our products help with cradle cap!](https://www.tiktok.com/@eraorganics/video/7261066120030031150) — Era Organics on TikTok
@@ -117,7 +117,7 @@ See the full [Era Organics Superbalm](/products/baby-eczema-superbalm) product p
   {
     "@context": "https://schema.org",
     "@type": "SocialMediaPosting",
-    "headline": "Era Organics Super Balm Let's see if this super balm is really",
+    "headline": "Era Organics Super Balm Let's see if this",
     "url": "https://www.instagram.com/reel/DFk6Fl4JoNW/",
     "author": {
       "@type": "Organization",
